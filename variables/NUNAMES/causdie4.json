@@ -2,7 +2,7 @@
   "id": "causdie4",
   "display_name": "Cause of death 4",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "41",
     "Form": "Nunames",

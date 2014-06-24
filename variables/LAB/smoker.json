@@ -2,7 +2,7 @@
   "id": "smoker",
   "display_name": "Smoker status",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": null,
     "Form": "Lab dataset",

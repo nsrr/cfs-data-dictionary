@@ -2,7 +2,7 @@
   "id": "icdcode4",
   "display_name": "Numeric code for cause of death 4",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "34",
     "Form": "OLDNAMES",

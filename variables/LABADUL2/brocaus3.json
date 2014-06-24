@@ -2,7 +2,7 @@
   "id": "brocaus3",
   "display_name": "80 cod bro 3",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "393",
     "Form": "LABADUL2",

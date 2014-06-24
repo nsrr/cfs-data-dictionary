@@ -2,7 +2,7 @@
   "id": "location",
   "display_name": "Specimen: location of sample",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "4",
     "Form": "Specimen Date (Bloods and Cephs)",

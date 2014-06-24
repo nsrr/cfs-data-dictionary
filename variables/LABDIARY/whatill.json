@@ -2,7 +2,7 @@
   "id": "whatill",
   "display_name": "PreSleep: Specify what illness today/past two weeks",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "35",
     "Form": "Pre-Sleep Questionnaire",

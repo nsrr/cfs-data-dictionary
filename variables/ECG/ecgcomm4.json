@@ -2,7 +2,7 @@
   "id": "ecgcomm4",
   "display_name": "ECG: Comments 4",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "192",
     "Form": "ECG",

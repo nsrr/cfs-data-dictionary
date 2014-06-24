@@ -2,7 +2,7 @@
   "id": "brcomm",
   "display_name": "BracReac: comments 1",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "16",
     "Form": "Brachial Artery Vasoactivity Worksheet",

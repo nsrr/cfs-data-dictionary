@@ -2,7 +2,7 @@
   "id": "speccom",
   "display_name": "Specimen: Comments on specimen",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "15",
     "Form": "Specimen Date (Bloods and Cephs)",

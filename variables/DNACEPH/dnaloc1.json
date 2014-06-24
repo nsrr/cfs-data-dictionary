@@ -2,7 +2,7 @@
   "id": "dnaloc1",
   "display_name": "DNA1: sample location",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "5",
     "Form": "DNA/CEPH",

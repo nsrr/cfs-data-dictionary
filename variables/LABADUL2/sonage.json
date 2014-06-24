@@ -2,7 +2,7 @@
   "id": "sonage",
   "display_name": "82 Ages of living sons",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "471",
     "Form": "LABADUL2",

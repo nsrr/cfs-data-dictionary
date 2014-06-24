@@ -2,7 +2,7 @@
   "id": "txother",
   "display_name": "other type of treatment for sleep apnea",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "18",
     "Form": "In Lab Physio",

@@ -2,7 +2,7 @@
   "id": "yourvita",
   "display_name": "74 Mult Vit: specify",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "255",
     "Form": "LABADUL1",

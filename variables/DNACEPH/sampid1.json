@@ -2,7 +2,7 @@
   "id": "sampid1",
   "display_name": "DNA1: Sample id number",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "17",
     "Form": "DNA/CEPH",

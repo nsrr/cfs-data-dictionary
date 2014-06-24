@@ -2,7 +2,7 @@
   "id": "origin",
   "display_name": "Specimen: where the sample came from",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "10",
     "Form": "Specimen Date (Bloods and Cephs)",

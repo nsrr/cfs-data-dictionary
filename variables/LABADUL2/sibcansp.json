@@ -2,7 +2,7 @@
   "id": "sibcansp",
   "display_name": "81 specify kind of cancer",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "436",
     "Form": "LABADUL2",

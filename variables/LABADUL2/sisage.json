@@ -2,7 +2,7 @@
   "id": "sisage",
   "display_name": "80 Ages of living sisters",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "387",
     "Form": "LABADUL2",

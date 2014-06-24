@@ -2,7 +2,7 @@
   "id": "howafct",
   "display_name": "FOSQ: How relationships affected 1",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "83",
     "Form": "FOSQ (Functional Outcomes of Sleep Questionnaire)",

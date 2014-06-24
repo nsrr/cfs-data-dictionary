@@ -2,7 +2,7 @@
   "id": "diffname",
   "display_name": "114 other contact",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "838",
     "Form": "LABADUL3",

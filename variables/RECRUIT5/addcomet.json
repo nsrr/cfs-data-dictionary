@@ -2,7 +2,7 @@
   "id": "addcomet",
   "display_name": "Additional comments",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "12",
     "Form": "Follow-up Recruiting",

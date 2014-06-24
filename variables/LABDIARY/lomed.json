@@ -2,7 +2,7 @@
   "id": "lomed",
   "display_name": "PreSleep: Specify other med today",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "33",
     "Form": "Pre-Sleep Questionnaire",

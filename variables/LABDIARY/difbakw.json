@@ -2,7 +2,7 @@
   "id": "difbakw",
   "display_name": "PostSleep: Why have difficulty falling back asleep",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "43",
     "Form": "Post-Sleep Questionnaire",

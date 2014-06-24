@@ -2,7 +2,7 @@
   "id": "whenwhe",
   "display_name": "99 when+where surgery for snore/sleep apnea",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "816",
     "Form": "LABADUL3",

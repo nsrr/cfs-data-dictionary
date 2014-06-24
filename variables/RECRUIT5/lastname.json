@@ -2,7 +2,7 @@
   "id": "lastname",
   "display_name": "Last Name of subject",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "5",
     "Form": "Follow-up Recruiting",

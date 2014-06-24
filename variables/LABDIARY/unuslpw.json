@@ -2,7 +2,7 @@
   "id": "unuslpw",
   "display_name": "PostSleep: What disturbed sleep",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "54",
     "Form": "Post-Sleep Questionnaire",

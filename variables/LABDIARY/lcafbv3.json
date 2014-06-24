@@ -2,7 +2,7 @@
   "id": "lcafbv3",
   "display_name": "PreSleep: Caff Beverage 3",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "12",
     "Form": "Pre-Sleep Questionnaire",

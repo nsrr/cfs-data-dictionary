@@ -2,7 +2,7 @@
   "id": "serloc2",
   "display_name": "DNA2: Serum sample location",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "26",
     "Form": "DNA/CEPH",

@@ -2,7 +2,7 @@
   "id": "icdcode3",
   "display_name": "Reason for death 3 (icd9code)",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "38",
     "Form": "Nunames",

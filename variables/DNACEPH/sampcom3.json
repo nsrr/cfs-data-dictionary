@@ -2,7 +2,7 @@
   "id": "sampcom3",
   "display_name": "CWRU Sample 3: Comments",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "58",
     "Form": "DNA/CEPH",

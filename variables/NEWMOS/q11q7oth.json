@@ -2,7 +2,7 @@
   "id": "q11q7oth",
   "display_name": "CHQ-PF50: Q11Q7OTH",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "183",
     "Form": "CHQ-PF50 (Child Health Questionnaire - Parent Report)",

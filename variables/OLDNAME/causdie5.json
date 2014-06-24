@@ -2,7 +2,7 @@
   "id": "causdie5",
   "display_name": "Cause of death 5",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "37",
     "Form": "OLDNAMES",

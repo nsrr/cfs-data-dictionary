@@ -2,7 +2,7 @@
   "id": "soncaus2",
   "display_name": "82 Cause of death son 2",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "477",
     "Form": "LABADUL2",

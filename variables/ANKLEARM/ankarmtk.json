@@ -2,7 +2,7 @@
   "id": "ankarmtk",
   "display_name": "Ankle-Arm: Technician",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "17",
     "Form": "Alkle-Arm Index",

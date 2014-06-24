@@ -2,7 +2,7 @@
   "id": "dentlid1",
   "display_name": "Dentl 1: ID",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "46",
     "Form": "DNA/CEPH",

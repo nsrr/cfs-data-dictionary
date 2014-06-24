@@ -2,7 +2,7 @@
   "id": "whenpsg",
   "display_name": "109 when subj had previous sleep study",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "833",
     "Form": "LABADUL3",

@@ -2,7 +2,7 @@
   "id": "labques3",
   "display_name": null,
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "618",
     "Form": "LABADUL2",

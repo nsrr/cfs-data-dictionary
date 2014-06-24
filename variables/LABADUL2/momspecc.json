@@ -2,7 +2,7 @@
   "id": "momspecc",
   "display_name": "77 Mom diagnosed Specify cancer",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "333",
     "Form": "LABADUL2",

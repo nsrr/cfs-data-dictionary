@@ -2,7 +2,7 @@
   "id": "specest",
   "display_name": "76 ever use Specify hormone",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "281",
     "Form": "LABADUL1",

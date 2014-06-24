@@ -2,7 +2,7 @@
   "id": "keyfield",
   "display_name": "Unique identifier for Epi-Info (personi . rectype)",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "1",
     "Form": "Alkle-Arm Index",

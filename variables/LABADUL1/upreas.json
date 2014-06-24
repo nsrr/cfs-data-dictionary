@@ -2,7 +2,7 @@
   "id": "upreas",
   "display_name": "46 reason wake at night (A)",
   "description": "",
-  "type": null,
+  "type": "text",
   "other": {
     "VARNUM": "79",
     "Form": "LABADUL1",
