@@ -2,7 +2,7 @@
   "id": "visitbr",
   "display_name": "BracReac: Date of visit",
   "description": "",
-  "type": null,
+  "type": "date",
   "other": {
     "VARNUM": "20",
     "Form": "Brachial Artery Vasoactivity Worksheet",

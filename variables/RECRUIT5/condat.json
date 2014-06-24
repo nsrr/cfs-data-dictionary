@@ -2,7 +2,7 @@
   "id": "condat",
   "display_name": "Date of contact",
   "description": "",
-  "type": null,
+  "type": "date",
   "other": {
     "VARNUM": "15",
     "Form": "Follow-up Recruiting",

@@ -2,7 +2,7 @@
   "id": "datedied",
   "display_name": "Date Patient died",
   "description": "",
-  "type": null,
+  "type": "date",
   "other": {
     "VARNUM": "49",
     "Form": "Nunames",

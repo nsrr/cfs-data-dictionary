@@ -2,7 +2,7 @@
   "id": "adddate",
   "display_name": "Date added to Oldnames",
   "description": "",
-  "type": null,
+  "type": "date",
   "other": {
     "VARNUM": "40",
     "Form": "OLDNAMES",

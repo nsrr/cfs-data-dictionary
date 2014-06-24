@@ -2,7 +2,7 @@
   "id": "specdate",
   "display_name": "Specimen: Date of specimen",
   "description": "",
-  "type": null,
+  "type": "date",
   "other": {
     "VARNUM": "17",
     "Form": "Specimen Date (Bloods and Cephs)",

@@ -2,7 +2,7 @@
   "id": "visitecg",
   "display_name": "ECG: Date of visit",
   "description": "",
-  "type": null,
+  "type": "date",
   "other": {
     "VARNUM": "205",
     "Form": "ECG",

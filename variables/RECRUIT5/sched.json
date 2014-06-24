@@ -2,7 +2,7 @@
   "id": "sched",
   "display_name": "Scheduled date",
   "description": "",
-  "type": null,
+  "type": "date",
   "other": {
     "VARNUM": "13",
     "Form": "Follow-up Recruiting",

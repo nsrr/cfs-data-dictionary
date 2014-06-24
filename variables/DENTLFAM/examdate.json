@@ -2,7 +2,7 @@
   "id": "examdate",
   "display_name": "Ceph: date of exam",
   "description": "",
-  "type": null,
+  "type": "date",
   "other": {
     "VARNUM": "45",
     "Form": "Cephlometric Measurements",

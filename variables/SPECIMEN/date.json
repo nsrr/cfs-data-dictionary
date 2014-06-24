@@ -2,7 +2,7 @@
   "id": "date",
   "display_name": "Specimen: date entered into Epi_info database",
   "description": "",
-  "type": null,
+  "type": "date",
   "other": {
     "VARNUM": "16",
     "Form": "Specimen Date (Bloods and Cephs)",

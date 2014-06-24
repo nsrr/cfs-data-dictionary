@@ -2,7 +2,7 @@
   "id": "visitld",
   "display_name": "Date of Lab Study from Diary",
   "description": "",
-  "type": null,
+  "type": "date",
   "other": {
     "VARNUM": "58",
     "Form": "Post-Sleep Questionnaire",

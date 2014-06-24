@@ -2,7 +2,7 @@
   "id": "birthdat",
   "display_name": "Date of birth",
   "description": "Patient Date of birth",
-  "type": null,
+  "type": "date",
   "other": {
     "VARNUM": "47",
     "Form": "Nunames",

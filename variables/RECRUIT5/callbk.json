@@ -2,7 +2,7 @@
   "id": "callbk",
   "display_name": "Call back date",
   "description": "",
-  "type": null,
+  "type": "date",
   "other": {
     "VARNUM": "16",
     "Form": "Follow-up Recruiting",

@@ -2,7 +2,7 @@
   "id": "date",
   "display_name": "date entered into Epi_info database",
   "description": "",
-  "type": null,
+  "type": "date",
   "other": {
     "VARNUM": "1",
     "Form": "DNA/CEPH",

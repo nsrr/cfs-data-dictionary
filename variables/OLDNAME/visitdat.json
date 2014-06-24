@@ -2,7 +2,7 @@
   "id": "visitdat",
   "display_name": "Date of visit",
   "description": "",
-  "type": null,
+  "type": "date",
   "other": {
     "VARNUM": "41",
     "Form": "OLDNAMES",
