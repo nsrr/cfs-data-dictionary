@@ -1,9 +1,9 @@
 {
   "id": "race",
-  "display_name": "Race (1=White, 2=Black, 3=Asian, 4=Hispanic, 5=Other)",
+  "display_name": "Race",
   "description": "",
   "type": "choices",
-  "domain": null,
+  "domain": "race12345",
   "other": {
     "VARNUM": "21",
     "Form": "Nunames",

@@ -1,17 +1,10 @@
 {
   "id": "active",
-  "display_name": "Specimen: sample active (0=no,1=yes,2=yes but not much left)",
+  "display_name": "Sample active",
   "description": "",
   "type": "choices",
-  "domain": null,
-  "other": {
-    "VARNUM": "6",
-    "Form": "Specimen Date (Bloods and Cephs)",
-    "Page": "1",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": null
-  }
+  "domain": "bloodsnoyes",
+  "forms": [
+    "specimen_date_bloods_cephs"
+  ]
 }

@@ -1,9 +1,9 @@
 {
   "id": "newadded",
-  "display_name": "Newly Added: 1=family member; 2=family",
+  "display_name": "Newly Added",
   "description": "",
   "type": "choices",
-  "domain": null,
+  "domain": "newlyadded",
   "other": {
     "VARNUM": "6",
     "Form": "Follow-up Recruiting",

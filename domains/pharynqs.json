@@ -1,0 +1,17 @@
+[
+  {
+    "value": "1",
+    "display_name": "Pass",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Fail",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Equivocal",
+    "description": ""
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "id": "antihist_dos",
+  "display_name": "Sleep Diary: took antihistamines on day of study (AC)",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "VARNUM": "66",
+    "Form": "Sleep Diary",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}
