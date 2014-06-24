@@ -1,8 +1,9 @@
 {
   "id": "amindian",
-  "display_name": "Race - Native American (0=no,1=yes)",
+  "display_name": "Race - Native American",
+  "domain": "noyes01",
   "description": "",
-  "type": null,
+  "type": "choices",
   "other": {
     "VARNUM": "22",
     "Form": "Nunames",

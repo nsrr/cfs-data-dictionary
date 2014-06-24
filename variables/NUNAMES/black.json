@@ -1,8 +1,9 @@
 {
   "id": "black",
-  "display_name": "Race - Black (0=no,1=yes)",
+  "display_name": "Race - Black",
+  "domain": "noyes01",
   "description": "",
-  "type": null,
+  "type": "choices",
   "other": {
     "VARNUM": "24",
     "Form": "Nunames",

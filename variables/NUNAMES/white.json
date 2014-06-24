@@ -1,8 +1,9 @@
 {
   "id": "white",
-  "display_name": "Race - Caucasian (0=no,1=yes)",
+  "display_name": "Race - Caucasian",
+  "domain": "noyes01",
   "description": "",
-  "type": null,
+  "type": "choices",
   "other": {
     "VARNUM": "26",
     "Form": "Nunames",

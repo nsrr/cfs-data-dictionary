@@ -1,8 +1,9 @@
 {
   "id": "asian",
-  "display_name": "Race - Asian (0=no,1=yes)",
+  "display_name": "Race - Asian",
+  "domain": "noyes01",
   "description": "",
-  "type": null,
+  "type": "choices",
   "other": {
     "VARNUM": "23",
     "Form": "Nunames",
