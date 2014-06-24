@@ -2,7 +2,7 @@
   "id": "diachol",
   "display_name": "95 Elevated Cholesterol",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "634",
     "Form": "LABADUL3",

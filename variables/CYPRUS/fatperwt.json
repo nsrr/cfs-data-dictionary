@@ -2,7 +2,7 @@
   "id": "fatperwt",
   "display_name": "Cyprus: Body fat (% of wt)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "13",
     "Form": "Cyprus Body Fat",

@@ -2,7 +2,7 @@
   "id": "strodiag",
   "display_name": "95 Stroke (CVA)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "674",
     "Form": "LABADUL3",

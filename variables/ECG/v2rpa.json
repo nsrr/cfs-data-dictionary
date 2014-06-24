@@ -2,7 +2,7 @@
   "id": "v2rpa",
   "display_name": "ECG: V2: RPA",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "37",
     "Form": "ECG",

@@ -2,7 +2,7 @@
   "id": "typetx",
   "display_name": "type of sleep apnea treatment",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "17",
     "Form": "In Lab Physio",

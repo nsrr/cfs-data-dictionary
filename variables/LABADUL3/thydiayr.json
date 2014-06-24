@@ -2,7 +2,7 @@
   "id": "thydiayr",
   "display_name": "95 Year Diagnosed  Thyroid Disease",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "774",
     "Form": "LABADUL3",

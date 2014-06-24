@@ -2,7 +2,7 @@
   "id": "labavgsys",
   "display_name": "BP: Mean lab Systolic BP",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": null,
     "Form": "Lab dataset",

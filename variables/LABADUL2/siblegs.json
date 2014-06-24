@@ -2,7 +2,7 @@
   "id": "siblegs",
   "display_name": "81 Any sibs with Restless Legs or Periodic Movement Disorder (PLMs)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "449",
     "Form": "LABADUL2",

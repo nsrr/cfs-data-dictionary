@@ -2,7 +2,7 @@
   "id": "daybed",
   "display_name": "43 bedtime on weekdays (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "67",
     "Form": "LABADUL1",

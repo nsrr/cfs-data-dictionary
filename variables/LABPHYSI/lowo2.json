@@ -2,7 +2,7 @@
   "id": "lowo2",
   "display_name": "Sleep Study: lowest oxygen saturation (%)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "38",
     "Form": "Physio Report",

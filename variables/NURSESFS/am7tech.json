@@ -2,7 +2,7 @@
   "id": "am7tech",
   "display_name": "BP: 7 AM - Technician",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "24",
     "Form": "Nurses Flow Sheet",

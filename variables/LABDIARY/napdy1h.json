@@ -2,7 +2,7 @@
   "id": "napdy1h",
   "display_name": "PreSleep: Hours of nap1",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "16",
     "Form": "Pre-Sleep Questionnaire",

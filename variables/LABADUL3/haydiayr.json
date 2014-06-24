@@ -2,7 +2,7 @@
   "id": "haydiayr",
   "display_name": "95 Year Diagnosed Hay Fever",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "741",
     "Form": "LABADUL3",

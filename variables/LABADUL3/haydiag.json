@@ -2,7 +2,7 @@
   "id": "haydiag",
   "display_name": "95 Hay Fever",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "740",
     "Form": "LABADUL3",

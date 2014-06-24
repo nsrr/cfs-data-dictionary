@@ -2,7 +2,7 @@
   "id": "iiistm",
   "display_name": "ECG: III: STM",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "185",
     "Form": "ECG",

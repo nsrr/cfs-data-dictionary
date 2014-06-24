@@ -2,7 +2,7 @@
   "id": "lcafbev",
   "display_name": "PreSleep: Have you had any caffeinated drinls after 5 p.m. this evening",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "5",
     "Form": "Pre-Sleep Questionnaire",

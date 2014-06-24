@@ -2,7 +2,7 @@
   "id": "angioyr",
   "display_name": "95 Year Diagnosed  Coronary Angioplasty",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "662",
     "Form": "LABADUL3",

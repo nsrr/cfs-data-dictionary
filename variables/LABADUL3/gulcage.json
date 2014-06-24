@@ -2,7 +2,7 @@
   "id": "gulcage",
   "display_name": "95 Age Diagnosed  Duodenal Ulcer",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "691",
     "Form": "LABADUL3",

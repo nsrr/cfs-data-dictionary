@@ -2,7 +2,7 @@
   "id": "xc2c4sn",
   "display_name": "Ceph: <C2-C4-SN (angle: C2 to C4 and S-N plane)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "24",
     "Form": "Cephlometric Measurements",

@@ -2,7 +2,7 @@
   "id": "btoureno",
   "display_name": "81 How many bro with Tourettes Syndrome",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "456",
     "Form": "LABADUL2",

@@ -2,7 +2,7 @@
   "id": "premprob",
   "display_name": "76 ever use Prempro (blue)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "288",
     "Form": "LABADUL1",

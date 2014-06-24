@@ -2,7 +2,7 @@
   "id": "tintmx",
   "display_name": "Ceph: Ratio of intermaxillary area occupied by tongue (tarea / intmarea)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "47",
     "Form": "Cephlometric Measurements",

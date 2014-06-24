@@ -2,7 +2,7 @@
   "id": "argo",
   "display_name": "Ceph: Ar-Go (length of Ramus, articulare to gonion)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "3",
     "Form": "Cephlometric Measurements",

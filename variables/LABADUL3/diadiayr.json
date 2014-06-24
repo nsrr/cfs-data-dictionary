@@ -2,7 +2,7 @@
   "id": "diadiayr",
   "display_name": "95 Year Diagnosed  Diabetes",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "650",
     "Form": "LABADUL3",

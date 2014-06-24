@@ -2,7 +2,7 @@
   "id": "adediayr",
   "display_name": "95 Year Diagnosed  Adenoidectomy",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "747",
     "Form": "LABADUL3",

@@ -2,7 +2,7 @@
   "id": "tricep2",
   "display_name": "Skinfold: tricep skinfold 2 (mm)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "14",
     "Form": "Skinfold Assessment",

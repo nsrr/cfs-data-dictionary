@@ -2,7 +2,7 @@
   "id": "fvolwrk",
   "display_name": "FOSQ: Difficulty performing work",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "77",
     "Form": "FOSQ (Functional Outcomes of Sleep Questionnaire)",

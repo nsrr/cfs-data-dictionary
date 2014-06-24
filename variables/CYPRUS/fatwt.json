@@ -2,7 +2,7 @@
   "id": "fatwt",
   "display_name": "Cyprus: Body fat",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "6",
     "Form": "Cyprus Body Fat",

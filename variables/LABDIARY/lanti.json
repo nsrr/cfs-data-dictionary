@@ -2,7 +2,7 @@
   "id": "lanti",
   "display_name": "PreSleep: Antihistamines today?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "28",
     "Form": "Pre-Sleep Questionnaire",

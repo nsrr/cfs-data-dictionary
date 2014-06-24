@@ -2,7 +2,7 @@
   "id": "sonsickl",
   "display_name": "82 Num of sons with Sickle Cell Disease",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "548",
     "Form": "LABADUL2",

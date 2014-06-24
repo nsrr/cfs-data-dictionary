@@ -2,7 +2,7 @@
   "id": "mrmrdone",
   "display_name": "Checklist: Medical Release for info done",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "23",
     "Form": "Participant Paperwork Check off List",

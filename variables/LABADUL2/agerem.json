@@ -2,7 +2,7 @@
   "id": "agerem",
   "display_name": "88 age tonsils/adenoids removed (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "607",
     "Form": "LABADUL2",

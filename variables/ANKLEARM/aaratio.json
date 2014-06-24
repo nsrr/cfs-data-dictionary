@@ -2,7 +2,7 @@
   "id": "aaratio",
   "display_name": "Ankle-Arm: Ankle Arm Ratio",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "18",
     "Form": "Alkle-Arm Index",

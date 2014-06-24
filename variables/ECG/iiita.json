@@ -2,7 +2,7 @@
   "id": "iiita",
   "display_name": "ECG: III: TA",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "187",
     "Form": "ECG",

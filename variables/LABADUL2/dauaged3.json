@@ -2,7 +2,7 @@
   "id": "dauaged3",
   "display_name": "82 Age of death dau 3",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "484",
     "Form": "LABADUL2",

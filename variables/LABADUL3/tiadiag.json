@@ -2,7 +2,7 @@
   "id": "tiadiag",
   "display_name": "95 TIA (Transient Ischemic Attack)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "680",
     "Form": "LABADUL3",

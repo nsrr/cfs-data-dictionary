@@ -2,7 +2,7 @@
   "id": "headtech",
   "display_name": "Head Measurement - Technician",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "11",
     "Form": "In Lab Physio",

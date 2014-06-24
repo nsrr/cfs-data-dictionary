@@ -2,7 +2,7 @@
   "id": "apacold",
   "display_name": "62b wheeze apart from a cold (AC)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "117",
     "Form": "LABADUL1",

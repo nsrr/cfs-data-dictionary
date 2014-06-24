@@ -2,7 +2,7 @@
   "id": "nobro",
   "display_name": "80 num brothers",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "382",
     "Form": "LABADUL2",

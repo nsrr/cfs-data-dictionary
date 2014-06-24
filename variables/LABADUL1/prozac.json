@@ -2,7 +2,7 @@
   "id": "prozac",
   "display_name": "74 Prozac in the last three days ",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "201",
     "Form": "LABADUL1",

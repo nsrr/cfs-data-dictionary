@@ -2,7 +2,7 @@
   "id": "lazertx",
   "display_name": "97 rec or prescribe Laser Treatment",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "811",
     "Form": "LABADUL3",

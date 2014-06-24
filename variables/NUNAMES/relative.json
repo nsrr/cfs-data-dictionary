@@ -2,7 +2,7 @@
   "id": "relative",
   "display_name": "Relationship to index",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "6",
     "Form": "Nunames",

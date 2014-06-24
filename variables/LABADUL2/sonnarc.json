@@ -2,7 +2,7 @@
   "id": "sonnarc",
   "display_name": "82 Num of sons with Narcolepsy",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "490",
     "Form": "LABADUL2",

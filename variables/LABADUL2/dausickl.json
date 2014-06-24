@@ -2,7 +2,7 @@
   "id": "dausickl",
   "display_name": "82 Num of dau with Sickle Cell Disease",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "549",
     "Form": "LABADUL2",

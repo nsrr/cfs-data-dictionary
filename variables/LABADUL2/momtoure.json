@@ -2,7 +2,7 @@
   "id": "momtoure",
   "display_name": "77 Mom diagnosed Tourettes Syndrome",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "361",
     "Form": "LABADUL2",

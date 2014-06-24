@@ -2,7 +2,7 @@
   "id": "rego2",
   "display_name": "56 Did you require oxygen at birth",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "97",
     "Form": "LABADUL1",

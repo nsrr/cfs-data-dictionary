@@ -2,7 +2,7 @@
   "id": "momdiabe",
   "display_name": "77 Mom diagnosed Diabetes",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "341",
     "Form": "LABADUL2",

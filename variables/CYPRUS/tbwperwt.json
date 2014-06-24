@@ -2,7 +2,7 @@
   "id": "tbwperwt",
   "display_name": "Cyprus: Total body water (% of wt)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "17",
     "Form": "Cyprus Body Fat",

@@ -2,7 +2,7 @@
   "id": "tonpres",
   "display_name": "87 enlarged tonsils still present (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "605",
     "Form": "LABADUL2",

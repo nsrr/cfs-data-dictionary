@@ -2,7 +2,7 @@
   "id": "centsilv",
   "display_name": "74 Mult Vit: Centrum Silver",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "226",
     "Form": "LABADUL1",

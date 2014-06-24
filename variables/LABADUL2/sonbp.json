@@ -2,7 +2,7 @@
   "id": "sonbp",
   "display_name": "82 Num of sons with High Blood Pressure",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "496",
     "Form": "LABADUL2",

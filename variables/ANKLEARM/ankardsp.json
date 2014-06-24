@@ -2,7 +2,7 @@
   "id": "ankardsp",
   "display_name": "Ankle-Arm: Doppler Systolic Pressure",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "7",
     "Form": "Alkle-Arm Index",

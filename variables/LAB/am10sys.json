@@ -2,7 +2,7 @@
   "id": "am10sys",
   "display_name": "BP: 10 AM Systolic",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": null,
     "Form": "Lab dataset",

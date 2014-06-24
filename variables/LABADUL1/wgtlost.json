@@ -2,7 +2,7 @@
   "id": "wgtlost",
   "display_name": "54 lost weight (L)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "94",
     "Form": "LABADUL1",

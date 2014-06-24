@@ -2,7 +2,7 @@
   "id": "dauemphy",
   "display_name": "82 Num of dau with Emphysema",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "534",
     "Form": "LABADUL2",

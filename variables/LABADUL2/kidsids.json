@@ -2,7 +2,7 @@
   "id": "kidsids",
   "display_name": "82 Any kids have Crib death, Sudden Death Syndrome (SIDS)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "498",
     "Form": "LABADUL2",

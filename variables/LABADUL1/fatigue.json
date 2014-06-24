@@ -2,7 +2,7 @@
   "id": "fatigue",
   "display_name": "25 fatigued after sleeping",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "28",
     "Form": "LABADUL1",

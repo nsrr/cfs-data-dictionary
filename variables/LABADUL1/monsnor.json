@@ -2,7 +2,7 @@
   "id": "monsnor",
   "display_name": "37c loudness of snoring in last month (AC)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "42",
     "Form": "LABADUL1",

@@ -2,7 +2,7 @@
   "id": "mageosa",
   "display_name": "77 Age Mom diagnosed Sleep Apnea",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "296",
     "Form": "LABADUL2",

@@ -2,7 +2,7 @@
   "id": "basehr",
   "display_name": "BracReac: Baseline 2D Image HR",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "8",
     "Form": "Brachial Artery Vasoactivity Worksheet",

@@ -2,7 +2,7 @@
   "id": "angdiag",
   "display_name": "95 Angina pectoris or Chest Pain from a heart condition",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "655",
     "Form": "LABADUL3",

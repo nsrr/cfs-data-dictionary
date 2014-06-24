@@ -2,7 +2,7 @@
   "id": "bmino",
   "display_name": "81 How many bro with  Excessive (too much) Sleepiness",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "425",
     "Form": "LABADUL2",

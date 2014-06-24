@@ -2,7 +2,7 @@
   "id": "sonlegs",
   "display_name": "82 Num of sons with Periodic Movement Disorder (PLMs)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "536",
     "Form": "LABADUL2",

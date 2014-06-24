@@ -2,7 +2,7 @@
   "id": "v3ta",
   "display_name": "ECG: V3: TA",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "59",
     "Form": "ECG",

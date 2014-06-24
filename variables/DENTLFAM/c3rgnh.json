@@ -2,7 +2,7 @@
   "id": "c3rgnh",
   "display_name": "Ceph: <C3-Rgn-H (angle: C3 to RGN and Hyoid to RGN)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "6",
     "Form": "Cephlometric Measurements",

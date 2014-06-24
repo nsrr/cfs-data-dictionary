@@ -2,7 +2,7 @@
   "id": "slegsno",
   "display_name": "81 How many sis with Restless Legs",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "451",
     "Form": "LABADUL2",

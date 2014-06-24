@@ -2,7 +2,7 @@
   "id": "ovarcanc",
   "display_name": "83 Any Bio rel had Ovarian Cancer",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "553",
     "Form": "LABADUL2",

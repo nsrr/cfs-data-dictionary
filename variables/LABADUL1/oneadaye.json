@@ -2,7 +2,7 @@
   "id": "oneadaye",
   "display_name": "74 Mult Vit: One A Day Essential",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "223",
     "Form": "LABADUL1",

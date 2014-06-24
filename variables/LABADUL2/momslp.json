@@ -2,7 +2,7 @@
   "id": "momslp",
   "display_name": "77 Mom diagnosed Excessive Sleepiness",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "315",
     "Form": "LABADUL2",

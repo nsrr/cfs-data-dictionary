@@ -2,7 +2,7 @@
   "id": "diabpyr",
   "display_name": "95 Year DiagnosedHigh Blood Pressure:",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "644",
     "Form": "LABADUL3",

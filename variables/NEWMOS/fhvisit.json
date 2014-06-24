@@ -2,7 +2,7 @@
   "id": "fhvisit",
   "display_name": "FOSQ: Difficulty visiting in your home",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "79",
     "Form": "FOSQ (Functional Outcomes of Sleep Questionnaire)",

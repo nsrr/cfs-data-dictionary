@@ -2,7 +2,7 @@
   "id": "bmi",
   "display_name": "BMI",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": null,
     "Form": "Lab dataset",

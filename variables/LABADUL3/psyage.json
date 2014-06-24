@@ -2,7 +2,7 @@
   "id": "psyage",
   "display_name": "95 Age Diagnosed Other Psychiatric Disease",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "784",
     "Form": "LABADUL3",

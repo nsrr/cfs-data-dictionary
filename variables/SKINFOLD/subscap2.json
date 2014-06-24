@@ -2,7 +2,7 @@
   "id": "subscap2",
   "display_name": "Skinfold: subscapular 2 (mm)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "16",
     "Form": "Skinfold Assessment",

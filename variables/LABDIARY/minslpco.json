@@ -2,7 +2,7 @@
   "id": "minslpco",
   "display_name": "PostSleep: Fall asleep more, less, or the same compared to usual?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "38",
     "Form": "Post-Sleep Questionnaire",

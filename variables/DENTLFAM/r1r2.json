@@ -2,7 +2,7 @@
   "id": "r1r2",
   "display_name": "Ceph: R1 to R2",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "28",
     "Form": "Cephlometric Measurements",

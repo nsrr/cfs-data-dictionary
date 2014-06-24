@@ -2,7 +2,7 @@
   "id": "xenical",
   "display_name": "74 Xenical in the last three days ",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "209",
     "Form": "LABADUL1",

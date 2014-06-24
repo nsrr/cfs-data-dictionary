@@ -2,7 +2,7 @@
   "id": "fhelpng",
   "display_name": "FOSQ: Difficulty doing things with friends",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "81",
     "Form": "FOSQ (Functional Outcomes of Sleep Questionnaire)",

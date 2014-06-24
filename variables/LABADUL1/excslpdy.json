@@ -2,7 +2,7 @@
   "id": "excslpdy",
   "display_name": "19 excessive sleepiness during day (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "22",
     "Form": "LABADUL1",

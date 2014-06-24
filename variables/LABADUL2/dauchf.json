@@ -2,7 +2,7 @@
   "id": "dauchf",
   "display_name": "82 Num of dau with Congestive Heart Failure",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "494",
     "Form": "LABADUL2",

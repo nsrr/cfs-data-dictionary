@@ -2,7 +2,7 @@
   "id": "acetamon",
   "display_name": "74 Last month have you used acetaminophen",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "163",
     "Form": "LABADUL1",

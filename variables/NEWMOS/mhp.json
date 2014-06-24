@@ -2,7 +2,7 @@
   "id": "mhp",
   "display_name": "SF-36 Mental Health Index (0-100) (mh)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "58",
     "Form": "SF-36 Health Survey (MOS)",

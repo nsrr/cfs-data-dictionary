@@ -2,7 +2,7 @@
   "id": "pglauage",
   "display_name": "83 Age Parent with glaucoma",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "573",
     "Form": "LABADUL2",

@@ -2,7 +2,7 @@
   "id": "thyage",
   "display_name": "95 Age Diagnosed Thyroid Disease",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "775",
     "Form": "LABADUL3",

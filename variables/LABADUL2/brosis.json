@@ -2,7 +2,7 @@
   "id": "brosis",
   "display_name": "80 any biological siblings",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "381",
     "Form": "LABADUL2",

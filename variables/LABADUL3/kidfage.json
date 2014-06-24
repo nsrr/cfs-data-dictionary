@@ -2,7 +2,7 @@
   "id": "kidfage",
   "display_name": "95 Age Diagnosed Kidney Failure",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "706",
     "Form": "LABADUL3",

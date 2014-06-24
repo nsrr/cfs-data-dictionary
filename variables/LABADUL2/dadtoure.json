@@ -2,7 +2,7 @@
   "id": "dadtoure",
   "display_name": "77 Dad diagnosed Tourettes Syndrome",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "363",
     "Form": "LABADUL2",

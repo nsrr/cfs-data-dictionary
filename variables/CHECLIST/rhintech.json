@@ -2,7 +2,7 @@
   "id": "rhintech",
   "display_name": "Checklist: Rhinometry tech",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "41",
     "Form": "Participant Paperwork Check off List",

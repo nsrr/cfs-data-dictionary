@@ -2,7 +2,7 @@
   "id": "v2ste",
   "display_name": "ECG: V2: STE",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "42",
     "Form": "ECG",

@@ -2,7 +2,7 @@
   "id": "brodiayr",
   "display_name": "95 Year Diagnosed Chronic Bronchitis",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "729",
     "Form": "LABADUL3",

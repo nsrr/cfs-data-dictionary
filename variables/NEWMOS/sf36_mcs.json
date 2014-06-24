@@ -2,7 +2,7 @@
   "id": "sf36_mcs",
   "display_name": "SF-36 STANDARDIZED MENTAL COMPONENT SCALE-00",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "233",
     "Form": "SF-36 Health Survey (MOS)",

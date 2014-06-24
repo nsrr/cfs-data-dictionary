@@ -2,7 +2,7 @@
   "id": "solotron",
   "display_name": "74 Mult Vit: Solotron for Women",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "243",
     "Form": "LABADUL1",

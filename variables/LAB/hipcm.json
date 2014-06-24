@@ -2,7 +2,7 @@
   "id": "hipcm",
   "display_name": "Mean hip circumference (cm)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": null,
     "Form": "Lab dataset",

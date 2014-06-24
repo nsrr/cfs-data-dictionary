@@ -2,7 +2,7 @@
   "id": "v5ra",
   "display_name": "ECG: V5: RA",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "81",
     "Form": "ECG",

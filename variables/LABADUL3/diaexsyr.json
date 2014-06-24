@@ -2,7 +2,7 @@
   "id": "diaexsyr",
   "display_name": "95 Year Diagnosed Excessive Sleepiness",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "629",
     "Form": "LABADUL3",

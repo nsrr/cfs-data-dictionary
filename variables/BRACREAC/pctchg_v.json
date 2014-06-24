@@ -2,7 +2,7 @@
   "id": "pctchg_v",
   "display_name": "BracReac: Percent Change velocity",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "21",
     "Form": "Brachial Artery Vasoactivity Worksheet",

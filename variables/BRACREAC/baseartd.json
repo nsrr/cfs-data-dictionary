@@ -2,7 +2,7 @@
   "id": "baseartd",
   "display_name": "BracReac: Arterial Diameter Result mm",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "12",
     "Form": "Brachial Artery Vasoactivity Worksheet",

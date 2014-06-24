@@ -2,7 +2,7 @@
   "id": "dianaryr",
   "display_name": "95 Year diagnosed Narcolepsy",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "623",
     "Form": "LABADUL3",

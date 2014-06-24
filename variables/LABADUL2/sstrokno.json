@@ -2,7 +2,7 @@
   "id": "sstrokno",
   "display_name": "81 How many sis with Stroke (or a TIA)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "429",
     "Form": "LABADUL2",

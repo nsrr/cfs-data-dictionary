@@ -2,7 +2,7 @@
   "id": "avail1",
   "display_name": "DNA1: Available",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "13",
     "Form": "DNA/CEPH",

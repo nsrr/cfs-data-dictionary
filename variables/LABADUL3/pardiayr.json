@@ -2,7 +2,7 @@
   "id": "pardiayr",
   "display_name": "95 Year Diagnosed  Duodenal Ulcer",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "693",
     "Form": "LABADUL3",

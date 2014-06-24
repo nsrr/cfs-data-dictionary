@@ -2,7 +2,7 @@
   "id": "rebraw",
   "display_name": "CHQ-PF50 raw role-emotional",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "193",
     "Form": "CHQ-PF50 (Child Health Questionnaire - Parent Report)",

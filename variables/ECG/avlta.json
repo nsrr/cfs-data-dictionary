@@ -2,7 +2,7 @@
   "id": "avlta",
   "display_name": "ECG: AVL: TA",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "139",
     "Form": "ECG",

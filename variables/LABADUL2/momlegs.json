@@ -2,7 +2,7 @@
   "id": "momlegs",
   "display_name": "77 Mom diagnosed Restless Legs or Periodic",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "349",
     "Form": "LABADUL2",

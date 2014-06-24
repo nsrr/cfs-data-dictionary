@@ -2,7 +2,7 @@
   "id": "sibnarc",
   "display_name": "81 Any sibs with Narcolepsy",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "403",
     "Form": "LABADUL2",

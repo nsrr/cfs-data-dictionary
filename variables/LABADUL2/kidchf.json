@@ -2,7 +2,7 @@
   "id": "kidchf",
   "display_name": "82 Any kids have Congestive Heart Failure",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "492",
     "Form": "LABADUL2",

@@ -2,7 +2,7 @@
   "id": "fef50",
   "display_name": "Spirometry:  forced expiratory flow at 50",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "26",
     "Form": "Physio Report",

@@ -2,7 +2,7 @@
   "id": "ogttdone",
   "display_name": "Checklist: Glucose testing done",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "32",
     "Form": "Participant Paperwork Check off List",

@@ -2,7 +2,7 @@
   "id": "apndiayr",
   "display_name": "95 Year Diagnosed Sleep Apnea",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "620",
     "Form": "LABADUL3",

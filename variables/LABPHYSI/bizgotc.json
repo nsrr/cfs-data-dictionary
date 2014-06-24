@@ -2,7 +2,7 @@
   "id": "bizgotc",
   "display_name": "Head Measurement - eye socket",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "9",
     "Form": "In Lab Physio",

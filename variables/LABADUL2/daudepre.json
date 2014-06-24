@@ -2,7 +2,7 @@
   "id": "daudepre",
   "display_name": "82 Num of dau with  Depression",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "525",
     "Form": "LABADUL2",

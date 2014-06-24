@@ -2,7 +2,7 @@
   "id": "monpipe",
   "display_name": "85 Last month, have you smoked Pipes?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "588",
     "Form": "LABADUL2",

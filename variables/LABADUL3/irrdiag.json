@@ -2,7 +2,7 @@
   "id": "irrdiag",
   "display_name": "95 Irregular Heart Beat",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "652",
     "Form": "LABADUL3",

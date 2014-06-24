@@ -2,7 +2,7 @@
   "id": "centvits",
   "display_name": "74 Mult Vit: Central Vite Select",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "253",
     "Form": "LABADUL1",

@@ -2,7 +2,7 @@
   "id": "tondiag",
   "display_name": "87 enlarged tonsils diagnosed by doctor (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "603",
     "Form": "LABADUL2",

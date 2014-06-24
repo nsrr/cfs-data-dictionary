@@ -2,7 +2,7 @@
   "id": "weekpre",
   "display_name": "55 how many weeks early",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "96",
     "Form": "LABADUL1",

@@ -2,7 +2,7 @@
   "id": "pacdiayr",
   "display_name": "95 Year Diagnosed Implant of Cardiac Pacemaker",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "668",
     "Form": "LABADUL3",

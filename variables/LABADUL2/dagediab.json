@@ -2,7 +2,7 @@
   "id": "dagediab",
   "display_name": "77 Age Dad diagnosed Diabetes",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "344",
     "Form": "LABADUL2",

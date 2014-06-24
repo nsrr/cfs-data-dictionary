@@ -2,7 +2,7 @@
   "id": "rammcf",
   "display_name": "Ceph: RAM/MCF (width of Ramus at FOP vs AR to PM)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "30",
     "Form": "Cephlometric Measurements",

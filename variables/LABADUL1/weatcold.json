@@ -2,7 +2,7 @@
   "id": "weatcold",
   "display_name": "66 Cold weather gives you a stuffy or runny nose (L)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "130",
     "Form": "LABADUL1",

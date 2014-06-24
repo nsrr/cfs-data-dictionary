@@ -2,7 +2,7 @@
   "id": "hepaage",
   "display_name": "95 Age Diagnosed Hepatitis",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "724",
     "Form": "LABADUL3",

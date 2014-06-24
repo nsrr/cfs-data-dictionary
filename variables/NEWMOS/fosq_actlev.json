@@ -2,7 +2,7 @@
   "id": "fosq_actlev",
   "display_name": "FOSQ Activity Level",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "123",
     "Form": "FOSQ (Functional Outcomes of Sleep Questionnaire)",

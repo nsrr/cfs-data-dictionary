@@ -2,7 +2,7 @@
   "id": "kidmi",
   "display_name": "82 Any kids have Heart Attack (Myocardial Infarction)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "510",
     "Form": "LABADUL2",

@@ -2,7 +2,7 @@
   "id": "middlef",
   "display_name": "Ceph: Middle face distance",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "27",
     "Form": "Cephlometric Measurements",

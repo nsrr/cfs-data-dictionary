@@ -2,7 +2,7 @@
   "id": "iitpa",
   "display_name": "ECG: II: TPA",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "156",
     "Form": "ECG",

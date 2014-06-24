@@ -2,7 +2,7 @@
   "id": "protegra",
   "display_name": "74 Mult Vit: Protegra",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "235",
     "Form": "LABADUL1",

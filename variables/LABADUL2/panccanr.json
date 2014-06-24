@@ -2,7 +2,7 @@
   "id": "panccanr",
   "display_name": "83 Any bio relatives had Pancreatic Cancer",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "565",
     "Form": "LABADUL2",

@@ -2,7 +2,7 @@
   "id": "basesys",
   "display_name": "BracReac: Baseline 2D Image BP systolic",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "6",
     "Form": "Brachial Artery Vasoactivity Worksheet",

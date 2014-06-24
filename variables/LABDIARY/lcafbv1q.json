@@ -2,7 +2,7 @@
   "id": "lcafbv1q",
   "display_name": "PreSleep: Quantity caff bev 1 (number of 8oz cups)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "7",
     "Form": "Pre-Sleep Questionnaire",

@@ -2,7 +2,7 @@
   "id": "pef",
   "display_name": "Spirometry:  peak expiratory flow",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "24",
     "Form": "Physio Report",

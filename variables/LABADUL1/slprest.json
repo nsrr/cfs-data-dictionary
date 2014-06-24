@@ -2,7 +2,7 @@
   "id": "slprest",
   "display_name": "31 do not wake up feeling rested (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "34",
     "Form": "LABADUL1",

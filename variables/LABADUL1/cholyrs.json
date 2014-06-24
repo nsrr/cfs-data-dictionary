@@ -2,7 +2,7 @@
   "id": "cholyrs",
   "display_name": "74 If yes, Number of years used",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "193",
     "Form": "LABADUL1",

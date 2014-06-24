@@ -2,7 +2,7 @@
   "id": "daunms",
   "display_name": "82 Num of dau with Acute Life Threatening Episode (ALTE)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "503",
     "Form": "LABADUL2",

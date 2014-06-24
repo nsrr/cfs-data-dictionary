@@ -2,7 +2,7 @@
   "id": "hmp",
   "display_name": "Ceph: H-MP (distance between mandib plane and hyoid)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "11",
     "Form": "Cephlometric Measurements",

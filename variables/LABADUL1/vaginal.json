@@ -2,7 +2,7 @@
   "id": "vaginal",
   "display_name": "76 ever use Vaginal",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "283",
     "Form": "LABADUL1",

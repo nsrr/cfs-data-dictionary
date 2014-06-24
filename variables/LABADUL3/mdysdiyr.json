@@ -2,7 +2,7 @@
   "id": "mdysdiyr",
   "display_name": "95 Year Diagnosed Muscular Dystrophy",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "708",
     "Form": "LABADUL3",

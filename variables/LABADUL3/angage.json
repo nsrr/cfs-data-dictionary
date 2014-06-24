@@ -2,7 +2,7 @@
   "id": "angage",
   "display_name": "95 Ag e Diagnosed Chest Pain from a heart condition",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "657",
     "Form": "LABADUL3",

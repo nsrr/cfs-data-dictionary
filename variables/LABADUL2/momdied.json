@@ -2,7 +2,7 @@
   "id": "momdied",
   "display_name": "78 age when mom died (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "374",
     "Form": "LABADUL2",

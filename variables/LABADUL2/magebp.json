@@ -2,7 +2,7 @@
   "id": "magebp",
   "display_name": "77 Age Mom diagnosed High Blood Pressure",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "304",
     "Form": "LABADUL2",

@@ -2,7 +2,7 @@
   "id": "serum3",
   "display_name": "DNA3: Serum was drawn (Y/N)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "35",
     "Form": "DNA/CEPH",

@@ -2,7 +2,7 @@
   "id": "race",
   "display_name": "Race",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "20",
     "Form": "OLDNAMES",

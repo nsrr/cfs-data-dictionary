@@ -2,7 +2,7 @@
   "id": "sibsickl",
   "display_name": "81 Any sibs with Sickle Cell Disease",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "461",
     "Form": "LABADUL2",

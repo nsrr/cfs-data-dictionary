@@ -2,7 +2,7 @@
   "id": "othexer",
   "display_name": "61 Past year time spent other aerobic exercise(L)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "110",
     "Form": "LABADUL1",

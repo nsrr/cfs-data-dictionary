@@ -2,7 +2,7 @@
   "id": "sibcancr",
   "display_name": "81 Any sibs with Cancer",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "433",
     "Form": "LABADUL2",

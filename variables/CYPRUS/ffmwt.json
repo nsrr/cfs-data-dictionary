@@ -2,7 +2,7 @@
   "id": "ffmwt",
   "display_name": "Cyprus: Fat free mass",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "7",
     "Form": "Cyprus Body Fat",

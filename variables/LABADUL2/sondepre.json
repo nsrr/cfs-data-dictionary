@@ -2,7 +2,7 @@
   "id": "sondepre",
   "display_name": "82 Num of sons with Depression",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "524",
     "Form": "LABADUL2",

@@ -2,7 +2,7 @@
   "id": "fhgo",
   "display_name": "Ceph: FH-Go (perpendicular length, FH to gonion)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "8",
     "Form": "Cephlometric Measurements",

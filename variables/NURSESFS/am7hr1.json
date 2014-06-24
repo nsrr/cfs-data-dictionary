@@ -2,7 +2,7 @@
   "id": "am7hr1",
   "display_name": "BP: 7 AM - Heart Rate 1",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "17",
     "Form": "Nurses Flow Sheet",

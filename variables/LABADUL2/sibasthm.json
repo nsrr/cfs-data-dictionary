@@ -2,7 +2,7 @@
   "id": "sibasthm",
   "display_name": "81 Any sibs with Asthma",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "443",
     "Form": "LABADUL2",

@@ -2,7 +2,7 @@
   "id": "avgsmok",
   "display_name": "84b avg  of cigarettes smoke per day (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "577",
     "Form": "LABADUL2",

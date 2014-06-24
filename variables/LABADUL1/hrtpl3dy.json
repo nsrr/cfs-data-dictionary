@@ -2,7 +2,7 @@
   "id": "hrtpl3dy",
   "display_name": "73 Heart pills in last 3 days (L)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "147",
     "Form": "LABADUL1",

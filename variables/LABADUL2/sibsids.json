@@ -2,7 +2,7 @@
   "id": "sibsids",
   "display_name": "81 Any sibs with Crib death, Sudden Death Syndrome (SIDS)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "412",
     "Form": "LABADUL2",

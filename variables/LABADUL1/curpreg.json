@@ -2,7 +2,7 @@
   "id": "curpreg",
   "display_name": "75 currently pregnant (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "260",
     "Form": "LABADUL1",

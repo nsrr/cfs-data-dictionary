@@ -2,7 +2,7 @@
   "id": "atriaenl",
   "display_name": "ECG: Atrial Enlargement",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "201",
     "Form": "ECG",

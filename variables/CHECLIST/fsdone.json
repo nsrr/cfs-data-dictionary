@@ -2,7 +2,7 @@
   "id": "fsdone",
   "display_name": "Checklist: Flow Sheets done",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "33",
     "Form": "Participant Paperwork Check off List",

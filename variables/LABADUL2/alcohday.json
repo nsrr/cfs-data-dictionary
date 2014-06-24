@@ -2,7 +2,7 @@
   "id": "alcohday",
   "display_name": "91 On avg last year how many alc bev per week?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "614",
     "Form": "LABADUL2",

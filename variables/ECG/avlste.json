@@ -2,7 +2,7 @@
   "id": "avlste",
   "display_name": "ECG: AVL: STE",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "138",
     "Form": "ECG",

@@ -2,7 +2,7 @@
   "id": "naadone",
   "display_name": "Checklist: Nurses Assessment done",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "35",
     "Form": "Participant Paperwork Check off List",

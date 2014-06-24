@@ -2,7 +2,7 @@
   "id": "waistcm",
   "display_name": "Mean waist circumference (cm)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": null,
     "Form": "Lab dataset",

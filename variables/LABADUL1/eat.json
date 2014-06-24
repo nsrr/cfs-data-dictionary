@@ -2,7 +2,7 @@
   "id": "eat",
   "display_name": "50 how often fall asleep eating?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "85",
     "Form": "LABADUL1",

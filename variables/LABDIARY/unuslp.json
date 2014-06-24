@@ -2,7 +2,7 @@
   "id": "unuslp",
   "display_name": "PostSleep: Did anything unusual happen to disturb your sleep last night?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "53",
     "Form": "Post-Sleep Questionnaire",

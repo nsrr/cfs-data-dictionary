@@ -2,7 +2,7 @@
   "id": "struggle",
   "display_name": "9 struggle for breath while asleep (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "12",
     "Form": "LABADUL1",

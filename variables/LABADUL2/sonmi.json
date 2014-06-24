@@ -2,7 +2,7 @@
   "id": "sonmi",
   "display_name": "82 Num of sons with Heart Attack (Myocardial Infarction)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "511",
     "Form": "LABADUL2",

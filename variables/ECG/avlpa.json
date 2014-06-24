@@ -2,7 +2,7 @@
   "id": "avlpa",
   "display_name": "ECG: AVL: PA",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "125",
     "Form": "ECG",

@@ -2,7 +2,7 @@
   "id": "calf1",
   "display_name": "Skinfold: calf skinfold 1 (mm)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "29",
     "Form": "Skinfold Assessment",

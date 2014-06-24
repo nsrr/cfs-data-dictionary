@@ -2,7 +2,7 @@
   "id": "ppancage",
   "display_name": "83 Age Parent with Pancreatic Cancer",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "566",
     "Form": "LABADUL2",

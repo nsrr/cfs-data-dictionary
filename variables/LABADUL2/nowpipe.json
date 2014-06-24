@@ -2,7 +2,7 @@
   "id": "nowpipe",
   "display_name": "85 How many Pipes (bowls) per day now ?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "590",
     "Form": "LABADUL2",

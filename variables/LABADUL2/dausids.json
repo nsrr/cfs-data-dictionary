@@ -2,7 +2,7 @@
   "id": "dausids",
   "display_name": "82 Num of dau with (SIDS)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "500",
     "Form": "LABADUL2",

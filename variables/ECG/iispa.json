@@ -2,7 +2,7 @@
   "id": "iispa",
   "display_name": "ECG: II: SPA",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "151",
     "Form": "ECG",

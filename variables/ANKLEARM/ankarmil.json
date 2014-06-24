@@ -2,7 +2,7 @@
   "id": "ankarmil",
   "display_name": "Ankle-Arm: Maximal Inflation Level",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "8",
     "Form": "Alkle-Arm Index",

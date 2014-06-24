@@ -2,7 +2,7 @@
   "id": "mageasth",
   "display_name": "77 Age Mom diagnosed Asthma",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "346",
     "Form": "LABADUL2",

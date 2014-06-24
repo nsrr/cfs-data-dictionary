@@ -2,7 +2,7 @@
   "id": "partage",
   "display_name": "95 Age Diagnosed Peripheral Artery Disease of Claudication of the Legs",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "685",
     "Form": "LABADUL3",

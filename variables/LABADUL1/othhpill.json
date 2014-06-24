@@ -2,7 +2,7 @@
   "id": "othhpill",
   "display_name": "76 ever use Other hormones or birth control pills?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "292",
     "Form": "LABADUL1",

@@ -2,7 +2,7 @@
   "id": "antmxht",
   "display_name": "Ceph: Ant. Mx. Ht. (anterior intermaxillary height)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "1",
     "Form": "Cephlometric Measurements",

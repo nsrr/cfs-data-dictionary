@@ -2,7 +2,7 @@
   "id": "patchest",
   "display_name": "76 ever use patch estrogen",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "275",
     "Form": "LABADUL1",

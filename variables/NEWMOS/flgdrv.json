@@ -2,7 +2,7 @@
   "id": "flgdrv",
   "display_name": "FOSQ: Difficulty driving long distances",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "74",
     "Form": "FOSQ (Functional Outcomes of Sleep Questionnaire)",

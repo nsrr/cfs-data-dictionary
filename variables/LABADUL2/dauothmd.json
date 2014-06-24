@@ -2,7 +2,7 @@
   "id": "dauothmd",
   "display_name": "82 Num of dau with Other Significant Medical Condition",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "552",
     "Form": "LABADUL2",

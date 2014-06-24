@@ -2,7 +2,7 @@
   "id": "sdiabeno",
   "display_name": "81 How many sis with Diabetes",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "442",
     "Form": "LABADUL2",

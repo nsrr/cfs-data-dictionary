@@ -2,7 +2,7 @@
   "id": "qt",
   "display_name": "ECG: QT (ms)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "8",
     "Form": "ECG",

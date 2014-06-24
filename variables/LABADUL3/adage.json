@@ -2,7 +2,7 @@
   "id": "adage",
   "display_name": "95 Age Diagnosed Attention Deficit Disorder",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "760",
     "Form": "LABADUL3",

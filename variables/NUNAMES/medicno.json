@@ -2,7 +2,7 @@
   "id": "medicno",
   "display_name": "Medical Record Number",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "3",
     "Form": "Nunames",

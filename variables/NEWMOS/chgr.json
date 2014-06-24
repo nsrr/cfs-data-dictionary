@@ -2,7 +2,7 @@
   "id": "chgr",
   "display_name": "SF-36 Raw Health Transition Item (ht)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "65",
     "Form": "SF-36 Health Survey (MOS)",

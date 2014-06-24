@@ -2,7 +2,7 @@
   "id": "antiarrh",
   "display_name": "74 Antiarrhythmic in the last three days ",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "190",
     "Form": "LABADUL1",

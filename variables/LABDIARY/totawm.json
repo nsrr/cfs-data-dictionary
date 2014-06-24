@@ -2,7 +2,7 @@
   "id": "totawm",
   "display_name": "PostSleep: Minutes spent awake after falling asleep for",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "45",
     "Form": "Post-Sleep Questionnaire",

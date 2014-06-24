@@ -2,7 +2,7 @@
   "id": "abdomc1",
   "display_name": "Skinfold: abdominal circumference 1 (cm)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "35",
     "Form": "Skinfold Assessment",

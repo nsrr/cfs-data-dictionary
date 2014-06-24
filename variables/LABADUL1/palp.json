@@ -2,7 +2,7 @@
   "id": "palp",
   "display_name": "14 palpitations while asleep (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "17",
     "Form": "LABADUL1",

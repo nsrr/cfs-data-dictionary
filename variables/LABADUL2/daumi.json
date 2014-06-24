@@ -2,7 +2,7 @@
   "id": "daumi",
   "display_name": "82 Num of dau with Heart Attack (Myocardial Infarction)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "512",
     "Form": "LABADUL2",

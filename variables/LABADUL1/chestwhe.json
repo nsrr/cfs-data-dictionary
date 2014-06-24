@@ -2,7 +2,7 @@
   "id": "chestwhe",
   "display_name": "wheeze while asleep (AC)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "13",
     "Form": "LABADUL1",

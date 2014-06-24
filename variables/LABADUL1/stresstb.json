@@ -2,7 +2,7 @@
   "id": "stresstb",
   "display_name": "74 Mult Vit: Stresstabs",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "247",
     "Form": "LABADUL1",

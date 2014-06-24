@@ -2,7 +2,7 @@
   "id": "apnctr",
   "display_name": "Sleep Study: subj had predominantly central apneas",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "44",
     "Form": "Physio Report",

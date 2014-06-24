@@ -2,7 +2,7 @@
   "id": "dadnarc",
   "display_name": "77 Dad diagnosed Narcolepsy",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "301",
     "Form": "LABADUL2",

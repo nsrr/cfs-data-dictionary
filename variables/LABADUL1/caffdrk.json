@@ -2,7 +2,7 @@
   "id": "caffdrk",
   "display_name": "27 use caffeine drinks to stay awake (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "30",
     "Form": "LABADUL1",

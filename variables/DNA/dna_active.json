@@ -2,7 +2,7 @@
   "id": "dna_active",
   "display_name": "DNA: Is DNA sample active (1=yes,2=yes but not much left)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "7",
     "Form": "(calculated based on Specimen dataset)",

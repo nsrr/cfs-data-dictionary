@@ -2,7 +2,7 @@
   "id": "fosqdone",
   "display_name": "Checklist: FOSq done",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "13",
     "Form": "Participant Paperwork Check off List",

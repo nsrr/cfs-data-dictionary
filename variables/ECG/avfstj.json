@@ -2,7 +2,7 @@
   "id": "avfstj",
   "display_name": "ECG: AVF: STJ",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "168",
     "Form": "ECG",

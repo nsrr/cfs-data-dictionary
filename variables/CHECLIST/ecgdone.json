@@ -2,7 +2,7 @@
   "id": "ecgdone",
   "display_name": "Checklist: ECG done",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "37",
     "Form": "Participant Paperwork Check off List",

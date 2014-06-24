@@ -2,7 +2,7 @@
   "id": "iiirpd",
   "display_name": "ECG: III: RPD",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "182",
     "Form": "ECG",

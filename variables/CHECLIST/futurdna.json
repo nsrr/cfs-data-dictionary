@@ -2,7 +2,7 @@
   "id": "futurdna",
   "display_name": "Checklist: Future Use of DNA",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "7",
     "Form": "Participant Paperwork Check off List",

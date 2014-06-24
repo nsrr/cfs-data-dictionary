@@ -2,7 +2,7 @@
   "id": "othantid",
   "display_name": "74  Other antidepressants in the last three days ",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "205",
     "Form": "LABADUL1",

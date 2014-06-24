@@ -2,7 +2,7 @@
   "id": "kids",
   "display_name": "82 has any children **rectype2 specifies since last visit",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "467",
     "Form": "LABADUL2",

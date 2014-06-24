@@ -2,7 +2,7 @@
   "id": "toss",
   "display_name": "6 toss while asleep (AC)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "9",
     "Form": "LABADUL1",

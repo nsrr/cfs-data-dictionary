@@ -2,7 +2,7 @@
   "id": "postdone",
   "display_name": "Checklist: Post-Sleep Diary done",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "19",
     "Form": "Participant Paperwork Check off List",

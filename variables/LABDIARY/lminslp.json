@@ -2,7 +2,7 @@
   "id": "lminslp",
   "display_name": "PostSleep: How long after bedtime did you fall asleep?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "37",
     "Form": "Post-Sleep Questionnaire",

@@ -2,7 +2,7 @@
   "id": "daddepre",
   "display_name": "77 Dad diagnosed Specify cancer",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "339",
     "Form": "LABADUL2",

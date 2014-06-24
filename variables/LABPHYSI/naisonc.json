@@ -2,7 +2,7 @@
   "id": "naisonc",
   "display_name": "Head Measurement - naison to chin",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "10",
     "Form": "In Lab Physio",

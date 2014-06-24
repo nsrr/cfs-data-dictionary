@@ -2,7 +2,7 @@
   "id": "dauasthm",
   "display_name": "82 Num of dau with Asthma",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "531",
     "Form": "LABADUL2",

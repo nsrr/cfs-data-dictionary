@@ -2,7 +2,7 @@
   "id": "oralgluc",
   "display_name": "74 Oral Hypoglycemic in the last three days",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "199",
     "Form": "LABADUL1",

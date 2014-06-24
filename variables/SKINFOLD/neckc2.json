@@ -2,7 +2,7 @@
   "id": "neckc2",
   "display_name": "Skinfold: neck circumference 2 (cm)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "32",
     "Form": "Skinfold Assessment",

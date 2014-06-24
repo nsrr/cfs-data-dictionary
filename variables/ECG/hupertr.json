@@ -2,7 +2,7 @@
   "id": "hupertr",
   "display_name": "ECG: Hypertrophy",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "197",
     "Form": "ECG",

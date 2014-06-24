@@ -2,7 +2,7 @@
   "id": "asprinno",
   "display_name": "74 on avg how many aspirin",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "173",
     "Form": "LABADUL1",

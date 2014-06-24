@@ -2,7 +2,7 @@
   "id": "ldecon",
   "display_name": "PreSleep: Decongestant today?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "31",
     "Form": "Pre-Sleep Questionnaire",

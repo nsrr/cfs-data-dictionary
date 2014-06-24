@@ -2,7 +2,7 @@
   "id": "insdiayr",
   "display_name": "95 Year Diagnosed Insomnia",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "753",
     "Form": "LABADUL3",

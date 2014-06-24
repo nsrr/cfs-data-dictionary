@@ -2,7 +2,7 @@
   "id": "willlast",
   "display_name": "PreSleep: How long ago last ill?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "36",
     "Form": "Pre-Sleep Questionnaire",

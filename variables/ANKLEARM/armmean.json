@@ -2,7 +2,7 @@
   "id": "armmean",
   "display_name": "Ankle-Arm: mean of arm bp measurements",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "20",
     "Form": "Alkle-Arm Index",

@@ -2,7 +2,7 @@
   "id": "sindiag",
   "display_name": "95 Sinus",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "737",
     "Form": "LABADUL3",

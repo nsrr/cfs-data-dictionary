@@ -2,7 +2,7 @@
   "id": "sicage",
   "display_name": "95 Age Diagnosed  Sickle Cell Disease",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "715",
     "Form": "LABADUL3",

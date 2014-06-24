@@ -2,7 +2,7 @@
   "id": "dianarc",
   "display_name": "95 Narcolepsy",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "622",
     "Form": "LABADUL3",

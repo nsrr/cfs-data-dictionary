@@ -2,7 +2,7 @@
   "id": "supinno",
   "display_name": "Sleep Study: # of 10 min. intervals in supine posit.",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "50",
     "Form": "Physio Report",

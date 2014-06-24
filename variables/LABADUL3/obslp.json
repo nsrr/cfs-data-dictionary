@@ -2,7 +2,7 @@
   "id": "obslp",
   "display_name": "106 lives different house,but observed sleep",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "828",
     "Form": "LABADUL3",

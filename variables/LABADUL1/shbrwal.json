@@ -2,7 +2,7 @@
   "id": "shbrwal",
   "display_name": "51 short of breath, hurrying/sm hill (AC)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "88",
     "Form": "LABADUL1",

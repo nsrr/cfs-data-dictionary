@@ -2,7 +2,7 @@
   "id": "hosptim",
   "display_name": "96 times hospitalized since last visit",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "799",
     "Form": "LABADUL3",

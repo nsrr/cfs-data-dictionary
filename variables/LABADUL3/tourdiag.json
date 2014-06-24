@@ -2,7 +2,7 @@
   "id": "tourdiag",
   "display_name": "95 Tourettes Syndrome",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "710",
     "Form": "LABADUL3",

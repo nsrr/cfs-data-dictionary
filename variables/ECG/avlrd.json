@@ -2,7 +2,7 @@
   "id": "avlrd",
   "display_name": "ECG: AVL: RD",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "130",
     "Form": "ECG",

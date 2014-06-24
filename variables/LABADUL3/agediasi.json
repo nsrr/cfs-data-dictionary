@@ -2,7 +2,7 @@
   "id": "agediasi",
   "display_name": "95 Age Diagnosed Elevated Cholesterol",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "639",
     "Form": "LABADUL3",

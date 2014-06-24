@@ -2,7 +2,7 @@
   "id": "dendev",
   "display_name": "97 rec. or prescribe dental device as treat.",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "810",
     "Form": "LABADUL3",

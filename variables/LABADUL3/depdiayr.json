@@ -2,7 +2,7 @@
   "id": "depdiayr",
   "display_name": "95 Year Diagnosed Depression",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "777",
     "Form": "LABADUL3",

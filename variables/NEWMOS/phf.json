@@ -2,7 +2,7 @@
   "id": "phf",
   "display_name": "CHQ-PF50 Physical Functioning (0-100)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "192",
     "Form": "CHQ-PF50 (Child Health Questionnaire - Parent Report)",

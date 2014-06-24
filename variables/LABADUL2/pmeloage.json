@@ -2,7 +2,7 @@
   "id": "pmeloage",
   "display_name": "83 Age Parent with melanoma",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "569",
     "Form": "LABADUL2",

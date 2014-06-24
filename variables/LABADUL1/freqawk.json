@@ -2,7 +2,7 @@
   "id": "freqawk",
   "display_name": "18 frequent awakenings (AC)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "21",
     "Form": "LABADUL1",

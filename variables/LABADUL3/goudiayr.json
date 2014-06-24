@@ -2,7 +2,7 @@
   "id": "goudiayr",
   "display_name": "95 Year Diagnosed Gout",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "765",
     "Form": "LABADUL3",

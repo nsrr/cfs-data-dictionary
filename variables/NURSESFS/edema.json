@@ -2,7 +2,7 @@
   "id": "edema",
   "display_name": "Nurses notes: Has edema",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "47",
     "Form": "Doctor's Evaluation Notes",

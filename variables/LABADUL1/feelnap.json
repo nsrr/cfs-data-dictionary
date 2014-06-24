@@ -2,7 +2,7 @@
   "id": "feelnap",
   "display_name": "42c how often feel refreshed after nap (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "66",
     "Form": "LABADUL1",

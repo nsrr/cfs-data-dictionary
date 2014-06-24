@@ -2,7 +2,7 @@
   "id": "diaapn",
   "display_name": "97 ever been diagnosed w/ sleep apnea",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "802",
     "Form": "LABADUL3",

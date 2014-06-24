@@ -2,7 +2,7 @@
   "id": "thawed1",
   "display_name": "DNA1: Serum sample thawed (Y/N)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "11",
     "Form": "DNA/CEPH",

@@ -2,7 +2,7 @@
   "id": "nicu",
   "display_name": "57Were you in nicu",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "99",
     "Form": "LABADUL1",

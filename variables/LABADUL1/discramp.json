@@ -2,7 +2,7 @@
   "id": "discramp",
   "display_name": "16 leg cramps",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "19",
     "Form": "LABADUL1",

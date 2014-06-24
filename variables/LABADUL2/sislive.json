@@ -2,7 +2,7 @@
   "id": "sislive",
   "display_name": "80 num living sisters",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "386",
     "Form": "LABADUL2",

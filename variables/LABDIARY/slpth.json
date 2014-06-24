@@ -2,7 +2,7 @@
   "id": "slpth",
   "display_name": "PostSleep: Hours sleep last night",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "47",
     "Form": "Post-Sleep Questionnaire",

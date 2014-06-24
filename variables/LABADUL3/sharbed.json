@@ -2,7 +2,7 @@
   "id": "sharbed",
   "display_name": "106 share a bedroom with you",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "826",
     "Form": "LABADUL3",

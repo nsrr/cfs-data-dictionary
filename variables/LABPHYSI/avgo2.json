@@ -2,7 +2,7 @@
   "id": "avgo2",
   "display_name": "Sleep Study: average oxygen saturation (%)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "39",
     "Form": "Physio Report",

@@ -2,7 +2,7 @@
   "id": "candiayr",
   "display_name": "95 Year Diagnosed Cancer",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "787",
     "Form": "LABADUL3",

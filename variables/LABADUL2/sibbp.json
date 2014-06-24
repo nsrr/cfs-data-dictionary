@@ -2,7 +2,7 @@
   "id": "sibbp",
   "display_name": "81 Any sibs with High Blood Pressure",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "409",
     "Form": "LABADUL2",

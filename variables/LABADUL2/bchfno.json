@@ -2,7 +2,7 @@
   "id": "bchfno",
   "display_name": "81 How many bro with Congestive Heart Failure",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "407",
     "Form": "LABADUL2",

@@ -2,7 +2,7 @@
   "id": "pheldone",
   "display_name": "Checklist: Phlebotomy done",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "31",
     "Form": "Participant Paperwork Check off List",

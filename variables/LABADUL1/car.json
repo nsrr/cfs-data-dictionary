@@ -2,7 +2,7 @@
   "id": "car",
   "display_name": "39e  of accidents while driving (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "57",
     "Form": "LABADUL1",

@@ -2,7 +2,7 @@
   "id": "babyasno",
   "display_name": "74 on avg how many baby aspirin",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "169",
     "Form": "LABADUL1",

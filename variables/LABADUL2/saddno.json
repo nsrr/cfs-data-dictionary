@@ -2,7 +2,7 @@
   "id": "saddno",
   "display_name": "81 How many sis with Attention Deficit Disorder",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "460",
     "Form": "LABADUL2",

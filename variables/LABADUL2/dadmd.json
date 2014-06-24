@@ -2,7 +2,7 @@
   "id": "dadmd",
   "display_name": "77 Dad diagnosed Muscular Dystrophy",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "355",
     "Form": "LABADUL2",

@@ -2,7 +2,7 @@
   "id": "oldinfar",
   "display_name": "ECG: Old infarct",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "203",
     "Form": "ECG",

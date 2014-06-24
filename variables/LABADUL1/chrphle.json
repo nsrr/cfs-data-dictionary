@@ -2,7 +2,7 @@
   "id": "chrphle",
   "display_name": "69 bring up phlegm as much as twice a day",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "135",
     "Form": "LABADUL1",

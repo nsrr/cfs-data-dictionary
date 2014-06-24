@@ -2,7 +2,7 @@
   "id": "totdna",
   "display_name": "Specimen: Total DNA (ug)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "12",
     "Form": "Specimen Date (Bloods and Cephs)",

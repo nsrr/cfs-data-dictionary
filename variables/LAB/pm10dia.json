@@ -2,7 +2,7 @@
   "id": "pm10dia",
   "display_name": "BP: 10 PM Diastolic",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": null,
     "Form": "Lab dataset",

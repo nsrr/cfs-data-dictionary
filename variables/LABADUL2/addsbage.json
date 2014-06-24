@@ -2,7 +2,7 @@
   "id": "addsbage",
   "display_name": "83 Age Sister2 breast cancer",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "559",
     "Form": "LABADUL2",

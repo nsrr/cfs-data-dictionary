@@ -2,7 +2,7 @@
   "id": "per90",
   "display_name": "Sleep Study: % time O2 saturation < 90%",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "54",
     "Form": "Physio Report",

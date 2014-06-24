@@ -2,7 +2,7 @@
   "id": "motherid",
   "display_name": "PersionID of Mother of Subject",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "22",
     "Form": "OLDNAMES",

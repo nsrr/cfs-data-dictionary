@@ -2,7 +2,7 @@
   "id": "mosq3c",
   "display_name": "MOS: Q3C",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "9",
     "Form": "SF-36 Health Survey (MOS)",

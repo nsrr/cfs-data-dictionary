@@ -2,7 +2,7 @@
   "id": "angiop",
   "display_name": "95 Coronary Angioplasty",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "661",
     "Form": "LABADUL3",

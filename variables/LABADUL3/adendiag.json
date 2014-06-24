@@ -2,7 +2,7 @@
   "id": "adendiag",
   "display_name": "95 Adenoidectomy",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "746",
     "Form": "LABADUL3",

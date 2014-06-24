@@ -2,7 +2,7 @@
   "id": "monitor",
   "display_name": "Sleep Diary: sleep monitor used for study (AC)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "60",
     "Form": "Sleep Diary",

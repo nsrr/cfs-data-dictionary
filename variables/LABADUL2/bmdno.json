@@ -2,7 +2,7 @@
   "id": "bmdno",
   "display_name": "81 How many bro with  Muscular Dystrophy",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "453",
     "Form": "LABADUL2",

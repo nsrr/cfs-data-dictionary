@@ -2,7 +2,7 @@
   "id": "occlude",
   "display_name": "Ankle-Arm: Did the patient occlude?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "6",
     "Form": "Alkle-Arm Index",

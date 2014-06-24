@@ -2,7 +2,7 @@
   "id": "sibmd",
   "display_name": "81 Any sibs with Muscular Dystrophy",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "452",
     "Form": "LABADUL2",

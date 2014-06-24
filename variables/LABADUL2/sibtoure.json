@@ -2,7 +2,7 @@
   "id": "sibtoure",
   "display_name": "81 Any sibs with Tourettes Syndrome",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "455",
     "Form": "LABADUL2",

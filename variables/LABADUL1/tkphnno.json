@@ -2,7 +2,7 @@
   "id": "tkphnno",
   "display_name": "41a  times fell asleep while on phone (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "62",
     "Form": "LABADUL1",

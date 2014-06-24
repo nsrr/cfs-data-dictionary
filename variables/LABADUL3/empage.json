@@ -2,7 +2,7 @@
   "id": "empage",
   "display_name": "95 Age Diagnosed Emphysema",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "733",
     "Form": "LABADUL3",

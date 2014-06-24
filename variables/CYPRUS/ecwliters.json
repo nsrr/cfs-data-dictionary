@@ -2,7 +2,7 @@
   "id": "ecwliters",
   "display_name": "Cyprus: Extracellular water (liters)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "12",
     "Form": "Cyprus Body Fat",

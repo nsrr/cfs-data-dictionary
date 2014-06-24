@@ -2,7 +2,7 @@
   "id": "iiird",
   "display_name": "ECG: III: RD",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "178",
     "Form": "ECG",

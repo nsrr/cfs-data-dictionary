@@ -2,7 +2,7 @@
   "id": "recdrugs",
   "display_name": "Nurses notes: Use recreational drugs",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "45",
     "Form": "Nurses Admission Form",

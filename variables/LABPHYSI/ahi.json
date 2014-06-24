@@ -2,7 +2,7 @@
   "id": "ahi",
   "display_name": "Sleep Study: apnea hypopnea index",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "74",
     "Form": "Sleep Diary",

@@ -2,7 +2,7 @@
   "id": "whecold",
   "display_name": "62a wheeze when have a cold (AC)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "116",
     "Form": "LABADUL1",

@@ -2,7 +2,7 @@
   "id": "goutdiag",
   "display_name": "95 Gout",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "764",
     "Form": "LABADUL3",

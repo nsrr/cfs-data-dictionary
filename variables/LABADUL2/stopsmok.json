@@ -2,7 +2,7 @@
   "id": "stopsmok",
   "display_name": "84e age stopped smoking cigarettes (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "580",
     "Form": "LABADUL2",

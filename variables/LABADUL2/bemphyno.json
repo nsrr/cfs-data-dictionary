@@ -2,7 +2,7 @@
   "id": "bemphyno",
   "display_name": "81 How many bro with   Emphysema",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "447",
     "Form": "LABADUL2",

@@ -2,7 +2,7 @@
   "id": "iiirpa",
   "display_name": "ECG: III: RPA",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "181",
     "Form": "ECG",

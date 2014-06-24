@@ -2,7 +2,7 @@
   "id": "stroage",
   "display_name": "95 Age Diagnosed Stroke (CVA)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "676",
     "Form": "LABADUL3",

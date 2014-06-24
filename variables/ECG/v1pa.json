@@ -2,7 +2,7 @@
   "id": "v1pa",
   "display_name": "ECG: V1: PA",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "13",
     "Form": "ECG",

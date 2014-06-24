@@ -2,7 +2,7 @@
   "id": "sibdepre",
   "display_name": "81 Any sibs with Depression",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "437",
     "Form": "LABADUL2",

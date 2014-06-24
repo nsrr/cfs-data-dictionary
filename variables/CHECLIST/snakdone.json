@@ -2,7 +2,7 @@
   "id": "snakdone",
   "display_name": "Checklist: Snack log done",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "50",
     "Form": "Participant Paperwork Check off List",

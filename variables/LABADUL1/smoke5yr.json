@@ -2,7 +2,7 @@
   "id": "smoke5yr",
   "display_name": "60 did mom smoke during the first five yrs of your life? (L)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "103",
     "Form": "LABADUL1",

@@ -2,7 +2,7 @@
   "id": "breacanc",
   "display_name": "83 Any Bio rel had Breast Cancer",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "556",
     "Form": "LABADUL2",

@@ -2,7 +2,7 @@
   "id": "avgapn",
   "display_name": "Sleep Study: average apnea duration (sec)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "41",
     "Form": "Physio Report",

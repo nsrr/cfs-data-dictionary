@@ -2,7 +2,7 @@
   "id": "fcncern",
   "display_name": "FOSQ: Difficulty concentrating",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "68",
     "Form": "FOSQ (Functional Outcomes of Sleep Questionnaire)",

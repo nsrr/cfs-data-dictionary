@@ -2,7 +2,7 @@
   "id": "movarage",
   "display_name": "83 Age Mom Ovarian cancer",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "554",
     "Form": "LABADUL2",

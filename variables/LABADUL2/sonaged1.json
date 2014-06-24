@@ -2,7 +2,7 @@
   "id": "sonaged1",
   "display_name": "82 Age of death son 1",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "474",
     "Form": "LABADUL2",

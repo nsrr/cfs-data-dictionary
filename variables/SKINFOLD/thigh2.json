@@ -2,7 +2,7 @@
   "id": "thigh2",
   "display_name": "Skinfold: thigh skinfol 2 (mm)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "28",
     "Form": "Skinfold Assessment",

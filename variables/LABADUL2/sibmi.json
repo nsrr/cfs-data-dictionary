@@ -2,7 +2,7 @@
   "id": "sibmi",
   "display_name": "81 Any sibs with Heart Attack (Myocardial Infarction)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "424",
     "Form": "LABADUL2",

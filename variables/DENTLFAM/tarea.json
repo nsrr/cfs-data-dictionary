@@ -2,7 +2,7 @@
   "id": "tarea",
   "display_name": "Ceph: tongue area, (geocalc)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "35",
     "Form": "Cephlometric Measurements",

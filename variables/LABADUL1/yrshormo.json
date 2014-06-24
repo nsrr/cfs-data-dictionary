@@ -2,7 +2,7 @@
   "id": "yrshormo",
   "display_name": "76 How many months did you use them during the last 2 years",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "273",
     "Form": "LABADUL1",

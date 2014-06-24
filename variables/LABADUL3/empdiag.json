@@ -2,7 +2,7 @@
   "id": "empdiag",
   "display_name": "95 Emphysema",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "731",
     "Form": "LABADUL3",

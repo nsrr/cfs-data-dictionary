@@ -2,7 +2,7 @@
   "id": "surdiayr",
   "display_name": "95 Year Diagnosed Other Major Surgery",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "791",
     "Form": "LABADUL3",

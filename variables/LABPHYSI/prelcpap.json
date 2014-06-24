@@ -2,7 +2,7 @@
   "id": "prelcpap",
   "display_name": "Sleep Study: on CPAP",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "30",
     "Form": "Physio Report",

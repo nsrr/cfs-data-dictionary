@@ -2,7 +2,7 @@
   "id": "resistance",
   "display_name": "Cyprus: BIA resistance",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "4",
     "Form": "Cyprus Body Fat",

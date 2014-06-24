@@ -2,7 +2,7 @@
   "id": "mageadd",
   "display_name": "77 Age Mom diagnosed Attention Deficit Disorder",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "358",
     "Form": "LABADUL2",

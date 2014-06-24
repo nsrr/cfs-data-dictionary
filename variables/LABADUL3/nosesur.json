@@ -2,7 +2,7 @@
   "id": "nosesur",
   "display_name": "97 have nose surgery",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "808",
     "Form": "LABADUL3",

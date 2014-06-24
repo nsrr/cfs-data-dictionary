@@ -2,7 +2,7 @@
   "id": "stopcigs",
   "display_name": "85 Age stop smoking Cigars",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "591",
     "Form": "LABADUL2",

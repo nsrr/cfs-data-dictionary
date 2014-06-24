@@ -2,7 +2,7 @@
   "id": "dadlive",
   "display_name": "79 dad is alive (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "377",
     "Form": "LABADUL2",

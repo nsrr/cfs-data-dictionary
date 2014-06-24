@@ -2,7 +2,7 @@
   "id": "smdno",
   "display_name": "81 How many sis withMuscular Dystrophy",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "454",
     "Form": "LABADUL2",

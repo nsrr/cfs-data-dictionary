@@ -2,7 +2,7 @@
   "id": "kidemphy",
   "display_name": "82 Any kids have Emphysema",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "532",
     "Form": "LABADUL2",

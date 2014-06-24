@@ -2,7 +2,7 @@
   "id": "celeviox",
   "display_name": "74 Celebrex or Vioxx in the last three days ",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "179",
     "Form": "LABADUL1",

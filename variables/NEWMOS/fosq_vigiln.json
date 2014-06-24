@@ -2,7 +2,7 @@
   "id": "fosq_vigiln",
   "display_name": "FOSQ Vigilence",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "124",
     "Form": "FOSQ (Functional Outcomes of Sleep Questionnaire)",

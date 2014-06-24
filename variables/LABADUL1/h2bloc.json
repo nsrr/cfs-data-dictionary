@@ -2,7 +2,7 @@
   "id": "h2bloc",
   "display_name": "74 Other H2 Blocker in the last three days ",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "196",
     "Form": "LABADUL1",

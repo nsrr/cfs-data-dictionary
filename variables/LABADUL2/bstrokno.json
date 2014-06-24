@@ -2,7 +2,7 @@
   "id": "bstrokno",
   "display_name": "81 How many bro with Stroke (or a TIA)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "428",
     "Form": "LABADUL2",

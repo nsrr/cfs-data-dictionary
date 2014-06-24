@@ -2,7 +2,7 @@
   "id": "bsicklno",
   "display_name": "81 How many bro with Sickle Cell Disease",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "462",
     "Form": "LABADUL2",

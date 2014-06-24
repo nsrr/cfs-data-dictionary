@@ -2,7 +2,7 @@
   "id": "sna",
   "display_name": "Ceph: <SNA (angle: Sella to Naison plane and A point)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "20",
     "Form": "Cephlometric Measurements",

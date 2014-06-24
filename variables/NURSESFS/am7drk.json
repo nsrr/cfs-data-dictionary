@@ -2,7 +2,7 @@
   "id": "am7drk",
   "display_name": "Blood Draw: 7 AM - how long since last caffeinated drink",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "40",
     "Form": "Blood Draw Form",

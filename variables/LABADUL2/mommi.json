@@ -2,7 +2,7 @@
   "id": "mommi",
   "display_name": "77 Mom diagnosed Heart Attack",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "319",
     "Form": "LABADUL2",

@@ -2,7 +2,7 @@
   "id": "avcondis",
   "display_name": "ECG: AV Conduction Disturbance",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "194",
     "Form": "ECG",

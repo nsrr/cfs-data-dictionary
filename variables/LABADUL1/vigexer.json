@@ -2,7 +2,7 @@
   "id": "vigexer",
   "display_name": "61 Past year time spent other vigorous activities(L)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "112",
     "Form": "LABADUL1",

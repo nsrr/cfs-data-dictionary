@@ -2,7 +2,7 @@
   "id": "icwliters",
   "display_name": "Cyprus: Intracellular water (liters)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "11",
     "Form": "Cyprus Body Fat",

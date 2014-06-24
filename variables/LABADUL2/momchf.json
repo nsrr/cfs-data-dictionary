@@ -2,7 +2,7 @@
   "id": "momchf",
   "display_name": "77 Mom diagnosed Congestive Heart Failure",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "307",
     "Form": "LABADUL2",

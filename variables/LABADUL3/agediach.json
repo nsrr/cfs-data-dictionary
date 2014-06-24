@@ -2,7 +2,7 @@
   "id": "agediach",
   "display_name": "95 Age Diagnosed Elevated Cholesterol",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "636",
     "Form": "LABADUL3",

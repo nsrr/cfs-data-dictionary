@@ -2,7 +2,7 @@
   "id": "bcmwt",
   "display_name": "Cyprus: Body cell mass",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "8",
     "Form": "Cyprus Body Fat",

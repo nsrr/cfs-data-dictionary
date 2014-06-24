@@ -2,7 +2,7 @@
   "id": "dnaconc",
   "display_name": "Specimen: DNA concentration (ug/ul)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "13",
     "Form": "Specimen Date (Bloods and Cephs)",

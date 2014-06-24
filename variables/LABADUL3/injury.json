@@ -2,7 +2,7 @@
   "id": "injury",
   "display_name": "100 has been injuries or accidents in family",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "817",
     "Form": "LABADUL3",

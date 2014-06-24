@@ -2,7 +2,7 @@
   "id": "kidslp",
   "display_name": "82 Any kids have Excessive (too much) Sleepiness",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "507",
     "Form": "LABADUL2",

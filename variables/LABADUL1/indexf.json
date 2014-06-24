@@ -2,7 +2,7 @@
   "id": "indexf",
   "display_name": "Family Type",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "6",
     "Form": "LABADUL1",

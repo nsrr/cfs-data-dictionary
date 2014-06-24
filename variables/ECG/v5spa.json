@@ -2,7 +2,7 @@
   "id": "v5spa",
   "display_name": "ECG: V5: SPA",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "87",
     "Form": "ECG",

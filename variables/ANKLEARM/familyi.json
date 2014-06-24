@@ -2,7 +2,7 @@
   "id": "familyi",
   "display_name": "Family ID",
   "description": "Family ID",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "2",
     "Form": "Alkle-Arm Index",

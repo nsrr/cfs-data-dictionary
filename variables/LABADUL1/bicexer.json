@@ -2,7 +2,7 @@
   "id": "bicexer",
   "display_name": "61 Past year time spent bicycling (including stationary machine)?(L)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "107",
     "Form": "LABADUL1",

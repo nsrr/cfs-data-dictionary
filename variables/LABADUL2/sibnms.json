@@ -2,7 +2,7 @@
   "id": "sibnms",
   "display_name": "81 Any sibs with Near Miss SIDS",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "415",
     "Form": "LABADUL2",

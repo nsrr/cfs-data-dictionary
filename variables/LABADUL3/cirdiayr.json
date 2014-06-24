@@ -2,7 +2,7 @@
   "id": "cirdiayr",
   "display_name": "95 Year Diagnosed Cirrhosis of the Liver",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "720",
     "Form": "LABADUL3",

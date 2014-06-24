@@ -2,7 +2,7 @@
   "id": "tonsdiag",
   "display_name": "95 Tonsillectomy",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "749",
     "Form": "LABADUL3",

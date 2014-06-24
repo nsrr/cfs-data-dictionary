@@ -2,7 +2,7 @@
   "id": "cptdone",
   "display_name": "Checklist: CPT done",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "46",
     "Form": "Participant Paperwork Check off List",

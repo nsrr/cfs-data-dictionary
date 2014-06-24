@@ -2,7 +2,7 @@
   "id": "whtkg",
   "display_name": "Weight (kg)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "6",
     "Form": "In Lab Physio",

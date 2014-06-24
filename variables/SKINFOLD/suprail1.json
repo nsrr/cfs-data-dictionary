@@ -2,7 +2,7 @@
   "id": "suprail1",
   "display_name": "Skinfold: suprailiac 1 (mm)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "19",
     "Form": "Skinfold Assessment",

@@ -2,7 +2,7 @@
   "id": "hrtage",
   "display_name": "95 Age Diagnosed Myocardial Infarction",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "648",
     "Form": "LABADUL3",

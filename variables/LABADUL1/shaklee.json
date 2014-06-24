@@ -2,7 +2,7 @@
   "id": "shaklee",
   "display_name": "74 Mult Vit: Shaklee Vita-Lea",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "239",
     "Form": "LABADUL1",

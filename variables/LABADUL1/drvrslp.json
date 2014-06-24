@@ -2,7 +2,7 @@
   "id": "drvrslp",
   "display_name": "39b ever fallen asleep driving (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "54",
     "Form": "LABADUL1",

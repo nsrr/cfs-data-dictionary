@@ -2,7 +2,7 @@
   "id": "mensnow",
   "display_name": "Nurses notes: Menstruating at time of lab visit",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "48",
     "Form": "Doctor's Evaluation Notes",

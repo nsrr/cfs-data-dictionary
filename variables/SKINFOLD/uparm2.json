@@ -2,7 +2,7 @@
   "id": "uparm2",
   "display_name": "Skinfold: mid upper arm circumference 2 (cm)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "12",
     "Form": "Skinfold Assessment",

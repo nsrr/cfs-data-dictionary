@@ -2,7 +2,7 @@
   "id": "house",
   "display_name": "Household # at last visit",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "32",
     "Form": "Nunames",

@@ -2,7 +2,7 @@
   "id": "daumd",
   "display_name": "82 Num of dau with Muscular Dystrophy",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "540",
     "Form": "LABADUL2",

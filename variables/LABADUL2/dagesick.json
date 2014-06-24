@@ -2,7 +2,7 @@
   "id": "dagesick",
   "display_name": "77 Age Dad diagnosed Sickle Cell Disease",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "368",
     "Form": "LABADUL2",

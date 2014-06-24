@@ -2,7 +2,7 @@
   "id": "nosons",
   "display_name": "82 How many sons",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "468",
     "Form": "LABADUL2",

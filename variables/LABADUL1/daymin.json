@@ -2,7 +2,7 @@
   "id": "daymin",
   "display_name": "44  minutes sleep during the weekdays",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "74",
     "Form": "LABADUL1",

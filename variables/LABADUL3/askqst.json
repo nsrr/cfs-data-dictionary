@@ -2,7 +2,7 @@
   "id": "askqst",
   "display_name": "106 subj had help w/ questionnaire",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "825",
     "Form": "LABADUL3",

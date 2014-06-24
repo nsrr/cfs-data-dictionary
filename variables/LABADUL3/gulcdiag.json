@@ -2,7 +2,7 @@
   "id": "gulcdiag",
   "display_name": "95 Gastric of Duodenal Ulcer",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "689",
     "Form": "LABADUL3",

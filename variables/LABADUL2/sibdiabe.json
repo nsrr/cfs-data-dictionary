@@ -2,7 +2,7 @@
   "id": "sibdiabe",
   "display_name": "81 Any sibs with Diabetes",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "440",
     "Form": "LABADUL2",

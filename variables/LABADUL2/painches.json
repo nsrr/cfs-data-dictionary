@@ -2,7 +2,7 @@
   "id": "painches",
   "display_name": "86 Ever had any chest pain or discomfort",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "593",
     "Form": "LABADUL2",

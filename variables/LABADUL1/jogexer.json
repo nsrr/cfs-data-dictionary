@@ -2,7 +2,7 @@
   "id": "jogexer",
   "display_name": "61 Past year time spent jogging (slower than 10 minutes/mile)(L)?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "105",
     "Form": "LABADUL1",

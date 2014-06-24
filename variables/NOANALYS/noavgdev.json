@@ -2,7 +2,7 @@
   "id": "noavgdev",
   "display_name": "Nitric Oxide: % Avg SD",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "9",
     "Form": "Nitric Oxide Analyser",

@@ -2,7 +2,7 @@
   "id": "sf36_rp",
   "display_name": "SF-36 ROLE-PHYSICAL (0-100)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "218",
     "Form": "SF-36 Health Survey (MOS)",

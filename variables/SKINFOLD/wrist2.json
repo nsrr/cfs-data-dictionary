@@ -2,7 +2,7 @@
   "id": "wrist2",
   "display_name": "Skinfold: wrist circumference 2 (cm)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "6",
     "Form": "Skinfold Assessment",

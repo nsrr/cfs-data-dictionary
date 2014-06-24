@@ -2,7 +2,7 @@
   "id": "brodiag",
   "display_name": "95 Chronic Bronchitis",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "728",
     "Form": "LABADUL3",

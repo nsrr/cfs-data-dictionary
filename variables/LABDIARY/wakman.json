@@ -2,7 +2,7 @@
   "id": "wakman",
   "display_name": "PostSleep: How many times did you wake up?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "40",
     "Form": "Post-Sleep Questionnaire",

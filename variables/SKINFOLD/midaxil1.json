@@ -2,7 +2,7 @@
   "id": "midaxil1",
   "display_name": "Skinfold: midaxillary 1 (mm)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "17",
     "Form": "Skinfold Assessment",

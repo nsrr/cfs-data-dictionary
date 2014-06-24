@@ -2,7 +2,7 @@
   "id": "biadone",
   "display_name": "Checklist: BIA done ",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "28",
     "Form": "Participant Paperwork Check off List",

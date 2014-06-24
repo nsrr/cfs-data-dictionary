@@ -2,7 +2,7 @@
   "id": "bypdiayr",
   "display_name": "95 Year Diagnosed  Coronary Bypass",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "659",
     "Form": "LABADUL3",

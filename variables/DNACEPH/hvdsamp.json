@@ -2,7 +2,7 @@
   "id": "hvdsamp",
   "display_name": "Has Harvard sample",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "59",
     "Form": "DNA/CEPH",

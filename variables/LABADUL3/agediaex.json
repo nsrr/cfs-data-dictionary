@@ -2,7 +2,7 @@
   "id": "agediaex",
   "display_name": "95 Age Diagnosed Excessive Sleepiness",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "630",
     "Form": "LABADUL3",

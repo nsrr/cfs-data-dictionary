@@ -2,7 +2,7 @@
   "id": "strnnos",
   "display_name": "65 Are you bothered by a stuffy or runny nose? (L)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "127",
     "Form": "LABADUL1",

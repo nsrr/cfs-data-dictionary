@@ -2,7 +2,7 @@
   "id": "zbec",
   "display_name": "74 Mult Vit: Z-Bec",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "251",
     "Form": "LABADUL1",

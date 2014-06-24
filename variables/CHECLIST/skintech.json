@@ -2,7 +2,7 @@
   "id": "skintech",
   "display_name": "Checklist: Skinfold tech",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "27",
     "Form": "Participant Paperwork Check off List",

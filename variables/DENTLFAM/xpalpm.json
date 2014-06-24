@@ -2,7 +2,7 @@
   "id": "xpalpm",
   "display_name": "Ceph: <Pal-PM (angle: palatal plane and PM)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "25",
     "Form": "Cephlometric Measurements",

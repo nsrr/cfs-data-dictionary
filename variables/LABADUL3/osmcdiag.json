@@ -2,7 +2,7 @@
   "id": "osmcdiag",
   "display_name": "95 Other Significant Medical Condition",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "794",
     "Form": "LABADUL3",

@@ -2,7 +2,7 @@
   "id": "calit600",
   "display_name": "74 Mult Vit: Calitrate 600",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "225",
     "Form": "LABADUL1",

@@ -2,7 +2,7 @@
   "id": "sasthmno",
   "display_name": "81 How many sis with Asthma",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "445",
     "Form": "LABADUL2",

@@ -2,7 +2,7 @@
   "id": "snloudly",
   "display_name": "35 Loud Snoring -- loud enough to wake others (L)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "38",
     "Form": "LABADUL1",

@@ -2,7 +2,7 @@
   "id": "broaged3",
   "display_name": "80 age of death bro3",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "392",
     "Form": "LABADUL2",

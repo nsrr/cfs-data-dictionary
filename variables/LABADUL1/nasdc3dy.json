@@ -2,7 +2,7 @@
   "id": "nasdc3dy",
   "display_name": "73 Antihistimines in last 3 days (L)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "153",
     "Form": "LABADUL1",

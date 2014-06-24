@@ -2,7 +2,7 @@
   "id": "v3rd",
   "display_name": "ECG: V3: RD",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "50",
     "Form": "ECG",

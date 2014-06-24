@@ -2,7 +2,7 @@
   "id": "tiadiayr",
   "display_name": "95 Year DiagnosedTIA (Transient Ischemic Attack)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "681",
     "Form": "LABADUL3",

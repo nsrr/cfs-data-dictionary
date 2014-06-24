@@ -2,7 +2,7 @@
   "id": "dna_ampbuccal",
   "display_name": "DNA: 1=Has active amplified buccal DNA sample",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "5",
     "Form": "(calculated based on Specimen dataset)",

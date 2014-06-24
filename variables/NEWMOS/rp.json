@@ -2,7 +2,7 @@
   "id": "rp",
   "display_name": "CHQ-PF50 Role-Physical (0-100)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "196",
     "Form": "CHQ-PF50 (Child Health Questionnaire - Parent Report)",

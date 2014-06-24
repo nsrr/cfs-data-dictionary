@@ -2,7 +2,7 @@
   "id": "progyr",
   "display_name": "73 Progesterone  in last yr (L)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "158",
     "Form": "LABADUL1",

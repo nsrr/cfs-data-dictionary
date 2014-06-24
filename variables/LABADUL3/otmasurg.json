@@ -2,7 +2,7 @@
   "id": "otmasurg",
   "display_name": "95 Other Major Surgery",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "790",
     "Form": "LABADUL3",

@@ -2,7 +2,7 @@
   "id": "daddied",
   "display_name": "79 age when dad died (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "378",
     "Form": "LABADUL2",

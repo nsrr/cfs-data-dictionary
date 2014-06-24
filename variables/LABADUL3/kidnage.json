@@ -2,7 +2,7 @@
   "id": "kidnage",
   "display_name": "95 Age Diagnosed Kidney Stones",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "700",
     "Form": "LABADUL3",

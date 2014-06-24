@@ -2,7 +2,7 @@
   "id": "dauosa",
   "display_name": "82 Num of dau with Sleep Apnea",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "488",
     "Form": "LABADUL2",

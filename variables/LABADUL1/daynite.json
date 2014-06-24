@@ -2,7 +2,7 @@
   "id": "daynite",
   "display_name": "62c wheeze most days or nights (AC)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "118",
     "Form": "LABADUL1",

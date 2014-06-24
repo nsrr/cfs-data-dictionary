@@ -2,7 +2,7 @@
   "id": "soncancr",
   "display_name": "82 Num of sons with Cancer",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "520",
     "Form": "LABADUL2",

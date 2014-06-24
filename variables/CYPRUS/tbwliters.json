@@ -2,7 +2,7 @@
   "id": "tbwliters",
   "display_name": "Cyprus: Total body water (liters)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "10",
     "Form": "Cyprus Body Fat",

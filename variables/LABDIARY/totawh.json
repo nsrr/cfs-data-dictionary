@@ -2,7 +2,7 @@
   "id": "totawh",
   "display_name": "PostSleep: Hours spent awake",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "44",
     "Form": "Post-Sleep Questionnaire",

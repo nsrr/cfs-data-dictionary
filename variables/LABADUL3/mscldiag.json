@@ -2,7 +2,7 @@
   "id": "mscldiag",
   "display_name": "95 Multiple Sclerosis",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "767",
     "Form": "LABADUL3",

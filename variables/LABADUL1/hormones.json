@@ -2,7 +2,7 @@
   "id": "hormones",
   "display_name": "76 ever use prescription female hormones?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "272",
     "Form": "LABADUL1",

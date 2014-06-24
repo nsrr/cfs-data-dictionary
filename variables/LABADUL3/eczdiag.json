@@ -2,7 +2,7 @@
   "id": "eczdiag",
   "display_name": "95 Eczema",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "779",
     "Form": "LABADUL3",

@@ -2,7 +2,7 @@
   "id": "am7dia",
   "display_name": "BP: 7 AM Diastolic",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": null,
     "Form": "Lab dataset",

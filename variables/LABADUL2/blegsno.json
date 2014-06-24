@@ -2,7 +2,7 @@
   "id": "blegsno",
   "display_name": "81 How many bro with Restless Legs",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "450",
     "Form": "LABADUL2",

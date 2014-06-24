@@ -2,7 +2,7 @@
   "id": "bsidsno",
   "display_name": "81 How many bro with  (SIDS)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "413",
     "Form": "LABADUL2",

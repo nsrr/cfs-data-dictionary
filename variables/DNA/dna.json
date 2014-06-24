@@ -2,7 +2,7 @@
   "id": "dna",
   "display_name": "DNA: 1=Has any active DNA sample",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "2",
     "Form": "(calculated based on Specimen dataset)",

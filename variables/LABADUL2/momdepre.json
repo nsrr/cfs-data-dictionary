@@ -2,7 +2,7 @@
   "id": "momdepre",
   "display_name": "77 Mom diagnosed Depression",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "337",
     "Form": "LABADUL2",

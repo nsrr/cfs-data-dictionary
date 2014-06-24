@@ -2,7 +2,7 @@
   "id": "serthaw",
   "display_name": "Specimen: serthaw",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "9",
     "Form": "Specimen Date (Bloods and Cephs)",

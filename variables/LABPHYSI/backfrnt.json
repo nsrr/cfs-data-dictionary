@@ -2,7 +2,7 @@
   "id": "backfrnt",
   "display_name": "Head Measurement - back to front",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "7",
     "Form": "In Lab Physio",

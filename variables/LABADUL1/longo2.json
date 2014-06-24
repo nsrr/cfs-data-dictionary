@@ -2,7 +2,7 @@
   "id": "longo2",
   "display_name": "56 how long did you require oxygen",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "98",
     "Form": "LABADUL1",

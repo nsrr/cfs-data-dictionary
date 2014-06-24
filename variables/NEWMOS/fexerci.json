@@ -2,7 +2,7 @@
   "id": "fexerci",
   "display_name": "FOSQ: Difficulty exercising",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "86",
     "Form": "FOSQ (Functional Outcomes of Sleep Questionnaire)",

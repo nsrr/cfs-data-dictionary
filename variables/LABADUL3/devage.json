@@ -2,7 +2,7 @@
   "id": "devage",
   "display_name": "95 Age Diagnosed Nose with a Deviated Septum",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "745",
     "Form": "LABADUL3",

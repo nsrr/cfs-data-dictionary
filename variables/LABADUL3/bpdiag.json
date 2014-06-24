@@ -2,7 +2,7 @@
   "id": "bpdiag",
   "display_name": "95 High Blood Pressure:",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "643",
     "Form": "LABADUL3",

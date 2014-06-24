@@ -2,7 +2,7 @@
   "id": "hepadiag",
   "display_name": "95 Hepatitis",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "722",
     "Form": "LABADUL3",

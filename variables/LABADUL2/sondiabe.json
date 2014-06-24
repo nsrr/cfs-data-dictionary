@@ -2,7 +2,7 @@
   "id": "sondiabe",
   "display_name": "82 Num of sons with Diabetes",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "527",
     "Form": "LABADUL2",

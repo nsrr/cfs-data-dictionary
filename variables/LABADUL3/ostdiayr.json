@@ -2,7 +2,7 @@
   "id": "ostdiayr",
   "display_name": "95 Year Diagnosed Osteoporosis",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "687",
     "Form": "LABADUL3",

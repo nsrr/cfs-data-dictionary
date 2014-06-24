@@ -2,7 +2,7 @@
   "id": "rheudiag",
   "display_name": "95 Rheumatoid Arthritis",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "770",
     "Form": "LABADUL3",

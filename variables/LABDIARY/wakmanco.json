@@ -2,7 +2,7 @@
   "id": "wakmanco",
   "display_name": "PostSleep: Compared to usual, wake up more, same, or less?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "41",
     "Form": "Post-Sleep Questionnaire",

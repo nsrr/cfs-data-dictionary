@@ -2,7 +2,7 @@
   "id": "tothrslp",
   "display_name": "45 How many total hrs in a 24 hour period (L)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "77",
     "Form": "LABADUL1",

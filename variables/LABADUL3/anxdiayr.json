@@ -2,7 +2,7 @@
   "id": "anxdiayr",
   "display_name": "95 Year Diagnosed Anxiety",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "756",
     "Form": "LABADUL3",

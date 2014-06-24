@@ -2,7 +2,7 @@
   "id": "ftv",
   "display_name": "FOSQ: Difficulty watcing tv",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "90",
     "Form": "FOSQ (Functional Outcomes of Sleep Questionnaire)",

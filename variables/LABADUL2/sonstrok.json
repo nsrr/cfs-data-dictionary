@@ -2,7 +2,7 @@
   "id": "sonstrok",
   "display_name": "82 Num of sons with Stroke (or a TIA)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "514",
     "Form": "LABADUL2",

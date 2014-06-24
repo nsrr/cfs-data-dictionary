@@ -2,7 +2,7 @@
   "id": "vigltech",
   "display_name": "Checklist: Vigilance test tech",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "52",
     "Form": "Participant Paperwork Check off List",

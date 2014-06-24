@@ -2,7 +2,7 @@
   "id": "sicdiag",
   "display_name": "95 Sickle Cell Disease",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "713",
     "Form": "LABADUL3",

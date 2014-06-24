@@ -2,7 +2,7 @@
   "id": "parkdiag",
   "display_name": "95 Parkinsons Disease",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "692",
     "Form": "LABADUL3",

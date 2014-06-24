@@ -2,7 +2,7 @@
   "id": "talkno",
   "display_name": "40a  of times fell asleep talking (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "60",
     "Form": "LABADUL1",

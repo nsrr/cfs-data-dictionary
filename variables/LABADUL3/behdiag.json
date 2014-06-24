@@ -2,7 +2,7 @@
   "id": "behdiag",
   "display_name": "95 Behavior Disorder",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "761",
     "Form": "LABADUL3",

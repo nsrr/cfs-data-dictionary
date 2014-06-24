@@ -2,7 +2,7 @@
   "id": "slpcrash",
   "display_name": "29 almost had car accident b/c sleepy (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "32",
     "Form": "LABADUL1",

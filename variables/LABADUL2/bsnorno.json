@@ -2,7 +2,7 @@
   "id": "bsnorno",
   "display_name": "81 How many bro with  Loud/Disruptive Snoring",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "419",
     "Form": "LABADUL2",

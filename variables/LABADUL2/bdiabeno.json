@@ -2,7 +2,7 @@
   "id": "bdiabeno",
   "display_name": "81 How many bro with Diabetes",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "441",
     "Form": "LABADUL2",

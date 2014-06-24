@@ -2,7 +2,7 @@
   "id": "dna_buccal",
   "display_name": "DNA: 1=Has active buccal DNA sample",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "4",
     "Form": "(calculated based on Specimen dataset)",

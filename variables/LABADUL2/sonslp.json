@@ -2,7 +2,7 @@
   "id": "sonslp",
   "display_name": "82 Num of sons with Excessive (too much) Sleepiness",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "508",
     "Form": "LABADUL2",

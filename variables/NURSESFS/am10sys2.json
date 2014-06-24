@@ -2,7 +2,7 @@
   "id": "am10sys2",
   "display_name": "BP: 10 AM - Systolic 2",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "28",
     "Form": "Nurses Flow Sheet",

@@ -2,7 +2,7 @@
   "id": "rectype",
   "display_name": "Rectype",
   "description": "Rectype",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "1",
     "Form": "Follow-up Recruiting",

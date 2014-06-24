@@ -2,7 +2,7 @@
   "id": "ftheatr",
   "display_name": "FOSQ: Difficulty enjoying theater",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "88",
     "Form": "FOSQ (Functional Outcomes of Sleep Questionnaire)",

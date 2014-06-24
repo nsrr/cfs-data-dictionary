@@ -2,7 +2,7 @@
   "id": "slptco",
   "display_name": "PostSleep: Compared to usual, total time asleep longer, the same, or shorter?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "49",
     "Form": "Post-Sleep Questionnaire",

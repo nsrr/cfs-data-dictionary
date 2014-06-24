@@ -2,7 +2,7 @@
   "id": "othprog",
   "display_name": "76 ever use Other Progeserone",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "285",
     "Form": "LABADUL1",

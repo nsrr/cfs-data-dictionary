@@ -2,7 +2,7 @@
   "id": "tonsaden",
   "display_name": "88 tonsils/adenoids removed (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "606",
     "Form": "LABADUL2",

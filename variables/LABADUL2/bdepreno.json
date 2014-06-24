@@ -2,7 +2,7 @@
   "id": "bdepreno",
   "display_name": "81 How many bro with  Depression",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "438",
     "Form": "LABADUL2",

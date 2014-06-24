@@ -2,7 +2,7 @@
   "id": "daywake",
   "display_name": "43 wake up time on weekdays (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "71",
     "Form": "LABADUL1",

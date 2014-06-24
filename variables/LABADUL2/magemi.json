@@ -2,7 +2,7 @@
   "id": "magemi",
   "display_name": "77 Age Mom diagnosed Heart Attack",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "320",
     "Form": "LABADUL2",

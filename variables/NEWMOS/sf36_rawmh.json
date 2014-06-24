@@ -2,7 +2,7 @@
   "id": "sf36_rawmh",
   "display_name": "SF-36 RAW MENTAL HEALTH INDEX",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "229",
     "Form": "SF-36 Health Survey (MOS)",

@@ -2,7 +2,7 @@
   "id": "physdone",
   "display_name": "Checklist: Lab Physio done",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "17",
     "Form": "Participant Paperwork Check off List",

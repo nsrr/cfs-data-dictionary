@@ -2,7 +2,7 @@
   "id": "ostediag",
   "display_name": "95 Osteoporosis",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "686",
     "Form": "LABADUL3",

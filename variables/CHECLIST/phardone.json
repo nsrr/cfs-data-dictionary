@@ -2,7 +2,7 @@
   "id": "phardone",
   "display_name": "Checklist: Pharyngometry done",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "44",
     "Form": "Participant Paperwork Check off List",

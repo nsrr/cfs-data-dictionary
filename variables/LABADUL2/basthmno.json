@@ -2,7 +2,7 @@
   "id": "basthmno",
   "display_name": "81 How many bro with Asthma",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "444",
     "Form": "LABADUL2",

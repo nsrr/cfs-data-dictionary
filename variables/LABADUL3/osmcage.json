@@ -2,7 +2,7 @@
   "id": "osmcage",
   "display_name": "95 Age Diagnosed Other Significant Medical Condition",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "796",
     "Form": "LABADUL3",

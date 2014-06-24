@@ -2,7 +2,7 @@
   "id": "factive",
   "display_name": "FOSQ: Level of activity",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "96",
     "Form": "FOSQ (Functional Outcomes of Sleep Questionnaire)",

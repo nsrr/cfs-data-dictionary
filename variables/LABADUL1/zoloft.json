@@ -2,7 +2,7 @@
   "id": "zoloft",
   "display_name": "74 Zoloft in the last three days ",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "202",
     "Form": "LABADUL1",

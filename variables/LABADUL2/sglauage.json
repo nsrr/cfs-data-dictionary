@@ -2,7 +2,7 @@
   "id": "sglauage",
   "display_name": "83 Age Sibling with glaucoma",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "574",
     "Form": "LABADUL2",

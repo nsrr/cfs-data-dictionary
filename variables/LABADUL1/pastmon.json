@@ -2,7 +2,7 @@
   "id": "pastmon",
   "display_name": "62h wheeze during past month",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "123",
     "Form": "LABADUL1",

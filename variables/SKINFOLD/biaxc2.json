@@ -2,7 +2,7 @@
   "id": "biaxc2",
   "display_name": "Skinfold: BIA Total body reactant 1 Xc",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "10",
     "Form": "Skinfold Assessment",

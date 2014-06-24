@@ -2,7 +2,7 @@
   "id": "aspirmon",
   "display_name": "74 last month have you used aspirin",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "171",
     "Form": "LABADUL1",

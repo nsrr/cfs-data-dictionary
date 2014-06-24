@@ -2,7 +2,7 @@
   "id": "kidstrok",
   "display_name": "82 Any kids have Stroke (or a TIA)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "513",
     "Form": "LABADUL2",

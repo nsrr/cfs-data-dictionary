@@ -2,7 +2,7 @@
   "id": "nodrinks",
   "display_name": "92 last month largest number ofu may have had in one day",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "615",
     "Form": "LABADUL2",

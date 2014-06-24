@@ -2,7 +2,7 @@
   "id": "ladder",
   "display_name": "111 Where would you place yourself on this ladder?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "835",
     "Form": "LABADUL3",

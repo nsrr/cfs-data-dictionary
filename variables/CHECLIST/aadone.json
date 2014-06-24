@@ -2,7 +2,7 @@
   "id": "aadone",
   "display_name": "Checklist: Ankle-Arm done",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "24",
     "Form": "Participant Paperwork Check off List",

@@ -2,7 +2,7 @@
   "id": "posttx",
   "display_name": "subject studied post-treatment",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "16",
     "Form": "In Lab Physio",

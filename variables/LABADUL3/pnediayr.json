@@ -2,7 +2,7 @@
   "id": "pnediayr",
   "display_name": "95 Year Diagnosed  Pneumonia :",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "735",
     "Form": "LABADUL3",

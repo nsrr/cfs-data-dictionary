@@ -2,7 +2,7 @@
   "id": "strodiyr",
   "display_name": "95 Year DiagnosedStroke (CVA)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "675",
     "Form": "LABADUL3",

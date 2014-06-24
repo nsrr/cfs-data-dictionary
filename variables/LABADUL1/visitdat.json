@@ -2,7 +2,7 @@
   "id": "visitdat",
   "display_name": "LABADULT: Visit date",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "842",
     "Form": "LABADUL1",

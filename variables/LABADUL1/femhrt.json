@@ -2,7 +2,7 @@
   "id": "femhrt",
   "display_name": "76 ever use FemHRT",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "291",
     "Form": "LABADUL1",

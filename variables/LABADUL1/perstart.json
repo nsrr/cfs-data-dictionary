@@ -2,7 +2,7 @@
   "id": "perstart",
   "display_name": "75 At what age did your menstrual periods begin?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "259",
     "Form": "LABADUL1",

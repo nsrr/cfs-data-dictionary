@@ -2,7 +2,7 @@
   "id": "soverage",
   "display_name": "83 Age sis ovarian cancer",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "555",
     "Form": "LABADUL2",

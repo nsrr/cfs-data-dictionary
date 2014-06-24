@@ -2,7 +2,7 @@
   "id": "dialegs",
   "display_name": "95 Restless Legs or PLMs",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "631",
     "Form": "LABADUL3",

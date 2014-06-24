@@ -2,7 +2,7 @@
   "id": "hhtcm",
   "display_name": "Height (cm)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "5",
     "Form": "In Lab Physio",

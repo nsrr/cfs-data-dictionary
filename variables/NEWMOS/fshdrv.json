@@ -2,7 +2,7 @@
   "id": "fshdrv",
   "display_name": "FOSQ: Difficulty driving short distances",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "73",
     "Form": "FOSQ (Functional Outcomes of Sleep Questionnaire)",

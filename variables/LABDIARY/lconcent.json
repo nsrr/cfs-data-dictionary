@@ -2,7 +2,7 @@
   "id": "lconcent",
   "display_name": "PostSleep: How would you describe your ability to concentrate this morning?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "57",
     "Form": "Post-Sleep Questionnaire",

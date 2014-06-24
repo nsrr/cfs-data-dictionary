@@ -2,7 +2,7 @@
   "id": "momsmoke",
   "display_name": "59 Did mom smoke while pregnant with you? (L)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "102",
     "Form": "LABADUL1",

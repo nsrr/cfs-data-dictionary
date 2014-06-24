@@ -2,7 +2,7 @@
   "id": "hipc2",
   "display_name": "Skinfold: hip circumference 2 (cm)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "38",
     "Form": "Skinfold Assessment",

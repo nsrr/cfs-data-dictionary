@@ -2,7 +2,7 @@
   "id": "facht",
   "display_name": "Ceph: Facial Height (naison to Menton)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "7",
     "Form": "Cephlometric Measurements",

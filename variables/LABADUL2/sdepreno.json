@@ -2,7 +2,7 @@
   "id": "sdepreno",
   "display_name": "81 How many sis with Depression",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "439",
     "Form": "LABADUL2",

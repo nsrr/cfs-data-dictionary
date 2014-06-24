@@ -2,7 +2,7 @@
   "id": "armexer",
   "display_name": "61 Past year time spent weight training arms(L)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "113",
     "Form": "LABADUL1",

@@ -2,7 +2,7 @@
   "id": "vtloc3",
   "display_name": "DNA3: Vermont Location",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "43",
     "Form": "DNA/CEPH",

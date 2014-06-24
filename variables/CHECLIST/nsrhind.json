@@ -2,7 +2,7 @@
   "id": "nsrhind",
   "display_name": "Checklist: Rhinometry with nose drops done",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "42",
     "Form": "Participant Paperwork Check off List",

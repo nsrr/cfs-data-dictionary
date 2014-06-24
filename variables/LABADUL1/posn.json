@@ -2,7 +2,7 @@
   "id": "posn",
   "display_name": "36 usual sleep position (AC)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "39",
     "Form": "LABADUL1",

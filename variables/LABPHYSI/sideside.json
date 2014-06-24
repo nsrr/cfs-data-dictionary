@@ -2,7 +2,7 @@
   "id": "sideside",
   "display_name": "Head Measurement - side to side",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "8",
     "Form": "In Lab Physio",

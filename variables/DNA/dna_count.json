@@ -2,7 +2,7 @@
   "id": "dna_count",
   "display_name": "DNA: Estimated number of times extracted",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "8",
     "Form": "(calculated based on Specimen dataset)",

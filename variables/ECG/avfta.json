@@ -2,7 +2,7 @@
   "id": "avfta",
   "display_name": "ECG: AVF: TA",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "171",
     "Form": "ECG",

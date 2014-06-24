@@ -2,7 +2,7 @@
   "id": "pneudiag",
   "display_name": "95 Pneumonia",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "734",
     "Form": "LABADUL3",

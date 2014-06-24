@@ -2,7 +2,7 @@
   "id": "anediayr",
   "display_name": "95 Year Diagnosed Anemia",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "717",
     "Form": "LABADUL3",

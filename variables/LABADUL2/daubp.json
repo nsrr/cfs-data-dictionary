@@ -2,7 +2,7 @@
   "id": "daubp",
   "display_name": "82 Num of dau with High Blood Pressure",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "497",
     "Form": "LABADUL2",

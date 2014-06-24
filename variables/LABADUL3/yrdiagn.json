@@ -2,7 +2,7 @@
   "id": "yrdiagn",
   "display_name": "97 year diagnosed with sleep apnea",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "804",
     "Form": "LABADUL3",

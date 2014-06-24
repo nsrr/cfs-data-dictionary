@@ -2,7 +2,7 @@
   "id": "agediana",
   "display_name": "95 Age Diagnosed  Narcolepsy",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "624",
     "Form": "LABADUL3",

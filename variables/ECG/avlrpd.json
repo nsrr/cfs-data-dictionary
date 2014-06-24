@@ -2,7 +2,7 @@
   "id": "avlrpd",
   "display_name": "ECG: AVL: RPD",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "134",
     "Form": "ECG",

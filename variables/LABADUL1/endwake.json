@@ -2,7 +2,7 @@
   "id": "endwake",
   "display_name": "43 wake up time on weekends (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "72",
     "Form": "LABADUL1",

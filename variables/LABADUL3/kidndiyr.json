@@ -2,7 +2,7 @@
   "id": "kidndiyr",
   "display_name": "95 Year Diagnosed  Kidney Stones",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "699",
     "Form": "LABADUL3",

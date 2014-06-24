@@ -2,7 +2,7 @@
   "id": "microniz",
   "display_name": "76 ever use Micronized (e.g. Prometrium)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "284",
     "Form": "LABADUL1",

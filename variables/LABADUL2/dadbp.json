@@ -2,7 +2,7 @@
   "id": "dadbp",
   "display_name": "77 Dad diagnosed High Blood Pressure",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "305",
     "Form": "LABADUL2",

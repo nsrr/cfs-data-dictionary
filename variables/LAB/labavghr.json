@@ -2,7 +2,7 @@
   "id": "labavghr",
   "display_name": "BP: Mean lab HR",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": null,
     "Form": "Lab dataset",

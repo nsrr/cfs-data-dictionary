@@ -2,7 +2,7 @@
   "id": "cypage",
   "display_name": "Cyprus: age at testing",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "1",
     "Form": "Cyprus Body Fat",

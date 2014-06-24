@@ -2,7 +2,7 @@
   "id": "fltill",
   "display_name": "PreSleep: Felt ill today or last 2 weeks?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "34",
     "Form": "Pre-Sleep Questionnaire",

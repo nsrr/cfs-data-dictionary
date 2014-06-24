@@ -2,7 +2,7 @@
   "id": "goutage",
   "display_name": "95 Age DiagnosedGout",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "766",
     "Form": "LABADUL3",

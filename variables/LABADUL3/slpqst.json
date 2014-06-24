@@ -2,7 +2,7 @@
   "id": "slpqst",
   "display_name": "112 subj dozed off completing questionnaire",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "836",
     "Form": "LABADUL3",

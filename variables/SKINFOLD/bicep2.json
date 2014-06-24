@@ -2,7 +2,7 @@
   "id": "bicep2",
   "display_name": "Skinfold: bicep skinfold 2 (mm)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "26",
     "Form": "Skinfold Assessment",

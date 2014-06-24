@@ -2,7 +2,7 @@
   "id": "hepdiayr",
   "display_name": "95 Year Diagnosed  Hepatitis",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "723",
     "Form": "LABADUL3",

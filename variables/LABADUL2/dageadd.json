@@ -2,7 +2,7 @@
   "id": "dageadd",
   "display_name": "77 Age Dad diagnosed Attention Deficit Disorder",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "360",
     "Form": "LABADUL2",

@@ -2,7 +2,7 @@
   "id": "avgcigs",
   "display_name": "85 How many cigars on average",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "585",
     "Form": "LABADUL2",

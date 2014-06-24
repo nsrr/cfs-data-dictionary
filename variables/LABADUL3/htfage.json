@@ -2,7 +2,7 @@
   "id": "htfage",
   "display_name": "95 Age Diagnosed Congestive Heart Failure",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "666",
     "Form": "LABADUL3",

@@ -2,7 +2,7 @@
   "id": "plateau2",
   "display_name": "Nitric Oxide: Plateau 2",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "6",
     "Form": "Nitric Oxide Analyser",

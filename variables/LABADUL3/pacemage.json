@@ -2,7 +2,7 @@
   "id": "pacemage",
   "display_name": "95 Age Diagnosed Implant of Cardiac Pacemaker",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "669",
     "Form": "LABADUL3",

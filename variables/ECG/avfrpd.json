@@ -2,7 +2,7 @@
   "id": "avfrpd",
   "display_name": "ECG: AVF: RPD",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "166",
     "Form": "ECG",

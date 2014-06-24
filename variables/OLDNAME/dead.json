@@ -2,7 +2,7 @@
   "id": "dead",
   "display_name": "Is Subject dead",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "27",
     "Form": "OLDNAMES",

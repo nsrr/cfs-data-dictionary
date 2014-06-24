@@ -2,7 +2,7 @@
   "id": "dageoths",
   "display_name": "77 Age Dad diagnosed Other Significant Medical",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "372",
     "Form": "LABADUL2",

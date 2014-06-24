@@ -2,7 +2,7 @@
   "id": "ampmdrw2",
   "display_name": "DNA2: Time drawn am(0) pm(1)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "24",
     "Form": "DNA/CEPH",

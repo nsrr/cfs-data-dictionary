@@ -2,7 +2,7 @@
   "id": "estrate",
   "display_name": "76 ever use Estratest",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "279",
     "Form": "LABADUL1",

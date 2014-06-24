@@ -2,7 +2,7 @@
   "id": "oneadayw",
   "display_name": "74 Mult Vit: One A Day Womens",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "231",
     "Form": "LABADUL1",

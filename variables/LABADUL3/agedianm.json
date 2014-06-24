@@ -2,7 +2,7 @@
   "id": "agedianm",
   "display_name": "95 Age Diagnosed Near Miss SIDS, ALTE",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "642",
     "Form": "LABADUL3",

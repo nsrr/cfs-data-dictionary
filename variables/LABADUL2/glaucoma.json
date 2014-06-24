@@ -2,7 +2,7 @@
   "id": "glaucoma",
   "display_name": "83 Any bio relatives had Glaucoma",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "572",
     "Form": "LABADUL2",

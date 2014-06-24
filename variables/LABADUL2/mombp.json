@@ -2,7 +2,7 @@
   "id": "mombp",
   "display_name": "77 Mom diagnosed High Blood Pressure",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "303",
     "Form": "LABADUL2",

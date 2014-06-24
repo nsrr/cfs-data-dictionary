@@ -2,7 +2,7 @@
   "id": "hypflow",
   "display_name": "BracReac: Hyperemia flow volume",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "24",
     "Form": "Brachial Artery Vasoactivity Worksheet",

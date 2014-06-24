@@ -2,7 +2,7 @@
   "id": "upbath",
   "display_name": "32 wake up to use toilet >= 2x (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "35",
     "Form": "LABADUL1",

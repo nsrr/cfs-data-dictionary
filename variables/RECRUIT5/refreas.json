@@ -2,7 +2,7 @@
   "id": "refreas",
   "display_name": "Refused reason",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "10",
     "Form": "Follow-up Recruiting",

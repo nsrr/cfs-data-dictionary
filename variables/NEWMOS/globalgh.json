@@ -2,7 +2,7 @@
   "id": "globalgh",
   "display_name": "CHQ-PF50 single item global behavior",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "188",
     "Form": "CHQ-PF50 (Child Health Questionnaire - Parent Report)",

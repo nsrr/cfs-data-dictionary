@@ -2,7 +2,7 @@
   "id": "v6stj",
   "display_name": "ECG: V6: STJ",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "104",
     "Form": "ECG",

@@ -2,7 +2,7 @@
   "id": "astdiag",
   "display_name": "95 Asthma",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "725",
     "Form": "LABADUL3",

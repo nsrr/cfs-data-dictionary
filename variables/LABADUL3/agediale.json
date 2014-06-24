@@ -2,7 +2,7 @@
   "id": "agediale",
   "display_name": "95 Age Diagnosed Restless Legs or PLMs",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "633",
     "Form": "LABADUL3",

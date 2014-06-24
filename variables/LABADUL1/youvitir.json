@@ -2,7 +2,7 @@
   "id": "youvitir",
   "display_name": "74 Does your multivitamin include iron?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "256",
     "Form": "LABADUL1",

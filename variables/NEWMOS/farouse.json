@@ -2,7 +2,7 @@
   "id": "farouse",
   "display_name": "FOSQ: Sexual ability affected",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "99",
     "Form": "FOSQ (Functional Outcomes of Sleep Questionnaire)",

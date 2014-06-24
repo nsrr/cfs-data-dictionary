@@ -2,7 +2,7 @@
   "id": "lstim",
   "display_name": "PreSleep: Stimulants today?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "27",
     "Form": "Pre-Sleep Questionnaire",

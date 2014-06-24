@@ -2,7 +2,7 @@
   "id": "antidepr",
   "display_name": "74 anti depressant in the last three days",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "200",
     "Form": "LABADUL1",

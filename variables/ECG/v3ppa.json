@@ -2,7 +2,7 @@
   "id": "v3ppa",
   "display_name": "ECG: V3: PPA",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "46",
     "Form": "ECG",

@@ -2,7 +2,7 @@
   "id": "daucancr",
   "display_name": "82 Num of dau with Cancer",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "521",
     "Form": "LABADUL2",

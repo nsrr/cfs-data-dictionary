@@ -2,7 +2,7 @@
   "id": "allbeec",
   "display_name": "74 Mult Vit: Allbee + C",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "221",
     "Form": "LABADUL1",

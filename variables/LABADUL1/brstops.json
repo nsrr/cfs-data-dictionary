@@ -2,7 +2,7 @@
   "id": "brstops",
   "display_name": "7 stop breathing while asleep (AC)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "10",
     "Form": "LABADUL1",

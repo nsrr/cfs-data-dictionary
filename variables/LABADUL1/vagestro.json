@@ -2,7 +2,7 @@
   "id": "vagestro",
   "display_name": "76 ever use vaginal estrogen",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "276",
     "Form": "LABADUL1",

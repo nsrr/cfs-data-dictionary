@@ -2,7 +2,7 @@
   "id": "msclage",
   "display_name": "95 Age DiagnosedMultiple Sclerosis",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "769",
     "Form": "LABADUL3",

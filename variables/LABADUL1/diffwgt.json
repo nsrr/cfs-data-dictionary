@@ -2,7 +2,7 @@
   "id": "diffwgt",
   "display_name": "54 what is max weight diff over past 5 yrs (L)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "92",
     "Form": "LABADUL1",

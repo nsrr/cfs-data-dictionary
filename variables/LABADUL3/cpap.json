@@ -2,7 +2,7 @@
   "id": "cpap",
   "display_name": "97 recommended or prescribed CPAP",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "805",
     "Form": "LABADUL3",

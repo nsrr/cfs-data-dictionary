@@ -2,7 +2,7 @@
   "id": "sibstrok",
   "display_name": "81 Any sibs with Stroke (or a TIA)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "427",
     "Form": "LABADUL2",

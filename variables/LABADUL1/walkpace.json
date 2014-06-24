@@ -2,7 +2,7 @@
   "id": "walkpace",
   "display_name": "52 What is your normal walking pace outdoors?(L)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "90",
     "Form": "LABADUL1",

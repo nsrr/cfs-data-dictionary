@@ -2,7 +2,7 @@
   "id": "dautoure",
   "display_name": "82 Num of dau with Tourettes Syndrome",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "543",
     "Form": "LABADUL2",

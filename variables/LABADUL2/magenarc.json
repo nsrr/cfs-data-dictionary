@@ -2,7 +2,7 @@
   "id": "magenarc",
   "display_name": "77 Age Mom diagnosed Narcolepsy",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "300",
     "Form": "LABADUL2",

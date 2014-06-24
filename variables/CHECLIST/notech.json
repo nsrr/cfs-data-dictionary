@@ -2,7 +2,7 @@
   "id": "notech",
   "display_name": "Checklist: Nitric Oxide test tech",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "49",
     "Form": "Participant Paperwork Check off List",

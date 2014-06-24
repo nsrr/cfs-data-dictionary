@@ -2,7 +2,7 @@
   "id": "rmsmoky",
   "display_name": "66 smoky room gives you a stuffy or runny nose? (L)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "128",
     "Form": "LABADUL1",

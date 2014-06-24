@@ -2,7 +2,7 @@
   "id": "rhediayr",
   "display_name": "95 Year Diagnosed Rheumatoid Arthritis",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "771",
     "Form": "LABADUL3",

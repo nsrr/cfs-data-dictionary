@@ -2,7 +2,7 @@
   "id": "sbreaage",
   "display_name": "83 Age Sister1 breast cancer",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "558",
     "Form": "LABADUL2",

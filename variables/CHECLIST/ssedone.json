@@ -2,7 +2,7 @@
   "id": "ssedone",
   "display_name": "Checklist: Study Evaluation done",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "16",
     "Form": "Participant Paperwork Check off List",

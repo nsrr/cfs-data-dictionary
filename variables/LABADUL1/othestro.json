@@ -2,7 +2,7 @@
   "id": "othestro",
   "display_name": "76 ever use Other Estrogen",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "280",
     "Form": "LABADUL1",

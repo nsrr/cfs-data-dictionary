@@ -2,7 +2,7 @@
   "id": "dagetour",
   "display_name": "77 Age Dad diagnosed Tourettes Syndrome",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "364",
     "Form": "LABADUL2",

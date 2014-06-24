@@ -2,7 +2,7 @@
   "id": "age",
   "display_name": "Age at time of visit",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "50",
     "Form": "Nunames",

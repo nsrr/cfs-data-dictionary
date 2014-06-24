@@ -2,7 +2,7 @@
   "id": "phartech",
   "display_name": "Checklist: Pharyngometry tech",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "45",
     "Form": "Participant Paperwork Check off List",

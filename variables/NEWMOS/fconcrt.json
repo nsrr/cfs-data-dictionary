@@ -2,7 +2,7 @@
   "id": "fconcrt",
   "display_name": "FOSQ: Difficulty enjoying concert",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "89",
     "Form": "FOSQ (Functional Outcomes of Sleep Questionnaire)",

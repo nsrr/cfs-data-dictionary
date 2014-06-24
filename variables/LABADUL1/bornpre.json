@@ -2,7 +2,7 @@
   "id": "bornpre",
   "display_name": "55 born prematurely",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "95",
     "Form": "LABADUL1",

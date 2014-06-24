@@ -2,7 +2,7 @@
   "id": "avfrd",
   "display_name": "ECG: AVF: RD",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "162",
     "Form": "ECG",

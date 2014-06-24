@@ -2,7 +2,7 @@
   "id": "cpttech",
   "display_name": "Checklist: CPT tech",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "47",
     "Form": "Participant Paperwork Check off List",

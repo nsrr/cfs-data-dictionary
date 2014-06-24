@@ -2,7 +2,7 @@
   "id": "efr",
   "display_name": "SF-36 Raw Vitality (rawvt)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "59",
     "Form": "SF-36 Health Survey (MOS)",

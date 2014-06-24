@@ -2,7 +2,7 @@
   "id": "age",
   "display_name": "LABADULT: age",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "843",
     "Form": "LABADUL1",

@@ -2,7 +2,7 @@
   "id": "isd",
   "display_name": "ECG: I: SD",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "116",
     "Form": "ECG",

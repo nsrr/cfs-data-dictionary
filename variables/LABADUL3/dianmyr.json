@@ -2,7 +2,7 @@
   "id": "dianmyr",
   "display_name": "95 Year Diagnosed Near Miss SIDS, ALTE",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "641",
     "Form": "LABADUL3",

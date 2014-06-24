@@ -2,7 +2,7 @@
   "id": "bp",
   "display_name": "CHQ-PF50 Bodily Pain (0-100)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "198",
     "Form": "CHQ-PF50 (Child Health Questionnaire - Parent Report)",

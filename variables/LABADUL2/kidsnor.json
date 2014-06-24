@@ -2,7 +2,7 @@
   "id": "kidsnor",
   "display_name": "82 Any kids have Loud/Disruptive Snoring",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "504",
     "Form": "LABADUL2",

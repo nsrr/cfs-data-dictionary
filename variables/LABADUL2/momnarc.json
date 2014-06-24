@@ -2,7 +2,7 @@
   "id": "momnarc",
   "display_name": "77 Mom diagnosed Narcolepsy",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "299",
     "Form": "LABADUL2",

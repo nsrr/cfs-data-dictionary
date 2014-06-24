@@ -2,7 +2,7 @@
   "id": "dna_vol",
   "display_name": "DNA: volume of best DNA sample (ug)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "10",
     "Form": "(calculated based on Specimen dataset)",

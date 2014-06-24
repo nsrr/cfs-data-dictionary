@@ -2,7 +2,7 @@
   "id": "sonlive",
   "display_name": "82 How many living sons",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "470",
     "Form": "LABADUL2",

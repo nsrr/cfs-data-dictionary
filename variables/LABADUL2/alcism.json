@@ -2,7 +2,7 @@
   "id": "alcism",
   "display_name": "90 alcoholism (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "611",
     "Form": "LABADUL2",

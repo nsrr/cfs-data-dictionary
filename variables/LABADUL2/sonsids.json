@@ -2,7 +2,7 @@
   "id": "sonsids",
   "display_name": "82 Num of sons with (SIDS)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "499",
     "Form": "LABADUL2",

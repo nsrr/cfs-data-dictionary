@@ -2,7 +2,7 @@
   "id": "avgpipe",
   "display_name": "85 How many pipes on average",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "586",
     "Form": "LABADUL2",

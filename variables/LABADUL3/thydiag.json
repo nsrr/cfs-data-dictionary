@@ -2,7 +2,7 @@
   "id": "thydiag",
   "display_name": "95 Thyroid Disease",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "773",
     "Form": "LABADUL3",

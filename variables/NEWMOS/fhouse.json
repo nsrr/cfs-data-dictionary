@@ -2,7 +2,7 @@
   "id": "fhouse",
   "display_name": "FOSQ: Difficulty doing work around the house",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "72",
     "Form": "FOSQ (Functional Outcomes of Sleep Questionnaire)",

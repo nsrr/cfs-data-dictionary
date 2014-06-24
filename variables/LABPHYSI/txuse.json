@@ -2,7 +2,7 @@
   "id": "txuse",
   "display_name": "treatment use",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "19",
     "Form": "In Lab Physio",

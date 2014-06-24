@@ -2,7 +2,7 @@
   "id": "magesnor",
   "display_name": "77 Age  Mom diagnosed Loud/Disruptive Snoring",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "312",
     "Form": "LABADUL2",

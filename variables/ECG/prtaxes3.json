@@ -2,7 +2,7 @@
   "id": "prtaxes3",
   "display_name": "ECG: P-R-T axis 3",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "12",
     "Form": "ECG",

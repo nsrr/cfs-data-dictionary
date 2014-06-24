@@ -2,7 +2,7 @@
   "id": "regbas",
   "display_name": "98 do you use CPAP on a regular basis",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "813",
     "Form": "LABADUL3",

@@ -2,7 +2,7 @@
   "id": "magetour",
   "display_name": "77 Age Mom diagnosed Tourettes Syndrome",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "362",
     "Form": "LABADUL2",

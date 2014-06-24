@@ -2,7 +2,7 @@
   "id": "toudiayr",
   "display_name": "95 Year Diagnosed  Tourettes Syndrome",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "711",
     "Form": "LABADUL3",

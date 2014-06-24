@@ -2,7 +2,7 @@
   "id": "nightup",
   "display_name": "46  times wake up per night (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "78",
     "Form": "LABADUL1",

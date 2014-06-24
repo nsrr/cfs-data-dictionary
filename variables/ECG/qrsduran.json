@@ -2,7 +2,7 @@
   "id": "qrsduran",
   "display_name": "ECG: QRS Duration (ms)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "7",
     "Form": "ECG",

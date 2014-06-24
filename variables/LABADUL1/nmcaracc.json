@@ -2,7 +2,7 @@
   "id": "nmcaracc",
   "display_name": "39d  near miss accidents due to sleepiness? (L)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "56",
     "Form": "LABADUL1",

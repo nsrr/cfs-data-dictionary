@@ -2,7 +2,7 @@
   "id": "eczage",
   "display_name": "95 Age Diagnosed Eczema",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "781",
     "Form": "LABADUL3",

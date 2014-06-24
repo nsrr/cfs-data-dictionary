@@ -2,7 +2,7 @@
   "id": "dadsnor",
   "display_name": "77 Dad diagnosed Loud/Disruptive Snoring",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "313",
     "Form": "LABADUL2",

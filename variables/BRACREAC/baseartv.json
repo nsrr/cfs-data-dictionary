@@ -2,7 +2,7 @@
   "id": "baseartv",
   "display_name": "BracReac: Arterial Diameter Doppler Velocity (m/s)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "13",
     "Form": "Brachial Artery Vasoactivity Worksheet",

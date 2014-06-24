@@ -2,7 +2,7 @@
   "id": "nsrhtech",
   "display_name": "Checklist: Rhinometry with nose drops tech",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "43",
     "Form": "Participant Paperwork Check off List",

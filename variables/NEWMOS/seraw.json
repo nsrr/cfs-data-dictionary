@@ -2,7 +2,7 @@
   "id": "seraw",
   "display_name": "CHQ-PF50 raw self-esteem",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "203",
     "Form": "CHQ-PF50 (Child Health Questionnaire - Parent Report)",

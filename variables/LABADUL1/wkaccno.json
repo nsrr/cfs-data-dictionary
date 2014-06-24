@@ -2,7 +2,7 @@
   "id": "wkaccno",
   "display_name": "38d  of accidents on job (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "51",
     "Form": "LABADUL1",

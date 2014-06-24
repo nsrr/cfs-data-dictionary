@@ -2,7 +2,7 @@
   "id": "nostairs",
   "display_name": "53 How many flights of stairs do you climb daily?(L)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "91",
     "Form": "LABADUL1",

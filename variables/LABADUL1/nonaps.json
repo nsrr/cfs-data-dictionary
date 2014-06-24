@@ -2,7 +2,7 @@
   "id": "nonaps",
   "display_name": "42a  of times napped (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "64",
     "Form": "LABADUL1",

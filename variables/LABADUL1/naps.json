@@ -2,7 +2,7 @@
   "id": "naps",
   "display_name": "42 needed daytime naps >= 5 min. (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "63",
     "Form": "LABADUL1",

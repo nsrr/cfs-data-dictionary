@@ -2,7 +2,7 @@
   "id": "maxapn",
   "display_name": "Sleep Study: maximum apnea duration (sec)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "43",
     "Form": "Physio Report",

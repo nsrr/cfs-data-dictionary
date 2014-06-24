@@ -2,7 +2,7 @@
   "id": "biar1",
   "display_name": "Skinfold: BIA Total body resistance 1 R",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "7",
     "Form": "Skinfold Assessment",

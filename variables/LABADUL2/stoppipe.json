@@ -2,7 +2,7 @@
   "id": "stoppipe",
   "display_name": "85 Age stop smoking Pipes",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "592",
     "Form": "LABADUL2",

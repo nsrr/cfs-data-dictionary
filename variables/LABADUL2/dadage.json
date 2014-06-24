@@ -2,7 +2,7 @@
   "id": "dadage",
   "display_name": "79 age of dad (if alive)(A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "380",
     "Form": "LABADUL2",

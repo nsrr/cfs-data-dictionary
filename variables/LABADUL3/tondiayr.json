@@ -2,7 +2,7 @@
   "id": "tondiayr",
   "display_name": "95 Year Diagnosed Tonsillectomy",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "750",
     "Form": "LABADUL3",

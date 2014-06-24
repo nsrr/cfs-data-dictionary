@@ -2,7 +2,7 @@
   "id": "slptm",
   "display_name": "PostSleep: Minutes sleep last night?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "48",
     "Form": "Post-Sleep Questionnaire",

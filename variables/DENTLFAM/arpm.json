@@ -2,7 +2,7 @@
   "id": "arpm",
   "display_name": "Ceph: Articulare to PM",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "29",
     "Form": "Cephlometric Measurements",

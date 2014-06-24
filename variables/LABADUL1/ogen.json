@@ -2,7 +2,7 @@
   "id": "ogen",
   "display_name": "76 ever use Ogen",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "277",
     "Form": "LABADUL1",

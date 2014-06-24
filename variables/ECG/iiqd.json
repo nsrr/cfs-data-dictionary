@@ -2,7 +2,7 @@
   "id": "iiqd",
   "display_name": "ECG: II: QD",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "144",
     "Form": "ECG",

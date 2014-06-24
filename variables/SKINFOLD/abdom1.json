@@ -2,7 +2,7 @@
   "id": "abdom1",
   "display_name": "Skinfold: abdominal 1 (mm)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "21",
     "Form": "Skinfold Assessment",

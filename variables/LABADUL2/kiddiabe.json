@@ -2,7 +2,7 @@
   "id": "kiddiabe",
   "display_name": "82 Any kids have Diabetes",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "526",
     "Form": "LABADUL2",

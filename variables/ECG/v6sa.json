@@ -2,7 +2,7 @@
   "id": "v6sa",
   "display_name": "ECG: V6: SA",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "99",
     "Form": "ECG",

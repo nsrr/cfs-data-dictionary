@@ -2,7 +2,7 @@
   "id": "fev1",
   "display_name": "Spirometry:  forced exp vol, 1st sec",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "22",
     "Form": "Physio Report",

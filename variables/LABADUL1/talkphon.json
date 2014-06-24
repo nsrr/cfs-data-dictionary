@@ -2,7 +2,7 @@
   "id": "talkphon",
   "display_name": "41 ever fallen asleep while on phone (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "61",
     "Form": "LABADUL1",

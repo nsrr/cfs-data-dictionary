@@ -2,7 +2,7 @@
   "id": "waistc2",
   "display_name": "Skinfold: waist circumference 2 (cm)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "34",
     "Form": "Skinfold Assessment",

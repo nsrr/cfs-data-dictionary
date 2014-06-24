@@ -2,7 +2,7 @@
   "id": "ventrate",
   "display_name": "ECG: Vent rate (bpm)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "5",
     "Form": "ECG",

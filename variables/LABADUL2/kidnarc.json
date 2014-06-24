@@ -2,7 +2,7 @@
   "id": "kidnarc",
   "display_name": "82 Any kids have Narcolepsy",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "489",
     "Form": "LABADUL2",

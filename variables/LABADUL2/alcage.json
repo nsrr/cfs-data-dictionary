@@ -2,7 +2,7 @@
   "id": "alcage",
   "display_name": "90 age when alcoholism noted (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "612",
     "Form": "LABADUL2",

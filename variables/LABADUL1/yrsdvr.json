@@ -2,7 +2,7 @@
   "id": "yrsdvr",
   "display_name": "39a How many years have you been driving (L)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "53",
     "Form": "LABADUL1",

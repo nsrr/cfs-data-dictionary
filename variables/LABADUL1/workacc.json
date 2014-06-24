@@ -2,7 +2,7 @@
   "id": "workacc",
   "display_name": "38c on job accident needing med. asst. (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "50",
     "Form": "LABADUL1",

@@ -2,7 +2,7 @@
   "id": "dagecanc",
   "display_name": "77 Age Dad diagnosed Cancer",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "335",
     "Form": "LABADUL2",

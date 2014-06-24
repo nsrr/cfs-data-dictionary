@@ -2,7 +2,7 @@
   "id": "fosq_genprd",
   "display_name": "FOSQ General Productivity",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "121",
     "Form": "FOSQ (Functional Outcomes of Sleep Questionnaire)",

@@ -2,7 +2,7 @@
   "id": "fa",
   "display_name": "CHQ-PF50 Family Activities (0-100)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "212",
     "Form": "CHQ-PF50 (Child Health Questionnaire - Parent Report)",

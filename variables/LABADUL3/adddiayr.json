@@ -2,7 +2,7 @@
   "id": "adddiayr",
   "display_name": "95 Year DiagnosedAttention Deficit Disorder",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "759",
     "Form": "LABADUL3",

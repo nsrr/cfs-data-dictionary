@@ -2,7 +2,7 @@
   "id": "chqdone",
   "display_name": "Checklist: CHQ done",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "14",
     "Form": "Participant Paperwork Check off List",

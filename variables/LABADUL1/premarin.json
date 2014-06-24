@@ -2,7 +2,7 @@
   "id": "premarin",
   "display_name": "76 ever use oral Premarin",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "274",
     "Form": "LABADUL1",

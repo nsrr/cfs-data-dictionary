@@ -2,7 +2,7 @@
   "id": "mh",
   "display_name": "CHQ-PF50 Mental Health (0-100)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "202",
     "Form": "CHQ-PF50 (Child Health Questionnaire - Parent Report)",

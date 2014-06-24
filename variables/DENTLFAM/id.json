@@ -2,7 +2,7 @@
   "id": "id",
   "display_name": null,
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "41",
     "Form": "Cephlometric Measurements",

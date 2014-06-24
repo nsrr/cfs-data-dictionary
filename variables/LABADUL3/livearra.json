@@ -2,7 +2,7 @@
   "id": "livearra",
   "display_name": "107 What are your living arrangements?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "830",
     "Form": "LABADUL3",

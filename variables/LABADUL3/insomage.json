@@ -2,7 +2,7 @@
   "id": "insomage",
   "display_name": "95 Age Diagnosed Insomnia",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "754",
     "Form": "LABADUL3",

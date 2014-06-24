@@ -2,7 +2,7 @@
   "id": "behdiayr",
   "display_name": "95 Year Diagnosed Behavior Disorder",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "762",
     "Form": "LABADUL3",

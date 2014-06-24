@@ -2,7 +2,7 @@
   "id": "slppos",
   "display_name": "PostSleep: What position did you sleep in most of the night?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "51",
     "Form": "Post-Sleep Questionnaire",

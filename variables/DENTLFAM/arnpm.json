@@ -2,7 +2,7 @@
   "id": "arnpm",
   "display_name": "Ceph: <ArN-PM (angle: posterior wall of maxilla relative to cranial base)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "4",
     "Form": "Cephlometric Measurements",

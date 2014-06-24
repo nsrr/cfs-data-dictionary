@@ -2,7 +2,7 @@
   "id": "diaexslp",
   "display_name": "95 Excessive (too much) Sleepiness",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "628",
     "Form": "LABADUL3",

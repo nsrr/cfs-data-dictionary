@@ -2,7 +2,7 @@
   "id": "nosis",
   "display_name": "80 num sisters",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "383",
     "Form": "LABADUL2",

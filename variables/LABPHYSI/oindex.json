@@ -2,7 +2,7 @@
   "id": "oindex",
   "display_name": "CPT: overall index",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "20",
     "Form": "In Lab Physio",

@@ -2,7 +2,7 @@
   "id": "thighc1",
   "display_name": "Skinfold: thigh circumference 1 (cm)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "39",
     "Form": "Skinfold Assessment",

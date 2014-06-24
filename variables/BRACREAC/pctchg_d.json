@@ -2,7 +2,7 @@
   "id": "pctchg_d",
   "display_name": "BracReac: Percent Change diameter",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "22",
     "Form": "Brachial Artery Vasoactivity Worksheet",

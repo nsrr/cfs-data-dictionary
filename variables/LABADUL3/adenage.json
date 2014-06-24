@@ -2,7 +2,7 @@
   "id": "adenage",
   "display_name": "95 Age Diagnosed Adenoidectomy",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "748",
     "Form": "LABADUL3",

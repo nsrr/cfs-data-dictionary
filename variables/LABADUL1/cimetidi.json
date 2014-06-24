@@ -2,7 +2,7 @@
   "id": "cimetidi",
   "display_name": "74 Cimetidine in the last three days ",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "195",
     "Form": "LABADUL1",

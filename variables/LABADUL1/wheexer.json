@@ -2,7 +2,7 @@
   "id": "wheexer",
   "display_name": "62d wheeze when exercising (AC)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "119",
     "Form": "LABADUL1",

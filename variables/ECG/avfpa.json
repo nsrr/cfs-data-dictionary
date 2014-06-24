@@ -2,7 +2,7 @@
   "id": "avfpa",
   "display_name": "ECG: AVF: PA",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "157",
     "Form": "ECG",

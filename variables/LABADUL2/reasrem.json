@@ -2,7 +2,7 @@
   "id": "reasrem",
   "display_name": "88 reason tonsils/adenoids removed (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "608",
     "Form": "LABADUL2",

@@ -2,7 +2,7 @@
   "id": "sonothmd",
   "display_name": "82 Num of sons with Other Significant Medical Condition",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "551",
     "Form": "LABADUL2",

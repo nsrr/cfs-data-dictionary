@@ -2,7 +2,7 @@
   "id": "nutonsil",
   "display_name": "tonsillar size, Dr. Rosen scale",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "12",
     "Form": "In Lab Physio",

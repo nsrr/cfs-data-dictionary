@@ -2,7 +2,7 @@
   "id": "fremem",
   "display_name": "FOSQ: Difficulty remembering",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "69",
     "Form": "FOSQ (Functional Outcomes of Sleep Questionnaire)",

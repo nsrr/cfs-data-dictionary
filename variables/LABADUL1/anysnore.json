@@ -2,7 +2,7 @@
   "id": "anysnore",
   "display_name": "ever told you snore (AC)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "40",
     "Form": "LABADUL1",

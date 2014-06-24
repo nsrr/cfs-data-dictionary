@@ -2,7 +2,7 @@
   "id": "sonadd",
   "display_name": "82 Num of sons with Attention Deficit Disorder",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "545",
     "Form": "LABADUL2",

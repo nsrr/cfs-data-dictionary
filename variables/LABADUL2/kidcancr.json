@@ -2,7 +2,7 @@
   "id": "kidcancr",
   "display_name": "82 Any kids have Cancer",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "519",
     "Form": "LABADUL2",

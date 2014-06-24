@@ -2,7 +2,7 @@
   "id": "angdiayr",
   "display_name": "95 Year Diagnosed Chest Pain from a heart condition",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "656",
     "Form": "LABADUL3",

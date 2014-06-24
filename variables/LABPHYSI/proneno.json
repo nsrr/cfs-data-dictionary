@@ -2,7 +2,7 @@
   "id": "proneno",
   "display_name": "Sleep Study: # of 10 min. intervals in prone position",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "49",
     "Form": "Physio Report",

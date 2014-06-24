@@ -2,7 +2,7 @@
   "id": "active2",
   "display_name": "DNA2: Is specimen active",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "20",
     "Form": "DNA/CEPH",

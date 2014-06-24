@@ -2,7 +2,7 @@
   "id": "nodone",
   "display_name": "Checklist: Nitric Oxide test done",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "48",
     "Form": "Participant Paperwork Check off List",

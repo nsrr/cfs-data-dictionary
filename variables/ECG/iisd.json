@@ -2,7 +2,7 @@
   "id": "iisd",
   "display_name": "ECG: II: SD",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "148",
     "Form": "ECG",

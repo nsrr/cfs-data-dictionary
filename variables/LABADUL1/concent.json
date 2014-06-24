@@ -2,7 +2,7 @@
   "id": "concent",
   "display_name": "21 sleepiness interfere w/ concentration",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "24",
     "Form": "LABADUL1",

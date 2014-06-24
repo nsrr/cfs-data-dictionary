@@ -2,7 +2,7 @@
   "id": "rotnite",
   "display_name": "104 rotating night shift work (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "823",
     "Form": "LABADUL3",

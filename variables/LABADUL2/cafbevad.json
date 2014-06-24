@@ -2,7 +2,7 @@
   "id": "cafbevad",
   "display_name": "94 On avg, how often drink caffeine",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "617",
     "Form": "LABADUL2",

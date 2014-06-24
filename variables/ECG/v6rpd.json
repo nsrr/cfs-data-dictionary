@@ -2,7 +2,7 @@
   "id": "v6rpd",
   "display_name": "ECG: V6: RPD",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "102",
     "Form": "ECG",

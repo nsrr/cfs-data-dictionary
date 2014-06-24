@@ -2,7 +2,7 @@
   "id": "dialegyr",
   "display_name": "95 Year Diagnosed Restless Legs or PLMs",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "632",
     "Form": "LABADUL3",

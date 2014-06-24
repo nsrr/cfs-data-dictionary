@@ -2,7 +2,7 @@
   "id": "cvsminer",
   "display_name": "74 Mult Vit: CVS Daily w Minerals",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "233",
     "Form": "LABADUL1",

@@ -2,7 +2,7 @@
   "id": "samhse",
   "display_name": "106 live in same house but different bedroom",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "827",
     "Form": "LABADUL3",

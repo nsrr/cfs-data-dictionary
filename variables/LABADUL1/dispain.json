@@ -2,7 +2,7 @@
   "id": "dispain",
   "display_name": "24 pain/physical discomfort w asleep (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "27",
     "Form": "LABADUL1",

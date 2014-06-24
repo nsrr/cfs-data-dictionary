@@ -2,7 +2,7 @@
   "id": "avlppa",
   "display_name": "ECG: AVL: PPA",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "126",
     "Form": "ECG",

@@ -2,7 +2,7 @@
   "id": "going",
   "display_name": "49 amt time to get going after sleeping (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "82",
     "Form": "LABADUL1",

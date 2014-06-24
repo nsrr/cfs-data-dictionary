@@ -2,7 +2,7 @@
   "id": "v2tpa",
   "display_name": "ECG: V2: TPA",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "44",
     "Form": "ECG",

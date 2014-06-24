@@ -2,7 +2,7 @@
   "id": "paralyze",
   "display_name": "22 awake feeling paralyzed (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "25",
     "Form": "LABADUL1",

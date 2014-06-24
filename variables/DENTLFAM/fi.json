@@ -2,7 +2,7 @@
   "id": "fi",
   "display_name": "Ceph: facial index (facial height / facial width)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "48",
     "Form": "Cephlometric Measurements",

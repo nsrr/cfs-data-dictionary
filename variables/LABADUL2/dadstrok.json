@@ -2,7 +2,7 @@
   "id": "dadstrok",
   "display_name": "77 Dad diagnosed Stroke (TIA)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "325",
     "Form": "LABADUL2",

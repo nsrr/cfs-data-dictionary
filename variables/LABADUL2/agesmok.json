@@ -2,7 +2,7 @@
   "id": "agesmok",
   "display_name": "84a age when first smoked cigarettes (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "576",
     "Form": "LABADUL2",

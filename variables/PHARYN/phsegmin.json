@@ -2,7 +2,7 @@
   "id": "phsegmin",
   "display_name": "Pharyn: min segment limit",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "5",
     "Form": "Pharyngometry Report",

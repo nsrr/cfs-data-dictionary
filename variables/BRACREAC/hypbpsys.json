@@ -2,7 +2,7 @@
   "id": "hypbpsys",
   "display_name": "BracReac: Hyperemia/FMV One minute Cuff Release 2D Image BP systolic",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "9",
     "Form": "Brachial Artery Vasoactivity Worksheet",

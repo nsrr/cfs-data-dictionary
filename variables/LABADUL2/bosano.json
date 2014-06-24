@@ -2,7 +2,7 @@
   "id": "bosano",
   "display_name": "81 How many bro with Sleep Apnea",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "401",
     "Form": "LABADUL2",

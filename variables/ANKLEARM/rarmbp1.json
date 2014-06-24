@@ -2,7 +2,7 @@
   "id": "rarmbp1",
   "display_name": "Ankle-Arm: Right Arm Systolic Blood Pressure 1",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "9",
     "Form": "Alkle-Arm Index",

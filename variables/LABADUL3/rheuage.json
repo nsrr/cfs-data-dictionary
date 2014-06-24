@@ -2,7 +2,7 @@
   "id": "rheuage",
   "display_name": "95 Age Diagnosed Rheumatoid Arthritis",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "772",
     "Form": "LABADUL3",

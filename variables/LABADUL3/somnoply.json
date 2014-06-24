@@ -2,7 +2,7 @@
   "id": "somnoply",
   "display_name": "97 rec or prescribe Somnoplasty",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "812",
     "Form": "LABADUL3",

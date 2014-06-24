@@ -2,7 +2,7 @@
   "id": "diasids",
   "display_name": "95 Crib Death, SIDS",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "637",
     "Form": "LABADUL3",

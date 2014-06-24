@@ -2,7 +2,7 @@
   "id": "baddno",
   "display_name": "81 How many bro with Attention Deficit Disorder",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "459",
     "Form": "LABADUL2",

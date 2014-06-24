@@ -2,7 +2,7 @@
   "id": "essq6",
   "display_name": "ESS: Q6",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "46",
     "Form": "ESS (Epworth Sleepiness Scale)",

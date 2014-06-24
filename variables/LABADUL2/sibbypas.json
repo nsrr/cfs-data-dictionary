@@ -2,7 +2,7 @@
   "id": "sibbypas",
   "display_name": "81 Any sibs with Angioplasty or By-Pass Surgery",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "430",
     "Form": "LABADUL2",

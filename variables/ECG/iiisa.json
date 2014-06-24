@@ -2,7 +2,7 @@
   "id": "iiisa",
   "display_name": "ECG: III: SA",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "179",
     "Form": "ECG",

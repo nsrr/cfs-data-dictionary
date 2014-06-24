@@ -2,7 +2,7 @@
   "id": "avfqa",
   "display_name": "ECG: AVF: QA",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "159",
     "Form": "ECG",

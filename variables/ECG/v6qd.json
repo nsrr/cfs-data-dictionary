@@ -2,7 +2,7 @@
   "id": "v6qd",
   "display_name": "ECG: V6: QD",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "96",
     "Form": "ECG",

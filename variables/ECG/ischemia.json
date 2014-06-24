@@ -2,7 +2,7 @@
   "id": "ischemia",
   "display_name": "ECG: Ischemia pattern",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "200",
     "Form": "ECG",

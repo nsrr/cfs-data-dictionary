@@ -2,7 +2,7 @@
   "id": "parkage",
   "display_name": "95 Age Diagnosed  Duodenal Ulcer",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "694",
     "Form": "LABADUL3",

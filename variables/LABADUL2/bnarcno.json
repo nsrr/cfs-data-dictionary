@@ -2,7 +2,7 @@
   "id": "bnarcno",
   "display_name": "81 How many bro with Narcolepsy",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "404",
     "Form": "LABADUL2",

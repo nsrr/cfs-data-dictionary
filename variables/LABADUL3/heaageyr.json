@@ -2,7 +2,7 @@
   "id": "heaageyr",
   "display_name": "95 Year Diagnosed Other Heart Disease",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "671",
     "Form": "LABADUL3",

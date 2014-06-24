@@ -2,7 +2,7 @@
   "id": "marstat",
   "display_name": "Marital Status",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "27",
     "Form": "Nunames",

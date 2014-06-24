@@ -2,7 +2,7 @@
   "id": "bypass",
   "display_name": "95 Coronary Bypass",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "658",
     "Form": "LABADUL3",

@@ -2,7 +2,7 @@
   "id": "birthwgt",
   "display_name": "58 How much did you weight at birth? (L)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "101",
     "Form": "LABADUL1",

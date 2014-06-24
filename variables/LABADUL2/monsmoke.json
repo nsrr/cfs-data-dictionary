@@ -2,7 +2,7 @@
   "id": "monsmoke",
   "display_name": "84c past month, smoke >=1 cigarettes/day (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "578",
     "Form": "LABADUL2",

@@ -2,7 +2,7 @@
   "id": "simple",
   "display_name": "97 have had a simple tonsillectomy",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "807",
     "Form": "LABADUL3",

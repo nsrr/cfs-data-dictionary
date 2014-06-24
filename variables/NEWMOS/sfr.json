@@ -2,7 +2,7 @@
   "id": "sfr",
   "display_name": "SF-36 Raw Social Functioning (rawsf)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "51",
     "Form": "SF-36 Health Survey (MOS)",

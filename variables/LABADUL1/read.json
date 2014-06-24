@@ -2,7 +2,7 @@
   "id": "read",
   "display_name": "50 how often fall asleep reading or studying?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "84",
     "Form": "LABADUL1",

@@ -2,7 +2,7 @@
   "id": "pneuage",
   "display_name": "95 Age Diagnosed  Pneumonia :",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "736",
     "Form": "LABADUL3",

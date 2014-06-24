@@ -2,7 +2,7 @@
   "id": "nodaugh",
   "display_name": "82 How many daughters",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "469",
     "Form": "LABADUL2",

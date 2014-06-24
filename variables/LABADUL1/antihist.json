@@ -2,7 +2,7 @@
   "id": "antihist",
   "display_name": "74 Antihistamine in the last three days",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "213",
     "Form": "LABADUL1",

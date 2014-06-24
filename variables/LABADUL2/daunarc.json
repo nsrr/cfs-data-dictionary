@@ -2,7 +2,7 @@
   "id": "daunarc",
   "display_name": "82 Num of dau with  Narcolepsy",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "491",
     "Form": "LABADUL2",

@@ -2,7 +2,7 @@
   "id": "momasthm",
   "display_name": "77 Mom diagnosed Asthma",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "345",
     "Form": "LABADUL2",

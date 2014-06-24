@@ -2,7 +2,7 @@
   "id": "sonbypas",
   "display_name": "82 Num of sons with Angioplasty or By-Pass Surgery",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "517",
     "Form": "LABADUL2",

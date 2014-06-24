@@ -2,7 +2,7 @@
   "id": "yeardist",
   "display_name": "37g years snoring disturbed others (AC)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "46",
     "Form": "LABADUL1",

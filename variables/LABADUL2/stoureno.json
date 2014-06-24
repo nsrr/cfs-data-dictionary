@@ -2,7 +2,7 @@
   "id": "stoureno",
   "display_name": "81 How many sis with Tourettes Syndrome",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "457",
     "Form": "LABADUL2",

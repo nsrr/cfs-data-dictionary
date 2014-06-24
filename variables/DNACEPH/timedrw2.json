@@ -2,7 +2,7 @@
   "id": "timedrw2",
   "display_name": "DNA2: Time drawn (hhmm)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "23",
     "Form": "DNA/CEPH",

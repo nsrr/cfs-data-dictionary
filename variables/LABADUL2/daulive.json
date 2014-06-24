@@ -2,7 +2,7 @@
   "id": "daulive",
   "display_name": "82 How many living daughters",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "472",
     "Form": "LABADUL2",

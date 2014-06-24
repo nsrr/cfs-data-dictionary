@@ -2,7 +2,7 @@
   "id": "endbed",
   "display_name": "43 bedtime on weekends (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "68",
     "Form": "LABADUL1",

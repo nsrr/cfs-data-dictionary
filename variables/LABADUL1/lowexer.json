@@ -2,7 +2,7 @@
   "id": "lowexer",
   "display_name": "61 Past year time spent low intensity exercise(L)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "111",
     "Form": "LABADUL1",

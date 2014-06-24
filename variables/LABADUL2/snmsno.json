@@ -2,7 +2,7 @@
   "id": "snmsno",
   "display_name": "81 How many sis with Near Miss SIDS",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "417",
     "Form": "LABADUL2",

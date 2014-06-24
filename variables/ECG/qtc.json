@@ -2,7 +2,7 @@
   "id": "qtc",
   "display_name": "ECG: QTc (ms)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "9",
     "Form": "ECG",

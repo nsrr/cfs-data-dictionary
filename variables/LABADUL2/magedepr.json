@@ -2,7 +2,7 @@
   "id": "magedepr",
   "display_name": "77 Age Mom diagnosed Specify cancer",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "338",
     "Form": "LABADUL2",

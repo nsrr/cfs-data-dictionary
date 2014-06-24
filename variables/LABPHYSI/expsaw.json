@@ -2,7 +2,7 @@
   "id": "expsaw",
   "display_name": "Spirometry:  expiratory sawtooth pattern",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "28",
     "Form": "Physio Report",

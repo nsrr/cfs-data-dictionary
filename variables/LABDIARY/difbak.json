@@ -2,7 +2,7 @@
   "id": "difbak",
   "display_name": "PostSleep: Have difficulty falling back to sleep?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "42",
     "Form": "Post-Sleep Questionnaire",

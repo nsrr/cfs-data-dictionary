@@ -2,7 +2,7 @@
   "id": "tl",
   "display_name": "Ceph: Tl (tongue length, TT to Epiglottis)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "22",
     "Form": "Cephlometric Measurements",

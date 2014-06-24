@@ -2,7 +2,7 @@
   "id": "hrprob",
   "display_name": "Problems with HR measures",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": null,
     "Form": "Lab dataset",

@@ -2,7 +2,7 @@
   "id": "nasaldil",
   "display_name": "97 recommended or prescribed nasal dilators",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "809",
     "Form": "LABADUL3",

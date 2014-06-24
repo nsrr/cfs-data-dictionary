@@ -2,7 +2,7 @@
   "id": "depdiag",
   "display_name": "95 Depression",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "776",
     "Form": "LABADUL3",

@@ -2,7 +2,7 @@
   "id": "dadasthm",
   "display_name": "77 Dad diagnosed Asthma",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "347",
     "Form": "LABADUL2",

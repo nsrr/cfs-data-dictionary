@@ -2,7 +2,7 @@
   "id": "prelmrdi",
   "display_name": "Sleep Study: preliminary RDI",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "29",
     "Form": "Physio Report",

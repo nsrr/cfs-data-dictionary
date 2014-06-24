@@ -2,7 +2,7 @@
   "id": "dianm",
   "display_name": "95 Near Miss SIDS, ALTE",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "640",
     "Form": "LABADUL3",

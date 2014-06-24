@@ -2,7 +2,7 @@
   "id": "daudiabe",
   "display_name": "82 Num of dau with Diabetes",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "528",
     "Form": "LABADUL2",

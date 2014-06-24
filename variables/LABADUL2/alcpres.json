@@ -2,7 +2,7 @@
   "id": "alcpres",
   "display_name": "90 alcoholism still present (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "613",
     "Form": "LABADUL2",

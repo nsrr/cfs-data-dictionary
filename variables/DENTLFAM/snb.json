@@ -2,7 +2,7 @@
   "id": "snb",
   "display_name": "Ceph: <SNB (angle: Sella to Naison plane and B point)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "21",
     "Form": "Cephlometric Measurements",

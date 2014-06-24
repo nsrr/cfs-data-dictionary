@@ -2,7 +2,7 @@
   "id": "longnaps",
   "display_name": "42b length of naps (min.) (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "65",
     "Form": "LABADUL1",

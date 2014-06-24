@@ -2,7 +2,7 @@
   "id": "bpage",
   "display_name": "95 Age Diagnosed  High Blood Pressure:",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "645",
     "Form": "LABADUL3",

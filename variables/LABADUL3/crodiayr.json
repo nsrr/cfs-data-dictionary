@@ -2,7 +2,7 @@
   "id": "crodiayr",
   "display_name": "95 Year Diagnosed  Colitis/Crohns",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "696",
     "Form": "LABADUL3",

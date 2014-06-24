@@ -2,7 +2,7 @@
   "id": "dadadd",
   "display_name": "77 Dad diagnosed Attention Deficit Disorder",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "359",
     "Form": "LABADUL2",

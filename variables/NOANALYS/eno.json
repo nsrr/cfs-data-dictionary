@@ -2,7 +2,7 @@
   "id": "eno",
   "display_name": "Nitric Oxide: Expired NO",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "8",
     "Form": "Nitric Oxide Analyser",

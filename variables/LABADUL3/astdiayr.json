@@ -2,7 +2,7 @@
   "id": "astdiayr",
   "display_name": "95 Year Diagnosed Asthma",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "726",
     "Form": "LABADUL3",

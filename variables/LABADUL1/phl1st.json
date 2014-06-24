@@ -2,7 +2,7 @@
   "id": "phl1st",
   "display_name": "70 phelgm 1st thing in morning",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "136",
     "Form": "LABADUL1",

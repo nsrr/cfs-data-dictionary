@@ -2,7 +2,7 @@
   "id": "lseds",
   "display_name": "PreSleep: Sedatives today?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "26",
     "Form": "Pre-Sleep Questionnaire",

@@ -2,7 +2,7 @@
   "id": "reactance",
   "display_name": "Cyprus: BIA reactance",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "5",
     "Form": "Cyprus Body Fat",

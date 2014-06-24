@@ -2,7 +2,7 @@
   "id": "dageleg",
   "display_name": "77 Age Dad diagnosed Restless Legs or Periodic",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "352",
     "Form": "LABADUL2",

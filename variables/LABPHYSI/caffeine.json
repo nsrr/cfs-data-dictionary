@@ -2,7 +2,7 @@
   "id": "caffeine",
   "display_name": "Sleep Diary: amt tea/coffee/cola on day of study (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "71",
     "Form": "Sleep Diary",

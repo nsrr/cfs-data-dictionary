@@ -2,7 +2,7 @@
   "id": "devdiag",
   "display_name": "95 Nose with a Deviated Septum",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "743",
     "Form": "LABADUL3",

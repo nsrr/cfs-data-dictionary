@@ -2,7 +2,7 @@
   "id": "avghyp",
   "display_name": "Sleep Study: average hypopnea duration (sec)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "40",
     "Form": "Physio Report",

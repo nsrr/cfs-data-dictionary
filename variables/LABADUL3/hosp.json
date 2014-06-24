@@ -2,7 +2,7 @@
   "id": "hosp",
   "display_name": "96 hospitalized since last visit",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "798",
     "Form": "LABADUL3",

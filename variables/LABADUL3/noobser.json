@@ -2,7 +2,7 @@
   "id": "noobser",
   "display_name": "106 lives elsewhere - has not observed sleep",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "829",
     "Form": "LABADUL3",

@@ -2,7 +2,7 @@
   "id": "extissue",
   "display_name": "excessive tissue observed by tester",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "13",
     "Form": "In Lab Physio",

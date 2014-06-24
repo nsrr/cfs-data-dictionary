@@ -2,7 +2,7 @@
   "id": "prilprev",
   "display_name": "74 Prilosec or Prevacid in the last three days ",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "197",
     "Form": "LABADUL1",

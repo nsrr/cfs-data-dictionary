@@ -2,7 +2,7 @@
   "id": "reb",
   "display_name": "CHQ-PF50 Role-Emotional/behavior (0-100)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "194",
     "Form": "CHQ-PF50 (Child Health Questionnaire - Parent Report)",

@@ -2,7 +2,7 @@
   "id": "hrtdiag",
   "display_name": "95 Myocardial Infarction",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "646",
     "Form": "LABADUL3",

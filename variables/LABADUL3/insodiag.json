@@ -2,7 +2,7 @@
   "id": "insodiag",
   "display_name": "95 Insomnia",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "752",
     "Form": "LABADUL3",

@@ -2,7 +2,7 @@
   "id": "araarb",
   "display_name": "Ceph: ArA-ArB (difference between AR to A and AR to B)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "2",
     "Form": "Cephlometric Measurements",

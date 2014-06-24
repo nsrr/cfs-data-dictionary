@@ -2,7 +2,7 @@
   "id": "magebypa",
   "display_name": "77 Age Mom diagnosed Angioplasty or By-pass Surgery",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "328",
     "Form": "LABADUL2",

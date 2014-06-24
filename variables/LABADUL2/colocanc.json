@@ -2,7 +2,7 @@
   "id": "colocanc",
   "display_name": "83 Any bio relatives had Colon or Rectal Cancer",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "561",
     "Form": "LABADUL2",

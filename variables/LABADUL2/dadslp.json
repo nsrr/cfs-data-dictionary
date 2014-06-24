@@ -2,7 +2,7 @@
   "id": "dadslp",
   "display_name": "77 Dad diagnosed Excessive Sleepiness",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "317",
     "Form": "LABADUL2",

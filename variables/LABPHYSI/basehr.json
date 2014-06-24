@@ -2,7 +2,7 @@
   "id": "basehr",
   "display_name": "Sleep Study: baseline heartrate (bpm)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "37",
     "Form": "Physio Report",

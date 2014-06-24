@@ -2,7 +2,7 @@
   "id": "fosq_socout",
   "display_name": "FOSQ Social Outcome",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "122",
     "Form": "FOSQ (Functional Outcomes of Sleep Questionnaire)",

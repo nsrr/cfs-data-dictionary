@@ -2,7 +2,7 @@
   "id": "empdiayr",
   "display_name": "95 Year Diagnosed  Emphysema",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "732",
     "Form": "LABADUL3",

@@ -2,7 +2,7 @@
   "id": "peraw",
   "display_name": "CHQ-PF50 raw parental impact-emotional",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "207",
     "Form": "CHQ-PF50 (Child Health Questionnaire - Parent Report)",

@@ -2,7 +2,7 @@
   "id": "enltons",
   "display_name": "87 enlarged tonsils (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "602",
     "Form": "LABADUL2",

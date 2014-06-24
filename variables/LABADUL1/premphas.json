@@ -2,7 +2,7 @@
   "id": "premphas",
   "display_name": "76 ever use Premphase",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "289",
     "Form": "LABADUL1",

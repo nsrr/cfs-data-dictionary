@@ -2,7 +2,7 @@
   "id": "sindiayr",
   "display_name": "95 Year Diagnosed Sinus",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "738",
     "Form": "LABADUL3",

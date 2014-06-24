@@ -2,7 +2,7 @@
   "id": "inno",
   "display_name": "in nitric oxide",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "12",
     "Form": "Nitric Oxide Analyser",

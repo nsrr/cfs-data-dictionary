@@ -2,7 +2,7 @@
   "id": "mchest1",
   "display_name": "Skinfold: chest (male only) 1 (mm)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "23",
     "Form": "Skinfold Assessment",

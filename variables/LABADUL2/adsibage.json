@@ -2,7 +2,7 @@
   "id": "adsibage",
   "display_name": "83 Age Sibling2 with colon cancer",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "564",
     "Form": "LABADUL2",

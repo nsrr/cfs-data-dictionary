@@ -2,7 +2,7 @@
   "id": "loudsnor",
   "display_name": "4 snores (AC)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "7",
     "Form": "LABADUL1",

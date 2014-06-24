@@ -2,7 +2,7 @@
   "id": "yrssmoke",
   "display_name": "Years smoked",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": null,
     "Form": "Lab dataset",

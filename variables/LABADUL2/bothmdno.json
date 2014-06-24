@@ -2,7 +2,7 @@
   "id": "bothmdno",
   "display_name": "81 How many bro with Other Significant Medical Condition",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "465",
     "Form": "LABADUL2",

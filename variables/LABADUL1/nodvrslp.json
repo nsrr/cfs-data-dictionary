@@ -2,7 +2,7 @@
   "id": "nodvrslp",
   "display_name": "39c  times fallen asleep driving (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "55",
     "Form": "LABADUL1",

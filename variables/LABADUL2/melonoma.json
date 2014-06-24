@@ -2,7 +2,7 @@
   "id": "melonoma",
   "display_name": "83 Any bio relatives had Melanoma",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "568",
     "Form": "LABADUL2",

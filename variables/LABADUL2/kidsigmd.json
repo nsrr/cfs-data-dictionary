@@ -2,7 +2,7 @@
   "id": "kidsigmd",
   "display_name": "82 Any kids have Other Significant Medical Condition",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "550",
     "Form": "LABADUL2",

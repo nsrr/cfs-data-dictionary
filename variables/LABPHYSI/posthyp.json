@@ -2,7 +2,7 @@
   "id": "posthyp",
   "display_name": "Sleep Study: # post hperapnea apneas",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "48",
     "Form": "Physio Report",

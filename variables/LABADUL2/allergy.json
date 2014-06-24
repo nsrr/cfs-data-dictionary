@@ -2,7 +2,7 @@
   "id": "allergy",
   "display_name": "89 are you allergic to dust/mold/pollen",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "609",
     "Form": "LABADUL2",

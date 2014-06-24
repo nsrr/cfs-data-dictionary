@@ -2,7 +2,7 @@
   "id": "eczdiayr",
   "display_name": "95 Year Diagnosed Eczema",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "780",
     "Form": "LABADUL3",

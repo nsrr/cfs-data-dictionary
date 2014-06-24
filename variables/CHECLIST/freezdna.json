@@ -2,7 +2,7 @@
   "id": "freezdna",
   "display_name": "Checklist: Permission to freeze sample",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "8",
     "Form": "Participant Paperwork Check off List",

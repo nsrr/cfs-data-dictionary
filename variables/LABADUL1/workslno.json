@@ -2,7 +2,7 @@
   "id": "workslno",
   "display_name": "38b  of times slept on job (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "49",
     "Form": "LABADUL1",

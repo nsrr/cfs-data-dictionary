@@ -2,7 +2,7 @@
   "id": "ffinace",
   "display_name": "FOSQ: Difficulty with financial affairs",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "76",
     "Form": "FOSQ (Functional Outcomes of Sleep Questionnaire)",

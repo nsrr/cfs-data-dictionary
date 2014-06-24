@@ -2,7 +2,7 @@
   "id": "diachlyr",
   "display_name": "95 Year Diagnosed Elevated Cholesterol",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "635",
     "Form": "LABADUL3",

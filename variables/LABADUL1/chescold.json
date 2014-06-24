@@ -2,7 +2,7 @@
   "id": "chescold",
   "display_name": "64 If you had any colds this year did they go to your chest?(L)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "126",
     "Form": "LABADUL1",

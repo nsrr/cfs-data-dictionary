@@ -2,7 +2,7 @@
   "id": "skintst",
   "display_name": "89 have a skintest for allergies",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "610",
     "Form": "LABADUL2",

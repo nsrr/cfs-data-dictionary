@@ -2,7 +2,7 @@
   "id": "dadosa",
   "display_name": "77 Dad diagnosed Sleep Apnea",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "297",
     "Form": "LABADUL2",

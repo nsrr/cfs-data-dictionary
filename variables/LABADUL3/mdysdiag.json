@@ -2,7 +2,7 @@
   "id": "mdysdiag",
   "display_name": "95 Muscular Dystrophy",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "707",
     "Form": "LABADUL3",

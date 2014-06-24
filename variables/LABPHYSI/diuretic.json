@@ -2,7 +2,7 @@
   "id": "diuretic",
   "display_name": "Sleep Diary: took diuretic on day of study (AC)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "68",
     "Form": "Sleep Diary",

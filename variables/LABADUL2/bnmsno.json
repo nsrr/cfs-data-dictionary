@@ -2,7 +2,7 @@
   "id": "bnmsno",
   "display_name": "81 How many bro with Near Miss SIDS",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "416",
     "Form": "LABADUL2",

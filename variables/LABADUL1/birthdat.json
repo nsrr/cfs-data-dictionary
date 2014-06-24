@@ -2,7 +2,7 @@
   "id": "birthdat",
   "display_name": "LABADULT: Date of birth",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "841",
     "Form": "LABADUL1",

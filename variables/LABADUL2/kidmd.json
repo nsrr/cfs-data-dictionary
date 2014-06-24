@@ -2,7 +2,7 @@
   "id": "kidmd",
   "display_name": "82 Any kids have Muscular Dystrophy",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "538",
     "Form": "LABADUL2",

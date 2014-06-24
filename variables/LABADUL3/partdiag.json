@@ -2,7 +2,7 @@
   "id": "partdiag",
   "display_name": "95 Peripheral Artery Disease of Claudication of the Legs",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "683",
     "Form": "LABADUL3",

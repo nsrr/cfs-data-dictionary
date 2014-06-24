@@ -2,7 +2,7 @@
   "id": "pm10cig",
   "display_name": "Blood Draw: 10 PM - how long since last cigarette",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "35",
     "Form": "Blood Draw Form",

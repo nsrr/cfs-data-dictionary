@@ -2,7 +2,7 @@
   "id": "sonosa",
   "display_name": "82 Num of sons with Sleep Apnea",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "487",
     "Form": "LABADUL2",

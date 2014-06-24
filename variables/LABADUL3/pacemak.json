@@ -2,7 +2,7 @@
   "id": "pacemak",
   "display_name": "95 Implant of Cardiac Pacemaker",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "667",
     "Form": "LABADUL3",

@@ -2,7 +2,7 @@
   "id": "rgnh",
   "display_name": "Ceph: Rgn-H (distance between Hyoid and Retrognathion)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "19",
     "Form": "Cephlometric Measurements",

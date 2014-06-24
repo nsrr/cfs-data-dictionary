@@ -2,7 +2,7 @@
   "id": "cancdiag",
   "display_name": "95 Cancer",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "786",
     "Form": "LABADUL3",

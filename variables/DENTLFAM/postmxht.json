@@ -2,7 +2,7 @@
   "id": "postmxht",
   "display_name": "Ceph: Post. Mx. Ht. (posterior intermaxillary height)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "16",
     "Form": "Cephlometric Measurements",

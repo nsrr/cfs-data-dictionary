@@ -2,7 +2,7 @@
   "id": "wakent",
   "display_name": "PostSleep: Did you wake up during the night?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "39",
     "Form": "Post-Sleep Questionnaire",

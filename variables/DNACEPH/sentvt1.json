@@ -2,7 +2,7 @@
   "id": "sentvt1",
   "display_name": "DNA1: Sent to Vermont",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "14",
     "Form": "DNA/CEPH",

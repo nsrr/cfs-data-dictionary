@@ -2,7 +2,7 @@
   "id": "fvc",
   "display_name": "Spirometry:  forced vital capacity",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "21",
     "Form": "Physio Report",

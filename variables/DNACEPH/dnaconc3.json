@@ -2,7 +2,7 @@
   "id": "dnaconc3",
   "display_name": "DNA3: concentration",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "44",
     "Form": "DNA/CEPH",

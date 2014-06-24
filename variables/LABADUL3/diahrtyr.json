@@ -2,7 +2,7 @@
   "id": "diahrtyr",
   "display_name": "95 Year Diagnosed Myocardial Infarction",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "647",
     "Form": "LABADUL3",

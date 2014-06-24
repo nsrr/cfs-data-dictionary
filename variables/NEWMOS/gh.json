@@ -2,7 +2,7 @@
   "id": "gh",
   "display_name": "CHQ-PF50 General Health (0-100)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "206",
     "Form": "CHQ-PF50 (Child Health Questionnaire - Parent Report)",

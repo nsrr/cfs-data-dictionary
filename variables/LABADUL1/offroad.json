@@ -2,7 +2,7 @@
   "id": "offroad",
   "display_name": "28 had to pull off road while driving (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "31",
     "Form": "LABADUL1",

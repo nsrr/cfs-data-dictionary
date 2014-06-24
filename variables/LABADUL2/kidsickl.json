@@ -2,7 +2,7 @@
   "id": "kidsickl",
   "display_name": "82 Any kids have Sickle Cell Disease",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "547",
     "Form": "LABADUL2",

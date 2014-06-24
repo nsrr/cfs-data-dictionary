@@ -2,7 +2,7 @@
   "id": "pndone",
   "display_name": "Checklist: Patient notes done",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "34",
     "Form": "Participant Paperwork Check off List",

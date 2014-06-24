@@ -2,7 +2,7 @@
   "id": "baseflow",
   "display_name": "BracReac: Baseline flow volume",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "23",
     "Form": "Brachial Artery Vasoactivity Worksheet",

@@ -2,7 +2,7 @@
   "id": "daustrok",
   "display_name": "82 Num of dau with Stroke (or a TIA)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "515",
     "Form": "LABADUL2",

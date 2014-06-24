@@ -2,7 +2,7 @@
   "id": "rhythm",
   "display_name": "ECG: Rhythm",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "193",
     "Form": "ECG",

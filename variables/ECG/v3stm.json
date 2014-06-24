@@ -2,7 +2,7 @@
   "id": "v3stm",
   "display_name": "ECG: V3: STM",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "57",
     "Form": "ECG",

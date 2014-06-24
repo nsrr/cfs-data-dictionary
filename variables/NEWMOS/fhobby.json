@@ -2,7 +2,7 @@
   "id": "fhobby",
   "display_name": "FOSQ: Difficulty working on a hobby",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "71",
     "Form": "FOSQ (Functional Outcomes of Sleep Questionnaire)",

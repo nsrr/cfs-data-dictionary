@@ -2,7 +2,7 @@
   "id": "forgasm",
   "display_name": "FOSQ: Ability for orgasm affected",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "100",
     "Form": "FOSQ (Functional Outcomes of Sleep Questionnaire)",

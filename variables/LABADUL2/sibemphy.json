@@ -2,7 +2,7 @@
   "id": "sibemphy",
   "display_name": "81 Any sibs with Emphysema",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "446",
     "Form": "LABADUL2",

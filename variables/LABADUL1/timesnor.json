@@ -2,7 +2,7 @@
   "id": "timesnor",
   "display_name": "37b loudness of snoring (AC)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "41",
     "Form": "LABADUL1",

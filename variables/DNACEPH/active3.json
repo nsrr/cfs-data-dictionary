@@ -2,7 +2,7 @@
   "id": "active3",
   "display_name": "DNA3: Is specimen active",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "34",
     "Form": "DNA/CEPH",

@@ -2,7 +2,7 @@
   "id": "alcohol",
   "display_name": "Sleep Diary: amt alcohol on day of study (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "72",
     "Form": "Sleep Diary",

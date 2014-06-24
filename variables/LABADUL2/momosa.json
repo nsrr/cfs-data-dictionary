@@ -2,7 +2,7 @@
   "id": "momosa",
   "display_name": "77 Mom diagnosed Sleep Apnea",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "295",
     "Form": "LABADUL2",

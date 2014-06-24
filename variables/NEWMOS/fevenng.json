@@ -2,7 +2,7 @@
   "id": "fevenng",
   "display_name": "FOSQ: Difficulty in evening",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "92",
     "Form": "FOSQ (Functional Outcomes of Sleep Questionnaire)",

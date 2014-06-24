@@ -2,7 +2,7 @@
   "id": "eventsu",
   "display_name": "Sleep Study: # of supine intervals w/ >= 2 events",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "52",
     "Form": "Physio Report",

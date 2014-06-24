@@ -2,7 +2,7 @@
   "id": "fhhor",
   "display_name": "Ceph: FH-Hor (head position relative to horizontal)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "52",
     "Form": "Cephlometric Measurements",

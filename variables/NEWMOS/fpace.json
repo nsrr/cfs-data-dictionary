@@ -2,7 +2,7 @@
   "id": "fpace",
   "display_name": "FOSQ: Difficulty keeping pace",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "95",
     "Form": "FOSQ (Functional Outcomes of Sleep Questionnaire)",

@@ -2,7 +2,7 @@
   "id": "calfc1",
   "display_name": "Skinfold: calf circumference 1 (cm)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "41",
     "Form": "Skinfold Assessment",

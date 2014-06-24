@@ -2,7 +2,7 @@
   "id": "preddone",
   "display_name": "Checklist: Pre-Sleep Diary done",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "18",
     "Form": "Participant Paperwork Check off List",

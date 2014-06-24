@@ -2,7 +2,7 @@
   "id": "antihype",
   "display_name": "74 Other antihypertensive in the last three days ",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "185",
     "Form": "LABADUL1",

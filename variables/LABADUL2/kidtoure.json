@@ -2,7 +2,7 @@
   "id": "kidtoure",
   "display_name": "82 Any kids have Tourettes Syndrome",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "541",
     "Form": "LABADUL2",

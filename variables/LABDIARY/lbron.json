@@ -2,7 +2,7 @@
   "id": "lbron",
   "display_name": "PreSleep: Bronchodilators today?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "29",
     "Form": "Pre-Sleep Questionnaire",

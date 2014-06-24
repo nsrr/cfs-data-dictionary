@@ -2,7 +2,7 @@
   "id": "position",
   "display_name": "Sleep Diary: position slept in most during study (AC)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "62",
     "Form": "Sleep Diary",

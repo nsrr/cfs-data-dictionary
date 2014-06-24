@@ -2,7 +2,7 @@
   "id": "hibloodp",
   "display_name": "High Blood Pressure",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": null,
     "Form": "Lab dataset",

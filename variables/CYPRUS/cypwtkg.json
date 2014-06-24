@@ -2,7 +2,7 @@
   "id": "cypwtkg",
   "display_name": "Cyprus: weight (kg)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "3",
     "Form": "Cyprus Body Fat",

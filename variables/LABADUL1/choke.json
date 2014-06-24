@@ -2,7 +2,7 @@
   "id": "choke",
   "display_name": "8 choke while asleep (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "11",
     "Form": "LABADUL1",

@@ -2,7 +2,7 @@
   "id": "personi",
   "display_name": "Person ID",
   "description": "Person ID",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "20",
     "Form": "Cyprus Body Fat",

@@ -2,7 +2,7 @@
   "id": "wellslp",
   "display_name": "Sleep Diary: how well slept night of study (AC)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "61",
     "Form": "Sleep Diary",

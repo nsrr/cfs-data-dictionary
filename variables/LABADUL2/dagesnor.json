@@ -2,7 +2,7 @@
   "id": "dagesnor",
   "display_name": "77 Age Dad diagnosed Loud/Disruptive Snoring",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "314",
     "Form": "LABADUL2",

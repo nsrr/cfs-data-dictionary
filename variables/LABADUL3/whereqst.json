@@ -2,7 +2,7 @@
   "id": "whereqst",
   "display_name": "108 where questionnaire was completed",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "831",
     "Form": "LABADUL3",

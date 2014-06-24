@@ -2,7 +2,7 @@
   "id": "sonasthm",
   "display_name": "82 Num of sons with Asthma",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "530",
     "Form": "LABADUL2",

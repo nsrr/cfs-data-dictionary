@@ -2,7 +2,7 @@
   "id": "kidadd",
   "display_name": "82 Any kids have Attention Deficit Disorder",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "544",
     "Form": "LABADUL2",

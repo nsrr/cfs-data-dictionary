@@ -2,7 +2,7 @@
   "id": "mageleg",
   "display_name": "77 Age Mom diagnosed Restless Legs or Periodic",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "350",
     "Form": "LABADUL2",

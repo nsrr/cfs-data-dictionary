@@ -2,7 +2,7 @@
   "id": "acetaday",
   "display_name": "74 how many days per week do you take acetaminophen",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "164",
     "Form": "LABADUL1",

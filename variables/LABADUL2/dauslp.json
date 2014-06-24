@@ -2,7 +2,7 @@
   "id": "dauslp",
   "display_name": "82 Num of dau with Excessive (too much) Sleepiness",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "509",
     "Form": "LABADUL2",

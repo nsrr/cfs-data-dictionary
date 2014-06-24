@@ -2,7 +2,7 @@
   "id": "lcafbv1t",
   "display_name": "PreSleep: Time caff bev 1",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "8",
     "Form": "Pre-Sleep Questionnaire",

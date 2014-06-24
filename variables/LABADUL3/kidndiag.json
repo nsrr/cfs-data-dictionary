@@ -2,7 +2,7 @@
   "id": "kidndiag",
   "display_name": "95 Kidney Stones",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "698",
     "Form": "LABADUL3",

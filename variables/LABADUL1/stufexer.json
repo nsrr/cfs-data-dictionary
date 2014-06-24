@@ -2,7 +2,7 @@
   "id": "stufexer",
   "display_name": "66 Exercise? give you a stuffy or runny nose (L)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "131",
     "Form": "LABADUL1",

@@ -2,7 +2,7 @@
   "id": "diaprob",
   "display_name": "Problems with Diastolic BP measures",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": null,
     "Form": "Lab dataset",

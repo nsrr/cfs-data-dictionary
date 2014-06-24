@@ -2,7 +2,7 @@
   "id": "snorsur",
   "display_name": "99 have surgery for snoring",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "815",
     "Form": "LABADUL3",

@@ -2,7 +2,7 @@
   "id": "adddiag",
   "display_name": "95 Attention Deficit Disorder",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "758",
     "Form": "LABADUL3",

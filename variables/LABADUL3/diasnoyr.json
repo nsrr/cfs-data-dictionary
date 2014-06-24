@@ -2,7 +2,7 @@
   "id": "diasnoyr",
   "display_name": "95 Year Diagnosed Loud/Disruptive Snoring",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "626",
     "Form": "LABADUL3",

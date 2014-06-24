@@ -2,7 +2,7 @@
   "id": "tiaage",
   "display_name": "95 Age Diagnosed TIA (Transient Ischemic Attack)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "682",
     "Form": "LABADUL3",

@@ -2,7 +2,7 @@
   "id": "dagenarc",
   "display_name": "77 Age Dad diagnosed Narcolepsy",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "302",
     "Form": "LABADUL2",

@@ -2,7 +2,7 @@
   "id": "ffmperwt",
   "display_name": "Cyprus: Fat free mass (% of wt)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "14",
     "Form": "Cyprus Body Fat",

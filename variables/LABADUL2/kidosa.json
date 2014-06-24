@@ -2,7 +2,7 @@
   "id": "kidosa",
   "display_name": "82 Any kids have Sleep Apnea",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "486",
     "Form": "LABADUL2",

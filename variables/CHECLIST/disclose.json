@@ -2,7 +2,7 @@
   "id": "disclose",
   "display_name": "Checklist: DNA disclosure",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "9",
     "Form": "Participant Paperwork Check off List",

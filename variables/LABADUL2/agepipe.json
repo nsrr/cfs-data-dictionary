@@ -2,7 +2,7 @@
   "id": "agepipe",
   "display_name": "85 Age first started smoking pipes?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "584",
     "Form": "LABADUL2",

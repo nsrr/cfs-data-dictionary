@@ -2,7 +2,7 @@
   "id": "anxage",
   "display_name": "95 Age Diagnosed Anxiety",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "757",
     "Form": "LABADUL3",

@@ -2,7 +2,7 @@
   "id": "diairryr",
   "display_name": "95 Year Diagnosed Irregular Heart Beat",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "653",
     "Form": "LABADUL3",

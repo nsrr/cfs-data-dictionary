@@ -2,7 +2,7 @@
   "id": "wgtgain",
   "display_name": "54 Past 5 years, what is weight change (L)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "93",
     "Form": "LABADUL1",

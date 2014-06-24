@@ -2,7 +2,7 @@
   "id": "combipat",
   "display_name": "76 ever use Combipatch",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "290",
     "Form": "LABADUL1",

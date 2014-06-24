@@ -2,7 +2,7 @@
   "id": "nitrogly",
   "display_name": "74 Nitroglycerin in the last three days",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "215",
     "Form": "LABADUL1",

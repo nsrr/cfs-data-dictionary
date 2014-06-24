@@ -2,7 +2,7 @@
   "id": "cirrdiag",
   "display_name": "95 Cirrhosis of the Liver",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "719",
     "Form": "LABADUL3",

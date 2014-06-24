@@ -2,7 +2,7 @@
   "id": "medicn",
   "display_name": "Sleep Diary: took medications on day of study (AC)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "63",
     "Form": "Sleep Diary",

@@ -2,7 +2,7 @@
   "id": "smoked",
   "display_name": "84 ever smoked cigarettes (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "575",
     "Form": "LABADUL2",

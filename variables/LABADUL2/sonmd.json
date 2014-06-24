@@ -2,7 +2,7 @@
   "id": "sonmd",
   "display_name": "82 Num of sons with Muscular Dystrophy",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "539",
     "Form": "LABADUL2",

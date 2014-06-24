@@ -2,7 +2,7 @@
   "id": "stsegabn",
   "display_name": "ECG: ST Segment Abnormality",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "198",
     "Form": "ECG",

@@ -2,7 +2,7 @@
   "id": "lsplpil",
   "display_name": "PreSleep: Sleeping Pill today?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "30",
     "Form": "Pre-Sleep Questionnaire",

@@ -2,7 +2,7 @@
   "id": "ectopy",
   "display_name": "ECG: Ectopy",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "196",
     "Form": "ECG",

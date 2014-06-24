@@ -2,7 +2,7 @@
   "id": "bslpno",
   "display_name": "81 How many bro with   Excessive (too much) Sleepiness",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "422",
     "Form": "LABADUL2",

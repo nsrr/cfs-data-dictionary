@@ -2,7 +2,7 @@
   "id": "mageoths",
   "display_name": "77 Age Mom diagnosed Other Significant Medical",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "370",
     "Form": "LABADUL2",

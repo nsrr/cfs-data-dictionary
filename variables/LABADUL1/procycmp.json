@@ -2,7 +2,7 @@
   "id": "procycmp",
   "display_name": "76 ever use Provera/Cycrin/MPA",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "282",
     "Form": "LABADUL1",

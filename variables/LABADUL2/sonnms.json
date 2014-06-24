@@ -2,7 +2,7 @@
   "id": "sonnms",
   "display_name": "82 Num of sons with Acute Life Threatening Episode (ALTE)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "502",
     "Form": "LABADUL2",

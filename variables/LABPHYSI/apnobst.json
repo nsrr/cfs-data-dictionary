@@ -2,7 +2,7 @@
   "id": "apnobst",
   "display_name": "Sleep Study: subj had predominantly obstructive apnea",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "45",
     "Form": "Physio Report",

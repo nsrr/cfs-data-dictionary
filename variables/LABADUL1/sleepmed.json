@@ -2,7 +2,7 @@
   "id": "sleepmed",
   "display_name": "74 Sleeping medicine in the last three days",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "212",
     "Form": "LABADUL1",

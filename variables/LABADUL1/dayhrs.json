@@ -2,7 +2,7 @@
   "id": "dayhrs",
   "display_name": "44  hours sleep during the weekdays",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "73",
     "Form": "LABADUL1",

@@ -2,7 +2,7 @@
   "id": "cheswhe",
   "display_name": "62 chest wheeze or whistle last yr (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "115",
     "Form": "LABADUL1",

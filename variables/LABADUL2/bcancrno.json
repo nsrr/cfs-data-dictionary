@@ -2,7 +2,7 @@
   "id": "bcancrno",
   "display_name": "81 How many bro with Cancer",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "434",
     "Form": "LABADUL2",

@@ -2,7 +2,7 @@
   "id": "phsegmax",
   "display_name": "Pharyn: max segment limit",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "6",
     "Form": "Pharyngometry Report",

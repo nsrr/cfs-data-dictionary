@@ -2,7 +2,7 @@
   "id": "labothmd",
   "display_name": "PreSleep: Other today?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "32",
     "Form": "Pre-Sleep Questionnaire",

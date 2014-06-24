@@ -2,7 +2,7 @@
   "id": "sisaged2",
   "display_name": "80 age death sis 2",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "396",
     "Form": "LABADUL2",

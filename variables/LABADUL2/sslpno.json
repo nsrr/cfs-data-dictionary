@@ -2,7 +2,7 @@
   "id": "sslpno",
   "display_name": "81 How many sis with Excessive (too much) Sleepiness",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "423",
     "Form": "LABADUL2",

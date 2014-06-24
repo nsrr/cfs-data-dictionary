@@ -2,7 +2,7 @@
   "id": "slpqua",
   "display_name": "PostSleep: Rate the overall quality of your sleep last night?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "55",
     "Form": "Post-Sleep Questionnaire",

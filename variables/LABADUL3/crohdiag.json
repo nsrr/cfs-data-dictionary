@@ -2,7 +2,7 @@
   "id": "crohdiag",
   "display_name": "95 Ulcerative Colitis/Crohns",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "695",
     "Form": "LABADUL3",

@@ -2,7 +2,7 @@
   "id": "sonemphy",
   "display_name": "82 Num of sons with Emphysema",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "533",
     "Form": "LABADUL2",

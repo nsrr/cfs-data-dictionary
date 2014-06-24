@@ -2,7 +2,7 @@
   "id": "ocuvite",
   "display_name": "74 Mult Vit: Ocuvite",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "248",
     "Form": "LABADUL1",

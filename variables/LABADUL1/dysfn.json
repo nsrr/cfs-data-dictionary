@@ -2,7 +2,7 @@
   "id": "dysfn",
   "display_name": "48 time of day function worst (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "81",
     "Form": "LABADUL1",

@@ -2,7 +2,7 @@
   "id": "fornu100",
   "display_name": "74 Mult Vit: Formula 100, Nutri-100",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "230",
     "Form": "LABADUL1",

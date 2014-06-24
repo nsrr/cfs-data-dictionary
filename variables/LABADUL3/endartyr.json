@@ -2,7 +2,7 @@
   "id": "endartyr",
   "display_name": "95 Year Diagnosed Carotid Surgery (Endarterectomy)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "678",
     "Form": "LABADUL3",

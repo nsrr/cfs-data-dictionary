@@ -2,7 +2,7 @@
   "id": "intmxlth",
   "display_name": "Ceph: Int. Mx. Lth. (Length of intermaxillary space)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "13",
     "Form": "Cephlometric Measurements",

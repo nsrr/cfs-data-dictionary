@@ -2,7 +2,7 @@
   "id": "mageslp",
   "display_name": "77 Age Mom diagnosed Excessive Sleepiness",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "316",
     "Form": "LABADUL2",

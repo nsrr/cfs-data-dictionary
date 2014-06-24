@@ -2,7 +2,7 @@
   "id": "endmin",
   "display_name": "44 how many minutes of sleep on weekend day",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "76",
     "Form": "LABADUL1",

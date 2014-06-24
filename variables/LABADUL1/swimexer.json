@@ -2,7 +2,7 @@
   "id": "swimexer",
   "display_name": "61 Past year time spent lap swimming?(L)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "109",
     "Form": "LABADUL1",

@@ -2,7 +2,7 @@
   "id": "ira",
   "display_name": "ECG: I: RA",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "113",
     "Form": "ECG",

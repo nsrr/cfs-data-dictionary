@@ -2,7 +2,7 @@
   "id": "period",
   "display_name": "Sleep Study: subj had periodicity",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "46",
     "Form": "Physio Report",

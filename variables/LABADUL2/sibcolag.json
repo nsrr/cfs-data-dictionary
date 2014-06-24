@@ -2,7 +2,7 @@
   "id": "sibcolag",
   "display_name": "83 Age sibling1 with colon cancer",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "563",
     "Form": "LABADUL2",

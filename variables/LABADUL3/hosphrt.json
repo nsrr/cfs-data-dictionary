@@ -2,7 +2,7 @@
   "id": "hosphrt",
   "display_name": "96 hospitalized for heart disease",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "800",
     "Form": "LABADUL3",

@@ -2,7 +2,7 @@
   "id": "livediag",
   "display_name": "95 Liver Disease",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "701",
     "Form": "LABADUL3",

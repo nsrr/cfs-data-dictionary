@@ -2,7 +2,7 @@
   "id": "cvsmegml",
   "display_name": "74 Mult Vit: CVS Mega Multi",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "241",
     "Form": "LABADUL1",

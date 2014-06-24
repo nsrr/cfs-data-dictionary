@@ -2,7 +2,7 @@
   "id": "slapndia",
   "display_name": "95 Sleep Apnea",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "619",
     "Form": "LABADUL3",

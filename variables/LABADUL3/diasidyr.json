@@ -2,7 +2,7 @@
   "id": "diasidyr",
   "display_name": "95 Year Diagnosed Elevated Cholesterol",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "638",
     "Form": "LABADUL3",

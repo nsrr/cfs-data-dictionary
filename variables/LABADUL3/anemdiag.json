@@ -2,7 +2,7 @@
   "id": "anemdiag",
   "display_name": "95 Anemia",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "716",
     "Form": "LABADUL3",

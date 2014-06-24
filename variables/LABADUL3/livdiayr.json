@@ -2,7 +2,7 @@
   "id": "livdiayr",
   "display_name": "95 Year Diagnosed Liver Disease",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "702",
     "Form": "LABADUL3",

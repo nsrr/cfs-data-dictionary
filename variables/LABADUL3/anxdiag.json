@@ -2,7 +2,7 @@
   "id": "anxdiag",
   "display_name": "95 Anxiety",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "755",
     "Form": "LABADUL3",

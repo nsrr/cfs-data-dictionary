@@ -2,7 +2,7 @@
   "id": "pss",
   "display_name": "CHQ-PF50 Psychosocial Summary Score",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "214",
     "Form": "CHQ-PF50 (Child Health Questionnaire - Parent Report)",

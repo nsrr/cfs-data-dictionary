@@ -2,7 +2,7 @@
   "id": "babyaspr",
   "display_name": "74 Baby aspirin in the last three days",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "166",
     "Form": "LABADUL1",

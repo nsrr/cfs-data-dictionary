@@ -2,7 +2,7 @@
   "id": "larmbp2",
   "display_name": "Ankle-Arm: Left Arm Systolic Blood Pressure 2",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "13",
     "Form": "Alkle-Arm Index",

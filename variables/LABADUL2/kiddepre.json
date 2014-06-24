@@ -2,7 +2,7 @@
   "id": "kiddepre",
   "display_name": "82 Any kids have Depression",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "523",
     "Form": "LABADUL2",

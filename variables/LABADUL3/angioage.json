@@ -2,7 +2,7 @@
   "id": "angioage",
   "display_name": "95 Age Diagnosed  Coronary Angioplasty",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "663",
     "Form": "LABADUL3",

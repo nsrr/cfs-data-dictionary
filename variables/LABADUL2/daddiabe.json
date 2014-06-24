@@ -2,7 +2,7 @@
   "id": "daddiabe",
   "display_name": "77 Dad diagnosed Diabetes",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "343",
     "Form": "LABADUL2",

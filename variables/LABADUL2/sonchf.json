@@ -2,7 +2,7 @@
   "id": "sonchf",
   "display_name": "82 Num of sons with Congestive Heart Failure",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "493",
     "Form": "LABADUL2",

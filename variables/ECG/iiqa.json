@@ -2,7 +2,7 @@
   "id": "iiqa",
   "display_name": "ECG: II: QA",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "143",
     "Form": "ECG",

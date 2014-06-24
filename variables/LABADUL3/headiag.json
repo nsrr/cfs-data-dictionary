@@ -2,7 +2,7 @@
   "id": "headiag",
   "display_name": "95 Other Heart Disease",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "670",
     "Form": "LABADUL3",

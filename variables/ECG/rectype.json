@@ -2,7 +2,7 @@
   "id": "rectype",
   "display_name": "Rectype",
   "description": "Rectype",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "2",
     "Form": "ECG",

@@ -2,7 +2,7 @@
   "id": "flspy",
   "display_name": "PostSleep: Do you feel sleepy this morning?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "56",
     "Form": "Post-Sleep Questionnaire",

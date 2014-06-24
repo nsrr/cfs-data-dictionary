@@ -2,7 +2,7 @@
   "id": "hsincome",
   "display_name": "110 What is your household income?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "834",
     "Form": "LABADUL3",

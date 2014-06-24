@@ -2,7 +2,7 @@
   "id": "chgtime",
   "display_name": "33 bedtime changed by > 2 hrs (A)",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "36",
     "Form": "LABADUL1",

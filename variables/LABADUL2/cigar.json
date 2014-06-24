@@ -2,7 +2,7 @@
   "id": "cigar",
   "display_name": "85 Have you ever smoked cigars/cigarillos?",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "581",
     "Form": "LABADUL2",

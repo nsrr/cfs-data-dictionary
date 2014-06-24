@@ -2,7 +2,7 @@
   "id": "essdone",
   "display_name": "Checklist: ESS done",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "12",
     "Form": "Participant Paperwork Check off List",

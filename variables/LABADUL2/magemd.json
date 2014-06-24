@@ -2,7 +2,7 @@
   "id": "magemd",
   "display_name": "77 Age Mom diagnosed Muscular Dystrophy",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "354",
     "Form": "LABADUL2",

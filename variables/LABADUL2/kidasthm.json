@@ -2,7 +2,7 @@
   "id": "kidasthm",
   "display_name": "82 Any kids have Asthma",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "529",
     "Form": "LABADUL2",

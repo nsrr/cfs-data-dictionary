@@ -2,7 +2,7 @@
   "id": "am10dia3",
   "display_name": "BP: 10 AM - Diastolic 3",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "other": {
     "VARNUM": "32",
     "Form": "Nurses Flow Sheet",
