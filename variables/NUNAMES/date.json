@@ -1,0 +1,16 @@
+{
+  "id": "date",
+  "display_name": "Date entered in Epi-Info",
+  "description": "Date entered in Epi-Info",
+  "type": null,
+  "other": {
+    "VARNUM": "48",
+    "Form": "Nunames",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": "MMDDYY",
+    "FORMATL": "10",
+    "FORMATD": null
+  }
+}

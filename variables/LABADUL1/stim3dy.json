@@ -1,0 +1,16 @@
+{
+  "id": "stim3dy",
+  "display_name": "73 Stimulants in last 3 days (L)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "161",
+    "Form": "LABADUL1",
+    "Page": "13",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ischemia",
+  "display_name": "ECG: Ischemia pattern",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "200",
+    "Form": "ECG",
+    "Page": null,
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

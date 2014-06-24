@@ -1,0 +1,16 @@
+{
+  "id": "fhhor",
+  "display_name": "Ceph: FH-Hor (head position relative to horizontal)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "52",
+    "Form": "Cephlometric Measurements",
+    "Page": "calculated",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": "3"
+  }
+}

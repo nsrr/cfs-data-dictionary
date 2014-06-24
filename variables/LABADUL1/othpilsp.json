@@ -1,0 +1,16 @@
+{
+  "id": "othpilsp",
+  "display_name": "76 ever use specify OCP",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "293",
+    "Form": "LABADUL1",
+    "Page": "16",
+    "TYPE": "2",
+    "LENGTH": "30",
+    "FORMAT": "$",
+    "FORMATL": "30",
+    "FORMATD": null
+  }
+}

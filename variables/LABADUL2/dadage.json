@@ -1,0 +1,16 @@
+{
+  "id": "dadage",
+  "display_name": "79 age of dad (if alive)(A)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "380",
+    "Form": "LABADUL2",
+    "Page": "18",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

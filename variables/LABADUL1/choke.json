@@ -1,0 +1,16 @@
+{
+  "id": "choke",
+  "display_name": "8 choke while asleep (A)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "11",
+    "Form": "LABADUL1",
+    "Page": "2",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "struggle",
+  "display_name": "9 struggle for breath while asleep (A)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "12",
+    "Form": "LABADUL1",
+    "Page": "2",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

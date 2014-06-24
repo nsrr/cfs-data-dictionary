@@ -1,0 +1,16 @@
+{
+  "id": "timedrw",
+  "display_name": "Specimen: time of draw (hhmm)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "7",
+    "Form": "Specimen Date (Bloods and Cephs)",
+    "Page": "1",
+    "TYPE": "2",
+    "LENGTH": "6",
+    "FORMAT": "$",
+    "FORMATL": "6",
+    "FORMATD": null
+  }
+}

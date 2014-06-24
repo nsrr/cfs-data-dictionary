@@ -1,0 +1,16 @@
+{
+  "id": "ovaries",
+  "display_name": "75 If surgery, were ovaries removed?",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "265",
+    "Form": "LABADUL1",
+    "Page": "15",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

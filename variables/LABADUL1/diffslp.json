@@ -1,0 +1,16 @@
+{
+  "id": "diffslp",
+  "display_name": "17 difficulty falling asleep (A)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "20",
+    "Form": "LABADUL1",
+    "Page": "3",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

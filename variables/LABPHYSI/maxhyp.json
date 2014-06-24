@@ -1,0 +1,16 @@
+{
+  "id": "maxhyp",
+  "display_name": "Sleep Study: maximum hypopnea duration (sec)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "42",
+    "Form": "Physio Report",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "totawco",
+  "display_name": "PostSleep: Compared to usual, time spent awake longer, the same, or shorter?",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "46",
+    "Form": "Post-Sleep Questionnaire",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

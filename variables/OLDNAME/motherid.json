@@ -1,0 +1,16 @@
+{
+  "id": "motherid",
+  "display_name": "PersionID of Mother of Subject",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "22",
+    "Form": "OLDNAMES",
+    "Page": null,
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "6",
+    "FORMATD": null
+  }
+}

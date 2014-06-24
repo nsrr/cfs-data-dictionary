@@ -1,0 +1,16 @@
+{
+  "id": "fdesire",
+  "display_name": "FOSQ: Desire for intimacy affected",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "98",
+    "Form": "FOSQ (Functional Outcomes of Sleep Questionnaire)",
+    "Page": "5",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

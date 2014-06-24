@@ -1,0 +1,16 @@
+{
+  "id": "operator",
+  "display_name": "Nitric Oxide: Technician",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "10",
+    "Form": "Nitric Oxide Analyser",
+    "Page": "1",
+    "TYPE": "2",
+    "LENGTH": "19",
+    "FORMAT": "$",
+    "FORMATL": "19",
+    "FORMATD": null
+  }
+}

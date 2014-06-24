@@ -1,0 +1,16 @@
+{
+  "id": "rheudiag",
+  "display_name": "95 Rheumatoid Arthritis",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "770",
+    "Form": "LABADUL3",
+    "Page": "26",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

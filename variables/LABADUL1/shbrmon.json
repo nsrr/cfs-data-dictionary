@@ -1,0 +1,16 @@
+{
+  "id": "shbrmon",
+  "display_name": "51 shortness of breath past month (A)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "89",
+    "Form": "LABADUL1",
+    "Page": "9",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "nosesur",
+  "display_name": "97 have nose surgery",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "808",
+    "Form": "LABADUL3",
+    "Page": "27",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

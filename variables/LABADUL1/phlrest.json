@@ -1,0 +1,16 @@
+{
+  "id": "phlrest",
+  "display_name": "71 phelgm during day + night",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "137",
+    "Form": "LABADUL1",
+    "Page": "12",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

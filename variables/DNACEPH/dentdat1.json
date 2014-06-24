@@ -1,0 +1,16 @@
+{
+  "id": "dentdat1",
+  "display_name": "Dentl 1: Date",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "47",
+    "Form": "DNA/CEPH",
+    "Page": "1",
+    "TYPE": "2",
+    "LENGTH": "11",
+    "FORMAT": "$",
+    "FORMATL": "11",
+    "FORMATD": null
+  }
+}

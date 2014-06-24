@@ -1,0 +1,16 @@
+{
+  "id": "icdcode6",
+  "display_name": "Reason for death 6 (icd9code)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "44",
+    "Form": "Nunames",
+    "Page": "3",
+    "TYPE": "2",
+    "LENGTH": "6",
+    "FORMAT": "$",
+    "FORMATL": "6",
+    "FORMATD": null
+  }
+}

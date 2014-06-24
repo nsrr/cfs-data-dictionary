@@ -1,0 +1,16 @@
+{
+  "id": "procycmp",
+  "display_name": "76 ever use Provera/Cycrin/MPA",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "282",
+    "Form": "LABADUL1",
+    "Page": "16",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

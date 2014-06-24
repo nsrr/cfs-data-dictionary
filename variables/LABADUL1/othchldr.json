@@ -1,0 +1,16 @@
+{
+  "id": "othchldr",
+  "display_name": "74 Other cholesterol lowering drug in the last three days ",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "194",
+    "Form": "LABADUL1",
+    "Page": "14",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

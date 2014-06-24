@@ -1,0 +1,16 @@
+{
+  "id": "pollens",
+  "display_name": "62f wheeze when exposed to pollens (AC)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "121",
+    "Form": "LABADUL1",
+    "Page": "11",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

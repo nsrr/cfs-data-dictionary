@@ -1,0 +1,16 @@
+{
+  "id": "brolive",
+  "display_name": "80 num living brothers",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "384",
+    "Form": "LABADUL2",
+    "Page": "18",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

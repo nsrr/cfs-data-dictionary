@@ -1,0 +1,16 @@
+{
+  "id": "am7cpap",
+  "display_name": "Blood Draw: 7 AM - how long since last use of CPAP",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "41",
+    "Form": "Blood Draw Form",
+    "Page": "2",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

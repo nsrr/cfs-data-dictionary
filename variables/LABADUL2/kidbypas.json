@@ -1,0 +1,16 @@
+{
+  "id": "kidbypas",
+  "display_name": "82 Any kids have Angioplasty or By-Pass Surgery",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "516",
+    "Form": "LABADUL2",
+    "Page": "20",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

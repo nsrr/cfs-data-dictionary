@@ -1,0 +1,16 @@
+{
+  "id": "whenpsg",
+  "display_name": "109 when subj had previous sleep study",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "833",
+    "Form": "LABADUL3",
+    "Page": "28",
+    "TYPE": "2",
+    "LENGTH": "44",
+    "FORMAT": "$",
+    "FORMATL": "44",
+    "FORMATD": null
+  }
+}

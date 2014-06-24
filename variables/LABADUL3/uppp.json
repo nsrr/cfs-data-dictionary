@@ -1,0 +1,16 @@
+{
+  "id": "uppp",
+  "display_name": "97 had UPPP surgery",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "806",
+    "Form": "LABADUL3",
+    "Page": "27",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

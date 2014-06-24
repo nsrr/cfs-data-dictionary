@@ -1,0 +1,16 @@
+{
+  "id": "addcomet",
+  "display_name": "Additional comments",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "12",
+    "Form": "Follow-up Recruiting",
+    "Page": "1",
+    "TYPE": "2",
+    "LENGTH": "40",
+    "FORMAT": "$",
+    "FORMATL": "40",
+    "FORMATD": null
+  }
+}

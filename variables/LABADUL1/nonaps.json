@@ -1,0 +1,16 @@
+{
+  "id": "nonaps",
+  "display_name": "42a  of times napped (A)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "64",
+    "Form": "LABADUL1",
+    "Page": "7",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

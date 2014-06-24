@@ -1,0 +1,16 @@
+{
+  "id": "going",
+  "display_name": "49 amt time to get going after sleeping (A)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "82",
+    "Form": "LABADUL1",
+    "Page": "8",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

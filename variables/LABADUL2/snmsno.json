@@ -1,0 +1,16 @@
+{
+  "id": "snmsno",
+  "display_name": "81 How many sis with Near Miss SIDS",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "417",
+    "Form": "LABADUL2",
+    "Page": "19",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

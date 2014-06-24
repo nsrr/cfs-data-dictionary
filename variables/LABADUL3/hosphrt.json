@@ -1,0 +1,16 @@
+{
+  "id": "hosphrt",
+  "display_name": "96 hospitalized for heart disease",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "800",
+    "Form": "LABADUL3",
+    "Page": "26",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

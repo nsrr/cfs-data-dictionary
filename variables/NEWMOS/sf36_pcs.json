@@ -1,0 +1,16 @@
+{
+  "id": "sf36_pcs",
+  "display_name": "SF-36 STANDARDIZED PHYSICAL COMPONENT SCALE-00",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "232",
+    "Form": "SF-36 Health Survey (MOS)",
+    "Page": "calculated",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": "2"
+  }
+}

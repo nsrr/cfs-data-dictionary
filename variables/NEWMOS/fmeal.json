@@ -1,0 +1,16 @@
+{
+  "id": "fmeal",
+  "display_name": "FOSQ: Difficulty furnishing a meal",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "70",
+    "Form": "FOSQ (Functional Outcomes of Sleep Questionnaire)",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

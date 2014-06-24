@@ -1,0 +1,16 @@
+{
+  "id": "v4pa",
+  "display_name": "ECG: V4: PA",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "61",
+    "Form": "ECG",
+    "Page": null,
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

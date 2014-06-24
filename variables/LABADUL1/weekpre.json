@@ -1,0 +1,16 @@
+{
+  "id": "weekpre",
+  "display_name": "55 how many weeks early",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "96",
+    "Form": "LABADUL1",
+    "Page": "10",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

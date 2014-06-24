@@ -1,0 +1,16 @@
+{
+  "id": "aspirmon",
+  "display_name": "74 last month have you used aspirin",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "171",
+    "Form": "LABADUL1",
+    "Page": "13",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

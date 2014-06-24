@@ -1,0 +1,16 @@
+{
+  "id": "ventrate",
+  "display_name": "ECG: Vent rate (bpm)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "5",
+    "Form": "ECG",
+    "Page": null,
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

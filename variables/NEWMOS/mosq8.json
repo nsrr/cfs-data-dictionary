@@ -1,0 +1,16 @@
+{
+  "id": "mosq8",
+  "display_name": "MOS: Q8 (bp2)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "26",
+    "Form": "SF-36 Health Survey (MOS)",
+    "Page": "4",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

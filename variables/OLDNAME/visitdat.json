@@ -1,0 +1,16 @@
+{
+  "id": "visitdat",
+  "display_name": "Date of visit",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "41",
+    "Form": "OLDNAMES",
+    "Page": null,
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": "MMDDYY",
+    "FORMATL": "10",
+    "FORMATD": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "labques2",
+  "display_name": null,
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "294",
+    "Form": "LABADUL1",
+    "Page": null,
+    "TYPE": "2",
+    "LENGTH": "2",
+    "FORMAT": "$",
+    "FORMATL": "2",
+    "FORMATD": null
+  }
+}

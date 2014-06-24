@@ -1,0 +1,16 @@
+{
+  "id": "pfraw",
+  "display_name": "CHQ-PF50 raw physical functioning",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "191",
+    "Form": "CHQ-PF50 (Child Health Questionnaire - Parent Report)",
+    "Page": "calculated",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "6",
+    "FORMATD": "3"
+  }
+}

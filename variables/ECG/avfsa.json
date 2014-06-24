@@ -1,0 +1,16 @@
+{
+  "id": "avfsa",
+  "display_name": "ECG: AVF: SA",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "163",
+    "Form": "ECG",
+    "Page": null,
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

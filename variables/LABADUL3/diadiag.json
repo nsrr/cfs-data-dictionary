@@ -1,0 +1,16 @@
+{
+  "id": "diadiag",
+  "display_name": "95 Diabetes",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "649",
+    "Form": "LABADUL3",
+    "Page": "25",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

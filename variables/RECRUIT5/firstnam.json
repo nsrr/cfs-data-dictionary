@@ -1,0 +1,16 @@
+{
+  "id": "firstnam",
+  "display_name": "First Name of subject",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "4",
+    "Form": "Follow-up Recruiting",
+    "Page": "1",
+    "TYPE": "2",
+    "LENGTH": "20",
+    "FORMAT": "$",
+    "FORMATL": "20",
+    "FORMATD": null
+  }
+}

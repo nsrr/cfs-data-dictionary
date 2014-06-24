@@ -1,0 +1,16 @@
+{
+  "id": "age",
+  "display_name": "LABADULT: age",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "843",
+    "Form": "LABADUL1",
+    "Page": "calculated",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

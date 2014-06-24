@@ -1,0 +1,16 @@
+{
+  "id": "essq2",
+  "display_name": "ESS: Q2",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "42",
+    "Form": "ESS (Epworth Sleepiness Scale)",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

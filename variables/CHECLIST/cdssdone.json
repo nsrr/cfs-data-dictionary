@@ -1,0 +1,16 @@
+{
+  "id": "cdssdone",
+  "display_name": "Checklist: Sleep Study CD done",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "30",
+    "Form": "Participant Paperwork Check off List",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

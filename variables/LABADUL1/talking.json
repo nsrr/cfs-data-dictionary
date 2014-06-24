@@ -1,0 +1,16 @@
+{
+  "id": "talking",
+  "display_name": "40 ever fallen asleep while talking (A)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "59",
+    "Form": "LABADUL1",
+    "Page": "7",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

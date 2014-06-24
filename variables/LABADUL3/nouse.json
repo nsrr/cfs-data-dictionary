@@ -1,0 +1,16 @@
+{
+  "id": "nouse",
+  "display_name": "98 why not using prescribed CPAP",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "814",
+    "Form": "LABADUL3",
+    "Page": "27",
+    "TYPE": "2",
+    "LENGTH": "39",
+    "FORMAT": "$",
+    "FORMATL": "39",
+    "FORMATD": null
+  }
+}

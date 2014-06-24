@@ -1,0 +1,16 @@
+{
+  "id": "date",
+  "display_name": "date entered into Epi_info database",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "14",
+    "Form": "Follow-up Recruiting",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": "MMDDYY",
+    "FORMATL": "10",
+    "FORMATD": null
+  }
+}

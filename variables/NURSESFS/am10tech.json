@@ -1,0 +1,16 @@
+{
+  "id": "am10tech",
+  "display_name": "BP: 10 AM - Technician",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "34",
+    "Form": "Nurses Flow Sheet",
+    "Page": "2",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

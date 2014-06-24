@@ -1,0 +1,16 @@
+{
+  "id": "ecmwt",
+  "display_name": "Cyprus: Extracellular mass",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "9",
+    "Form": "Cyprus Body Fat",
+    "Page": "read in",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": "1"
+  }
+}

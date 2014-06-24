@@ -1,0 +1,16 @@
+{
+  "id": "origin",
+  "display_name": "Specimen: where the sample came from",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "10",
+    "Form": "Specimen Date (Bloods and Cephs)",
+    "Page": "1",
+    "TYPE": "2",
+    "LENGTH": "10",
+    "FORMAT": "$",
+    "FORMATL": "10",
+    "FORMATD": null
+  }
+}

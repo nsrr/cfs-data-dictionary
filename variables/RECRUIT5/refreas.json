@@ -1,0 +1,16 @@
+{
+  "id": "refreas",
+  "display_name": "Refused reason",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "10",
+    "Form": "Follow-up Recruiting",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

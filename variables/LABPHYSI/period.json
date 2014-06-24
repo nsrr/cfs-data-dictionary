@@ -1,0 +1,16 @@
+{
+  "id": "period",
+  "display_name": "Sleep Study: subj had periodicity",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "46",
+    "Form": "Physio Report",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

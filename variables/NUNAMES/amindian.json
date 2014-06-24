@@ -1,0 +1,16 @@
+{
+  "id": "amindian",
+  "display_name": "Race - Native American (0=no,1=yes)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "22",
+    "Form": "Nunames",
+    "Page": "2",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

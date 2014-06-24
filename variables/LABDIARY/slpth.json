@@ -1,0 +1,16 @@
+{
+  "id": "slpth",
+  "display_name": "PostSleep: Hours sleep last night",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "47",
+    "Form": "Post-Sleep Questionnaire",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "6",
+    "FORMATD": null
+  }
+}

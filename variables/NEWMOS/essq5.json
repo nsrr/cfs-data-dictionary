@@ -1,0 +1,16 @@
+{
+  "id": "essq5",
+  "display_name": "ESS: Q5",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "45",
+    "Form": "ESS (Epworth Sleepiness Scale)",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

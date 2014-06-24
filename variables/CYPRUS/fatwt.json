@@ -1,0 +1,16 @@
+{
+  "id": "fatwt",
+  "display_name": "Cyprus: Body fat",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "6",
+    "Form": "Cyprus Body Fat",
+    "Page": "read in",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": "1"
+  }
+}

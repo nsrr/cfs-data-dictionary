@@ -1,0 +1,16 @@
+{
+  "id": "docpain",
+  "display_name": "86 See a doctor because of this pain (or discomfort)?",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "600",
+    "Form": "LABADUL2",
+    "Page": "23",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

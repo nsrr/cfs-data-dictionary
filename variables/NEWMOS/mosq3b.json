@@ -1,0 +1,16 @@
+{
+  "id": "mosq3b",
+  "display_name": "MOS: Q3B (pf02)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "8",
+    "Form": "SF-36 Health Survey (MOS)",
+    "Page": "2",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

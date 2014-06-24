@@ -1,0 +1,16 @@
+{
+  "id": "qrsblok",
+  "display_name": "ECG: QRS Conduction Block",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "195",
+    "Form": "ECG",
+    "Page": null,
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

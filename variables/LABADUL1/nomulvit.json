@@ -1,0 +1,16 @@
+{
+  "id": "nomulvit",
+  "display_name": "74 How many multvit do you take per week?",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "220",
+    "Form": "LABADUL1",
+    "Page": "15",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

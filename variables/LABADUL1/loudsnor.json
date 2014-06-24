@@ -1,0 +1,16 @@
+{
+  "id": "loudsnor",
+  "display_name": "4 snores (AC)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "7",
+    "Form": "LABADUL1",
+    "Page": "2",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

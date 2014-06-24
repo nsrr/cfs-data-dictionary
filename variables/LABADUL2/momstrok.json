@@ -1,0 +1,16 @@
+{
+  "id": "momstrok",
+  "display_name": "77 Mom diagnosed Stroke (TIA)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "323",
+    "Form": "LABADUL2",
+    "Page": "17",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

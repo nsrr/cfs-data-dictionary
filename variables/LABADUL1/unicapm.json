@@ -1,0 +1,16 @@
+{
+  "id": "unicapm",
+  "display_name": "74 Mult Vit: Unicap-M",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "236",
+    "Form": "LABADUL1",
+    "Page": "15",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

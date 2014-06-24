@@ -1,0 +1,16 @@
+{
+  "id": "edema",
+  "display_name": "Nurses notes: Has edema",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "47",
+    "Form": "Doctor's Evaluation Notes",
+    "Page": null,
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

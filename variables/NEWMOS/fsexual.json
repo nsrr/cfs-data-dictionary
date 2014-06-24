@@ -1,0 +1,16 @@
+{
+  "id": "fsexual",
+  "display_name": "FOSQ: Sexual relationship affected",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "97",
+    "Form": "FOSQ (Functional Outcomes of Sleep Questionnaire)",
+    "Page": "5",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

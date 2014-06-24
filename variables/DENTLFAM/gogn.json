@@ -1,0 +1,16 @@
+{
+  "id": "gogn",
+  "display_name": "Ceph: Go-Gn (length of mandible from gonion to gnathion)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "10",
+    "Form": "Cephlometric Measurements",
+    "Page": "read in",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": "3"
+  }
+}

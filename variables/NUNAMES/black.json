@@ -1,0 +1,16 @@
+{
+  "id": "black",
+  "display_name": "Race - Black (0=no,1=yes)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "24",
+    "Form": "Nunames",
+    "Page": "2",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

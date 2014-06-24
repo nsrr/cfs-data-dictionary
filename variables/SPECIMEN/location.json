@@ -1,0 +1,16 @@
+{
+  "id": "location",
+  "display_name": "Specimen: location of sample",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "4",
+    "Form": "Specimen Date (Bloods and Cephs)",
+    "Page": "1",
+    "TYPE": "2",
+    "LENGTH": "10",
+    "FORMAT": "$",
+    "FORMATL": "10",
+    "FORMATD": null
+  }
+}

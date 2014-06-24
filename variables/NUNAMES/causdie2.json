@@ -1,0 +1,16 @@
+{
+  "id": "causdie2",
+  "display_name": "Cause of death 2",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "37",
+    "Form": "Nunames",
+    "Page": "2",
+    "TYPE": "2",
+    "LENGTH": "50",
+    "FORMAT": "$",
+    "FORMATL": "50",
+    "FORMATD": null
+  }
+}

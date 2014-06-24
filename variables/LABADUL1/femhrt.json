@@ -1,0 +1,16 @@
+{
+  "id": "femhrt",
+  "display_name": "76 ever use FemHRT",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "291",
+    "Form": "LABADUL1",
+    "Page": "16",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

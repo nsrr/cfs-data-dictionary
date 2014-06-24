@@ -1,0 +1,16 @@
+{
+  "id": "fef25",
+  "display_name": "Spirometry:  forced expiratory flow at 25",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "25",
+    "Form": "Physio Report",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": "2"
+  }
+}

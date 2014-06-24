@@ -1,0 +1,16 @@
+{
+  "id": "dna_bestsampleid",
+  "display_name": "DNA: Specimen ID of the best DNA sample",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "6",
+    "Form": "(calculated based on Specimen dataset)",
+    "Page": "calculated",
+    "TYPE": "2",
+    "LENGTH": "10",
+    "FORMAT": "$",
+    "FORMATL": "10",
+    "FORMATD": null
+  }
+}

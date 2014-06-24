@@ -1,0 +1,16 @@
+{
+  "id": "wakman",
+  "display_name": "PostSleep: How many times did you wake up?",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "40",
+    "Form": "Post-Sleep Questionnaire",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

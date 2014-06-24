@@ -1,0 +1,16 @@
+{
+  "id": "bornpre",
+  "display_name": "55 born prematurely",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "95",
+    "Form": "LABADUL1",
+    "Page": "10",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

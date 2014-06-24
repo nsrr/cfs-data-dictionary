@@ -1,0 +1,16 @@
+{
+  "id": "cyphtcm",
+  "display_name": "Cyprus: height (cm)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "2",
+    "Form": "Cyprus Body Fat",
+    "Page": "read in",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": "1"
+  }
+}

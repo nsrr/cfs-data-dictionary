@@ -1,0 +1,16 @@
+{
+  "id": "shqdone",
+  "display_name": "Checklist: SHQ done",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "10",
+    "Form": "Participant Paperwork Check off List",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "othregmd",
+  "display_name": "74 specifyoth med in the last three days ",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "218",
+    "Form": "LABADUL1",
+    "Page": "14",
+    "TYPE": "2",
+    "LENGTH": "29",
+    "FORMAT": "$",
+    "FORMATL": "29",
+    "FORMATD": null
+  }
+}

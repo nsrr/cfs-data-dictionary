@@ -1,0 +1,16 @@
+{
+  "id": "icdcode3",
+  "display_name": "Numeric code for cause of death 3",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "32",
+    "Form": "OLDNAMES",
+    "Page": null,
+    "TYPE": "2",
+    "LENGTH": "6",
+    "FORMAT": "$",
+    "FORMATL": "6",
+    "FORMATD": null
+  }
+}

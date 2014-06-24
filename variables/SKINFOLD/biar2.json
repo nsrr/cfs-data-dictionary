@@ -1,0 +1,16 @@
+{
+  "id": "biar2",
+  "display_name": "Skinfold: BIA Total body resistance 2 R",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "8",
+    "Form": "Skinfold Assessment",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": "1"
+  }
+}

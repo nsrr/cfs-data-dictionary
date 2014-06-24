@@ -1,0 +1,16 @@
+{
+  "id": "acetamin",
+  "display_name": "74 Acetaminophen in the last three days",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "162",
+    "Form": "LABADUL1",
+    "Page": "13",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "chrcough",
+  "display_name": "68 cough 3 months consecutive",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "133",
+    "Form": "LABADUL1",
+    "Page": "12",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

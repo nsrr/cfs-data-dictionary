@@ -1,0 +1,16 @@
+{
+  "id": "natural",
+  "display_name": "75  natural periods stop",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "267",
+    "Form": "LABADUL1",
+    "Page": "15",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

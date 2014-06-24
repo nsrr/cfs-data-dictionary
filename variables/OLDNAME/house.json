@@ -1,0 +1,16 @@
+{
+  "id": "house",
+  "display_name": "Household # at last visit",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "26",
+    "Form": "OLDNAMES",
+    "Page": null,
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "6",
+    "FORMATD": null
+  }
+}

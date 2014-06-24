@@ -1,0 +1,16 @@
+{
+  "id": "v6qd",
+  "display_name": "ECG: V6: QD",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "96",
+    "Form": "ECG",
+    "Page": null,
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

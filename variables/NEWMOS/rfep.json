@@ -1,0 +1,16 @@
+{
+  "id": "rfep",
+  "display_name": "SF-36 Role-Emotional (0-100) (re)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "56",
+    "Form": "SF-36 Health Survey (MOS)",
+    "Page": "calculated",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "6",
+    "FORMATD": "3"
+  }
+}

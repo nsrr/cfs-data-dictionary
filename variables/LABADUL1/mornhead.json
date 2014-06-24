@@ -1,0 +1,16 @@
+{
+  "id": "mornhead",
+  "display_name": "20 morning headaches (A)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "23",
+    "Form": "LABADUL1",
+    "Page": "3",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

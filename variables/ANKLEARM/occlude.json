@@ -1,0 +1,16 @@
+{
+  "id": "occlude",
+  "display_name": "Ankle-Arm: Did the patient occlude?",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "6",
+    "Form": "Alkle-Arm Index",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

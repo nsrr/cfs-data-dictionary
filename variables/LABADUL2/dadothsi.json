@@ -1,0 +1,16 @@
+{
+  "id": "dadothsi",
+  "display_name": "77 Dad diagnosed Other Significant Medical",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "371",
+    "Form": "LABADUL2",
+    "Page": "18",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

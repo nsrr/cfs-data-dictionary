@@ -1,0 +1,16 @@
+{
+  "id": "fatherid",
+  "display_name": "PersionID of Father of Subject",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "23",
+    "Form": "OLDNAMES",
+    "Page": null,
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "6",
+    "FORMATD": null
+  }
+}

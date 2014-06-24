@@ -1,0 +1,16 @@
+{
+  "id": "agestop",
+  "display_name": "75 at what age did your natural periods cease?",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "263",
+    "Form": "LABADUL1",
+    "Page": "15",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

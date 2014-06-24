@@ -1,0 +1,16 @@
+{
+  "id": "mosq7",
+  "display_name": "MOS: Q7 (bp1)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "25",
+    "Form": "SF-36 Health Survey (MOS)",
+    "Page": "4",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

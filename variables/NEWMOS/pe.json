@@ -1,0 +1,16 @@
+{
+  "id": "pe",
+  "display_name": "CHQ-PF50 Parent Impact-Emotional (0-100)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "208",
+    "Form": "CHQ-PF50 (Child Health Questionnaire - Parent Report)",
+    "Page": "calculated",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": "2"
+  }
+}

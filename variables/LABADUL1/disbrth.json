@@ -1,0 +1,16 @@
+{
+  "id": "disbrth",
+  "display_name": "13 difficulty breathing while sleeping (A)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "16",
+    "Form": "LABADUL1",
+    "Page": "2",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

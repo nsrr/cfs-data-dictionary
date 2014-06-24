@@ -1,0 +1,16 @@
+{
+  "id": "brtech",
+  "display_name": "BracReac: Technician",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "5",
+    "Form": "Brachial Artery Vasoactivity Worksheet",
+    "Page": "1",
+    "TYPE": "2",
+    "LENGTH": "20",
+    "FORMAT": "$",
+    "FORMATL": "12",
+    "FORMATD": null
+  }
+}

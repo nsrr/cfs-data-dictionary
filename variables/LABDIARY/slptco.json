@@ -1,0 +1,16 @@
+{
+  "id": "slptco",
+  "display_name": "PostSleep: Compared to usual, total time asleep longer, the same, or shorter?",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "49",
+    "Form": "Post-Sleep Questionnaire",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ankarmil",
+  "display_name": "Ankle-Arm: Maximal Inflation Level",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "8",
+    "Form": "Alkle-Arm Index",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

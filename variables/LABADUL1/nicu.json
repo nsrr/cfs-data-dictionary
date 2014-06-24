@@ -1,0 +1,16 @@
+{
+  "id": "nicu",
+  "display_name": "57Were you in nicu",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "99",
+    "Form": "LABADUL1",
+    "Page": "10",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

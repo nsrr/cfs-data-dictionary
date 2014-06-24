@@ -1,0 +1,16 @@
+{
+  "id": "momcaus",
+  "display_name": "78 cause of death for mom (A)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "375",
+    "Form": "LABADUL2",
+    "Page": "18",
+    "TYPE": "2",
+    "LENGTH": "30",
+    "FORMAT": "$",
+    "FORMATL": "30",
+    "FORMATD": null
+  }
+}

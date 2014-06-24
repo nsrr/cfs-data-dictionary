@@ -1,0 +1,16 @@
+{
+  "id": "namdoc",
+  "display_name": "97 name doctor that diagnosed sleep apnea",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "803",
+    "Form": "LABADUL3",
+    "Page": "27",
+    "TYPE": "2",
+    "LENGTH": "20",
+    "FORMAT": "$",
+    "FORMATL": "20",
+    "FORMATD": null
+  }
+}

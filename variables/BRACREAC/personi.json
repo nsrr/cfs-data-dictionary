@@ -1,0 +1,16 @@
+{
+  "id": "personi",
+  "display_name": "Person ID",
+  "description": "Person ID",
+  "type": null,
+  "other": {
+    "VARNUM": "3",
+    "Form": "Brachial Artery Vasoactivity Worksheet",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "count",
+  "display_name": "Specimen: Estimated number of times extracted",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "14",
+    "Form": "Specimen Date (Bloods and Cephs)",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

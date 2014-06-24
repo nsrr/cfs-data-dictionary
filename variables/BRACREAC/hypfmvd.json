@@ -1,0 +1,16 @@
+{
+  "id": "hypfmvd",
+  "display_name": "BracReac: FMV Arterial Diameter Result mm",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "14",
+    "Form": "Brachial Artery Vasoactivity Worksheet",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": "2"
+  }
+}

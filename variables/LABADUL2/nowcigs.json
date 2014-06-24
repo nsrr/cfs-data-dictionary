@@ -1,0 +1,16 @@
+{
+  "id": "nowcigs",
+  "display_name": "85 How many Cigars per day now?",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "589",
+    "Form": "LABADUL2",
+    "Page": "22",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "hormones",
+  "display_name": "76 ever use prescription female hormones?",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "272",
+    "Form": "LABADUL1",
+    "Page": "16",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

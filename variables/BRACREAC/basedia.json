@@ -1,0 +1,16 @@
+{
+  "id": "basedia",
+  "display_name": "BracReac: Baseline 2D Image BP diastolic",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "7",
+    "Form": "Brachial Artery Vasoactivity Worksheet",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "diffname",
+  "display_name": "114 other contact",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "838",
+    "Form": "LABADUL3",
+    "Page": "29",
+    "TYPE": "2",
+    "LENGTH": "40",
+    "FORMAT": "$",
+    "FORMATL": "40",
+    "FORMATD": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "headtech",
+  "display_name": "Head Measurement - Technician",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "11",
+    "Form": "In Lab Physio",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

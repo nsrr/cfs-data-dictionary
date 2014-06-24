@@ -1,0 +1,16 @@
+{
+  "id": "dadmi",
+  "display_name": "77 Dad diagnosed Heart Attack",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "321",
+    "Form": "LABADUL2",
+    "Page": "17",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

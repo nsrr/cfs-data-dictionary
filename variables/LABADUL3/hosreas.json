@@ -1,0 +1,16 @@
+{
+  "id": "hosreas",
+  "display_name": "96 reason for hospitalization",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "801",
+    "Form": "LABADUL3",
+    "Page": "26",
+    "TYPE": "2",
+    "LENGTH": "54",
+    "FORMAT": "$",
+    "FORMATL": "54",
+    "FORMATD": null
+  }
+}

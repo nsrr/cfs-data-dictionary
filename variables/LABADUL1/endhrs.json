@@ -1,0 +1,16 @@
+{
+  "id": "endhrs",
+  "display_name": "44 how many hours of sleep on weekend days",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "75",
+    "Form": "LABADUL1",
+    "Page": "8",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

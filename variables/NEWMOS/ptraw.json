@@ -1,0 +1,16 @@
+{
+  "id": "ptraw",
+  "display_name": "CHQ-PF50 raw parental time impact",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "209",
+    "Form": "CHQ-PF50 (Child Health Questionnaire - Parent Report)",
+    "Page": "calculated",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "6",
+    "FORMATD": "3"
+  }
+}

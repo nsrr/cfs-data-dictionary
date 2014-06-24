@@ -1,0 +1,16 @@
+{
+  "id": "age",
+  "display_name": "Age at time of visit",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "50",
+    "Form": "Nunames",
+    "Page": "calculated",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": "3"
+  }
+}

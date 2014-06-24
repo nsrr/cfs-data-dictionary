@@ -1,0 +1,16 @@
+{
+  "id": "ladder",
+  "display_name": "111 Where would you place yourself on this ladder?",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "835",
+    "Form": "LABADUL3",
+    "Page": "29",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

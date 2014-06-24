@@ -1,0 +1,16 @@
+{
+  "id": "talkno",
+  "display_name": "40a  of times fell asleep talking (A)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "60",
+    "Form": "LABADUL1",
+    "Page": "7",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

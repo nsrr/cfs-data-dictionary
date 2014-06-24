@@ -1,0 +1,16 @@
+{
+  "id": "drive",
+  "display_name": "39 ever driven a vehicle (A)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "52",
+    "Form": "LABADUL1",
+    "Page": "6",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

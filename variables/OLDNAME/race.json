@@ -1,0 +1,16 @@
+{
+  "id": "race",
+  "display_name": "Race",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "20",
+    "Form": "OLDNAMES",
+    "Page": null,
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "agediaap",
+  "display_name": "95 Age Diagnosed Sleep Apnea",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "621",
+    "Form": "LABADUL3",
+    "Page": "25",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

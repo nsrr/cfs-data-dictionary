@@ -1,0 +1,16 @@
+{
+  "id": "snloudly",
+  "display_name": "35 Loud Snoring -- loud enough to wake others (L)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "38",
+    "Form": "LABADUL1",
+    "Page": "4",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

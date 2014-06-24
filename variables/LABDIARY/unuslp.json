@@ -1,0 +1,16 @@
+{
+  "id": "unuslp",
+  "display_name": "PostSleep: Did anything unusual happen to disturb your sleep last night?",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "53",
+    "Form": "Post-Sleep Questionnaire",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

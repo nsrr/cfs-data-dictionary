@@ -1,0 +1,16 @@
+{
+  "id": "speccom",
+  "display_name": "Specimen: Comments on specimen",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "15",
+    "Form": "Specimen Date (Bloods and Cephs)",
+    "Page": "1",
+    "TYPE": "2",
+    "LENGTH": "30",
+    "FORMAT": "$",
+    "FORMATL": "30",
+    "FORMATD": null
+  }
+}

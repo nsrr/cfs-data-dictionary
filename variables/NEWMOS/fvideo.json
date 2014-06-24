@@ -1,0 +1,16 @@
+{
+  "id": "fvideo",
+  "display_name": "FOSQ: Difficulty watching movie",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "87",
+    "Form": "FOSQ (Functional Outcomes of Sleep Questionnaire)",
+    "Page": "4",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

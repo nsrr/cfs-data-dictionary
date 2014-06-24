@@ -1,0 +1,16 @@
+{
+  "id": "iiiqa",
+  "display_name": "ECG: III: QA",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "175",
+    "Form": "ECG",
+    "Page": null,
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

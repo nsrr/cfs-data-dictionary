@@ -1,0 +1,16 @@
+{
+  "id": "agecigs",
+  "display_name": "85 Age first started smoking cigars ?",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "583",
+    "Form": "LABADUL2",
+    "Page": "22",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

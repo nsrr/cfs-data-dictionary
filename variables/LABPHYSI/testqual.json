@@ -1,0 +1,16 @@
+{
+  "id": "testqual",
+  "display_name": "Sleep Study: test quality",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "33",
+    "Form": "Physio Report",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

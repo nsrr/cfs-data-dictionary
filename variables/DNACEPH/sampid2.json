@@ -1,0 +1,16 @@
+{
+  "id": "sampid2",
+  "display_name": "DNA2: Sample id number",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "31",
+    "Form": "DNA/CEPH",
+    "Page": "1",
+    "TYPE": "2",
+    "LENGTH": "8",
+    "FORMAT": "$",
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

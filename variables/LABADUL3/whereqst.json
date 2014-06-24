@@ -1,0 +1,16 @@
+{
+  "id": "whereqst",
+  "display_name": "108 where questionnaire was completed",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "831",
+    "Form": "LABADUL3",
+    "Page": "28",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

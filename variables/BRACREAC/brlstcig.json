@@ -1,0 +1,16 @@
+{
+  "id": "brlstcig",
+  "display_name": "BracReac: Last Cigarette",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "19",
+    "Form": "Brachial Artery Vasoactivity Worksheet",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

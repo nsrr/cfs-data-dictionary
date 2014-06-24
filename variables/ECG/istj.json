@@ -1,0 +1,16 @@
+{
+  "id": "istj",
+  "display_name": "ECG: I: STJ",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "120",
+    "Form": "ECG",
+    "Page": null,
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

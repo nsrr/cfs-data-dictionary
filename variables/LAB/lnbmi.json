@@ -1,0 +1,16 @@
+{
+  "id": "lnbmi",
+  "display_name": "log(BMI)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": null,
+    "Form": "Lab dataset",
+    "Page": "calculated",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": "2"
+  }
+}

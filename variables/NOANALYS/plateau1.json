@@ -1,0 +1,16 @@
+{
+  "id": "plateau1",
+  "display_name": "Nitric Oxide: Plateau 1",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "5",
+    "Form": "Nitric Oxide Analyser",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "6",
+    "FORMATD": "1"
+  }
+}

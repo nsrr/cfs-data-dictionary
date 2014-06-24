@@ -1,0 +1,16 @@
+{
+  "id": "dishrtb",
+  "display_name": "26 heartburn during normal sleep time (A)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "29",
+    "Form": "LABADUL1",
+    "Page": "3",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

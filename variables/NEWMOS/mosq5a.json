@@ -1,0 +1,16 @@
+{
+  "id": "mosq5a",
+  "display_name": "MOS: Q5A (re1)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "21",
+    "Form": "SF-36 Health Survey (MOS)",
+    "Page": "3",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

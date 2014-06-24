@@ -1,0 +1,16 @@
+{
+  "id": "aspirday",
+  "display_name": "74 how many days per week do you take aspirin",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "172",
+    "Form": "LABADUL1",
+    "Page": "13",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

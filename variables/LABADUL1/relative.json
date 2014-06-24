@@ -1,0 +1,16 @@
+{
+  "id": "relative",
+  "display_name": "Relationship to index",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "5",
+    "Form": "LABADUL1",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

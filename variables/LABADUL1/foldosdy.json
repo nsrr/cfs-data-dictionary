@@ -1,0 +1,16 @@
+{
+  "id": "foldosdy",
+  "display_name": "74 Dose per day",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "258",
+    "Form": "LABADUL1",
+    "Page": "15",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

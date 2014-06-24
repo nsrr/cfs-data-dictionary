@@ -1,0 +1,16 @@
+{
+  "id": "keyfield",
+  "display_name": "Unique identifier for Epi-Info (personi . rectype)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "1",
+    "Form": "SF-36 Health Survey (MOS)",
+    "Page": "1",
+    "TYPE": "2",
+    "LENGTH": "10",
+    "FORMAT": "$",
+    "FORMATL": "10",
+    "FORMATD": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "icdcode6",
+  "display_name": "Numeric code for cause of death 6",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "38",
+    "Form": "OLDNAMES",
+    "Page": null,
+    "TYPE": "2",
+    "LENGTH": "6",
+    "FORMAT": "$",
+    "FORMATL": "6",
+    "FORMATD": null
+  }
+}

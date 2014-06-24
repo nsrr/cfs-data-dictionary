@@ -1,0 +1,16 @@
+{
+  "id": "function",
+  "display_name": "47 time of day function best (A)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "80",
+    "Form": "LABADUL1",
+    "Page": "8",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

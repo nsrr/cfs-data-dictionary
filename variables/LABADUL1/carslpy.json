@@ -1,0 +1,16 @@
+{
+  "id": "carslpy",
+  "display_name": "39f  of car accidents due to sleepiness (A)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "58",
+    "Form": "LABADUL1",
+    "Page": "6",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "personi",
+  "display_name": "Person ID",
+  "description": "Person ID",
+  "type": null,
+  "other": {
+    "VARNUM": "20",
+    "Form": "Cyprus Body Fat",
+    "Page": "read in",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "6",
+    "FORMATD": null
+  }
+}

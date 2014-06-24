@@ -1,0 +1,16 @@
+{
+  "id": "talkphon",
+  "display_name": "41 ever fallen asleep while on phone (A)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "61",
+    "Form": "LABADUL1",
+    "Page": "7",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

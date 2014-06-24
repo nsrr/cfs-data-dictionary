@@ -1,0 +1,16 @@
+{
+  "id": "centsent",
+  "display_name": "74 Mult Vit: Centrum, Century, Sentury",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "222",
+    "Form": "LABADUL1",
+    "Page": "15",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

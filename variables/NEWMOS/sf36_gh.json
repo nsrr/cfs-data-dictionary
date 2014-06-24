@@ -1,0 +1,16 @@
+{
+  "id": "sf36_gh",
+  "display_name": "SF-36 GENERAL HEALTH PERCEPTIONS (0-100)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "222",
+    "Form": "SF-36 Health Survey (MOS)",
+    "Page": "calculated",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": "2"
+  }
+}

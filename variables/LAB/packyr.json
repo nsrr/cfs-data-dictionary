@@ -1,0 +1,16 @@
+{
+  "id": "packyr",
+  "display_name": "Average packs smoked/year",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": null,
+    "Form": "Lab dataset",
+    "Page": "calculated",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": "2"
+  }
+}

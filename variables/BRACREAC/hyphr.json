@@ -1,0 +1,16 @@
+{
+  "id": "hyphr",
+  "display_name": "BracReac: Hyperemia/FMV One minute Cuff Release 2D Image HR",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "11",
+    "Form": "Brachial Artery Vasoactivity Worksheet",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

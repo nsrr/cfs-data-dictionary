@@ -1,0 +1,16 @@
+{
+  "id": "biadone",
+  "display_name": "Checklist: BIA done ",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "28",
+    "Form": "Participant Paperwork Check off List",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

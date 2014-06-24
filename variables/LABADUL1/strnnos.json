@@ -1,0 +1,16 @@
+{
+  "id": "strnnos",
+  "display_name": "65 Are you bothered by a stuffy or runny nose? (L)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "127",
+    "Form": "LABADUL1",
+    "Page": "12",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

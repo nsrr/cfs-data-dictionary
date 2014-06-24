@@ -1,0 +1,16 @@
+{
+  "id": "pm10sys2",
+  "display_name": "BP: 10 PM - Systolic 2",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "8",
+    "Form": "Nurses Flow Sheet",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "6",
+    "FORMATD": null
+  }
+}

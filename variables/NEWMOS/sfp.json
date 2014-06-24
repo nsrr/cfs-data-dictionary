@@ -1,0 +1,16 @@
+{
+  "id": "sfp",
+  "display_name": "SF-36 Social Functioning (0-100) (sf)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "52",
+    "Form": "SF-36 Health Survey (MOS)",
+    "Page": "calculated",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "6",
+    "FORMATD": "3"
+  }
+}

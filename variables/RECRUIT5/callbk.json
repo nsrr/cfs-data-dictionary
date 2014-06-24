@@ -1,0 +1,16 @@
+{
+  "id": "callbk",
+  "display_name": "Call back date",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "16",
+    "Form": "Follow-up Recruiting",
+    "Page": "1",
+    "TYPE": "2",
+    "LENGTH": "11",
+    "FORMAT": "MMDDYY",
+    "FORMATL": "10",
+    "FORMATD": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "dustfume",
+  "display_name": "62e wheeze when exposed to dust/fume (AC)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "120",
+    "Form": "LABADUL1",
+    "Page": "11",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

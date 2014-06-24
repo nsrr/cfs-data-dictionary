@@ -1,0 +1,16 @@
+{
+  "id": "familyi",
+  "display_name": "Family ID",
+  "description": "Family ID",
+  "type": null,
+  "other": {
+    "VARNUM": "38",
+    "Form": "Cephlometric Measurements",
+    "Page": "read in",
+    "TYPE": "1",
+    "LENGTH": "4",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

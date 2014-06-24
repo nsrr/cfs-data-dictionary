@@ -1,0 +1,16 @@
+{
+  "id": "c2sn",
+  "display_name": "Ceph: <C2-SN (angle: C2 to C2TG and Sella to Naison)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "5",
+    "Form": "Cephlometric Measurements",
+    "Page": "read in",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": "3"
+  }
+}

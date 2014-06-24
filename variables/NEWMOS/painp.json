@@ -1,0 +1,16 @@
+{
+  "id": "painp",
+  "display_name": "SF-36 Pain Index (0-100) (bp)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "62",
+    "Form": "SF-36 Health Survey (MOS)",
+    "Page": "calculated",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "6",
+    "FORMATD": "3"
+  }
+}

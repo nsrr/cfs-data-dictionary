@@ -1,0 +1,16 @@
+{
+  "id": "familyi",
+  "display_name": "Family ID",
+  "description": "Family ID",
+  "type": null,
+  "other": {
+    "VARNUM": "2",
+    "Form": "Alkle-Arm Index",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

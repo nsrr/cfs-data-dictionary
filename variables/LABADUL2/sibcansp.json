@@ -1,0 +1,16 @@
+{
+  "id": "sibcansp",
+  "display_name": "81 specify kind of cancer",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "436",
+    "Form": "LABADUL2",
+    "Page": "19",
+    "TYPE": "2",
+    "LENGTH": "20",
+    "FORMAT": "$",
+    "FORMATL": "20",
+    "FORMATD": null
+  }
+}

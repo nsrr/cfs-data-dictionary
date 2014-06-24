@@ -1,0 +1,16 @@
+{
+  "id": "rectype",
+  "display_name": "Rectype",
+  "description": "Rectype",
+  "type": null,
+  "other": {
+    "VARNUM": "2",
+    "Form": "Pre-Sleep Questionnaire",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

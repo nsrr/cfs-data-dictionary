@@ -1,0 +1,16 @@
+{
+  "id": "havepsg",
+  "display_name": "109 subj had a previous sleep study",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "832",
+    "Form": "LABADUL3",
+    "Page": "28",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "prtaxes1",
+  "display_name": "ECG: P-R-T axis 1",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "10",
+    "Form": "ECG",
+    "Page": null,
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

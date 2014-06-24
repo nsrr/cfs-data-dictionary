@@ -1,0 +1,16 @@
+{
+  "id": "soonches",
+  "display_name": "86 How soon is chest discomfort relieved / not relieved?",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "599",
+    "Form": "LABADUL2",
+    "Page": "23",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

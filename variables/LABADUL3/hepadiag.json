@@ -1,0 +1,16 @@
+{
+  "id": "hepadiag",
+  "display_name": "95 Hepatitis",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "722",
+    "Form": "LABADUL3",
+    "Page": "26",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

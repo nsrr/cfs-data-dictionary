@@ -1,0 +1,16 @@
+{
+  "id": "lstmens",
+  "display_name": "75 When was your last period?",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "262",
+    "Form": "LABADUL1",
+    "Page": "15",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

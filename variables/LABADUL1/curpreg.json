@@ -1,0 +1,16 @@
+{
+  "id": "curpreg",
+  "display_name": "75 currently pregnant (A)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "260",
+    "Form": "LABADUL1",
+    "Page": "15",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

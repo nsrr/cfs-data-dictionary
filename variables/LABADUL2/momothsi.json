@@ -1,0 +1,16 @@
+{
+  "id": "momothsi",
+  "display_name": "77 Mom diagnosed Other Significant Medical",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "369",
+    "Form": "LABADUL2",
+    "Page": "18",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

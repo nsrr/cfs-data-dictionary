@@ -1,0 +1,16 @@
+{
+  "id": "edemcomm",
+  "display_name": "Nurses notes: Edema comments",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "49",
+    "Form": "Doctor's Evaluation Notes",
+    "Page": null,
+    "TYPE": "2",
+    "LENGTH": "40",
+    "FORMAT": "$",
+    "FORMATL": "40",
+    "FORMATD": null
+  }
+}

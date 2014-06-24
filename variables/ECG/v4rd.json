@@ -1,0 +1,16 @@
+{
+  "id": "v4rd",
+  "display_name": "ECG: V4: RD",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "66",
+    "Form": "ECG",
+    "Page": null,
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "totdna2",
+  "display_name": "DNA2: Total extracted (mg)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "18",
+    "Form": "DNA/CEPH",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": "2"
+  }
+}

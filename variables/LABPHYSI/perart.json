@@ -1,0 +1,16 @@
+{
+  "id": "perart",
+  "display_name": "Sleep Study: % of time in artifacts",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "59",
+    "Form": "Physio Report",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": "2"
+  }
+}

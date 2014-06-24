@@ -1,0 +1,16 @@
+{
+  "id": "condat",
+  "display_name": "Date of contact",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "15",
+    "Form": "Follow-up Recruiting",
+    "Page": "1",
+    "TYPE": "2",
+    "LENGTH": "11",
+    "FORMAT": "MMDDYY",
+    "FORMATL": "10",
+    "FORMATD": null
+  }
+}

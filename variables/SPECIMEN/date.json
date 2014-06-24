@@ -1,0 +1,16 @@
+{
+  "id": "date",
+  "display_name": "Specimen: date entered into Epi_info database",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "16",
+    "Form": "Specimen Date (Bloods and Cephs)",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": "MMDDYY",
+    "FORMATL": "10",
+    "FORMATD": null
+  }
+}

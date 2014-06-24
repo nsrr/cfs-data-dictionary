@@ -1,0 +1,16 @@
+{
+  "id": "armmean",
+  "display_name": "Ankle-Arm: mean of arm bp measurements",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "20",
+    "Form": "Alkle-Arm Index",
+    "Page": "calculated",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": "2"
+  }
+}

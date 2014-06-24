@@ -1,0 +1,16 @@
+{
+  "id": "moncigs",
+  "display_name": "85 Last month, have you smoked Cigars?",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "587",
+    "Form": "LABADUL2",
+    "Page": "22",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

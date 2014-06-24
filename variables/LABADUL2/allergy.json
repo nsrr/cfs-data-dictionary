@@ -1,0 +1,16 @@
+{
+  "id": "allergy",
+  "display_name": "89 are you allergic to dust/mold/pollen",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "609",
+    "Form": "LABADUL2",
+    "Page": "24",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

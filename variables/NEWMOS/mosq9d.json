@@ -1,0 +1,16 @@
+{
+  "id": "mosq9d",
+  "display_name": "MOS: Q9D mh3",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "30",
+    "Form": "SF-36 Health Survey (MOS)",
+    "Page": "5",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

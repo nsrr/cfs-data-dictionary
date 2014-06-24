@@ -1,0 +1,16 @@
+{
+  "id": "am7cig",
+  "display_name": "Blood Draw: 7 AM - how long since last cigarette",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "39",
+    "Form": "Blood Draw Form",
+    "Page": "2",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "painr",
+  "display_name": "SF-36 Raw Pain Index (rawbp)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "61",
+    "Form": "SF-36 Health Survey (MOS)",
+    "Page": "calculated",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "6",
+    "FORMATD": "3"
+  }
+}

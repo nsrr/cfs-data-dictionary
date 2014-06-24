@@ -1,0 +1,16 @@
+{
+  "id": "legjerk",
+  "display_name": "15 jerky legs while asleep (AC)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "18",
+    "Form": "LABADUL1",
+    "Page": "2",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

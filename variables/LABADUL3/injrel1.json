@@ -1,0 +1,16 @@
+{
+  "id": "injrel1",
+  "display_name": "100 name/relation/date/event injury in fam.",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "818",
+    "Form": "LABADUL3",
+    "Page": "27",
+    "TYPE": "2",
+    "LENGTH": "50",
+    "FORMAT": "$",
+    "FORMATL": "50",
+    "FORMATD": null
+  }
+}

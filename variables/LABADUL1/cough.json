@@ -1,0 +1,16 @@
+{
+  "id": "cough",
+  "display_name": "67do you cough",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "132",
+    "Form": "LABADUL1",
+    "Page": "12",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

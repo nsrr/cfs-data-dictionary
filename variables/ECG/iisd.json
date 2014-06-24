@@ -1,0 +1,16 @@
+{
+  "id": "iisd",
+  "display_name": "ECG: II: SD",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "148",
+    "Form": "ECG",
+    "Page": null,
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

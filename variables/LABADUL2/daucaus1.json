@@ -1,0 +1,16 @@
+{
+  "id": "daucaus1",
+  "display_name": "82 Cause of death dau 1",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "481",
+    "Form": "LABADUL2",
+    "Page": "20",
+    "TYPE": "2",
+    "LENGTH": "20",
+    "FORMAT": "$",
+    "FORMATL": "20",
+    "FORMATD": null
+  }
+}

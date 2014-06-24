@@ -1,0 +1,16 @@
+{
+  "id": "bypasage",
+  "display_name": "95 Age Diagnosed Coronary Bypass",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "660",
+    "Form": "LABADUL3",
+    "Page": "25",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

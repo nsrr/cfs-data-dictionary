@@ -1,0 +1,16 @@
+{
+  "id": "psychsp",
+  "display_name": "95 Specify Psychiatric dz",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "785",
+    "Form": "LABADUL3",
+    "Page": "26",
+    "TYPE": "2",
+    "LENGTH": "30",
+    "FORMAT": "$",
+    "FORMATL": "30",
+    "FORMATD": null
+  }
+}

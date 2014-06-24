@@ -1,0 +1,16 @@
+{
+  "id": "specid",
+  "display_name": "Specimen: Unique specimen ID",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "3",
+    "Form": "Specimen Date (Bloods and Cephs)",
+    "Page": "1",
+    "TYPE": "2",
+    "LENGTH": "10",
+    "FORMAT": "$",
+    "FORMATL": "10",
+    "FORMATD": null
+  }
+}

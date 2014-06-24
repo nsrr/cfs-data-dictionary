@@ -1,0 +1,16 @@
+{
+  "id": "am10sys",
+  "display_name": "BP: 10 AM Systolic",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": null,
+    "Form": "Lab dataset",
+    "Page": "calculated",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": "2"
+  }
+}

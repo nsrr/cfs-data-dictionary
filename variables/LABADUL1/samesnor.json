@@ -1,0 +1,16 @@
+{
+  "id": "samesnor",
+  "display_name": "37d variation in snores in last month (A)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "43",
+    "Form": "LABADUL1",
+    "Page": "5",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "eventpr",
+  "display_name": "Sleep Study: # of prone intervals w/ >= 2 events",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "51",
+    "Form": "Physio Report",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

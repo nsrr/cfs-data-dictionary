@@ -1,0 +1,16 @@
+{
+  "id": "desslp",
+  "display_name": "PostSleep: How would you describe your sleep last night?",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "50",
+    "Form": "Post-Sleep Questionnaire",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

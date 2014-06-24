@@ -1,0 +1,16 @@
+{
+  "id": "distsnor",
+  "display_name": "37e snoring disturbs others (AC)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "44",
+    "Form": "LABADUL1",
+    "Page": "5",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

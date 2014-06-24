@@ -1,0 +1,16 @@
+{
+  "id": "rmdusty",
+  "display_name": "66 A dusty room gives you a stuffy of runny nose(L)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "129",
+    "Form": "LABADUL1",
+    "Page": "12",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

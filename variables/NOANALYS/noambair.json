@@ -1,0 +1,16 @@
+{
+  "id": "noambair",
+  "display_name": "Nitric Oxide: Ambient Air",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "11",
+    "Form": "Nitric Oxide Analyser",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "6",
+    "FORMATD": "2"
+  }
+}

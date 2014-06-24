@@ -1,0 +1,16 @@
+{
+  "id": "sibstrok",
+  "display_name": "81 Any sibs with Stroke (or a TIA)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "427",
+    "Form": "LABADUL2",
+    "Page": "19",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

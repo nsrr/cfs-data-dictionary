@@ -1,0 +1,16 @@
+{
+  "id": "fltill",
+  "display_name": "PreSleep: Felt ill today or last 2 weeks?",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "34",
+    "Form": "Pre-Sleep Questionnaire",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

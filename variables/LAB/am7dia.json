@@ -1,0 +1,16 @@
+{
+  "id": "am7dia",
+  "display_name": "BP: 7 AM Diastolic",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": null,
+    "Form": "Lab dataset",
+    "Page": "calculated",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": "2"
+  }
+}

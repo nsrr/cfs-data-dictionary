@@ -1,0 +1,16 @@
+{
+  "id": "thiazide",
+  "display_name": "74 Thiazide diuretic  in the last three days ",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "180",
+    "Form": "LABADUL1",
+    "Page": "14",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

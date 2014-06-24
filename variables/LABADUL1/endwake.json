@@ -1,0 +1,16 @@
+{
+  "id": "endwake",
+  "display_name": "43 wake up time on weekends (A)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "72",
+    "Form": "LABADUL1",
+    "Page": "7",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

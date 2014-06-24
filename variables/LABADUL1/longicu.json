@@ -1,0 +1,16 @@
+{
+  "id": "longicu",
+  "display_name": "57how long nicu",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "100",
+    "Form": "LABADUL1",
+    "Page": "10",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

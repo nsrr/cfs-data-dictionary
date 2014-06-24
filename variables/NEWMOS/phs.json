@@ -1,0 +1,16 @@
+{
+  "id": "phs",
+  "display_name": "CHQ-PF50 Physical Summary Score",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "213",
+    "Form": "CHQ-PF50 (Child Health Questionnaire - Parent Report)",
+    "Page": "calculated",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": "2"
+  }
+}

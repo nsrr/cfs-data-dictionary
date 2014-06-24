@@ -1,0 +1,16 @@
+{
+  "id": "car",
+  "display_name": "39e  of accidents while driving (A)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "57",
+    "Form": "LABADUL1",
+    "Page": "6",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

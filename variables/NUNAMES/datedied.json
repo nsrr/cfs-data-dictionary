@@ -1,0 +1,16 @@
+{
+  "id": "datedied",
+  "display_name": "Date Patient died",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "49",
+    "Form": "Nunames",
+    "Page": "2",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": "MMDDYY",
+    "FORMATL": "10",
+    "FORMATD": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "othref",
+  "display_name": "Other refusal reason",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "11",
+    "Form": "Follow-up Recruiting",
+    "Page": "1",
+    "TYPE": "2",
+    "LENGTH": "15",
+    "FORMAT": "$",
+    "FORMATL": "15",
+    "FORMATD": null
+  }
+}

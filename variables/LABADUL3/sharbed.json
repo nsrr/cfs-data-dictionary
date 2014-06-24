@@ -1,0 +1,16 @@
+{
+  "id": "sharbed",
+  "display_name": "106 share a bedroom with you",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "826",
+    "Form": "LABADUL3",
+    "Page": "28",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

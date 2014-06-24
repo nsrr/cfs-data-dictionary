@@ -1,0 +1,16 @@
+{
+  "id": "sibosa",
+  "display_name": "81 Any sibs with Sleep Apnea",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "400",
+    "Form": "LABADUL2",
+    "Page": "19",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

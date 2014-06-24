@@ -1,0 +1,16 @@
+{
+  "id": "pr",
+  "display_name": "SF-36 Raw General Health Perceptions (rawgh)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "63",
+    "Form": "SF-36 Health Survey (MOS)",
+    "Page": "calculated",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "6",
+    "FORMATD": "3"
+  }
+}

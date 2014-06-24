@@ -1,0 +1,16 @@
+{
+  "id": "race",
+  "display_name": "Race (1=White, 2=Black, 3=Asian, 4=Hispanic, 5=Other)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "21",
+    "Form": "Nunames",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "3",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

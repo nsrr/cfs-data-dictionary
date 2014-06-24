@@ -1,0 +1,16 @@
+{
+  "id": "newadded",
+  "display_name": "Newly Added: 1=family member; 2=family",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "6",
+    "Form": "Follow-up Recruiting",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

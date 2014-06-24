@@ -1,0 +1,16 @@
+{
+  "id": "momsmoke",
+  "display_name": "59 Did mom smoke while pregnant with you? (L)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "102",
+    "Form": "LABADUL1",
+    "Page": "10",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

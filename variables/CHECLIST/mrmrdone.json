@@ -1,0 +1,16 @@
+{
+  "id": "mrmrdone",
+  "display_name": "Checklist: Medical Release for info done",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "23",
+    "Form": "Participant Paperwork Check off List",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

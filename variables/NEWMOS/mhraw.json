@@ -1,0 +1,16 @@
+{
+  "id": "mhraw",
+  "display_name": "CHQ-PF50 raw mental health",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "201",
+    "Form": "CHQ-PF50 (Child Health Questionnaire - Parent Report)",
+    "Page": "calculated",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "6",
+    "FORMATD": "2"
+  }
+}

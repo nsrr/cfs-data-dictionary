@@ -1,0 +1,16 @@
+{
+  "id": "yourvita",
+  "display_name": "74 Mult Vit: specify",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "255",
+    "Form": "LABADUL1",
+    "Page": "15",
+    "TYPE": "2",
+    "LENGTH": "36",
+    "FORMAT": "$",
+    "FORMATL": "36",
+    "FORMATD": null
+  }
+}

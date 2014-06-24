@@ -1,0 +1,16 @@
+{
+  "id": "fosq_global",
+  "display_name": "FOSQ Global Score",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "126",
+    "Form": "FOSQ (Functional Outcomes of Sleep Questionnaire)",
+    "Page": "calculated",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": "2"
+  }
+}

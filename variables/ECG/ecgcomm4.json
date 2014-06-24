@@ -1,0 +1,16 @@
+{
+  "id": "ecgcomm4",
+  "display_name": "ECG: Comments 4",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "192",
+    "Form": "ECG",
+    "Page": null,
+    "TYPE": "2",
+    "LENGTH": "40",
+    "FORMAT": "$",
+    "FORMATL": "40",
+    "FORMATD": null
+  }
+}

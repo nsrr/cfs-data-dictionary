@@ -1,0 +1,16 @@
+{
+  "id": "hypfmvv",
+  "display_name": "BracReac: FMV Arterial Diameter Doppler Velocity (m/s)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "15",
+    "Form": "Brachial Artery Vasoactivity Worksheet",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": "2"
+  }
+}

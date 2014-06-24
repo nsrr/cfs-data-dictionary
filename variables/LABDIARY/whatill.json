@@ -1,0 +1,16 @@
+{
+  "id": "whatill",
+  "display_name": "PreSleep: Specify what illness today/past two weeks",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "35",
+    "Form": "Pre-Sleep Questionnaire",
+    "Page": "1",
+    "TYPE": "2",
+    "LENGTH": "31",
+    "FORMAT": "$",
+    "FORMATL": "31",
+    "FORMATD": null
+  }
+}

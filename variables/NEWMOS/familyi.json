@@ -1,0 +1,16 @@
+{
+  "id": "familyi",
+  "display_name": "Family ID",
+  "description": "Family ID",
+  "type": null,
+  "other": {
+    "VARNUM": "3",
+    "Form": "SF-36 Health Survey (MOS)",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

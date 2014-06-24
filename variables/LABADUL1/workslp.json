@@ -1,0 +1,16 @@
+{
+  "id": "workslp",
+  "display_name": "38a fallen asleep on the job (A)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "48",
+    "Form": "LABADUL1",
+    "Page": "6",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

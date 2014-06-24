@@ -1,0 +1,16 @@
+{
+  "id": "iiipa",
+  "display_name": "ECG: III: PA",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "173",
+    "Form": "ECG",
+    "Page": null,
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

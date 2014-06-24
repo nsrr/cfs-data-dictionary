@@ -1,0 +1,16 @@
+{
+  "id": "xpalpm",
+  "display_name": "Ceph: <Pal-PM (angle: palatal plane and PM)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "25",
+    "Form": "Cephlometric Measurements",
+    "Page": "read in",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": "3"
+  }
+}

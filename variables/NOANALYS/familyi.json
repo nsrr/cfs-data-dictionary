@@ -1,0 +1,16 @@
+{
+  "id": "familyi",
+  "display_name": "Family ID",
+  "description": "Family ID",
+  "type": null,
+  "other": {
+    "VARNUM": "4",
+    "Form": "Nitric Oxide Analyser",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "dadlegs",
+  "display_name": "77 Dad diagnosed Restless Legs or Periodic",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "351",
+    "Form": "LABADUL2",
+    "Page": "17",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

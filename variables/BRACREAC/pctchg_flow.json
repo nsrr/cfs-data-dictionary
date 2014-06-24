@@ -1,0 +1,16 @@
+{
+  "id": "pctchg_flow",
+  "display_name": "BracReac: Percent Change in flow volume",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "25",
+    "Form": "Brachial Artery Vasoactivity Worksheet",
+    "Page": "calculated",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": "3"
+  }
+}

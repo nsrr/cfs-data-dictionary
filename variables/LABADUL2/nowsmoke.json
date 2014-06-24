@@ -1,0 +1,16 @@
+{
+  "id": "nowsmoke",
+  "display_name": "84d cigarettes currently smoke/day (A)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "579",
+    "Form": "LABADUL2",
+    "Page": "22",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

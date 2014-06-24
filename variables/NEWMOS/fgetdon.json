@@ -1,0 +1,16 @@
+{
+  "id": "fgetdon",
+  "display_name": "FOSQ: Difficulty getting things done",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "75",
+    "Form": "FOSQ (Functional Outcomes of Sleep Questionnaire)",
+    "Page": "2",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

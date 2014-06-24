@@ -1,0 +1,16 @@
+{
+  "id": "mcf",
+  "display_name": "Ceph: MCF (mid cranial fossa)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "32",
+    "Form": "Cephlometric Measurements",
+    "Page": "read in",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": "3"
+  }
+}

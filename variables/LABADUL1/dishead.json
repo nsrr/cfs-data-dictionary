@@ -1,0 +1,16 @@
+{
+  "id": "dishead",
+  "display_name": "34 headaches during normal sleep time (A)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "37",
+    "Form": "LABADUL1",
+    "Page": "4",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

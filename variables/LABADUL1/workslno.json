@@ -1,0 +1,16 @@
+{
+  "id": "workslno",
+  "display_name": "38b  of times slept on job (A)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "49",
+    "Form": "LABADUL1",
+    "Page": "6",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

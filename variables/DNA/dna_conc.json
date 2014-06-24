@@ -1,0 +1,16 @@
+{
+  "id": "dna_conc",
+  "display_name": "DNA: concentration of best DNA sample (ug/ul)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "9",
+    "Form": "(calculated based on Specimen dataset)",
+    "Page": "calculated",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": "4"
+  }
+}

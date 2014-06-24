@@ -1,0 +1,16 @@
+{
+  "id": "scorer",
+  "display_name": "Ceph: scorer initials",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "42",
+    "Form": "Cephlometric Measurements",
+    "Page": "read in",
+    "TYPE": "2",
+    "LENGTH": "2",
+    "FORMAT": "$",
+    "FORMATL": "2",
+    "FORMATD": null
+  }
+}

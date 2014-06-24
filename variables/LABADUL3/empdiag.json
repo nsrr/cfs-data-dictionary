@@ -1,0 +1,16 @@
+{
+  "id": "empdiag",
+  "display_name": "95 Emphysema",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "731",
+    "Form": "LABADUL3",
+    "Page": "26",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

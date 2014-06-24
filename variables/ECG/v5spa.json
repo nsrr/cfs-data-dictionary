@@ -1,0 +1,16 @@
+{
+  "id": "v5spa",
+  "display_name": "ECG: V5: SPA",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "87",
+    "Form": "ECG",
+    "Page": null,
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

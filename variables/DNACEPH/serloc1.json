@@ -1,0 +1,16 @@
+{
+  "id": "serloc1",
+  "display_name": "DNA1: Serum sample location",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "12",
+    "Form": "DNA/CEPH",
+    "Page": "1",
+    "TYPE": "2",
+    "LENGTH": "8",
+    "FORMAT": "$",
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

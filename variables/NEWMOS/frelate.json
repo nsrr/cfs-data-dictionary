@@ -1,0 +1,16 @@
+{
+  "id": "frelate",
+  "display_name": "FOSQ: Relationships been affected",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "82",
+    "Form": "FOSQ (Functional Outcomes of Sleep Questionnaire)",
+    "Page": "3",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

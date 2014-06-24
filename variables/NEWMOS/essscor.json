@@ -1,0 +1,16 @@
+{
+  "id": "essscor",
+  "display_name": "ESS: Summary Score",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "67",
+    "Form": "ESS (Epworth Sleepiness Scale)",
+    "Page": "calculated",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "6",
+    "FORMATD": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ippa",
+  "display_name": "ECG: I: PPA",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "110",
+    "Form": "ECG",
+    "Page": null,
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

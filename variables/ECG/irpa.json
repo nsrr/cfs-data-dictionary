@@ -1,0 +1,16 @@
+{
+  "id": "irpa",
+  "display_name": "ECG: I: RPA",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "117",
+    "Form": "ECG",
+    "Page": null,
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

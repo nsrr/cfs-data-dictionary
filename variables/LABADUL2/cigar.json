@@ -1,0 +1,16 @@
+{
+  "id": "cigar",
+  "display_name": "85 Have you ever smoked cigars/cigarillos?",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "581",
+    "Form": "LABADUL2",
+    "Page": "22",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

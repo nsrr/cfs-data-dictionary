@@ -1,0 +1,16 @@
+{
+  "id": "perstop",
+  "display_name": "75 Have your periods stopped permanently?",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "261",
+    "Form": "LABADUL1",
+    "Page": "15",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "psydiayr",
+  "display_name": "95 Year Diagnosed Other Psychiatric Disease",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "783",
+    "Form": "LABADUL3",
+    "Page": "26",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "sf36_rawvt",
+  "display_name": "SF-36 RAW VITALITY",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "223",
+    "Form": "SF-36 Health Survey (MOS)",
+    "Page": "calculated",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": "2"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "typetx",
+  "display_name": "type of sleep apnea treatment",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "17",
+    "Form": "In Lab Physio",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

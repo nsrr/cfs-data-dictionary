@@ -1,0 +1,16 @@
+{
+  "id": "wkschool",
+  "display_name": "50 how often fall asleep  at work or school?",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "86",
+    "Form": "LABADUL1",
+    "Page": "9",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

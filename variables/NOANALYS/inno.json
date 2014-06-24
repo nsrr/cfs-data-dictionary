@@ -1,0 +1,16 @@
+{
+  "id": "inno",
+  "display_name": "in nitric oxide",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "12",
+    "Form": "Nitric Oxide Analyser",
+    "Page": "calculated",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

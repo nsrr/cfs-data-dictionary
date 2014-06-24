@@ -1,0 +1,16 @@
+{
+  "id": "pwidth",
+  "display_name": "Ceph: P width (width of palate at middle point)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "18",
+    "Form": "Cephlometric Measurements",
+    "Page": "read in",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": "3"
+  }
+}

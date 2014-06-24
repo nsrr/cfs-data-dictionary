@@ -1,0 +1,16 @@
+{
+  "id": "hver",
+  "display_name": "Ceph: H-VER (distance between Hyoid and PM)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "12",
+    "Form": "Cephlometric Measurements",
+    "Page": "read in",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": "3"
+  }
+}

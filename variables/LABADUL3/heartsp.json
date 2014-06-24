@@ -1,0 +1,16 @@
+{
+  "id": "heartsp",
+  "display_name": "95 Specify other heart dz",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "673",
+    "Form": "LABADUL3",
+    "Page": "25",
+    "TYPE": "2",
+    "LENGTH": "34",
+    "FORMAT": "$",
+    "FORMATL": "34",
+    "FORMATD": null
+  }
+}

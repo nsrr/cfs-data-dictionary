@@ -1,0 +1,16 @@
+{
+  "id": "sex",
+  "display_name": "Subject Sex (0=female, 1=male)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "19",
+    "Form": "OLDNAMES",
+    "Page": null,
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

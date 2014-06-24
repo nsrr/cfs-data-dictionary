@@ -1,0 +1,16 @@
+{
+  "id": "per85",
+  "display_name": "Sleep Study: % time O2 saturation < 85%",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "55",
+    "Form": "Physio Report",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": "2"
+  }
+}

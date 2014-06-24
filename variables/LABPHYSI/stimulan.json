@@ -1,0 +1,16 @@
+{
+  "id": "stimulan",
+  "display_name": "Sleep Diary: took stimulants on day of study (AC)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "65",
+    "Form": "Sleep Diary",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

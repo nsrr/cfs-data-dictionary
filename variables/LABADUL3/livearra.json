@@ -1,0 +1,16 @@
+{
+  "id": "livearra",
+  "display_name": "107 What are your living arrangements?",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "830",
+    "Form": "LABADUL3",
+    "Page": "28",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

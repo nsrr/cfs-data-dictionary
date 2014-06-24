@@ -1,0 +1,16 @@
+{
+  "id": "onlynite",
+  "display_name": "62g wheeze only during nights (AC)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "122",
+    "Form": "LABADUL1",
+    "Page": "11",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

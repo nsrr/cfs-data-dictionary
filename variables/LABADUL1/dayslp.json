@@ -1,0 +1,16 @@
+{
+  "id": "dayslp",
+  "display_name": "43 time alseep on weekdays (A)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "69",
+    "Form": "LABADUL1",
+    "Page": "7",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

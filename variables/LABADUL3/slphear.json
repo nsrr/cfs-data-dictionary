@@ -1,0 +1,16 @@
+{
+  "id": "slphear",
+  "display_name": "113 has person to hear breathing w sleep (A)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "837",
+    "Form": "LABADUL3",
+    "Page": "29",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

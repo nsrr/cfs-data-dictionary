@@ -1,0 +1,16 @@
+{
+  "id": "mondist",
+  "display_name": "37f snoring disturbs others, past month (AC)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "45",
+    "Form": "LABADUL1",
+    "Page": "5",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

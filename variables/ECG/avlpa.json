@@ -1,0 +1,16 @@
+{
+  "id": "avlpa",
+  "display_name": "ECG: AVL: PA",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "125",
+    "Form": "ECG",
+    "Page": null,
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

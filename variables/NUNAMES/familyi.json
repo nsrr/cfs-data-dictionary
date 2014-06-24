@@ -1,0 +1,16 @@
+{
+  "id": "familyi",
+  "display_name": "Family ID",
+  "description": "Family ID",
+  "type": null,
+  "other": {
+    "VARNUM": "5",
+    "Form": "Nunames",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "4",
+    "FORMAT": null,
+    "FORMATL": "4",
+    "FORMATD": null
+  }
+}

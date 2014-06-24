@@ -1,0 +1,16 @@
+{
+  "id": "loc70d1",
+  "display_name": "CWRU Sample 1: 70-degree freezer location",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "51",
+    "Form": "DNA/CEPH",
+    "Page": "1",
+    "TYPE": "2",
+    "LENGTH": "10",
+    "FORMAT": "$",
+    "FORMATL": "10",
+    "FORMATD": null
+  }
+}

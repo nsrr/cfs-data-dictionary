@@ -1,0 +1,16 @@
+{
+  "id": "sibsigmd",
+  "display_name": "81 Any sibs with Other Significant Medical Condition",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "464",
+    "Form": "LABADUL2",
+    "Page": "19",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

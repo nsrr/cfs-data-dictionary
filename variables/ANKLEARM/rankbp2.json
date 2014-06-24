@@ -1,0 +1,16 @@
+{
+  "id": "rankbp2",
+  "display_name": "Ankle-Arm: Right Ankle Systolic Blood Pressure 2",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "15",
+    "Form": "Alkle-Arm Index",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

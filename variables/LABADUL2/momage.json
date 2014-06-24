@@ -1,0 +1,16 @@
+{
+  "id": "momage",
+  "display_name": "78 age of mom (if alive)(A)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "376",
+    "Form": "LABADUL2",
+    "Page": "18",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

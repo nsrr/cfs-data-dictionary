@@ -1,0 +1,16 @@
+{
+  "id": "facia_le",
+  "display_name": "Ceph: facial length",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "34",
+    "Form": "Cephlometric Measurements",
+    "Page": "read in",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": "3"
+  }
+}

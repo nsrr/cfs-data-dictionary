@@ -1,0 +1,16 @@
+{
+  "id": "q5q2",
+  "display_name": "CHQ-PF50: Q5Q2",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "120",
+    "Form": "CHQ-PF50 (Child Health Questionnaire - Parent Report)",
+    "Page": "366",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

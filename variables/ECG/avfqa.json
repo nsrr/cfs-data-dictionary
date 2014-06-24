@@ -1,0 +1,16 @@
+{
+  "id": "avfqa",
+  "display_name": "ECG: AVF: QA",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "159",
+    "Form": "ECG",
+    "Page": null,
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "fhgo",
+  "display_name": "Ceph: FH-Go (perpendicular length, FH to gonion)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "8",
+    "Form": "Cephlometric Measurements",
+    "Page": "read in",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": "3"
+  }
+}

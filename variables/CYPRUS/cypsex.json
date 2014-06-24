@@ -1,0 +1,16 @@
+{
+  "id": "cypsex",
+  "display_name": "Cyprus: sex",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "21",
+    "Form": "Cyprus Body Fat",
+    "Page": "read in",
+    "TYPE": "2",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

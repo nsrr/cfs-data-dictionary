@@ -1,0 +1,16 @@
+{
+  "id": "v6tpa",
+  "display_name": "ECG: V6: TPA",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "108",
+    "Form": "ECG",
+    "Page": null,
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

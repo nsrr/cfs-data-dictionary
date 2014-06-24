@@ -1,0 +1,16 @@
+{
+  "id": "cvsprovi",
+  "display_name": "74 Mult Vit: CVS Pro-Vite",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "237",
+    "Form": "LABADUL1",
+    "Page": "15",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

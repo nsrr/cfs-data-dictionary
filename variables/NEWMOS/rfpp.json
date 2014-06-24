@@ -1,0 +1,16 @@
+{
+  "id": "rfpp",
+  "display_name": "SF-36 Role-Physical (0-100) (rp)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "54",
+    "Form": "SF-36 Health Survey (MOS)",
+    "Page": "calculated",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "6",
+    "FORMATD": "3"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "thawed3",
+  "display_name": "DNA3: Serum sample thawed (Y/N)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "39",
+    "Form": "DNA/CEPH",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "3",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

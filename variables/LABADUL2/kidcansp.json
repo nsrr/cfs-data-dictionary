@@ -1,0 +1,16 @@
+{
+  "id": "kidcansp",
+  "display_name": "82 Specify kids cancer",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "522",
+    "Form": "LABADUL2",
+    "Page": "20",
+    "TYPE": "2",
+    "LENGTH": "20",
+    "FORMAT": "$",
+    "FORMATL": "20",
+    "FORMATD": null
+  }
+}

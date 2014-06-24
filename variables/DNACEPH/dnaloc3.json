@@ -1,0 +1,16 @@
+{
+  "id": "dnaloc3",
+  "display_name": "DNA3: sample location",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "33",
+    "Form": "DNA/CEPH",
+    "Page": "1",
+    "TYPE": "2",
+    "LENGTH": "8",
+    "FORMAT": "$",
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

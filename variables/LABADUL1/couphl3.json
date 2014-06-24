@@ -1,0 +1,16 @@
+{
+  "id": "couphl3",
+  "display_name": "72 cough + phlegm last more than 3 weeks",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "139",
+    "Form": "LABADUL1",
+    "Page": "12",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

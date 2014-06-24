@@ -1,0 +1,16 @@
+{
+  "id": "mhp",
+  "display_name": "SF-36 Mental Health Index (0-100) (mh)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "58",
+    "Form": "SF-36 Health Survey (MOS)",
+    "Page": "calculated",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "6",
+    "FORMATD": "3"
+  }
+}

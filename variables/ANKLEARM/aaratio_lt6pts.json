@@ -1,0 +1,16 @@
+{
+  "id": "aaratio_lt6pts",
+  "display_name": "Ankle-Arm: Flag =1 if less than 6 measurements in calculations",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "23",
+    "Form": "Alkle-Arm Index",
+    "Page": "calculated",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

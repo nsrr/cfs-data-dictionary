@@ -1,0 +1,16 @@
+{
+  "id": "phsegmax",
+  "display_name": "Pharyn: max segment limit",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "6",
+    "Form": "Pharyngometry Report",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": "1"
+  }
+}

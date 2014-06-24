@@ -1,0 +1,16 @@
+{
+  "id": "babyaspr",
+  "display_name": "74 Baby aspirin in the last three days",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "166",
+    "Form": "LABADUL1",
+    "Page": "13",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "dnaconc1",
+  "display_name": "DNA1: concentration",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "16",
+    "Form": "DNA/CEPH",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": "3"
+  }
+}

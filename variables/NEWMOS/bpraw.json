@@ -1,0 +1,16 @@
+{
+  "id": "bpraw",
+  "display_name": "CHQ-PF50 raw bodily pain",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "197",
+    "Form": "CHQ-PF50 (Child Health Questionnaire - Parent Report)",
+    "Page": "calculated",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

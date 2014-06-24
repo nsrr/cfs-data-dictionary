@@ -1,0 +1,16 @@
+{
+  "id": "lastmens",
+  "display_name": "Sleep Diary: time of last menstrual cycle (A)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "73",
+    "Form": "Sleep Diary",
+    "Page": "1",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

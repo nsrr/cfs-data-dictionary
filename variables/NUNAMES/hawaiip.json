@@ -1,0 +1,16 @@
+{
+  "id": "hawaiip",
+  "display_name": "Race - Hawaiian or Pacific Islander (0=no,1=yes)",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "25",
+    "Form": "Nunames",
+    "Page": "2",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "3",
+    "FORMATD": null
+  }
+}

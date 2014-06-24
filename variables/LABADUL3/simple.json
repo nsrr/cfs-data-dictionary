@@ -1,0 +1,16 @@
+{
+  "id": "simple",
+  "display_name": "97 have had a simple tonsillectomy",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "807",
+    "Form": "LABADUL3",
+    "Page": "27",
+    "TYPE": "1",
+    "LENGTH": "8",
+    "FORMAT": null,
+    "FORMATL": "8",
+    "FORMATD": null
+  }
+}

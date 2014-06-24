@@ -1,0 +1,16 @@
+{
+  "id": "brcomm3",
+  "display_name": "BracReac: comments 3",
+  "description": "",
+  "type": null,
+  "other": {
+    "VARNUM": "18",
+    "Form": "Brachial Artery Vasoactivity Worksheet",
+    "Page": "1",
+    "TYPE": "2",
+    "LENGTH": "40",
+    "FORMAT": "$",
+    "FORMATL": "40",
+    "FORMATD": null
+  }
+}
