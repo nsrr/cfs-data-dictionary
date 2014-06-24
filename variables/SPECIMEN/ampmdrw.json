@@ -3,7 +3,7 @@
   "display_name": "Specimen: time of draw (0=am,1=pm)",
   "description": "",
   "type": "choices",
-  "domain": null,
+  "domain": "ampm01",
   "other": {
     "VARNUM": "8",
     "Form": "Specimen Date (Bloods and Cephs)",
