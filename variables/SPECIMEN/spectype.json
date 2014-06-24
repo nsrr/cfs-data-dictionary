@@ -2,7 +2,8 @@
   "id": "spectype",
   "display_name": "Specimen: Type of specimen (1=dna,2=buccal,3=amp buccal,4=serum,5=ceph)",
   "description": "",
-  "type": null,
+  "type": "choices",
+  "domain": null,
   "other": {
     "VARNUM": "5",
     "Form": "Specimen Date (Bloods and Cephs)",

@@ -1,8 +1,9 @@
 {
   "id": "sex",
-  "display_name": "Subject Sex (0=female, 1=male)",
+  "display_name": "Subject Sex",
+  "domain": "gender01",
   "description": "",
-  "type": null,
+  "type": "choices",
   "other": {
     "VARNUM": "19",
     "Form": "Nunames",

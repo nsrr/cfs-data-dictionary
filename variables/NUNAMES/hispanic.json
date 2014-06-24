@@ -2,7 +2,8 @@
   "id": "hispanic",
   "display_name": "Hispanic (1=Hispanic or Latino)",
   "description": "",
-  "type": null,
+  "type": "choices",
+  "domain": null,
   "other": {
     "VARNUM": "20",
     "Form": "Nunames",

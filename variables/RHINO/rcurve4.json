@@ -2,7 +2,8 @@
   "id": "rcurve4",
   "display_name": "Rhino: score for curve4 1=Pass 2=Fail 3=Equivocal",
   "description": "",
-  "type": null,
+  "type": "choices",
+  "domain": null,
   "other": {
     "VARNUM": "7",
     "Form": "Rhinometry Report",
