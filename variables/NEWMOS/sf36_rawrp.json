@@ -3,14 +3,7 @@
   "display_name": "SF-36 RAW ROLE-PHYSICAL",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "217",
-    "Form": "SF-36 Health Survey (MOS)",
-    "Page": "calculated",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": "2"
-  }
+  "forms": [
+    "SF-36 Health Survey (MOS)"
+  ]
 }

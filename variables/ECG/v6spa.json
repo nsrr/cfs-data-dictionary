@@ -3,14 +3,7 @@
   "display_name": "ECG: V6: SPA",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "103",
-    "Form": "ECG",
-    "Page": null,
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": null
-  }
+  "forms": [
+    "ECG"
+  ]
 }

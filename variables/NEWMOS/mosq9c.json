@@ -3,14 +3,7 @@
   "display_name": "MOS: Q9C mh2",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "29",
-    "Form": "SF-36 Health Survey (MOS)",
-    "Page": "5",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "3",
-    "FORMATD": null
-  }
+  "forms": [
+    "SF-36 Health Survey (MOS)"
+  ]
 }

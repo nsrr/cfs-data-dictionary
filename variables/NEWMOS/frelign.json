@@ -3,14 +3,7 @@
   "display_name": "FOSQ: Difficulty in religious services",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "91",
-    "Form": "FOSQ (Functional Outcomes of Sleep Questionnaire)",
-    "Page": "4",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "3",
-    "FORMATD": null
-  }
+  "forms": [
+    "FOSQ (Functional Outcomes of Sleep Questionnaire)"
+  ]
 }

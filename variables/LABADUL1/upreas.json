@@ -3,14 +3,7 @@
   "display_name": "46 reason wake at night (A)",
   "description": "",
   "type": "text",
-  "other": {
-    "VARNUM": "79",
-    "Form": "LABADUL1",
-    "Page": "8",
-    "TYPE": "2",
-    "LENGTH": "30",
-    "FORMAT": "$",
-    "FORMATL": "30",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL1"
+  ]
 }

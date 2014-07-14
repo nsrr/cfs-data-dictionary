@@ -3,14 +3,7 @@
   "display_name": "100 name/relation/date/event injury in fam.",
   "description": "",
   "type": "text",
-  "other": {
-    "VARNUM": "820",
-    "Form": "LABADUL3",
-    "Page": "27",
-    "TYPE": "2",
-    "LENGTH": "50",
-    "FORMAT": "$",
-    "FORMATL": "50",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL3"
+  ]
 }

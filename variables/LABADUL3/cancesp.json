@@ -3,14 +3,7 @@
   "display_name": "95 Specify other cancer",
   "description": "",
   "type": "text",
-  "other": {
-    "VARNUM": "789",
-    "Form": "LABADUL3",
-    "Page": "26",
-    "TYPE": "2",
-    "LENGTH": "31",
-    "FORMAT": "$",
-    "FORMATL": "31",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL3"
+  ]
 }

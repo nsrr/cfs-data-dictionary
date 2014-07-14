@@ -3,14 +3,7 @@
   "display_name": "FOSQ: Ability for orgasm affected",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "100",
-    "Form": "FOSQ (Functional Outcomes of Sleep Questionnaire)",
-    "Page": "5",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "3",
-    "FORMATD": null
-  }
+  "forms": [
+    "FOSQ (Functional Outcomes of Sleep Questionnaire)"
+  ]
 }

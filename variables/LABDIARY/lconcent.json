@@ -3,14 +3,7 @@
   "display_name": "PostSleep: How would you describe your ability to concentrate this morning?",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "57",
-    "Form": "Post-Sleep Questionnaire",
-    "Page": "2",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "3",
-    "FORMATD": null
-  }
+  "forms": [
+    "Post-Sleep Questionnaire"
+  ]
 }

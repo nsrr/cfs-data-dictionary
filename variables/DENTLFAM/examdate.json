@@ -3,14 +3,7 @@
   "display_name": "Ceph: date of exam",
   "description": "",
   "type": "date",
-  "other": {
-    "VARNUM": "45",
-    "Form": "Cephlometric Measurements",
-    "Page": "read in",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": "MMDDYY",
-    "FORMATL": "10",
-    "FORMATD": null
-  }
+  "forms": [
+    "Cephlometric Measurements"
+  ]
 }

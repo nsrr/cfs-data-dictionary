@@ -3,14 +3,7 @@
   "display_name": "BP: 10 AM - Diastolic 3",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "32",
-    "Form": "Nurses Flow Sheet",
-    "Page": "2",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "6",
-    "FORMATD": null
-  }
+  "forms": [
+    "Nurses Flow Sheet"
+  ]
 }

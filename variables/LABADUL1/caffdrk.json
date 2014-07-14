@@ -3,14 +3,7 @@
   "display_name": "27 use caffeine drinks to stay awake (A)",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "30",
-    "Form": "LABADUL1",
-    "Page": "4",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL1"
+  ]
 }

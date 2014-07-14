@@ -3,14 +3,7 @@
   "display_name": "FOSQ: Difficulty getting things done",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "75",
-    "Form": "FOSQ (Functional Outcomes of Sleep Questionnaire)",
-    "Page": "2",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "3",
-    "FORMATD": null
-  }
+  "forms": [
+    "FOSQ (Functional Outcomes of Sleep Questionnaire)"
+  ]
 }

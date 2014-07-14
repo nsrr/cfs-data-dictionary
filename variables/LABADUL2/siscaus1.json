@@ -3,14 +3,7 @@
   "display_name": "80 cod sis 1",
   "description": "",
   "type": "text",
-  "other": {
-    "VARNUM": "395",
-    "Form": "LABADUL2",
-    "Page": "18",
-    "TYPE": "2",
-    "LENGTH": "20",
-    "FORMAT": "$",
-    "FORMATL": "20",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL2"
+  ]
 }

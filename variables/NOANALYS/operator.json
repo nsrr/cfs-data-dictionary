@@ -3,14 +3,7 @@
   "display_name": "Nitric Oxide: Technician",
   "description": "",
   "type": "text",
-  "other": {
-    "VARNUM": "10",
-    "Form": "Nitric Oxide Analyser",
-    "Page": "1",
-    "TYPE": "2",
-    "LENGTH": "19",
-    "FORMAT": "$",
-    "FORMATL": "19",
-    "FORMATD": null
-  }
+  "forms": [
+    "Nitric Oxide Analyser"
+  ]
 }

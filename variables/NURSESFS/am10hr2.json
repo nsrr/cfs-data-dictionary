@@ -3,14 +3,7 @@
   "display_name": "BP: 10 AM - Heart Rate 2",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "30",
-    "Form": "Nurses Flow Sheet",
-    "Page": "2",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "6",
-    "FORMATD": null
-  }
+  "forms": [
+    "Nurses Flow Sheet"
+  ]
 }

@@ -3,14 +3,7 @@
   "display_name": "Household # at last visit",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "32",
-    "Form": "Nunames",
-    "Page": "2",
-    "TYPE": "1",
-    "LENGTH": "6",
-    "FORMAT": null,
-    "FORMATL": "6",
-    "FORMATD": null
-  }
+  "forms": [
+    "Nunames"
+  ]
 }

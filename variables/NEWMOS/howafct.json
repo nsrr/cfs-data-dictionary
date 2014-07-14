@@ -3,14 +3,7 @@
   "display_name": "FOSQ: How relationships affected 1",
   "description": "",
   "type": "text",
-  "other": {
-    "VARNUM": "83",
-    "Form": "FOSQ (Functional Outcomes of Sleep Questionnaire)",
-    "Page": "3",
-    "TYPE": "2",
-    "LENGTH": "40",
-    "FORMAT": "$",
-    "FORMATL": "40",
-    "FORMATD": null
-  }
+  "forms": [
+    "FOSQ (Functional Outcomes of Sleep Questionnaire)"
+  ]
 }

@@ -3,14 +3,7 @@
   "display_name": "PostSleep: Fall asleep more, less, or the same compared to usual?",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "38",
-    "Form": "Post-Sleep Questionnaire",
-    "Page": "1",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "3",
-    "FORMATD": null
-  }
+  "forms": [
+    "Post-Sleep Questionnaire"
+  ]
 }

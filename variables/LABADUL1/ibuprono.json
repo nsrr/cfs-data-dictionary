@@ -3,14 +3,7 @@
   "display_name": "74 on avg how many ibuprof",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "177",
-    "Form": "LABADUL1",
-    "Page": "14",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL1"
+  ]
 }

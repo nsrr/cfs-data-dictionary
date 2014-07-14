@@ -3,14 +3,7 @@
   "display_name": "Smoker status",
   "description": "",
   "type": "text",
-  "other": {
-    "VARNUM": null,
-    "Form": "Lab dataset",
-    "Page": "calculated",
-    "TYPE": "2",
-    "LENGTH": "8",
-    "FORMAT": "$",
-    "FORMATL": "10",
-    "FORMATD": null
-  }
+  "forms": [
+    "Lab dataset"
+  ]
 }

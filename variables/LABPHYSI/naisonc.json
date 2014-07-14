@@ -3,14 +3,7 @@
   "display_name": "Head Measurement - naison to chin",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "10",
-    "Form": "In Lab Physio",
-    "Page": "1",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": "1"
-  }
+  "forms": [
+    "In Lab Physio"
+  ]
 }

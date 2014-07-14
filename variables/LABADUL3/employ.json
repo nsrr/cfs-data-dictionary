@@ -3,14 +3,7 @@
   "display_name": "102 employment status (A)",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "821",
-    "Form": "LABADUL3",
-    "Page": "28",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL3"
+  ]
 }

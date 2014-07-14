@@ -3,14 +3,7 @@
   "display_name": "77 Dad diagnosed Cancer",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "334",
-    "Form": "LABADUL2",
-    "Page": "17",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL2"
+  ]
 }

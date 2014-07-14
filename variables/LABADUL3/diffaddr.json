@@ -3,14 +3,7 @@
   "display_name": "114 other contact",
   "description": "",
   "type": "text",
-  "other": {
-    "VARNUM": "839",
-    "Form": "LABADUL3",
-    "Page": "29",
-    "TYPE": "2",
-    "LENGTH": "40",
-    "FORMAT": "$",
-    "FORMATL": "40",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL3"
+  ]
 }

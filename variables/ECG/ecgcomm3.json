@@ -3,14 +3,7 @@
   "display_name": "ECG: Comments 3",
   "description": "",
   "type": "text",
-  "other": {
-    "VARNUM": "191",
-    "Form": "ECG",
-    "Page": null,
-    "TYPE": "2",
-    "LENGTH": "40",
-    "FORMAT": "$",
-    "FORMATL": "40",
-    "FORMATD": null
-  }
+  "forms": [
+    "ECG"
+  ]
 }

@@ -3,14 +3,7 @@
   "display_name": "56 Did you require oxygen at birth",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "97",
-    "Form": "LABADUL1",
-    "Page": "10",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL1"
+  ]
 }

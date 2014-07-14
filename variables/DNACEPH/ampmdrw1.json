@@ -3,14 +3,7 @@
   "display_name": "DNA1: Time drawn am(0) pm(1)",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "10",
-    "Form": "DNA/CEPH",
-    "Page": "1",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "3",
-    "FORMATD": null
-  }
+  "forms": [
+    "DNA/CEPH"
+  ]
 }

@@ -3,14 +3,7 @@
   "display_name": "ever told you snore (AC)",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "40",
-    "Form": "LABADUL1",
-    "Page": "5",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL1"
+  ]
 }

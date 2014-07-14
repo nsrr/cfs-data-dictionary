@@ -3,14 +3,7 @@
   "display_name": "85 Last month, have you smoked Pipes?",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "588",
-    "Form": "LABADUL2",
-    "Page": "22",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL2"
+  ]
 }

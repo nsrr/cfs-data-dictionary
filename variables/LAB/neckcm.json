@@ -3,14 +3,7 @@
   "display_name": "Mean neck circumference (cm)",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": null,
-    "Form": "Lab dataset",
-    "Page": "calculated",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": "2"
-  }
+  "forms": [
+    "Lab dataset"
+  ]
 }

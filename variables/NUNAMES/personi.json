@@ -3,14 +3,7 @@
   "display_name": "Person ID",
   "description": "Person ID",
   "type": "numeric",
-  "other": {
-    "VARNUM": "4",
-    "Form": "Nunames",
-    "Page": "1",
-    "TYPE": "1",
-    "LENGTH": "6",
-    "FORMAT": null,
-    "FORMATL": "6",
-    "FORMATD": null
-  }
+  "forms": [
+    "Nunames"
+  ]
 }

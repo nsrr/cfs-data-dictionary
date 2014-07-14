@@ -3,14 +3,7 @@
   "display_name": "81 How many sis with Excessive (too much) Sleepiness",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "426",
-    "Form": "LABADUL2",
-    "Page": "19",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL2"
+  ]
 }

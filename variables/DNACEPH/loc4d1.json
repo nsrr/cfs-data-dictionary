@@ -3,14 +3,7 @@
   "display_name": "CWRU Sample 1: 4-degree freezer location",
   "description": "",
   "type": "text",
-  "other": {
-    "VARNUM": "50",
-    "Form": "DNA/CEPH",
-    "Page": "1",
-    "TYPE": "2",
-    "LENGTH": "10",
-    "FORMAT": "$",
-    "FORMATL": "10",
-    "FORMATD": null
-  }
+  "forms": [
+    "DNA/CEPH"
+  ]
 }

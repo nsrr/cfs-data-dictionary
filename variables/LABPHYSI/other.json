@@ -3,14 +3,7 @@
   "display_name": "Sleep Diary: list of other meds taken day of study",
   "description": "",
   "type": "text",
-  "other": {
-    "VARNUM": "70",
-    "Form": "Sleep Diary",
-    "Page": "1",
-    "TYPE": "2",
-    "LENGTH": "39",
-    "FORMAT": "$",
-    "FORMATL": "39",
-    "FORMATD": null
-  }
+  "forms": [
+    "Sleep Diary"
+  ]
 }

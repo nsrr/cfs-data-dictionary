@@ -3,14 +3,7 @@
   "display_name": "PersionID of Father of Subject",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "29",
-    "Form": "Nunames",
-    "Page": "2",
-    "TYPE": "1",
-    "LENGTH": "6",
-    "FORMAT": null,
-    "FORMATL": "6",
-    "FORMATD": null
-  }
+  "forms": [
+    "Nunames"
+  ]
 }

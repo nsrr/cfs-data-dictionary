@@ -3,14 +3,7 @@
   "display_name": "subject studied post-treatment",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "16",
-    "Form": "In Lab Physio",
-    "Page": "1",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "3",
-    "FORMATD": null
-  }
+  "forms": [
+    "In Lab Physio"
+  ]
 }

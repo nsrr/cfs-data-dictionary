@@ -3,14 +3,7 @@
   "display_name": "72 cough + phlegm last more than 3 weeks",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "139",
-    "Form": "LABADUL1",
-    "Page": "12",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL1"
+  ]
 }

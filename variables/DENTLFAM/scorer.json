@@ -3,14 +3,7 @@
   "display_name": "Ceph: scorer initials",
   "description": "",
   "type": "text",
-  "other": {
-    "VARNUM": "42",
-    "Form": "Cephlometric Measurements",
-    "Page": "read in",
-    "TYPE": "2",
-    "LENGTH": "2",
-    "FORMAT": "$",
-    "FORMATL": "2",
-    "FORMATD": null
-  }
+  "forms": [
+    "Cephlometric Measurements"
+  ]
 }

@@ -3,14 +3,7 @@
   "display_name": "Ankle-Arm: Technician",
   "description": "",
   "type": "text",
-  "other": {
-    "VARNUM": "17",
-    "Form": "Alkle-Arm Index",
-    "Page": "1",
-    "TYPE": "2",
-    "LENGTH": "13",
-    "FORMAT": "$",
-    "FORMATL": "13",
-    "FORMATD": null
-  }
+  "forms": [
+    "Alkle-Arm Index"
+  ]
 }

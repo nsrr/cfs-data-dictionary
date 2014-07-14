@@ -3,14 +3,7 @@
   "display_name": "PreSleep: Have you taken any medication today?",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "25",
-    "Form": "Pre-Sleep Questionnaire",
-    "Page": "1",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "3",
-    "FORMATD": null
-  }
+  "forms": [
+    "Pre-Sleep Questionnaire"
+  ]
 }

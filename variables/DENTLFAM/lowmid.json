@@ -3,14 +3,7 @@
   "display_name": "Ceph: Ratio of lower face to middle face (ANS to FOP and FOP to Menton)",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "51",
-    "Form": "Cephlometric Measurements",
-    "Page": "calculated",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": "3"
-  }
+  "forms": [
+    "Cephlometric Measurements"
+  ]
 }

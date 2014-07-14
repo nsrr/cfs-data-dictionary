@@ -3,14 +3,7 @@
   "display_name": "93 do you drink 2 hours before bed",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "616",
-    "Form": "LABADUL2",
-    "Page": "25",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL2"
+  ]
 }

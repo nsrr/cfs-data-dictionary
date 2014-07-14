@@ -3,14 +3,7 @@
   "display_name": "MOS: Q11B gh3",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "38",
-    "Form": "SF-36 Health Survey (MOS)",
-    "Page": "6",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "3",
-    "FORMATD": null
-  }
+  "forms": [
+    "SF-36 Health Survey (MOS)"
+  ]
 }

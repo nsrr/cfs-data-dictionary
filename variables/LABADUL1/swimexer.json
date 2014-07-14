@@ -3,14 +3,7 @@
   "display_name": "61 Past year time spent lap swimming?(L)",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "109",
-    "Form": "LABADUL1",
-    "Page": "11",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL1"
+  ]
 }

@@ -3,14 +3,7 @@
   "display_name": "MOS: Q1 (gh1)",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "5",
-    "Form": "SF-36 Health Survey (MOS)",
-    "Page": "1",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "3",
-    "FORMATD": null
-  }
+  "forms": [
+    "SF-36 Health Survey (MOS)"
+  ]
 }

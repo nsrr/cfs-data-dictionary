@@ -3,14 +3,7 @@
   "display_name": "ceph id #",
   "description": "",
   "type": "text",
-  "other": {
-    "VARNUM": "40",
-    "Form": "Cephlometric Measurements",
-    "Page": "read in",
-    "TYPE": "2",
-    "LENGTH": "10",
-    "FORMAT": "$",
-    "FORMATL": "10",
-    "FORMATD": null
-  }
+  "forms": [
+    "Cephlometric Measurements"
+  ]
 }

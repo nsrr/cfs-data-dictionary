@@ -3,14 +3,7 @@
   "display_name": "86 What do you do when you get chest discomfort while walking?",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "597",
-    "Form": "LABADUL2",
-    "Page": "23",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL2"
+  ]
 }

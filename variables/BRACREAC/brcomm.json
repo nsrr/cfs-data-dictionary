@@ -3,14 +3,7 @@
   "display_name": "BracReac: comments 1",
   "description": "",
   "type": "text",
-  "other": {
-    "VARNUM": "16",
-    "Form": "Brachial Artery Vasoactivity Worksheet",
-    "Page": "1",
-    "TYPE": "2",
-    "LENGTH": "40",
-    "FORMAT": "$",
-    "FORMATL": "40",
-    "FORMATD": null
-  }
+  "forms": [
+    "Brachial Artery Vasoactivity Worksheet"
+  ]
 }

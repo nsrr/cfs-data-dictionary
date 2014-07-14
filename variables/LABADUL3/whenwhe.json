@@ -3,14 +3,7 @@
   "display_name": "99 when+where surgery for snore/sleep apnea",
   "description": "",
   "type": "text",
-  "other": {
-    "VARNUM": "816",
-    "Form": "LABADUL3",
-    "Page": "27",
-    "TYPE": "2",
-    "LENGTH": "30",
-    "FORMAT": "$",
-    "FORMATL": "30",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL3"
+  ]
 }

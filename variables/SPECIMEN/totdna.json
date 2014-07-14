@@ -3,14 +3,7 @@
   "display_name": "Specimen: Total DNA (ug)",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "12",
-    "Form": "Specimen Date (Bloods and Cephs)",
-    "Page": "1",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": "2"
-  }
+  "forms": [
+    "specimen_date_bloods_cephs"
+  ]
 }

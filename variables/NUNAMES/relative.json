@@ -3,14 +3,7 @@
   "display_name": "Relationship to index",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "6",
-    "Form": "Nunames",
-    "Page": "1",
-    "TYPE": "1",
-    "LENGTH": "3",
-    "FORMAT": null,
-    "FORMATL": "3",
-    "FORMATD": null
-  }
+  "forms": [
+    "Nunames"
+  ]
 }

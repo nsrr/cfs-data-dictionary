@@ -3,14 +3,7 @@
   "display_name": "PostSleep: What position did you sleep in most of the night?",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "51",
-    "Form": "Post-Sleep Questionnaire",
-    "Page": "1",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "3",
-    "FORMATD": null
-  }
+  "forms": [
+    "Post-Sleep Questionnaire"
+  ]
 }

@@ -4,14 +4,7 @@
   "domain": "noyes01",
   "description": "",
   "type": "choices",
-  "other": {
-    "VARNUM": "26",
-    "Form": "Nunames",
-    "Page": "2",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "3",
-    "FORMATD": null
-  }
+  "forms": [
+    "Nunames"
+  ]
 }

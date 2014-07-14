@@ -3,14 +3,7 @@
   "display_name": "83 Age Mom breast cancer",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "557",
-    "Form": "LABADUL2",
-    "Page": "21",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL2"
+  ]
 }

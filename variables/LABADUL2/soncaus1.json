@@ -3,14 +3,7 @@
   "display_name": "82 Cause of death son 1",
   "description": "",
   "type": "text",
-  "other": {
-    "VARNUM": "475",
-    "Form": "LABADUL2",
-    "Page": "20",
-    "TYPE": "2",
-    "LENGTH": "20",
-    "FORMAT": "$",
-    "FORMATL": "20",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL2"
+  ]
 }

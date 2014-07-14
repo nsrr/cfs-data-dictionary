@@ -3,14 +3,7 @@
   "display_name": "95 Specify Major surg",
   "description": "",
   "type": "text",
-  "other": {
-    "VARNUM": "793",
-    "Form": "LABADUL3",
-    "Page": "26",
-    "TYPE": "2",
-    "LENGTH": "27",
-    "FORMAT": "$",
-    "FORMATL": "27",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL3"
+  ]
 }

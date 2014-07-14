@@ -3,14 +3,7 @@
   "display_name": "ECG: II: QD",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "144",
-    "Form": "ECG",
-    "Page": null,
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": null
-  }
+  "forms": [
+    "ECG"
+  ]
 }

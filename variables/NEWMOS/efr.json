@@ -3,14 +3,7 @@
   "display_name": "SF-36 Raw Vitality (rawvt)",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "59",
-    "Form": "SF-36 Health Survey (MOS)",
-    "Page": "calculated",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "6",
-    "FORMATD": "3"
-  }
+  "forms": [
+    "SF-36 Health Survey (MOS)"
+  ]
 }

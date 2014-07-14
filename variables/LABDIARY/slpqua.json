@@ -3,14 +3,7 @@
   "display_name": "PostSleep: Rate the overall quality of your sleep last night?",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "55",
-    "Form": "Post-Sleep Questionnaire",
-    "Page": "1",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "3",
-    "FORMATD": null
-  }
+  "forms": [
+    "Post-Sleep Questionnaire"
+  ]
 }

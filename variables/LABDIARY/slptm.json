@@ -3,14 +3,7 @@
   "display_name": "PostSleep: Minutes sleep last night?",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "48",
-    "Form": "Post-Sleep Questionnaire",
-    "Page": "1",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "6",
-    "FORMATD": null
-  }
+  "forms": [
+    "Post-Sleep Questionnaire"
+  ]
 }

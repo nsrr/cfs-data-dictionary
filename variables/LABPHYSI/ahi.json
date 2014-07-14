@@ -3,14 +3,7 @@
   "display_name": "Sleep Study: apnea hypopnea index",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "74",
-    "Form": "Sleep Diary",
-    "Page": "calculated",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": "2"
-  }
+  "forms": [
+    "Sleep Diary"
+  ]
 }

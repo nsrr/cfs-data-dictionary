@@ -3,14 +3,7 @@
   "display_name": "76 How many months did you use them during the last 2 years",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "273",
-    "Form": "LABADUL1",
-    "Page": "16",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL1"
+  ]
 }

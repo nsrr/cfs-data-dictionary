@@ -3,14 +3,7 @@
   "display_name": "Skinfold: waist circumference 1 (cm)",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "33",
-    "Form": "Skinfold Assessment",
-    "Page": "1",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": "1"
-  }
+  "forms": [
+    "Skinfold Assessment"
+  ]
 }

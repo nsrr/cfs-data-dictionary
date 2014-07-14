@@ -3,14 +3,7 @@
   "display_name": "PreSleep: Time caff bev 1",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "8",
-    "Form": "Pre-Sleep Questionnaire",
-    "Page": "1",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "6",
-    "FORMATD": null
-  }
+  "forms": [
+    "Pre-Sleep Questionnaire"
+  ]
 }

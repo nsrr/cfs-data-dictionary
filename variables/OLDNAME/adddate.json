@@ -3,14 +3,7 @@
   "display_name": "Date added to Oldnames",
   "description": "",
   "type": "date",
-  "other": {
-    "VARNUM": "40",
-    "Form": "OLDNAMES",
-    "Page": null,
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": "MMDDYY",
-    "FORMATL": "10",
-    "FORMATD": null
-  }
+  "forms": [
+    "OLDNAMES"
+  ]
 }

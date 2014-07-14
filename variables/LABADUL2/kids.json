@@ -3,14 +3,7 @@
   "display_name": "82 has any children **rectype2 specifies since last visit",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "467",
-    "Form": "LABADUL2",
-    "Page": "20",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL2"
+  ]
 }

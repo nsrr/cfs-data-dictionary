@@ -3,14 +3,7 @@
   "display_name": "SF-36 ROLE-EMOTIONAL (0-100)",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "228",
-    "Form": "SF-36 Health Survey (MOS)",
-    "Page": "calculated",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": "2"
-  }
+  "forms": [
+    "SF-36 Health Survey (MOS)"
+  ]
 }

@@ -3,14 +3,7 @@
   "display_name": "59 Did mom smoke while pregnant with you? (L)",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "102",
-    "Form": "LABADUL1",
-    "Page": "10",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL1"
+  ]
 }

@@ -3,14 +3,7 @@
   "display_name": "Ceph: classification of facial index",
   "description": "",
   "type": "text",
-  "other": {
-    "VARNUM": "50",
-    "Form": "Cephlometric Measurements",
-    "Page": "calculated",
-    "TYPE": "2",
-    "LENGTH": "8",
-    "FORMAT": "$",
-    "FORMATL": "8",
-    "FORMATD": null
-  }
+  "forms": [
+    "Cephlometric Measurements"
+  ]
 }

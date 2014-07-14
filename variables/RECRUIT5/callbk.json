@@ -3,14 +3,7 @@
   "display_name": "Call back date",
   "description": "",
   "type": "date",
-  "other": {
-    "VARNUM": "16",
-    "Form": "Follow-up Recruiting",
-    "Page": "1",
-    "TYPE": "2",
-    "LENGTH": "11",
-    "FORMAT": "MMDDYY",
-    "FORMATL": "10",
-    "FORMATD": null
-  }
+  "forms": [
+    "Follow-up Recruiting"
+  ]
 }

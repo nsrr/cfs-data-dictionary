@@ -3,14 +3,7 @@
   "display_name": "Ankle-Arm: Doppler Systolic Pressure",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "7",
-    "Form": "Alkle-Arm Index",
-    "Page": "1",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": null
-  }
+  "forms": [
+    "Alkle-Arm Index"
+  ]
 }

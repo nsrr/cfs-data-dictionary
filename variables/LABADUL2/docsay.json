@@ -3,14 +3,7 @@
   "display_name": "86 What did dr say about chest pain",
   "description": "",
   "type": "text",
-  "other": {
-    "VARNUM": "601",
-    "Form": "LABADUL2",
-    "Page": "23",
-    "TYPE": "2",
-    "LENGTH": "49",
-    "FORMAT": "$",
-    "FORMATL": "49",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL2"
+  ]
 }

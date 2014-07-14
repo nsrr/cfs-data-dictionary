@@ -3,14 +3,7 @@
   "display_name": "Ceph: ArA-ArB (difference between AR to A and AR to B)",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "2",
-    "Form": "Cephlometric Measurements",
-    "Page": "read in",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": "3"
-  }
+  "forms": [
+    "Cephlometric Measurements"
+  ]
 }

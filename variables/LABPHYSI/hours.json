@@ -3,14 +3,7 @@
   "display_name": "Sleep Study: hours of sleep",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "34",
-    "Form": "Physio Report",
-    "Page": "1",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": "2"
-  }
+  "forms": [
+    "Physio Report"
+  ]
 }

@@ -3,14 +3,7 @@
   "display_name": "Ceph: age at xray, (examdate - birthdat)",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "49",
-    "Form": "Cephlometric Measurements",
-    "Page": "calculated",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": "2"
-  }
+  "forms": [
+    "Cephlometric Measurements"
+  ]
 }

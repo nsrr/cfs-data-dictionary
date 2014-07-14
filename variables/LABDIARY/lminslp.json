@@ -3,14 +3,7 @@
   "display_name": "PostSleep: How long after bedtime did you fall asleep?",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "37",
-    "Form": "Post-Sleep Questionnaire",
-    "Page": "1",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "6",
-    "FORMATD": null
-  }
+  "forms": [
+    "Post-Sleep Questionnaire"
+  ]
 }

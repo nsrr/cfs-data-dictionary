@@ -3,14 +3,7 @@
   "display_name": "BP: 10 AM - Systolic 1",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "25",
-    "Form": "Nurses Flow Sheet",
-    "Page": "2",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "6",
-    "FORMATD": null
-  }
+  "forms": [
+    "Nurses Flow Sheet"
+  ]
 }

@@ -3,14 +3,7 @@
   "display_name": "62i wheeze when breathing cold air (A)",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "124",
-    "Form": "LABADUL1",
-    "Page": "11",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL1"
+  ]
 }

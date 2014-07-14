@@ -3,14 +3,7 @@
   "display_name": "95 Osteoporosis",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "686",
-    "Form": "LABADUL3",
-    "Page": "25",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL3"
+  ]
 }

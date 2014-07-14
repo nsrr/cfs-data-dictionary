@@ -3,14 +3,7 @@
   "display_name": "Sleep Diary: took sedatives on day of study (AC)",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "64",
-    "Form": "Sleep Diary",
-    "Page": "1",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "3",
-    "FORMATD": null
-  }
+  "forms": [
+    "Sleep Diary"
+  ]
 }

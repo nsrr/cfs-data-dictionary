@@ -3,14 +3,7 @@
   "display_name": "other type of treatment for sleep apnea",
   "description": "",
   "type": "text",
-  "other": {
-    "VARNUM": "18",
-    "Form": "In Lab Physio",
-    "Page": "1",
-    "TYPE": "2",
-    "LENGTH": "22",
-    "FORMAT": "$",
-    "FORMATL": "22",
-    "FORMATD": null
-  }
+  "forms": [
+    "In Lab Physio"
+  ]
 }

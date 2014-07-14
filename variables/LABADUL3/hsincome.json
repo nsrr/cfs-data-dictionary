@@ -3,14 +3,7 @@
   "display_name": "110 What is your household income?",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "834",
-    "Form": "LABADUL3",
-    "Page": "29",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL3"
+  ]
 }

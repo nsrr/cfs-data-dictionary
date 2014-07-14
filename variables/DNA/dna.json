@@ -3,14 +3,7 @@
   "display_name": "DNA: 1=Has any active DNA sample",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "2",
-    "Form": "(calculated based on Specimen dataset)",
-    "Page": "calculated",
-    "TYPE": "1",
-    "LENGTH": "3",
-    "FORMAT": null,
-    "FORMATL": "3",
-    "FORMATD": null
-  }
+  "forms": [
+    "(calculated based on Specimen dataset)"
+  ]
 }

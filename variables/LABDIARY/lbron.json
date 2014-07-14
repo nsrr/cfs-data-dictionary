@@ -3,14 +3,7 @@
   "display_name": "PreSleep: Bronchodilators today?",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "29",
-    "Form": "Pre-Sleep Questionnaire",
-    "Page": "1",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "3",
-    "FORMATD": null
-  }
+  "forms": [
+    "Pre-Sleep Questionnaire"
+  ]
 }

@@ -3,14 +3,7 @@
   "display_name": "ECG: Atrial Enlargement",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "201",
-    "Form": "ECG",
-    "Page": null,
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "3",
-    "FORMATD": null
-  }
+  "forms": [
+    "ECG"
+  ]
 }

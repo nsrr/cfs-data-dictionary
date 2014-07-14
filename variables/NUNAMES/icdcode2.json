@@ -3,14 +3,7 @@
   "display_name": "Reason for death 2 (icd9code)",
   "description": "",
   "type": "text",
-  "other": {
-    "VARNUM": "36",
-    "Form": "Nunames",
-    "Page": "2",
-    "TYPE": "2",
-    "LENGTH": "6",
-    "FORMAT": "$",
-    "FORMATL": "6",
-    "FORMATD": null
-  }
+  "forms": [
+    "Nunames"
+  ]
 }

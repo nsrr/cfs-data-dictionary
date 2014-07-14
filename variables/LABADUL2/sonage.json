@@ -3,14 +3,7 @@
   "display_name": "82 Ages of living sons",
   "description": "",
   "type": "text",
-  "other": {
-    "VARNUM": "471",
-    "Form": "LABADUL2",
-    "Page": "20",
-    "TYPE": "2",
-    "LENGTH": "20",
-    "FORMAT": "$",
-    "FORMATL": "20",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL2"
+  ]
 }

@@ -3,14 +3,7 @@
   "display_name": "23 lie awake feeling depressed, etc. (A)",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "26",
-    "Form": "LABADUL1",
-    "Page": "3",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL1"
+  ]
 }

@@ -3,14 +3,7 @@
   "display_name": "DNA: Estimated number of times extracted",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "8",
-    "Form": "(calculated based on Specimen dataset)",
-    "Page": "calculated",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "3",
-    "FORMATD": null
-  }
+  "forms": [
+    "(calculated based on Specimen dataset)"
+  ]
 }

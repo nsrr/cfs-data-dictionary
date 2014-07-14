@@ -3,14 +3,7 @@
   "display_name": "74 Ibuprofen in the last three days",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "174",
-    "Form": "LABADUL1",
-    "Page": "14",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL1"
+  ]
 }

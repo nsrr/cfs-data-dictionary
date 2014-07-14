@@ -4,14 +4,7 @@
   "description": "",
   "type": "choices",
   "domain": "newlyadded",
-  "other": {
-    "VARNUM": "6",
-    "Form": "Follow-up Recruiting",
-    "Page": "1",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "3",
-    "FORMATD": null
-  }
+  "forms": [
+    "Follow-up Recruiting"
+  ]
 }

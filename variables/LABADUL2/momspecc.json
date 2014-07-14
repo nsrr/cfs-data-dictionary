@@ -3,14 +3,7 @@
   "display_name": "77 Mom diagnosed Specify cancer",
   "description": "",
   "type": "text",
-  "other": {
-    "VARNUM": "333",
-    "Form": "LABADUL2",
-    "Page": "17",
-    "TYPE": "2",
-    "LENGTH": "22",
-    "FORMAT": "$",
-    "FORMATL": "22",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL2"
+  ]
 }

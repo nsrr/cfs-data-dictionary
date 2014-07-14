@@ -3,14 +3,7 @@
   "display_name": "DNA3: Total extracted (mg)",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "32",
-    "Form": "DNA/CEPH",
-    "Page": "1",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": "2"
-  }
+  "forms": [
+    "DNA/CEPH"
+  ]
 }

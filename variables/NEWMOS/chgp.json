@@ -3,14 +3,7 @@
   "display_name": "SF-36 Health Transition Item ?",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "66",
-    "Form": "SF-36 Health Survey (MOS)",
-    "Page": "calculated",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "6",
-    "FORMATD": "3"
-  }
+  "forms": [
+    "SF-36 Health Survey (MOS)"
+  ]
 }

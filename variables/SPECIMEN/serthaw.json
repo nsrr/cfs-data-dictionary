@@ -3,14 +3,7 @@
   "display_name": "Specimen: serthaw",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "9",
-    "Form": "Specimen Date (Bloods and Cephs)",
-    "Page": "1",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": null
-  }
+  "forms": [
+    "specimen_date_bloods_cephs"
+  ]
 }

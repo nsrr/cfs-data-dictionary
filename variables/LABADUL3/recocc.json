@@ -3,14 +3,7 @@
   "display_name": "103 most recent occupation (A)",
   "description": "",
   "type": "text",
-  "other": {
-    "VARNUM": "822",
-    "Form": "LABADUL3",
-    "Page": "28",
-    "TYPE": "2",
-    "LENGTH": "40",
-    "FORMAT": "$",
-    "FORMATL": "40",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL3"
+  ]
 }

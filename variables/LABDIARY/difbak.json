@@ -3,14 +3,7 @@
   "display_name": "PostSleep: Have difficulty falling back to sleep?",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "42",
-    "Form": "Post-Sleep Questionnaire",
-    "Page": "1",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "3",
-    "FORMATD": null
-  }
+  "forms": [
+    "Post-Sleep Questionnaire"
+  ]
 }

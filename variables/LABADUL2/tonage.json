@@ -3,14 +3,7 @@
   "display_name": "87 age when enlarged tonsils noted (A)",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "604",
-    "Form": "LABADUL2",
-    "Page": "23",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL2"
+  ]
 }

@@ -3,14 +3,7 @@
   "display_name": "37c loudness of snoring in last month (AC)",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "42",
-    "Form": "LABADUL1",
-    "Page": "5",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL1"
+  ]
 }

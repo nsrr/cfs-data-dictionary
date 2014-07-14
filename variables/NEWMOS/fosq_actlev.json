@@ -3,14 +3,7 @@
   "display_name": "FOSQ Activity Level",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "123",
-    "Form": "FOSQ (Functional Outcomes of Sleep Questionnaire)",
-    "Page": "calculated",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": "2"
-  }
+  "forms": [
+    "FOSQ (Functional Outcomes of Sleep Questionnaire)"
+  ]
 }

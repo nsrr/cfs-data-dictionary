@@ -3,14 +3,7 @@
   "display_name": "62 chest wheeze or whistle last yr (A)",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "115",
-    "Form": "LABADUL1",
-    "Page": "11",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL1"
+  ]
 }

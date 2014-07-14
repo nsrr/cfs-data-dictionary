@@ -3,14 +3,7 @@
   "display_name": "Date of Lab Study from Diary",
   "description": "",
   "type": "date",
-  "other": {
-    "VARNUM": "58",
-    "Form": "Post-Sleep Questionnaire",
-    "Page": "calculated",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": "MMDDYY",
-    "FORMATL": "10",
-    "FORMATD": null
-  }
+  "forms": [
+    "Post-Sleep Questionnaire"
+  ]
 }

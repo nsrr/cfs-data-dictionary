@@ -3,14 +3,7 @@
   "display_name": "83 Any Bio rel had Breast Cancer",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "556",
-    "Form": "LABADUL2",
-    "Page": "21",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL2"
+  ]
 }

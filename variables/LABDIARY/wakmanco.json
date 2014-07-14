@@ -3,14 +3,7 @@
   "display_name": "PostSleep: Compared to usual, wake up more, same, or less?",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "41",
-    "Form": "Post-Sleep Questionnaire",
-    "Page": "1",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "3",
-    "FORMATD": null
-  }
+  "forms": [
+    "Post-Sleep Questionnaire"
+  ]
 }

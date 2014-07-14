@@ -3,14 +3,7 @@
   "display_name": "Sleep Diary: took other meds on day of study (AC)",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "69",
-    "Form": "Sleep Diary",
-    "Page": "1",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "3",
-    "FORMATD": null
-  }
+  "forms": [
+    "Sleep Diary"
+  ]
 }

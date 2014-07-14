@@ -3,14 +3,7 @@
   "display_name": "CHQ-PF50 single item family cohesion",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "190",
-    "Form": "CHQ-PF50 (Child Health Questionnaire - Parent Report)",
-    "Page": "calculated",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "6",
-    "FORMATD": null
-  }
+  "forms": [
+    "CHQ-PF50 (Child Health Questionnaire - Parent Report)"
+  ]
 }

@@ -3,14 +3,7 @@
   "display_name": "77 Age Mom diagnosed Muscular Dystrophy",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "354",
-    "Form": "LABADUL2",
-    "Page": "17",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL2"
+  ]
 }

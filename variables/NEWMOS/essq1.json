@@ -3,14 +3,7 @@
   "display_name": "ESS: Q1",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "41",
-    "Form": "ESS (Epworth Sleepiness Scale)",
-    "Page": "1",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "3",
-    "FORMATD": null
-  }
+  "forms": [
+    "ESS (Epworth Sleepiness Scale)"
+  ]
 }

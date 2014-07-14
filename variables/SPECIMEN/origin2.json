@@ -3,14 +3,7 @@
   "display_name": "Specimen: 2nd origin of the sample",
   "description": "",
   "type": "text",
-  "other": {
-    "VARNUM": "11",
-    "Form": "Specimen Date (Bloods and Cephs)",
-    "Page": "1",
-    "TYPE": "2",
-    "LENGTH": "10",
-    "FORMAT": "$",
-    "FORMATL": "10",
-    "FORMATD": null
-  }
+  "forms": [
+    "specimen_date_bloods_cephs"
+  ]
 }

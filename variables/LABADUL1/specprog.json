@@ -3,14 +3,7 @@
   "display_name": "76 ever use specify progesterone",
   "description": "",
   "type": "text",
-  "other": {
-    "VARNUM": "286",
-    "Form": "LABADUL1",
-    "Page": "16",
-    "TYPE": "2",
-    "LENGTH": "17",
-    "FORMAT": "$",
-    "FORMATL": "17",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL1"
+  ]
 }

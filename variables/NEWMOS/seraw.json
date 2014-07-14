@@ -3,14 +3,7 @@
   "display_name": "CHQ-PF50 raw self-esteem",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "203",
-    "Form": "CHQ-PF50 (Child Health Questionnaire - Parent Report)",
-    "Page": "calculated",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "6",
-    "FORMATD": "3"
-  }
+  "forms": [
+    "CHQ-PF50 (Child Health Questionnaire - Parent Report)"
+  ]
 }

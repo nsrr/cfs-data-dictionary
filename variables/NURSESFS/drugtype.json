@@ -3,14 +3,7 @@
   "display_name": "Nurses notes: Type of recreational drugs",
   "description": "",
   "type": "text",
-  "other": {
-    "VARNUM": "46",
-    "Form": "Nurses Admission Form",
-    "Page": null,
-    "TYPE": "2",
-    "LENGTH": "40",
-    "FORMAT": "$",
-    "FORMATL": "40",
-    "FORMATD": null
-  }
+  "forms": [
+    "Nurses Admission Form"
+  ]
 }

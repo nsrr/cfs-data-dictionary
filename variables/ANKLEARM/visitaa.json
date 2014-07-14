@@ -3,14 +3,7 @@
   "display_name": "Ankle-Arm: visit date",
   "description": "",
   "type": "date",
-  "other": {
-    "VARNUM": "19",
-    "Form": "Alkle-Arm Index",
-    "Page": "calculated",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": "MMDDYY",
-    "FORMATL": "10",
-    "FORMATD": null
-  }
+  "forms": [
+    "Alkle-Arm Index"
+  ]
 }

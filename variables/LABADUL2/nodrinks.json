@@ -3,14 +3,7 @@
   "display_name": "92 last month largest number ofu may have had in one day",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "615",
-    "Form": "LABADUL2",
-    "Page": "24",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL2"
+  ]
 }

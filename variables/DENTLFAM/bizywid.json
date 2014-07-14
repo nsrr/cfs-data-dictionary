@@ -3,14 +3,7 @@
   "display_name": "Ceph: Facial width (bizygotic)",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "33",
-    "Form": "Cephlometric Measurements",
-    "Page": "read in",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": "3"
-  }
+  "forms": [
+    "Cephlometric Measurements"
+  ]
 }

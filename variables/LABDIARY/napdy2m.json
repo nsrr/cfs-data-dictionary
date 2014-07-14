@@ -3,14 +3,7 @@
   "display_name": "PreSleep: Minutes of nap2",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "20",
-    "Form": "Pre-Sleep Questionnaire",
-    "Page": "1",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "6",
-    "FORMATD": null
-  }
+  "forms": [
+    "Pre-Sleep Questionnaire"
+  ]
 }

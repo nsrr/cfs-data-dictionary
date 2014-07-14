@@ -3,14 +3,7 @@
   "display_name": "Nurses notes: Menstruating at time of lab visit",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "48",
-    "Form": "Doctor's Evaluation Notes",
-    "Page": null,
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "3",
-    "FORMATD": null
-  }
+  "forms": [
+    "Doctor's Evaluation Notes"
+  ]
 }

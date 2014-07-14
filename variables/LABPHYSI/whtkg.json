@@ -3,14 +3,7 @@
   "display_name": "Weight (kg)",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "6",
-    "Form": "In Lab Physio",
-    "Page": "1",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": "1"
-  }
+  "forms": [
+    "In Lab Physio"
+  ]
 }

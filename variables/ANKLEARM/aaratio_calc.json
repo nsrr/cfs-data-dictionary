@@ -3,14 +3,7 @@
   "display_name": "Ankle-Arm: Ratio (mean of arm/mean of leg)",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "22",
-    "Form": "Alkle-Arm Index",
-    "Page": "calculated",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": "3"
-  }
+  "forms": [
+    "Alkle-Arm Index"
+  ]
 }

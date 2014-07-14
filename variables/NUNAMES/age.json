@@ -3,14 +3,7 @@
   "display_name": "Age at time of visit",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "50",
-    "Form": "Nunames",
-    "Page": "calculated",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": "3"
-  }
+  "forms": [
+    "Nunames"
+  ]
 }

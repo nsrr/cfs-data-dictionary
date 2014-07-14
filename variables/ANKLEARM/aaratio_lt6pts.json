@@ -3,14 +3,7 @@
   "display_name": "Ankle-Arm: Flag =1 if less than 6 measurements in calculations",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "23",
-    "Form": "Alkle-Arm Index",
-    "Page": "calculated",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "3",
-    "FORMATD": null
-  }
+  "forms": [
+    "Alkle-Arm Index"
+  ]
 }

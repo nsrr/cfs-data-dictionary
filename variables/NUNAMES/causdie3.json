@@ -3,14 +3,7 @@
   "display_name": "Cause of death 3",
   "description": "",
   "type": "text",
-  "other": {
-    "VARNUM": "39",
-    "Form": "Nunames",
-    "Page": "2",
-    "TYPE": "2",
-    "LENGTH": "50",
-    "FORMAT": "$",
-    "FORMATL": "50",
-    "FORMATD": null
-  }
+  "forms": [
+    "Nunames"
+  ]
 }

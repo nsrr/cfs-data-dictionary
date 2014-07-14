@@ -3,14 +3,7 @@
   "display_name": "DNA3: Sample id number",
   "description": "",
   "type": "text",
-  "other": {
-    "VARNUM": "45",
-    "Form": "DNA/CEPH",
-    "Page": "1",
-    "TYPE": "2",
-    "LENGTH": "8",
-    "FORMAT": "$",
-    "FORMATL": "8",
-    "FORMATD": null
-  }
+  "forms": [
+    "DNA/CEPH"
+  ]
 }

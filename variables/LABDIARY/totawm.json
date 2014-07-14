@@ -3,14 +3,7 @@
   "display_name": "PostSleep: Minutes spent awake after falling asleep for",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "45",
-    "Form": "Post-Sleep Questionnaire",
-    "Page": "1",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "3",
-    "FORMATD": null
-  }
+  "forms": [
+    "Post-Sleep Questionnaire"
+  ]
 }

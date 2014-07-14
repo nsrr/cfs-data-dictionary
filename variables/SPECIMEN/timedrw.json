@@ -3,14 +3,7 @@
   "display_name": "Specimen: time of draw (hhmm)",
   "description": "",
   "type": "text",
-  "other": {
-    "VARNUM": "7",
-    "Form": "Specimen Date (Bloods and Cephs)",
-    "Page": "1",
-    "TYPE": "2",
-    "LENGTH": "6",
-    "FORMAT": "$",
-    "FORMATL": "6",
-    "FORMATD": null
-  }
+  "forms": [
+    "specimen_date_bloods_cephs"
+  ]
 }

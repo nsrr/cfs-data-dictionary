@@ -3,14 +3,7 @@
   "display_name": "39d  near miss accidents due to sleepiness? (L)",
   "description": "",
   "type": "numeric",
-  "other": {
-    "VARNUM": "56",
-    "Form": "LABADUL1",
-    "Page": "6",
-    "TYPE": "1",
-    "LENGTH": "8",
-    "FORMAT": null,
-    "FORMATL": "8",
-    "FORMATD": null
-  }
+  "forms": [
+    "LABADUL1"
+  ]
 }

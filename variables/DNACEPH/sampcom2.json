@@ -3,14 +3,7 @@
   "display_name": "CWRU Sample 2: Comments",
   "description": "",
   "type": "text",
-  "other": {
-    "VARNUM": "55",
-    "Form": "DNA/CEPH",
-    "Page": "1",
-    "TYPE": "2",
-    "LENGTH": "19",
-    "FORMAT": "$",
-    "FORMATL": "19",
-    "FORMATD": null
-  }
+  "forms": [
+    "DNA/CEPH"
+  ]
 }
