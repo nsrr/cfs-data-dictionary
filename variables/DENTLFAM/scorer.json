@@ -4,6 +4,6 @@
   "description": "",
   "type": "text",
   "forms": [
-    "Cephlometric Measurements"
+    "ceph_measurements"
   ]
 }

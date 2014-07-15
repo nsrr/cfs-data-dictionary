@@ -4,6 +4,6 @@
   "description": "Person ID",
   "type": "numeric",
   "forms": [
-    "Nunames"
+    "nunames"
   ]
 }

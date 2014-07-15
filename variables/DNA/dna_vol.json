@@ -2,8 +2,5 @@
   "id": "dna_vol",
   "display_name": "DNA: volume of best DNA sample (ug)",
   "description": "",
-  "type": "numeric",
-  "forms": [
-    "(calculated based on Specimen dataset)"
-  ]
+  "type": "numeric"
 }

@@ -4,6 +4,6 @@
   "description": "",
   "type": "numeric",
   "forms": [
-    "Nurses Flow Sheet"
+    "nurses_flow_sheet"
   ]
 }

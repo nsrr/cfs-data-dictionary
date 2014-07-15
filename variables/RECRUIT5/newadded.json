@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "newlyadded",
   "forms": [
-    "Follow-up Recruiting"
+    "fu_recruiting"
   ]
 }

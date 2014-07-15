@@ -4,6 +4,6 @@
   "description": "",
   "type": "numeric",
   "forms": [
-    "Physio Report"
+    "physio_report"
   ]
 }

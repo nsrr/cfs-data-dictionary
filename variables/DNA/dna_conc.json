@@ -2,8 +2,5 @@
   "id": "dna_conc",
   "display_name": "DNA: concentration of best DNA sample (ug/ul)",
   "description": "",
-  "type": "numeric",
-  "forms": [
-    "(calculated based on Specimen dataset)"
-  ]
+  "type": "numeric"
 }

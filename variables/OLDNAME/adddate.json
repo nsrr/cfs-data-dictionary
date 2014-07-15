@@ -2,8 +2,5 @@
   "id": "adddate",
   "display_name": "Date added to Oldnames",
   "description": "",
-  "type": "date",
-  "forms": [
-    "OLDNAMES"
-  ]
+  "type": "date"
 }

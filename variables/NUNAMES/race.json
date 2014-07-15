@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "race12345",
   "forms": [
-    "Nunames"
+    "nunames"
   ]
 }

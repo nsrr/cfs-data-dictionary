@@ -2,8 +2,5 @@
   "id": "dna_bestsampleid",
   "display_name": "DNA: Specimen ID of the best DNA sample",
   "description": "",
-  "type": "text",
-  "forms": [
-    "(calculated based on Specimen dataset)"
-  ]
+  "type": "text"
 }

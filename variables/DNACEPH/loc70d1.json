@@ -4,6 +4,6 @@
   "description": "",
   "type": "text",
   "forms": [
-    "DNA/CEPH"
+    "dna_ceph"
   ]
 }

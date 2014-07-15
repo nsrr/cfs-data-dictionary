@@ -4,6 +4,6 @@
   "description": "",
   "type": "date",
   "forms": [
-    "ECG"
+    "ecg"
   ]
 }

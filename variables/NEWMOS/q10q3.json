@@ -4,6 +4,6 @@
   "description": "",
   "type": "date",
   "forms": [
-    "CHQ-PF50 (Child Health Questionnaire - Parent Report)"
+    "chq_pr"
   ]
 }

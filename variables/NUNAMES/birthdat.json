@@ -4,6 +4,6 @@
   "description": "Patient Date of birth",
   "type": "date",
   "forms": [
-    "Nunames"
+    "nunames"
   ]
 }

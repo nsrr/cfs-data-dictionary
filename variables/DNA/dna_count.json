@@ -2,8 +2,5 @@
   "id": "dna_count",
   "display_name": "DNA: Estimated number of times extracted",
   "description": "",
-  "type": "numeric",
-  "forms": [
-    "(calculated based on Specimen dataset)"
-  ]
+  "type": "numeric"
 }

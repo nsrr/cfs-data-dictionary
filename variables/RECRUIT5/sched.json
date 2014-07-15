@@ -4,6 +4,6 @@
   "description": "",
   "type": "date",
   "forms": [
-    "Follow-up Recruiting"
+    "fu_recruiting"
   ]
 }

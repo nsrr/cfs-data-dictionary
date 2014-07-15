@@ -4,6 +4,6 @@
   "description": "",
   "type": "numeric",
   "forms": [
-    "Follow-up Recruiting"
+    "fu_recruiting"
   ]
 }

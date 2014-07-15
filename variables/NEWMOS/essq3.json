@@ -4,6 +4,6 @@
   "description": "",
   "type": "numeric",
   "forms": [
-    "ESS (Epworth Sleepiness Scale)"
+    "ess"
   ]
 }

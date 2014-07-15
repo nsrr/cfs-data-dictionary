@@ -4,6 +4,6 @@
   "description": "",
   "type": "numeric",
   "forms": [
-    "Lab dataset"
+    "lab_dataset"
   ]
 }

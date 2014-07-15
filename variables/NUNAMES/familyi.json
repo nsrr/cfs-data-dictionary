@@ -4,6 +4,6 @@
   "description": "Family ID",
   "type": "numeric",
   "forms": [
-    "Nunames"
+    "nunames"
   ]
 }

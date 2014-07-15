@@ -4,6 +4,6 @@
   "description": "",
   "type": "numeric",
   "forms": [
-    "Sleep Diary"
+    "sleep_diary"
   ]
 }

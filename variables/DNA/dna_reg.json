@@ -2,8 +2,5 @@
   "id": "dna_reg",
   "display_name": "DNA: 1=Has active regular DNA sample",
   "description": "",
-  "type": "numeric",
-  "forms": [
-    "(calculated based on Specimen dataset)"
-  ]
+  "type": "numeric"
 }

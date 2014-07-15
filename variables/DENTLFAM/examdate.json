@@ -4,6 +4,6 @@
   "description": "",
   "type": "date",
   "forms": [
-    "Cephlometric Measurements"
+    "ceph_measurements"
   ]
 }

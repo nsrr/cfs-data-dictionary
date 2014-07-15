@@ -4,6 +4,6 @@
   "description": "",
   "type": "date",
   "forms": [
-    "Nurses Flow Sheet"
+    "nurses_flow_sheet"
   ]
 }
