@@ -96,8 +96,11 @@ data combined_rectypes_NULL_err0;
 run;
 
 /*
-data nsrrdata.combined_rectypes_pass1_[date];
+data nsrrdata.combined_rectypes_pass1_20140716;
   set combined_rectypes_NULL_err0;
+
+	attrib _all_ label = "";
+  format _all_;
 run;
 */
 
@@ -171,11 +174,14 @@ data rectype5_narrowedvars;
   drop &mlist;
 run;
 
-data nsrrdata.rectype5_pass1_20140711;
+data nsrrdata.rectype5_pass1_20140716;
   set rectype5_narrowedvars;
+
+	attrib _all_ label = "";
+  format _all_;
 run;
 
-proc export data=nsrrdata.rectype5_pass1_20140711 outfile="\\rfa01\bwh-sleepepi-home\projects\cohorts\Family\nsrr-prep\_releases\&release\cfs-rectype5-dataset-&release..csv" dbms=csv replace; run;
+proc export data=nsrrdata.rectype5_pass1_20140716 outfile="\\rfa01\bwh-sleepepi-home\projects\cohorts\Family\nsrr-prep\_releases\&release\cfs-rectype5-dataset-&release..csv" dbms=csv replace; run;
 
 /*Consider running checks below, besides just histogram and classic NSRR checks
 
