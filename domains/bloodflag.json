@@ -1,0 +1,47 @@
+[
+  {
+    "value": "1",
+    "display_name": "Valid data",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Repeated test",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Below floor value",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Above ceiling value",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Pending rerun",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Invalid result",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Insufficient volume",
+    "description": ""
+  },
+  {
+    "value": "9",
+    "display_name": "No sample",
+    "description": ""
+  },
+  {
+    "value": "10",
+    "display_name": "Assay not run/discontinued",
+    "description": ""
+  }
+]

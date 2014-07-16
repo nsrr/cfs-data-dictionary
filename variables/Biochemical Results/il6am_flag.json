@@ -1,0 +1,7 @@
+{
+  "id": "il6am_flag",
+  "display_name": "Interleukin 6 levels - AM reading, test for normal levels",
+  "description": "",
+  "type": "choices",
+  "domain": "bloodflag"
+}

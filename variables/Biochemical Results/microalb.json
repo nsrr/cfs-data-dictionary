@@ -1,0 +1,7 @@
+{
+  "id": "microalb",
+  "display_name": "Microalbumin levels",
+  "description": "",
+  "type": "numeric",
+  "units": "micrograms per milliliter"
+}

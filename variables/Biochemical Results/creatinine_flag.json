@@ -1,0 +1,7 @@
+{
+  "id": "creatinine_flag",
+  "display_name": "Creatinine levels, test for normal levels",
+  "description": "",
+  "type": "choices",
+  "domain": "bloodflag"
+}

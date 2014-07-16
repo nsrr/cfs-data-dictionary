@@ -1,0 +1,7 @@
+{
+  "id": "dopamine_flag",
+  "display_name": "Dopamine levels, test for normal levels",
+  "description": "",
+  "type": "choices",
+  "domain": "bloodflag"
+}

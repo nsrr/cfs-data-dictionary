@@ -1,0 +1,7 @@
+{
+  "id": "norepinephrine_flag",
+  "display_name": "Norepinephrine levels, test for normal values",
+  "description": "",
+  "type": "choices",
+  "domain": "bloodflag"
+}

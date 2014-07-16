@@ -1,0 +1,7 @@
+{
+  "id": "adiponectin_flag",
+  "display_name": "Adiponectin levels, test for normal levels",
+  "description": "",
+  "type": "choices",
+  "domain": "bloodflag"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "pai1pm_flag",
+  "display_name": "Plasminogen Activation Inhibitor-1 levels - PM reading, test for normal values",
+  "description": "",
+  "type": "choices",
+  "domain": "bloodflag"
+}

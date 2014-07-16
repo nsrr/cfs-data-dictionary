@@ -1,0 +1,7 @@
+{
+  "id": "epinephrine",
+  "display_name": "Epinephrine levels",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

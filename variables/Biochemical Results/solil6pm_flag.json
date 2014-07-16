@@ -1,0 +1,7 @@
+{
+  "id": "solil6pm_flag",
+  "display_name": "Soluble Interleukin-6 levels - PM reading, test for normal values",
+  "description": "",
+  "type": "choices",
+  "domain": "bloodflag"
+}

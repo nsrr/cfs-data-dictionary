@@ -1,0 +1,7 @@
+{
+  "id": "tigf_flag",
+  "display_name": "Circulating insulin growth factor levels, test for normal values",
+  "description": "",
+  "type": "choices",
+  "domain": "bloodflag"
+}

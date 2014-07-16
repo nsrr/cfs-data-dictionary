@@ -1,0 +1,7 @@
+{
+  "id": "insulin_ogtt",
+  "display_name": "Oral glucose tolerance test - insulin levels",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

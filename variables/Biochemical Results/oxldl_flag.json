@@ -1,0 +1,7 @@
+{
+  "id": "oxldl_flag",
+  "display_name": "Oxidized low-density lipoprotein levels, test for normal values",
+  "description": "",
+  "type": "choices",
+  "domain": "bloodflag"
+}

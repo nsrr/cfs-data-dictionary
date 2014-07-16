@@ -1,0 +1,7 @@
+{
+  "id": "fibrinogenpm",
+  "display_name": "Fibrinogen levels - PM reading",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

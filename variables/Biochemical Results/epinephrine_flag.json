@@ -1,0 +1,7 @@
+{
+  "id": "epinephrine_flag",
+  "display_name": "Epinephrine levels, test for normal levels",
+  "description": "",
+  "type": "choices",
+  "domain": "bloodflag"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "rbp4_flag",
+  "display_name": "Retinol binding protein-4 levels, test for normal values",
+  "description": "",
+  "type": "choices",
+  "domain": "bloodflag"
+}

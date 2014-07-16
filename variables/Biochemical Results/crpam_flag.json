@@ -1,0 +1,7 @@
+{
+  "id": "crpam_flag",
+  "display_name": "C-reactive protein levels - AM reading, test for normal levels",
+  "description": "",
+  "type": "choices",
+  "domain": "bloodflag"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "insulin_fast",
+  "display_name": "Fasting insulin levels",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

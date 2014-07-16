@@ -1,0 +1,7 @@
+{
+  "id": "creatinine",
+  "display_name": "Creatinine levels",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

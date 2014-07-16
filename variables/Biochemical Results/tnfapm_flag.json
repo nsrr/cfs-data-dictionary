@@ -1,0 +1,7 @@
+{
+  "id": "tnfapm_flag",
+  "display_name": "Tumor necrosis factor-alpha levels - PM reading, test for normal values",
+  "description": "",
+  "type": "choices",
+  "domain": "bloodflag"
+}

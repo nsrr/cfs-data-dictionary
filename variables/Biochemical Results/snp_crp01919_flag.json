@@ -1,0 +1,7 @@
+{
+  "id": "snp_crp01919_flag",
+  "display_name": "C-reactive protein nucleotide polymorphism 01919 levels, test for normal values",
+  "description": "",
+  "type": "choices",
+  "domain": "bloodflag"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "hdl_flag",
+  "display_name": "High-density lipoprotein levels, test for normal levels",
+  "description": "",
+  "type": "choices",
+  "domain": "bloodflag"
+}
