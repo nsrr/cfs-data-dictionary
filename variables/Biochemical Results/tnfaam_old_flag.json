@@ -1,0 +1,7 @@
+{
+  "id": "tnfaam_old_flag",
+  "display_name": "Tumor necrosis factor-alpha levels - AM reading, test for normal values (OLD)",
+  "description": "",
+  "type": "choices",
+  "domain": "bloodflag"
+}

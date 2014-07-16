@@ -1,0 +1,7 @@
+{
+  "id": "icam_flag",
+  "display_name": "Intercellular Adhesion Molecule (ICAM) levels, test for normal levels",
+  "description": "",
+  "type": "choices",
+  "domain": "bloodflag"
+}

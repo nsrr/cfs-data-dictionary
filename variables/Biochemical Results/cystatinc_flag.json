@@ -1,0 +1,7 @@
+{
+  "id": "cystatinc_flag",
+  "display_name": "Cystatin C levels, test for normal levels",
+  "description": "",
+  "type": "choices",
+  "domain": "bloodflag"
+}

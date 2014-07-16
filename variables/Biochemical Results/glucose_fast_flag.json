@@ -1,0 +1,7 @@
+{
+  "id": "glucose_fast_flag",
+  "display_name": "Fasting glucose levels, test for normal levels",
+  "description": "",
+  "type": "choices",
+  "domain": "bloodflag"
+}

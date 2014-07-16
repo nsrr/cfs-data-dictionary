@@ -1,0 +1,7 @@
+{
+  "id": "dopamine",
+  "display_name": "Dopamine levels",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

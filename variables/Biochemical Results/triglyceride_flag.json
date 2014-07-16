@@ -1,0 +1,7 @@
+{
+  "id": "triglyceride_flag",
+  "display_name": "Triglyceride levels, test for normal values",
+  "description": "",
+  "type": "choices",
+  "domain": "bloodflag"
+}

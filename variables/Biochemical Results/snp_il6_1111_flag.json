@@ -1,0 +1,7 @@
+{
+  "id": "snp_il6_1111_flag",
+  "display_name": "Interleukin-6 nucleotide polymorphism 1111 levels, test for normal values",
+  "description": "",
+  "type": "choices",
+  "domain": "bloodflag"
+}

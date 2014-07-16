@@ -1,0 +1,7 @@
+{
+  "id": "insulin_fast_flag",
+  "display_name": "Fasting insulin levels, test for normal levels",
+  "description": "",
+  "type": "choices",
+  "domain": "bloodflag"
+}

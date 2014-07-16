@@ -1,0 +1,7 @@
+{
+  "id": "cholesterol_orig",
+  "display_name": "Cholesterol levels",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

@@ -1,0 +1,7 @@
+{
+  "id": "snp_crp05237_flag",
+  "display_name": "C-reactive protein nucleotide polymorphism 05237 levels, test for normal values",
+  "description": "",
+  "type": "choices",
+  "domain": "bloodflag"
+}

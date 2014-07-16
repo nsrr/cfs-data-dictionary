@@ -1,0 +1,7 @@
+{
+  "id": "fibrinogenam_flag",
+  "display_name": "Fibrinogen levels - AM reading, test for normal levels",
+  "description": "",
+  "type": "choices",
+  "domain": "bloodflag"
+}

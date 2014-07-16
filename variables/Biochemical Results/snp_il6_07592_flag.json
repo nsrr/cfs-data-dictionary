@@ -1,0 +1,7 @@
+{
+  "id": "snp_il6_07592_flag",
+  "display_name": "Interleukin-6 nucleotide polymorphism 07592 levels, test for normal values",
+  "description": "",
+  "type": "choices",
+  "domain": "bloodflag"
+}

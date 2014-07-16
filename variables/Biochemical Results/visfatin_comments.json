@@ -1,0 +1,12 @@
+{
+  "id": "visfatin_comments",
+  "display_name": "Visfatin levels",
+  "description": "",
+  "type": "text",
+  "labels": [
+    "nicotinamide phosphoribosyltransferase",
+    "NAmPRTase",
+    "pre-B-cell colony-enhancing factor 1",
+    "PBEF1"
+  ]
+}

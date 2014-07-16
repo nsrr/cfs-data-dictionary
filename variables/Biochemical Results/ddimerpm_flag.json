@@ -1,0 +1,7 @@
+{
+  "id": "ddimerpm_flag",
+  "display_name": "D-dimer protein levels - PM reading, test for normal levels",
+  "description": "",
+  "type": "choices",
+  "domain": "bloodflag"
+}

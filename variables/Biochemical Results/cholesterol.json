@@ -1,0 +1,7 @@
+{
+  "id": "cholesterol",
+  "display_name": "Total cholesterol levels",
+  "description": "",
+  "type": "numeric",
+  "units": "milligrams per deciliter"
+}

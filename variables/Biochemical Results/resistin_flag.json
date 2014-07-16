@@ -1,0 +1,7 @@
+{
+  "id": "resistin_flag",
+  "display_name": "Resistin levels, test for normal values",
+  "description": "",
+  "type": "choices",
+  "domain": "bloodflag"
+}

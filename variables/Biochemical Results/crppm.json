@@ -1,0 +1,7 @@
+{
+  "id": "crppm",
+  "display_name": "C-reactive protein levels - PM reading",
+  "description": "",
+  "type": "numeric",
+  "units": "micrograms per milliliter"
+}

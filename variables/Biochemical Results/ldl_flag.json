@@ -1,0 +1,7 @@
+{
+  "id": "ldl_flag",
+  "display_name": "Low-density lipoprotein levels, test for normal levels",
+  "description": "",
+  "type": "choices",
+  "domain": "bloodflag"
+}

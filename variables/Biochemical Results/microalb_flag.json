@@ -1,0 +1,7 @@
+{
+  "id": "microalb_flag",
+  "display_name": "Microalbumin levels, test for normal values",
+  "description": "",
+  "type": "choices",
+  "domain": "bloodflag"
+}

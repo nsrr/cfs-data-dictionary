@@ -1,0 +1,7 @@
+{
+  "id": "glucose_ogtt_flag",
+  "display_name": "Oral glucose tolerance test, test for normal levels",
+  "description": "",
+  "type": "choices",
+  "domain": "bloodflag"
+}

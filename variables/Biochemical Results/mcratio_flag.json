@@ -1,0 +1,7 @@
+{
+  "id": "mcratio_flag",
+  "display_name": "Microalbumin-Creatinine ratio, test for normal values",
+  "description": "",
+  "type": "choices",
+  "domain": "bloodflag"
+}

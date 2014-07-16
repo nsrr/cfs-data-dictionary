@@ -1,0 +1,7 @@
+{
+  "id": "glucose_fast",
+  "display_name": "Fasting glucose levels",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

@@ -1,0 +1,7 @@
+{
+  "id": "tnfapm",
+  "display_name": "Tumor necrosis factor-alpha levels - PM reading",
+  "description": "",
+  "type": "numeric",
+  "units": "picograms per milliliter"
+}

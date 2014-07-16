@@ -1,0 +1,13 @@
+{
+  "id": "visfatin_flag",
+  "display_name": "Visfatin levels, test for normal values",
+  "description": "",
+  "type": "choices",
+  "domain": "bloodflag",
+  "labels": [
+    "nicotinamide phosphoribosyltransferase",
+    "NAmPRTase",
+    "pre-B-cell colony-enhancing factor 1",
+    "PBEF1"
+  ]
+}

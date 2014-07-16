@@ -1,0 +1,7 @@
+{
+  "id": "cholesterol_flag",
+  "display_name": "Cholesterol levels, test for normal levels",
+  "description": "",
+  "type": "choices",
+  "domain": "bloodflag"
+}

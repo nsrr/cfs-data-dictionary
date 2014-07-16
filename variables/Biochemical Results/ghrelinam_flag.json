@@ -1,0 +1,7 @@
+{
+  "id": "ghrelinam_flag",
+  "display_name": "Ghrelin levels - AM reading, test for normal levels",
+  "description": "",
+  "type": "choices",
+  "domain": "bloodflag"
+}

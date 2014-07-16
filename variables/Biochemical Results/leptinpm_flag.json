@@ -1,0 +1,7 @@
+{
+  "id": "leptinpm_flag",
+  "display_name": "Leptin levels - PM reading, test for normal levels",
+  "description": "",
+  "type": "choices",
+  "domain": "bloodflag"
+}
