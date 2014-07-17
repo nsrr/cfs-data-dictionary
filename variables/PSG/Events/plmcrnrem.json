@@ -1,0 +1,7 @@
+{
+  "id": "plmcrnrem",
+  "display_name": "Number of PLM clusters with respiratory events (NREM)",
+  "description": "Total PLM clusters with respiratory events in NREM sleep",
+  "type": "numeric",
+  "units": "limb movements"
+}

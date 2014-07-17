@@ -1,0 +1,10 @@
+{
+  "id": "mndnbp",
+  "display_name": "Minumum SaO2 (NREM, Back, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "mndnbp"
+  ]
+}

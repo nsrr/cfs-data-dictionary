@@ -1,0 +1,10 @@
+{
+  "id": "mncanop",
+  "display_name": "Minumum Central Apnea length (NREM, Other, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "mncanop"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "id": "plmarrem",
+  "display_name": "Number of PLMs with arousal and respiratory event (REM)",
+  "description": "Total PLMs with arousal and  respiratory events in REM sleep",
+  "type": "numeric",
+  "units": "limb movements"
+}

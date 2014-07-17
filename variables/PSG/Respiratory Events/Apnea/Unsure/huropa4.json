@@ -1,0 +1,10 @@
+{
+  "id": "huropa4",
+  "display_name": "Average Obstructive Apnea length (NREM, Back, 4% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "huropa4"
+  ]
+}

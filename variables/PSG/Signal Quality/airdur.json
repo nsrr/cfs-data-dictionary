@@ -1,0 +1,20 @@
+{
+  "id": "airdur",
+  "display_name": "PSG Quality Assessment (SHHS2): hours of usable airflow",
+  "description": "Number of hours of usable signal from airflow sensor (thermistor) as assessed by scorer.",
+  "type": "numeric",
+  "units": "hour",
+  "labels": [
+    "Airdur"
+  ],
+  "hybrid": {
+    "VARNUM": "467",
+    "TABLE": "SHHS2",
+    "LABEL": "QS - hours of usable airflow",
+    "sensitivity": "0",
+    "design_name": "PSG QS Form (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "design_file": "SHHS2 PSG QS form.pdf",
+    "PARENT TERM": null
+  }
+}

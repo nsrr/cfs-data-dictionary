@@ -1,0 +1,7 @@
+{
+  "id": "scremp",
+  "display_name": "Time in REM sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "avunrop3",
+  "display_name": "Average Obstructive Apnea length (NREM, Back, 3% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "avunrop3"
+  ]
+}

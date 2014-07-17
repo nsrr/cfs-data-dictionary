@@ -1,0 +1,7 @@
+{
+  "id": "plmcar",
+  "display_name": "Number of PLM clusters with arousal and respiratory event",
+  "description": "Total PLM clusters with arousal and  respiratory events",
+  "type": "numeric",
+  "units": "limb movements"
+}
