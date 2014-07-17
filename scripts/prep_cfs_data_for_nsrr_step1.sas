@@ -71,8 +71,8 @@ quit;
 proc sql noprint;
   select name into :known_rec5vars_inneedof_NULLing separated by ' '
   from rectype5vars
-  where (600 le varnum le 607) or (640 le varnum le 642) or (1010 le varnum le 1012) or (varnum in(363,1014,1015,1018,1019,1020,1023,1024)) or (1130 le varnum le 1137) 
-          or (varnum in(1139,1141,1142,1143,1858,1859)) or (1928 le varnum le 1956) or (1989 le varnum le 2020) or (varnum in(1983,1984)) or (2330 le varnum le 2335) 
+  where (600 le varnum le 607) or (640 le varnum le 642) or (1010 le varnum le 1012) or (varnum in(363,1014,1015,1018,1019,1020,1023,1024)) or (1130 le varnum le 1137)
+          or (varnum in(1139,1141,1142,1143,1858,1859)) or (1928 le varnum le 1956) or (1989 le varnum le 2020) or (varnum in(1983,1984)) or (2330 le varnum le 2335)
           or (2350 le varnum le 2358);
 quit;
 
@@ -127,7 +127,7 @@ data _null_;
   set Rectype5_null_err0 end=finished;
 
   /* Use the reserved word _NUMERIC_ to load all numeric variables  */
-  /* into the NUM_VARS array.  Use the reserved word _CHARACTER_ to */ 
+  /* into the NUM_VARS array.  Use the reserved word _CHARACTER_ to */
   /* to load all character variables into the CHAR_VARS array.      */
   array num_vars[*] _NUMERIC_;
   array char_vars[*] _CHARACTER_;
@@ -136,12 +136,12 @@ data _null_;
   /* Initialize their values to 'missing'.  Values initialized on an   */
   /* array statement are retained.                                     */
   array num_miss [&num_qty] $ (&num_qty * 'missing');
-  array char_miss [&char_qty] $ (&char_qty * 'missing'); 
-  
+  array char_miss [&char_qty] $ (&char_qty * 'missing');
+
   /* LIST will contain the list of variables to be dropped.  Ensure  */
   /* it's length is sufficient.                                      */
-  length list $ 5000; 
-  
+  length list $ 5000;
+
   /* Check for non-missing values.  Reassign the corresponding 'flag' */
   /* value accordingly.                                               */
   do i=1 to dim(num_vars);
@@ -179,6 +179,8 @@ data nsrrdata.rectype5_pass1_20140716;
 
 	attrib _all_ label = "";
   format _all_;
+
+  drop inall incatecholamine incrp incrpsnp incystatinc incytokine inddimer inddimerstar infibrinogen inflmed inghrelin inicam inil6 inil6snp inleptin inmaster inmicroalb inoxldl inpai1 inpanela insolil6 intnfa invermontdna invisfatin lab_datercvd microalb_date ddimerstaram_rundate ddimer_transmit ddimer_datercvd cystatinc_date;
 run;
 
 proc export data=nsrrdata.rectype5_pass1_20140716 outfile="\\rfa01\bwh-sleepepi-home\projects\cohorts\Family\nsrr-prep\_releases\&release\cfs-rectype5-dataset-&release..csv" dbms=csv replace; run;
