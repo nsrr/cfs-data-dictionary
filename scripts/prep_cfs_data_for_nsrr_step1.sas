@@ -174,7 +174,7 @@ data rectype5_narrowedvars;
   drop &mlist;
 run;
 
-data nsrrdata.rectype5_pass1_20140716;
+data nsrrdata.rectype5_pass1;
   set rectype5_narrowedvars;
 
 	attrib _all_ label = "";
@@ -183,7 +183,7 @@ data nsrrdata.rectype5_pass1_20140716;
   drop inall incatecholamine incrp incrpsnp incystatinc incytokine inddimer inddimerstar infibrinogen inflmed inghrelin inicam inil6 inil6snp inleptin inmaster inmicroalb inoxldl inpai1 inpanela insolil6 intnfa invermontdna invisfatin lab_datercvd microalb_date ddimerstaram_rundate ddimer_transmit ddimer_datercvd cystatinc_date;
 run;
 
-proc export data=nsrrdata.rectype5_pass1_20140716 outfile="\\rfa01\bwh-sleepepi-home\projects\cohorts\Family\nsrr-prep\_releases\&release\cfs-rectype5-dataset-&release..csv" dbms=csv replace; run;
+proc export data=nsrrdata.rectype5_pass1 outfile="\\rfa01\bwh-sleepepi-home\projects\cohorts\Family\nsrr-prep\_releases\&release\cfs-rectype5-dataset-&release..csv" dbms=csv replace; run;
 
 /*Consider running checks below, besides just histogram and classic NSRR checks
 
