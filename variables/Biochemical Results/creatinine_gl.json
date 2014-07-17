@@ -1,0 +1,7 @@
+{
+  "id": "creatinine_gl",
+  "display_name": "Creatinine levels",
+  "description": "",
+  "type": "numeric",
+  "units": "grams per liter"
+}

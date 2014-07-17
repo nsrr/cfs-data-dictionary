@@ -1,0 +1,7 @@
+{
+  "id": "crp_pctchg",
+  "display_name": "C-reactive protein levels - percent difference between AM and PM draw",
+  "description": "",
+  "type": "numeric",
+  "units": "percent"
+}

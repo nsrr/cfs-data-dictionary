@@ -1,0 +1,8 @@
+{
+  "id": "crp_diff",
+  "display_name": "C-reactive protein levels - difference between AM and PM draw",
+  "description": "",
+  "type": "numeric",
+  "units": "micrograms per milliliter",
+  "calculation": "crppm - crpam"
+}

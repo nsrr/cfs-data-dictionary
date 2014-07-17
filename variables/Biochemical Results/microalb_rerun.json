@@ -1,0 +1,7 @@
+{
+  "id": "microalb_rerun",
+  "display_name": "Microalbumin test rerun?",
+  "description": "",
+  "type": "choices",
+  "domain": "rerun"
+}
