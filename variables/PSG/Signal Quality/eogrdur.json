@@ -1,20 +1,10 @@
 {
   "id": "eogrdur",
-  "display_name": "PSG Quality Assessment (SHHS2): hours of usable EOG R",
+  "display_name": "PSG Quality Assessment: hours of usable EOG R",
   "description": "Number of hours of usable signal from right eye (EOG) lead as assessed by scorer.",
   "type": "numeric",
   "units": "hour",
   "labels": [
     "EOGRdur"
-  ],
-  "hybrid": {
-    "VARNUM": "464",
-    "TABLE": "SHHS2",
-    "LABEL": "QS - hours of usable EOG R",
-    "sensitivity": "0",
-    "design_name": "PSG QS Form (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": "SHHS2 PSG QS form.pdf",
-    "PARENT TERM": null
-  }
+  ]
 }
