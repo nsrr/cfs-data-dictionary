@@ -1,0 +1,10 @@
+{
+  "id": "qucan",
+  "display_name": "PSG Quality Assessment: Signal Quality (cannula)",
+  "description": "",
+  "type": "choices",
+  "domain": "sigqus2",
+  "labels": [
+    "QuAir"
+  ]
+}

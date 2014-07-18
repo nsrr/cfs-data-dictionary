@@ -1,0 +1,10 @@
+{
+  "id": "quleg",
+  "display_name": "PSG Quality Assessment: Signal Quality R Leg",
+  "description": "",
+  "type": "choices",
+  "domain": "sigqus2",
+  "labels": [
+    "QuAir"
+  ]
+}

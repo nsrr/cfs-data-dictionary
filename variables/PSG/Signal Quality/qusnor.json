@@ -1,0 +1,10 @@
+{
+  "id": "qusnor",
+  "display_name": "PSG Quality Assessment: Signal Quality (snore)",
+  "description": "",
+  "type": "choices",
+  "domain": "sigqus2",
+  "labels": [
+    "QuAir"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "qupulse",
+  "display_name": "PSG Quality Assessment: Signal Quality (pulse)",
+  "description": "",
+  "type": "choices",
+  "domain": "sigqus2",
+  "labels": [
+    "QuAir"
+  ]
+}
