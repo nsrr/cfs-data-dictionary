@@ -1,0 +1,7 @@
+{
+  "id": "vtdna_total",
+  "display_name": "Total Vermont DNA volume",
+  "description": "",
+  "type": "numeric",
+  "units": "micrograms"
+}

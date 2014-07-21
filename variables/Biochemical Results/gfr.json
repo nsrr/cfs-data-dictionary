@@ -1,0 +1,7 @@
+{
+  "id": "gfr",
+  "display_name": "Gender corrected formula for cystatin c",
+  "description": "",
+  "type": "numeric",
+  "units": "milliliters per minute"
+}

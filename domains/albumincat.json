@@ -1,0 +1,17 @@
+[
+  {
+    "value": "0",
+    "display_name": "Less than 25",
+    "description": "Microalbumin excretion ratio less than 25 (after adjusting for sex and race)"
+  },
+  {
+    "value": "1",
+    "display_name": "Between 25 and 250",
+    "description": "Microalbumin excretion ratio between 25 and 250 (after adjusting for sex and race)"
+  },
+  {
+    "value": "0",
+    "display_name": "Greater than or equal to 250",
+    "description": "Microalbumin excretion ratio greater than or equal to 250 (after adjusting for sex and race)"
+  }
+]

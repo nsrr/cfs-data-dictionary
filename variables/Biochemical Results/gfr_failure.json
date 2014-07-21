@@ -1,0 +1,7 @@
+{
+  "id": "gfr_failure",
+  "display_name": "Gender correction formula failure",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "albumincat",
+  "display_name": "Albumin excretion rate (race & sex adjusted) - categorical",
+  "description": "",
+  "type": "choices",
+  "domain": "albumincat"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "vtdna_remaining",
+  "display_name": "Vermont DNA volume remaining",
+  "description": "",
+  "type": "numeric",
+  "units": "micrograms"
+}

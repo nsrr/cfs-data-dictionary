@@ -1,0 +1,7 @@
+{
+  "id": "vtdna_conc",
+  "display_name": "Vermont DNA volume concentration",
+  "description": "",
+  "type": "numeric",
+  "units": "micrograms per milliliter"
+}

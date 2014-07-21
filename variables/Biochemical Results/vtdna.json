@@ -1,0 +1,7 @@
+{
+  "id": "vtdna",
+  "display_name": "Has Vermont DNA sample?",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno"
+}
