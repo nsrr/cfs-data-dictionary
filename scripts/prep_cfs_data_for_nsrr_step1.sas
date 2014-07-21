@@ -180,7 +180,7 @@ data nsrrdata.rectype5_pass1;
 	attrib _all_ label = "";
   format _all_;
 
-  drop inall incatecholamine incrp incrpsnp incystatinc incytokine inddimer inddimerstar infibrinogen inflmed inghrelin inicam inil6 inil6snp inleptin inmaster inmicroalb inoxldl inpai1 inpanela insolil6 intnfa invermontdna invisfatin lab_datercvd microalb_date ddimerstaram_rundate ddimer_transmit ddimer_datercvd cystatinc_date;
+  drop inall incatecholamine incrp incrpsnp incystatinc incytokine inddimer inddimerstar infibrinogen inflmed inghrelin inicam inil6 inil6snp inleptin inmaster inmicroalb inoxldl inpai1 inpanela insolil6 intnfa invermontdna invisfatin lab_datercvd microalb_date ddimerstaram_rundate ddimer_transmit ddimer_datercvd cystatinc_date zipcode state city cellphon midinit cdlabel f2r barcode;
 run;
 
 proc export data=nsrrdata.rectype5_pass1 outfile="\\rfa01\bwh-sleepepi-home\projects\cohorts\Family\nsrr-prep\_releases\&release\cfs-rectype5-dataset-&release..csv" dbms=csv replace; run;
