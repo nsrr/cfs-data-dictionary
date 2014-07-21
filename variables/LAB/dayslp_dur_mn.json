@@ -1,0 +1,10 @@
+{
+  "id": "dayslp_dur_mn",
+  "display_name": "Calculated sleep duration on weekdays",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "forms": [
+    "lab_dataset"
+  ]
+}

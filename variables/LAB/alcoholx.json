@@ -1,0 +1,10 @@
+{
+  "id": "alcoholx",
+  "display_name": "More than drink per week on average in the past year",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_dataset"
+  ]
+}

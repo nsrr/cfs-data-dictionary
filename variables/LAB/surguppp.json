@@ -1,0 +1,10 @@
+{
+  "id": "surguppp",
+  "display_name": "Ever had UPPP surgery",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_dataset"
+  ]
+}

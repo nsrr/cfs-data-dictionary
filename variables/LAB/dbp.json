@@ -1,0 +1,10 @@
+{
+  "id": "dbp",
+  "display_name": "Mean diastolic blood pressure",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters of mercury",
+  "forms": [
+    "lab_dataset"
+  ]
+}

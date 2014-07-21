@@ -1,0 +1,10 @@
+{
+  "id": "pkfvc",
+  "display_name": "Standardized Knudson predictor: FVC",
+  "description": "",
+  "type": "numeric",
+  "units": "",
+  "forms": [
+    "lab_dataset"
+  ]
+}

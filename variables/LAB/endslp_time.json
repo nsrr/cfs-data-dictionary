@@ -1,0 +1,9 @@
+{
+  "id": "endslp_time",
+  "display_name": "Weekend bedtime",
+  "description": "Self-reported normal bedtime on weekends",
+  "type": "time",
+  "forms": [
+    "lab_dataset"
+  ]
+}

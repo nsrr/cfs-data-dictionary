@@ -1,0 +1,10 @@
+{
+  "id": "cvd",
+  "display_name": "Self-report of a physician diagnosis of cardiovascular disease",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_dataset"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "regcpap",
+  "display_name": "Current regular use of CPAP (at least 50% of the time)",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_dataset"
+  ]
+}

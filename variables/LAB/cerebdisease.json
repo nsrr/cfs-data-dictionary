@@ -1,0 +1,10 @@
+{
+  "id": "cerebdisease",
+  "display_name": "Cerebrovascular disease",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_dataset"
+  ]
+}

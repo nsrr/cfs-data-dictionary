@@ -1,0 +1,10 @@
+{
+  "id": "race_old",
+  "display_name": "Race",
+  "description": "",
+  "type": "choices",
+  "domain": "race12345",
+  "forms": [
+    "lab_dataset"
+  ]
+}

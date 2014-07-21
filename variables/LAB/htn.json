@@ -1,0 +1,10 @@
+{
+  "id": "htn",
+  "display_name": "Abnormal blood pressure (systolic greater than 140 or diastolic greater than 90) or medication",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_dataset"
+  ]
+}

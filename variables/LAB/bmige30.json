@@ -1,0 +1,10 @@
+{
+  "id": "bmige30",
+  "display_name": "BMI greater than 30?",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_dataset"
+  ]
+}

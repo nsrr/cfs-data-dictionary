@@ -1,0 +1,10 @@
+{
+  "id": "fev1ppk",
+  "display_name": "Percent of Knudson predictor: FEV1 (including race correlation)",
+  "description": "",
+  "type": "numeric",
+  "units": "",
+  "forms": [
+    "lab_dataset"
+  ]
+}

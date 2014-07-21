@@ -1,0 +1,10 @@
+{
+  "id": "activeasthma",
+  "display_name": "Physician diagnosis of asthma or asthma medication usage for past 3 days",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_dataset"
+  ]
+}

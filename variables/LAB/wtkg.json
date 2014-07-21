@@ -1,0 +1,10 @@
+{
+  "id": "wtkg",
+  "display_name": "Weight",
+  "description": "",
+  "type": "numeric",
+  "units": "kilograms",
+  "forms": [
+    "lab_dataset"
+  ]
+}

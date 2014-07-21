@@ -1,0 +1,9 @@
+{
+  "id": "othrace",
+  "display_name": "Subject race description",
+  "description": "",
+  "type": "text",
+  "forms": [
+    "lab_dataset"
+  ]
+}

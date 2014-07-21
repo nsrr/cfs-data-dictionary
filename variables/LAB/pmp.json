@@ -1,0 +1,10 @@
+{
+  "id": "pmp",
+  "display_name": "Post-menopausal",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_dataset"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "prescpap",
+  "display_name": "Ever prescribed CPAP",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_dataset"
+  ]
+}

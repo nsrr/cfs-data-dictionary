@@ -1,0 +1,10 @@
+{
+  "id": "htndx",
+  "display_name": "Self-report of a physician diagnosis of hypertension",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_dataset"
+  ]
+}

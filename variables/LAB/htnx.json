@@ -1,0 +1,10 @@
+{
+  "id": "htnx",
+  "display_name": "Self-report of a physician diagnosis of hypertension or abnormal blood pressure reading",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_dataset"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "male",
+  "display_name": "Subject gender",
+  "description": "",
+  "type": "numeric",
+  "units": "",
+  "forms": [
+    "lab_dataset"
+  ]
+}

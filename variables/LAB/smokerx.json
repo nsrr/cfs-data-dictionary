@@ -1,0 +1,10 @@
+{
+  "id": "smokerx",
+  "display_name": "Smoking status",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_dataset"
+  ]
+}

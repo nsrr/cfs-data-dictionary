@@ -1,0 +1,9 @@
+{
+  "id": "smokerxc",
+  "display_name": "Smoking status (character)",
+  "description": "",
+  "type": "text",
+  "forms": [
+    "lab_dataset"
+  ]
+}

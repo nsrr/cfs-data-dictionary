@@ -1,0 +1,10 @@
+{
+  "id": "sleeptime_min",
+  "display_name": "Calculated sleep duration on all days",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "forms": [
+    "lab_dataset"
+  ]
+}

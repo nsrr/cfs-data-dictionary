@@ -1,0 +1,10 @@
+{
+  "id": "xbpmeds",
+  "display_name": "On a specified medication",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_dataset"
+  ]
+}

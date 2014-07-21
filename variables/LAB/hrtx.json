@@ -1,0 +1,10 @@
+{
+  "id": "hrtx",
+  "display_name": "Hormone replacement therapy",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_dataset"
+  ]
+}

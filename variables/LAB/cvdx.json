@@ -1,0 +1,10 @@
+{
+  "id": "cvdx",
+  "display_name": "Self-report of a physician diagnosis of cardiovascular disease (missing recoded as no)",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_dataset"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "aspirintherapy",
+  "display_name": "Aspirin use 4-7 days per week",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_dataset"
+  ]
+}
