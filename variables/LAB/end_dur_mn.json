@@ -1,5 +1,5 @@
 {
-  "id": "endslp_dur_mn",
+  "id": "end_dur_mn",
   "display_name": "Calculated sleep duration on weekends",
   "description": "",
   "type": "numeric",
