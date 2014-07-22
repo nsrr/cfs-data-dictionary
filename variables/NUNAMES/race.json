@@ -3,7 +3,7 @@
   "display_name": "Race",
   "description": "",
   "type": "choices",
-  "domain": "race12345",
+  "domain": "race123456",
   "forms": [
     "nunames"
   ]
