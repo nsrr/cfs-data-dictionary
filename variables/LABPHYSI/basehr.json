@@ -1,0 +1,9 @@
+{
+  "id": "basehr",
+  "display_name": "Sleep Study: baseline heartrate",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "physio_report"
+  ]
+}
