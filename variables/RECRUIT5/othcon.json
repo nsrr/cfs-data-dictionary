@@ -1,9 +1,0 @@
-{
-  "id": "othcon",
-  "display_name": "Other person contacted",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "fu_recruiting"
-  ]
-}

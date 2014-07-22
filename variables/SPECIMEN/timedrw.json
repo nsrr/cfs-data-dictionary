@@ -1,9 +1,0 @@
-{
-  "id": "timedrw",
-  "display_name": "Specimen: time of draw (hhmm)",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "specimen_date_bloods_cephs"
-  ]
-}

@@ -1,9 +1,0 @@
-{
-  "id": "fhgo",
-  "display_name": "Ceph: FH-Go (perpendicular length, FH to gonion)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

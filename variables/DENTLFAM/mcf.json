@@ -1,9 +1,0 @@
-{
-  "id": "mcf",
-  "display_name": "Ceph: MCF (mid cranial fossa)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

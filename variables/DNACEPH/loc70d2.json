@@ -1,9 +1,0 @@
-{
-  "id": "loc70d2",
-  "display_name": "CWRU Sample 2: 70-degree freezer location",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "dna_ceph"
-  ]
-}

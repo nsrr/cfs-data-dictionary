@@ -1,9 +1,0 @@
-{
-  "id": "intmxlth",
-  "display_name": "Ceph: Int. Mx. Lth. (Length of intermaxillary space)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

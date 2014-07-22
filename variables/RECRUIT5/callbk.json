@@ -1,9 +1,0 @@
-{
-  "id": "callbk",
-  "display_name": "Call back date",
-  "description": "",
-  "type": "date",
-  "forms": [
-    "fu_recruiting"
-  ]
-}

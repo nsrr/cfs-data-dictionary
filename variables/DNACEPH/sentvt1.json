@@ -1,9 +1,0 @@
-{
-  "id": "sentvt1",
-  "display_name": "DNA1: Sent to Vermont",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "dna_ceph"
-  ]
-}

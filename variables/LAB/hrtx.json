@@ -3,7 +3,7 @@
   "display_name": "Hormone replacement therapy",
   "description": "",
   "type": "choices",
-  "domain": "yesno",
+  "domain": "yesnon",
   "forms": [
     "lab_dataset"
   ]

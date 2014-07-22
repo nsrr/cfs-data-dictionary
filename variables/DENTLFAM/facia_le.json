@@ -1,9 +1,0 @@
-{
-  "id": "facia_le",
-  "display_name": "Ceph: facial length",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

@@ -1,9 +1,0 @@
-{
-  "id": "arpm",
-  "display_name": "Ceph: Articulare to PM",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

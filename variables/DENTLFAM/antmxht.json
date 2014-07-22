@@ -1,9 +1,0 @@
-{
-  "id": "antmxht",
-  "display_name": "Ceph: Ant. Mx. Ht. (anterior intermaxillary height)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

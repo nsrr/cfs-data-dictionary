@@ -1,9 +1,0 @@
-{
-  "id": "cypwtkg",
-  "display_name": "Cyprus: weight (kg)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "cyprus_body_fat"
-  ]
-}

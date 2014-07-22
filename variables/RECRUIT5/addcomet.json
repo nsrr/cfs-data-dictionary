@@ -1,9 +1,0 @@
-{
-  "id": "addcomet",
-  "display_name": "Additional comments",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "fu_recruiting"
-  ]
-}

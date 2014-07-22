@@ -1,9 +1,0 @@
-{
-  "id": "tl",
-  "display_name": "Ceph: Tl (tongue length, TT to Epiglottis)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

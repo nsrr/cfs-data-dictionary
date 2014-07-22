@@ -1,9 +1,0 @@
-{
-  "id": "medicno",
-  "display_name": "Medical Record Number",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "nunames"
-  ]
-}

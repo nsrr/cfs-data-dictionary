@@ -1,9 +1,0 @@
-{
-  "id": "tarea",
-  "display_name": "Ceph: tongue area, (geocalc)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

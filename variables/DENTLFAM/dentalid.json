@@ -1,9 +1,0 @@
-{
-  "id": "dentalid",
-  "display_name": "ceph id #",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

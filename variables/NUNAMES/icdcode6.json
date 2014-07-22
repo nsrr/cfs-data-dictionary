@@ -1,9 +1,0 @@
-{
-  "id": "icdcode6",
-  "display_name": "Reason for death 6 (icd9code)",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "nunames"
-  ]
-}

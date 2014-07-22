@@ -1,9 +1,0 @@
-{
-  "id": "c2sn",
-  "display_name": "Ceph: <C2-SN (angle: C2 to C2TG and Sella to Naison)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

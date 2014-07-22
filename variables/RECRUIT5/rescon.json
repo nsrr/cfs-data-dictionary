@@ -1,9 +1,0 @@
-{
-  "id": "rescon",
-  "display_name": "Result of contact",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "fu_recruiting"
-  ]
-}

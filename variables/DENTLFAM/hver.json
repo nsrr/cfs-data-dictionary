@@ -1,9 +1,0 @@
-{
-  "id": "hver",
-  "display_name": "Ceph: H-VER (distance between Hyoid and PM)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

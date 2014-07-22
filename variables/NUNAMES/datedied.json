@@ -1,9 +1,0 @@
-{
-  "id": "datedied",
-  "display_name": "Date Patient died",
-  "description": "",
-  "type": "date",
-  "forms": [
-    "nunames"
-  ]
-}

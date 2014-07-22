@@ -1,9 +1,0 @@
-{
-  "id": "sna",
-  "display_name": "Ceph: <SNA (angle: Sella to Naison plane and A point)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

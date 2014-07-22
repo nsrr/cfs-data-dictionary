@@ -1,9 +1,0 @@
-{
-  "id": "dnaconc2",
-  "display_name": "DNA2: concentration",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "dna_ceph"
-  ]
-}

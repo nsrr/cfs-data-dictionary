@@ -1,9 +1,0 @@
-{
-  "id": "birthdat",
-  "display_name": "Date of birth",
-  "description": "Patient Date of birth",
-  "type": "date",
-  "forms": [
-    "nunames"
-  ]
-}

@@ -1,9 +1,0 @@
-{
-  "id": "phwpsp",
-  "display_name": "Ceph: Phw-Psp (Posterior-superior airway space)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

@@ -1,9 +1,0 @@
-{
-  "id": "hmp",
-  "display_name": "Ceph: H-MP (distance between mandib plane and hyoid)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

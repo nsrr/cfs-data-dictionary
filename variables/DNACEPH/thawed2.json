@@ -1,9 +1,0 @@
-{
-  "id": "thawed2",
-  "display_name": "DNA2: Serum sample thawed (Y/N)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "dna_ceph"
-  ]
-}

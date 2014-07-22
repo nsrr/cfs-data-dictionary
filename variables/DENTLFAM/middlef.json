@@ -1,9 +1,0 @@
-{
-  "id": "middlef",
-  "display_name": "Ceph: Middle face distance",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

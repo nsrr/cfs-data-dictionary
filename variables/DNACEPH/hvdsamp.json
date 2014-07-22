@@ -1,9 +1,0 @@
-{
-  "id": "hvdsamp",
-  "display_name": "Has Harvard sample",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "dna_ceph"
-  ]
-}

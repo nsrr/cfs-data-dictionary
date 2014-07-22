@@ -1,9 +1,0 @@
-{
-  "id": "rammcf",
-  "display_name": "Ceph: RAM/MCF (width of Ramus at FOP vs AR to PM)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

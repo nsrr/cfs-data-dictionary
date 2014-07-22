@@ -1,9 +1,0 @@
-{
-  "id": "cypage",
-  "display_name": "Cyprus: age at testing",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "cyprus_body_fat"
-  ]
-}

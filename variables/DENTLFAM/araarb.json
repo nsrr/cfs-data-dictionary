@@ -1,9 +1,0 @@
-{
-  "id": "araarb",
-  "display_name": "Ceph: ArA-ArB (difference between AR to A and AR to B)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

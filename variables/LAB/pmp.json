@@ -3,7 +3,7 @@
   "display_name": "Post-menopausal",
   "description": "",
   "type": "choices",
-  "domain": "yesno",
+  "domain": "noyesdontknowna",
   "forms": [
     "lab_dataset"
   ]

@@ -1,9 +1,0 @@
-{
-  "id": "totdna",
-  "display_name": "Specimen: Total DNA (ug)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "specimen_date_bloods_cephs"
-  ]
-}

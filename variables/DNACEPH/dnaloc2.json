@@ -1,9 +1,0 @@
-{
-  "id": "dnaloc2",
-  "display_name": "DNA2: sample location",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "dna_ceph"
-  ]
-}

@@ -1,9 +1,0 @@
-{
-  "id": "arnpm",
-  "display_name": "Ceph: <ArN-PM (angle: posterior wall of maxilla relative to cranial base)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

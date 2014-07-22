@@ -1,9 +1,0 @@
-{
-  "id": "specid",
-  "display_name": "Specimen: Unique specimen ID",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "specimen_date_bloods_cephs"
-  ]
-}

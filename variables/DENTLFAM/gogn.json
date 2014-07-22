@@ -1,9 +1,0 @@
-{
-  "id": "gogn",
-  "display_name": "Ceph: Go-Gn (length of mandible from gonion to gnathion)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

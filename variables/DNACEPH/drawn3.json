@@ -1,9 +1,0 @@
-{
-  "id": "drawn3",
-  "display_name": "DNA3: Serum draw date",
-  "description": "",
-  "type": "date",
-  "forms": [
-    "dna_ceph"
-  ]
-}

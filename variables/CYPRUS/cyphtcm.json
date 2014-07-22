@@ -1,9 +1,0 @@
-{
-  "id": "cyphtcm",
-  "display_name": "Cyprus: height (cm)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "cyprus_body_fat"
-  ]
-}

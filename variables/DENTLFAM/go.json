@@ -1,9 +1,0 @@
-{
-  "id": "go",
-  "display_name": "Ceph: <GO (gonial angle between ramus and mandible)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

@@ -1,9 +1,0 @@
-{
-  "id": "injrel2",
-  "display_name": "100 name/relation/date/event injury in fam.",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "lab_adult3"
-  ]
-}

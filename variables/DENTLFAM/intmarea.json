@@ -1,9 +1,0 @@
-{
-  "id": "intmarea",
-  "display_name": "Ceph: Intermaxillary area ((antmxht + postmxht)/(2 * intmxlth))",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

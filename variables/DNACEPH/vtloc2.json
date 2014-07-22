@@ -1,9 +1,0 @@
-{
-  "id": "vtloc2",
-  "display_name": "DNA2: Vermont Location",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "dna_ceph"
-  ]
-}

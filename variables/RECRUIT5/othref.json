@@ -1,9 +1,0 @@
-{
-  "id": "othref",
-  "display_name": "Other refusal reason",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "fu_recruiting"
-  ]
-}

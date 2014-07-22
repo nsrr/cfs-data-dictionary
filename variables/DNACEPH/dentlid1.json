@@ -1,9 +1,0 @@
-{
-  "id": "dentlid1",
-  "display_name": "Dentl 1: ID",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "dna_ceph"
-  ]
-}

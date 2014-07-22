@@ -1,9 +1,0 @@
-{
-  "id": "bizywid",
-  "display_name": "Ceph: Facial width (bizygotic)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

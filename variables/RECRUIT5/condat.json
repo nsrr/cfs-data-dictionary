@@ -1,9 +1,0 @@
-{
-  "id": "condat",
-  "display_name": "Date of contact",
-  "description": "",
-  "type": "date",
-  "forms": [
-    "fu_recruiting"
-  ]
-}

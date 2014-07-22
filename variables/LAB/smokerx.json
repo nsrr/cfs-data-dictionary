@@ -3,7 +3,7 @@
   "display_name": "Smoking status",
   "description": "",
   "type": "choices",
-  "domain": "yesno",
+  "domain": "noyesdontknow",
   "forms": [
     "lab_dataset"
   ]

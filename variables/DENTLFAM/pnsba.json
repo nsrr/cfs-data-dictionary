@@ -1,9 +1,0 @@
-{
-  "id": "pnsba",
-  "display_name": "Ceph: PNS-Ba (horizontal position of PNS to Basion)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

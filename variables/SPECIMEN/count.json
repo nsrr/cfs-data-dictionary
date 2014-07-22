@@ -1,9 +1,0 @@
-{
-  "id": "count",
-  "display_name": "Specimen: Estimated number of times extracted",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "specimen_date_bloods_cephs"
-  ]
-}

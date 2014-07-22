@@ -1,9 +1,0 @@
-{
-  "id": "postmxht",
-  "display_name": "Ceph: Post. Mx. Ht. (posterior intermaxillary height)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

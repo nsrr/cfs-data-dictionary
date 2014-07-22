@@ -1,9 +1,0 @@
-{
-  "id": "armcf",
-  "display_name": "Ceph: Articulare to Middle cranial fossa",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

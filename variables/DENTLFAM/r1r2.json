@@ -1,9 +1,0 @@
-{
-  "id": "r1r2",
-  "display_name": "Ceph: R1 to R2",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

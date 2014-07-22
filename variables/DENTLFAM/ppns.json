@@ -1,9 +1,0 @@
-{
-  "id": "ppns",
-  "display_name": "Ceph: distance between P and PNS",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

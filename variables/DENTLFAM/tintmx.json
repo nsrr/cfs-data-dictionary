@@ -1,9 +1,0 @@
-{
-  "id": "tintmx",
-  "display_name": "Ceph: Ratio of intermaxillary area occupied by tongue (tarea / intmarea)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

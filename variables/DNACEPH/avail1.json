@@ -1,9 +1,0 @@
-{
-  "id": "avail1",
-  "display_name": "DNA1: Available",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "dna_ceph"
-  ]
-}

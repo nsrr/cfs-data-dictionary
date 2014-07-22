@@ -1,9 +1,0 @@
-{
-  "id": "active2",
-  "display_name": "DNA2: Is specimen active",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "dna_ceph"
-  ]
-}

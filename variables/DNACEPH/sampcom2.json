@@ -1,9 +1,0 @@
-{
-  "id": "sampcom2",
-  "display_name": "CWRU Sample 2: Comments",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "dna_ceph"
-  ]
-}

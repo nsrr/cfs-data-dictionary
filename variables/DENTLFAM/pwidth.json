@@ -1,9 +1,0 @@
-{
-  "id": "pwidth",
-  "display_name": "Ceph: P width (width of palate at middle point)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

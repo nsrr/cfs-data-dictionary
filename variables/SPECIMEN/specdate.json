@@ -1,9 +1,0 @@
-{
-  "id": "specdate",
-  "display_name": "Specimen: Date of specimen",
-  "description": "",
-  "type": "date",
-  "forms": [
-    "specimen_date_bloods_cephs"
-  ]
-}

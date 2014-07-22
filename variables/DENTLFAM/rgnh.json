@@ -1,9 +1,0 @@
-{
-  "id": "rgnh",
-  "display_name": "Ceph: Rgn-H (distance between Hyoid and Retrognathion)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

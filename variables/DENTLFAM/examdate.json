@@ -1,9 +1,0 @@
-{
-  "id": "examdate",
-  "display_name": "Ceph: date of exam",
-  "description": "",
-  "type": "date",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

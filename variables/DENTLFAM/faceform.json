@@ -1,9 +1,0 @@
-{
-  "id": "faceform",
-  "display_name": "Ceph: classification of facial index",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

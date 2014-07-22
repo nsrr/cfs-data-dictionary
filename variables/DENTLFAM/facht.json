@@ -1,9 +1,0 @@
-{
-  "id": "facht",
-  "display_name": "Ceph: Facial Height (naison to Menton)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

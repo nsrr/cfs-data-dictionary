@@ -1,9 +1,0 @@
-{
-  "id": "location",
-  "display_name": "Specimen: location of sample",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "specimen_date_bloods_cephs"
-  ]
-}

@@ -1,9 +1,0 @@
-{
-  "id": "sysprob",
-  "display_name": "Problems with Systolic BP measures",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_dataset"
-  ]
-}

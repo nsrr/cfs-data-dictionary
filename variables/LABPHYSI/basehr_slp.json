@@ -1,9 +1,0 @@
-{
-  "id": "basehr_slp",
-  "display_name": "Sleep Study: baseline heartrate (bpm)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "physio_report"
-  ]
-}

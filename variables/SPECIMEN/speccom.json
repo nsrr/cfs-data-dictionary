@@ -1,9 +1,0 @@
-{
-  "id": "speccom",
-  "display_name": "Specimen: Comments on specimen",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "specimen_date_bloods_cephs"
-  ]
-}

@@ -1,9 +1,0 @@
-{
-  "id": "lowerfa",
-  "display_name": "Ceph: Lower face distance",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

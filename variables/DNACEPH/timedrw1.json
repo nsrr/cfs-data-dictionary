@@ -1,9 +1,0 @@
-{
-  "id": "timedrw1",
-  "display_name": "DNA1: Time drawn (hhmm)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "dna_ceph"
-  ]
-}

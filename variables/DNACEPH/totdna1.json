@@ -1,9 +1,0 @@
-{
-  "id": "totdna1",
-  "display_name": "DNA1: Total extracted (mg)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "dna_ceph"
-  ]
-}

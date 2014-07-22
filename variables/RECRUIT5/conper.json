@@ -1,9 +1,0 @@
-{
-  "id": "conper",
-  "display_name": "Person Contacted",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "fu_recruiting"
-  ]
-}

@@ -1,9 +1,0 @@
-{
-  "id": "xpalpm",
-  "display_name": "Ceph: <Pal-PM (angle: palatal plane and PM)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

@@ -1,9 +1,0 @@
-{
-  "id": "scorer",
-  "display_name": "Ceph: scorer initials",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

@@ -1,9 +1,0 @@
-{
-  "id": "sched",
-  "display_name": "Scheduled date",
-  "description": "",
-  "type": "date",
-  "forms": [
-    "fu_recruiting"
-  ]
-}

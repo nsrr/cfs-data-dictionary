@@ -1,9 +1,0 @@
-{
-  "id": "hrprob",
-  "display_name": "Problems with HR measures",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_dataset"
-  ]
-}

@@ -1,9 +1,0 @@
-{
-  "id": "agexray",
-  "display_name": "Ceph: age at xray, (examdate - birthdat)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ceph_measurements"
-  ]
-}

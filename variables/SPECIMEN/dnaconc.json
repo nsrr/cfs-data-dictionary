@@ -1,9 +1,0 @@
-{
-  "id": "dnaconc",
-  "display_name": "Specimen: DNA concentration (ug/ul)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "specimen_date_bloods_cephs"
-  ]
-}

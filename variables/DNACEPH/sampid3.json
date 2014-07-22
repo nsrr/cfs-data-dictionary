@@ -1,9 +1,0 @@
-{
-  "id": "sampid3",
-  "display_name": "DNA3: Sample id number",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "dna_ceph"
-  ]
-}

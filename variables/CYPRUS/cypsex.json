@@ -1,9 +1,0 @@
-{
-  "id": "cypsex",
-  "display_name": "Cyprus: sex",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "cyprus_body_fat"
-  ]
-}

@@ -1,9 +1,0 @@
-{
-  "id": "serloc1",
-  "display_name": "DNA1: Serum sample location",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "dna_ceph"
-  ]
-}

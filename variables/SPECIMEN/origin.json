@@ -1,9 +1,0 @@
-{
-  "id": "origin",
-  "display_name": "Specimen: where the sample came from",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "specimen_date_bloods_cephs"
-  ]
-}

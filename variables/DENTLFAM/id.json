@@ -1,9 +1,0 @@
-{
-  "id": "id",
-  "display_name": null,
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ceph_measurements"
-  ]
-}
