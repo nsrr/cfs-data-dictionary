@@ -1,0 +1,7 @@
+{
+  "id": "saoslp",
+  "display_name": "Average oxygen saturation (sleep)",
+  "description": "Mean oxygen saturation during sleep",
+  "type": "numeric",
+  "units": "percentage of oxygen saturation"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "avgdsslp",
+  "display_name": "Average desaturation (Report Time)",
+  "description": "Average desaturation (entire recording)",
+  "type": "numeric",
+  "units": "percentage of oxygen saturation"
+}

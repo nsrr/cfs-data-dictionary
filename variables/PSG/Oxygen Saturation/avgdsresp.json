@@ -1,0 +1,7 @@
+{
+  "id": "avgdsresp",
+  "display_name": "Average desaturation associated with respiratory events in sleep",
+  "description": "Average desaturation associated with respiratory events in sleep",
+  "type": "numeric",
+  "units": "percentage of oxygen saturation"
+}

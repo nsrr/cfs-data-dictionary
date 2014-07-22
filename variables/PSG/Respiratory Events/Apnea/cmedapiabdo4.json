@@ -1,0 +1,7 @@
+{
+  "id": "cmedapiabdo4",
+  "display_name": "CleveMed Apnea-Propensity Index from abdominal effort with analysis window",
+  "description": "Includes 30 seconds before sleep onset",
+  "type": "numeric",
+  "units": ""
+}

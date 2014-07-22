@@ -1,0 +1,7 @@
+{
+  "id": "avghrahslp",
+  "display_name": "Average heart rate associated with apnea and hypopnea (Sleep time onset)",
+  "description": "Average heart rate associated with apnea and hypopnea during sleep",
+  "type": "numeric",
+  "units": "beats per minute"
+}

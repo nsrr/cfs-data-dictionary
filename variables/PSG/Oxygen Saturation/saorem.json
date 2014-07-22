@@ -1,0 +1,7 @@
+{
+  "id": "saorem",
+  "display_name": "Average oxygen saturation (REM)",
+  "description": "Mean oxygen saturation during REM sleep",
+  "type": "numeric",
+  "units": "percentage of oxygen saturation"
+}

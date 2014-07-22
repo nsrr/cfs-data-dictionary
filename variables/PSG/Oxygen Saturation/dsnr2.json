@@ -1,0 +1,7 @@
+{
+  "id": "dsnr2",
+  "display_name": "Number of desaturations per hour (NREM, >= 2%)",
+  "description": "Number of desaturations >= 2% per hour in NonREM sleep",
+  "type": "numeric",
+  "units": "events per hour"
+}

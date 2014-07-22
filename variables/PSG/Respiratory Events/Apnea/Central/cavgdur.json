@@ -1,0 +1,8 @@
+{
+  "id": "cavgdur",
+  "display_name": "Average central apnea length",
+  "description": "Average duration of central apnea (entire recording)",
+  "type": "numeric",
+  "units": "seconds",
+  "commonly_used": true
+}

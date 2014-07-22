@@ -1,0 +1,7 @@
+{
+  "id": "aptdur",
+  "display_name": "Total mixed apnea length",
+  "description": "Total duration of mixed apnea (entire recording)",
+  "type": "numeric",
+  "units": "minutes"
+}

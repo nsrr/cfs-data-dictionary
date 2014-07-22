@@ -1,0 +1,8 @@
+{
+  "id": "ahi3",
+  "display_name": "Apnea / Hypopnea events with >= 3% percent desaturation per hour of sleep",
+  "description": "Number of Apnea / Hypopnea events associated with >= 3% desaturation per hour of sleep",
+  "type": "numeric",
+  "units": "events per hour",
+  "commonly_used": true
+}

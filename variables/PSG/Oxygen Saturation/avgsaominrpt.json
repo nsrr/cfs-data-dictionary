@@ -1,0 +1,7 @@
+{
+  "id": "avgsaominrpt",
+  "display_name": "Average oxygen saturation minimum (Report time)",
+  "description": "Average oxygen saturation minimum (entire recording)",
+  "type": "numeric",
+  "units": "percentage of oxygen saturation"
+}

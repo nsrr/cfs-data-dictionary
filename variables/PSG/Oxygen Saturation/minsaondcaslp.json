@@ -1,0 +1,7 @@
+{
+  "id": "minsaondcaslp",
+  "display_name": "Minimum oxygen saturation nadir associated with central apnea (sleep)",
+  "description": "Lowest oxygen saturation nadir associated with central apnea in sleep",
+  "type": "numeric",
+  "units": "percentage of oxygen saturation"
+}

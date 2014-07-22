@@ -1,0 +1,7 @@
+{
+  "id": "snordur",
+  "display_name": "Hours of usable snore",
+  "description": "Hours of usable snore mic",
+  "type": "numeric",
+  "units": "hours"
+}

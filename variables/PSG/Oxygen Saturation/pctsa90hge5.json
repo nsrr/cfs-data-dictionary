@@ -1,0 +1,7 @@
+{
+  "id": "pctsa90hge5",
+  "display_name": "Greater than or equal to 5% of time below 90% saturation",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno"
+}

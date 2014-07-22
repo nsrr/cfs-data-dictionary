@@ -1,0 +1,7 @@
+{
+  "id": "qupwf",
+  "display_name": "Quality of pleth wave form",
+  "description": "Quality of pleth wave form",
+  "type": "choices",
+  "domain": "signalofsleeptime"
+}

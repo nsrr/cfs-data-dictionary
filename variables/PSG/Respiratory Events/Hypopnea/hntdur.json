@@ -1,0 +1,7 @@
+{
+  "id": "hntdur",
+  "display_name": "Total hypopnea length (NREM)",
+  "description": "Total duration of hypopnea in NREM sleep",
+  "type": "numeric",
+  "units": "minutes"
+}

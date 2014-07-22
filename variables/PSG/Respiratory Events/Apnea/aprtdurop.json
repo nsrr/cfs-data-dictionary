@@ -1,0 +1,7 @@
+{
+  "id": "aprtdurop",
+  "display_name": "Total apnea length (REM, Other)",
+  "description": "Total duration of apnea in REM sleep with non-supine body position",
+  "type": "numeric",
+  "units": "minutes"
+}

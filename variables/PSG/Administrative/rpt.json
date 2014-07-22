@@ -1,0 +1,9 @@
+{
+  "id": "rpt",
+  "display_name": "PSG: Compumedics Report Version",
+  "description": "Compumedics Report Version",
+  "type": "text",
+  "labels": [
+    "rpt"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "id": "sao92slp",
+  "display_name": "Total time oxygen saturation > 92 in sleep",
+  "description": "Total time oxygen saturation above 92% during sleep, in minutes",
+  "type": "numeric",
+  "units": "minutes"
+}

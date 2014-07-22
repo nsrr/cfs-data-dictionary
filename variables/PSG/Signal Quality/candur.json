@@ -1,0 +1,10 @@
+{
+  "id": "candur",
+  "display_name": "PSG Quality Assessment: hours of usable cannula",
+  "description": "Number of hours of usable signal",
+  "type": "numeric",
+  "units": "hour",
+  "labels": [
+    "candur"
+  ]
+}

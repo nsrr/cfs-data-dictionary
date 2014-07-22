@@ -1,0 +1,7 @@
+{
+  "id": "minsaondrem",
+  "display_name": "Minimum oxygen saturation nadir  (REM)",
+  "description": "Lowest oxygen saturation nadir in REM sleep",
+  "type": "numeric",
+  "units": "percentage of oxygen saturation"
+}

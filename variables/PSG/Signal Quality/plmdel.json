@@ -1,0 +1,7 @@
+{
+  "id": "plmdel",
+  "display_name": "PSG Quality Assessment: 50% of PLM's deleted",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnon"
+}

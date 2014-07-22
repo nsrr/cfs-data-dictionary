@@ -1,0 +1,7 @@
+{
+  "id": "avgdsevent",
+  "display_name": "Average desaturation (associated with manually scored respiratory events)",
+  "description": "Average desaturation associated with manually scored respiratory events and respiratory events",
+  "type": "numeric",
+  "units": "percentage of oxygen saturation"
+}

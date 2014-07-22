@@ -1,0 +1,7 @@
+{
+  "id": "saondrem",
+  "display_name": "Average oxygen saturation nadir  (REM)",
+  "description": "Mean oxygen saturation nadir in REM",
+  "type": "numeric",
+  "units": "percentage of oxygen saturation"
+}

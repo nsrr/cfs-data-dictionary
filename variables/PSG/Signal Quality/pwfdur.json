@@ -1,0 +1,10 @@
+{
+  "id": "pwfdur",
+  "display_name": "PSG Quality Assessment: hours of usable PWF",
+  "description": "Number of hours of usable signal",
+  "type": "numeric",
+  "units": "hour",
+  "labels": [
+    "candur"
+  ]
+}

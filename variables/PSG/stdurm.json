@@ -1,0 +1,7 @@
+{
+  "id": "stdurm",
+  "display_name": "total recording time",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

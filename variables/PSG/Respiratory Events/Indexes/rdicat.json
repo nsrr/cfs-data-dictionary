@@ -1,0 +1,7 @@
+{
+  "id": "rdicat",
+  "display_name": "Categorical RDI",
+  "description": "",
+  "type": "choices",
+  "domain": "rdicat"
+}
