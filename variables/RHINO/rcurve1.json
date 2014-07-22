@@ -3,7 +3,7 @@
   "display_name": "Score for curve 1",
   "description": "",
   "type": "choices",
-  "domain": "pharynqs",
+  "domain": "rhinoqs",
   "forms": [
     "rhinometry_report"
   ]

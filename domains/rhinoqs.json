@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Both graphs look good",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "At least one of the two graphs goes off the chart in the 0.0 cm to 6.0 cm segment",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "The two graphs have wide variation (not replicated) in the 0.0 to 6.0 cm segment",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "At least one of the two graphs goes off the chart past the 6.0 cm segment",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "The graphs look good, stay on the charts, and there isn't any wide variation, but the SAS program has identified them as an outlier",
+    "description": ""
+  }
+]
