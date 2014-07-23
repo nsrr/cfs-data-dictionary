@@ -185,7 +185,7 @@ data nsrrdata.rectype5_pass1;
   if rcurve3 = -1 then rcurve3 = .;
   if rcurve4 = -1 then rcurve4 = .;
 
-  drop inall incatecholamine incrp incrpsnp incystatinc incytokine inddimer inddimerstar infibrinogen inflmed inghrelin inicam inil6 inil6snp inleptin inmaster inmicroalb inoxldl inpai1 inpanela insolil6 intnfa invermontdna invisfatin lab_datercvd microalb_date ddimerstaram_rundate ddimer_transmit ddimer_datercvd cystatinc_date zipcode state city cellphon midinit cdlabel f2r barcode whenwhe medicno diffaddr scorerid techid scoredt visityr oldindexf oldrelative monhbid monpibid;
+  drop inall incatecholamine incrp incrpsnp incystatinc incytokine inddimer inddimerstar infibrinogen inflmed inghrelin inicam inil6 inil6snp inleptin inmaster inmicroalb inoxldl inpai1 inpanela insolil6 intnfa invermontdna invisfatin lab_datercvd microalb_date ddimerstaram_rundate ddimer_transmit ddimer_datercvd cystatinc_date zipcode state city cellphon midinit cdlabel f2r barcode whenwhe medicno diffaddr scorerid techid scoredt visityr oldindexf oldrelative monhbid monpibid keyfield pptid;
 run;
 
 proc export data=nsrrdata.rectype5_pass1 outfile="\\rfa01\bwh-sleepepi-home\projects\cohorts\Family\nsrr-prep\_releases\&release\cfs-rectype5-dataset-&release..csv" dbms=csv replace; run;
