@@ -1,9 +1,0 @@
-{
-  "id": "personi",
-  "display_name": "Person ID",
-  "description": "Person ID",
-  "type": "numeric",
-  "forms": [
-    "nunames"
-  ]
-}

@@ -12,7 +12,9 @@
 
 libname nsrrdata "&newfamilypath\nsrr-prep\_datasets";
 
-%let release = 0.1.0.beta1;
+libname obf "&newfamilypath\nsrr-prep\_ids";
+
+%let release = 0.1.0.beta3;
 
 ********************************************************;
 * Import CFS data
@@ -175,17 +177,20 @@ data rectype5_narrowedvars;
 run;
 
 data nsrrdata.rectype5_pass1;
-  set rectype5_narrowedvars;
+  length obf_pptid 8.;
+  merge obf.obfid rectype5_narrowedvars(drop=motherid fatherid in=a);
+  by personi;
 
 	attrib _all_ label = "";
   format _all_;
 
+  if a;
   if rcurve1 = -1 then rcurve1 = .;
   if rcurve2 = -1 then rcurve2 = .;
   if rcurve3 = -1 then rcurve3 = .;
   if rcurve4 = -1 then rcurve4 = .;
 
-  drop inall incatecholamine incrp incrpsnp incystatinc incytokine inddimer inddimerstar infibrinogen inflmed inghrelin inicam inil6 inil6snp inleptin inmaster inmicroalb inoxldl inpai1 inpanela insolil6 intnfa invermontdna invisfatin lab_datercvd microalb_date ddimerstaram_rundate ddimer_transmit ddimer_datercvd cystatinc_date zipcode state city cellphon midinit cdlabel f2r barcode whenwhe medicno diffaddr scorerid techid scoredt visityr oldindexf oldrelative monhbid monpibid keyfield pptid;
+  drop inall incatecholamine incrp incrpsnp incystatinc incytokine inddimer inddimerstar infibrinogen inflmed inghrelin inicam inil6 inil6snp inleptin inmaster inmicroalb inoxldl inpai1 inpanela insolil6 intnfa invermontdna invisfatin lab_datercvd microalb_date ddimerstaram_rundate ddimer_transmit ddimer_datercvd cystatinc_date zipcode state city cellphon midinit cdlabel f2r barcode whenwhe medicno diffaddr scorerid techid scoredt visityr oldindexf oldrelative monhbid monpibid keyfield pptid personi;
 run;
 
 proc export data=nsrrdata.rectype5_pass1 outfile="\\rfa01\bwh-sleepepi-home\projects\cohorts\Family\nsrr-prep\_releases\&release\cfs-rectype5-dataset-&release..csv" dbms=csv replace; run;

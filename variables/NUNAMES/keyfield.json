@@ -1,9 +1,0 @@
-{
-  "id": "keyfield",
-  "display_name": "Unique identifier for Epi-Info (personi . rectype)",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "nunames"
-  ]
-}
