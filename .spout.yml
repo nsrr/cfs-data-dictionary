@@ -1,2 +1,8 @@
-visit: visit
-charts: []
+visit: rectype
+charts:
+- chart: age
+  title: Age
+- chart: male
+  title: Gender
+- chart: race
+  title: Race
