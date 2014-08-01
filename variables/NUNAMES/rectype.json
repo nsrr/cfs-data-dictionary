@@ -2,7 +2,8 @@
   "id": "rectype",
   "display_name": "Rectype",
   "description": "Rectype",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "rectype",
   "forms": [
     "nunames"
   ]
