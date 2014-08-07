@@ -1,9 +1,0 @@
-{
-  "id": "rhindone",
-  "display_name": "Checklist: Rhinometry done",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ppt_paper_checklist"
-  ]
-}

@@ -1,9 +1,0 @@
-{
-  "id": "postdone",
-  "display_name": "Checklist: Post-Sleep Diary done",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ppt_paper_checklist"
-  ]
-}

@@ -1,9 +1,0 @@
-{
-  "id": "rhintech",
-  "display_name": "Checklist: Rhinometry tech",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ppt_paper_checklist"
-  ]
-}

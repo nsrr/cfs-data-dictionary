@@ -1,9 +1,0 @@
-{
-  "id": "skindone",
-  "display_name": "Checklist: Skinfold done",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ppt_paper_checklist"
-  ]
-}

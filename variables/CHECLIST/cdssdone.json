@@ -1,9 +1,0 @@
-{
-  "id": "cdssdone",
-  "display_name": "Checklist: Sleep Study CD done",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ppt_paper_checklist"
-  ]
-}

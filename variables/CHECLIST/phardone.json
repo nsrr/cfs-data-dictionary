@@ -1,9 +1,0 @@
-{
-  "id": "phardone",
-  "display_name": "Checklist: Pharyngometry done",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ppt_paper_checklist"
-  ]
-}

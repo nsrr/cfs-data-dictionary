@@ -1,9 +1,0 @@
-{
-  "id": "nsrhtech",
-  "display_name": "Checklist: Rhinometry with nose drops tech",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ppt_paper_checklist"
-  ]
-}

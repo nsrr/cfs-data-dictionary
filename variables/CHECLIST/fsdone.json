@@ -1,9 +1,0 @@
-{
-  "id": "fsdone",
-  "display_name": "Checklist: Flow Sheets done",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ppt_paper_checklist"
-  ]
-}

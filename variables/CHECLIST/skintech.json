@@ -1,9 +1,0 @@
-{
-  "id": "skintech",
-  "display_name": "Checklist: Skinfold tech",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ppt_paper_checklist"
-  ]
-}

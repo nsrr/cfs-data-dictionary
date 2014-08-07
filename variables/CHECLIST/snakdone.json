@@ -1,9 +1,0 @@
-{
-  "id": "snakdone",
-  "display_name": "Checklist: Snack log done",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ppt_paper_checklist"
-  ]
-}

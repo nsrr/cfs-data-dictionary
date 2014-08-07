@@ -1,9 +1,0 @@
-{
-  "id": "ogttdone",
-  "display_name": "Checklist: Glucose testing done",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ppt_paper_checklist"
-  ]
-}

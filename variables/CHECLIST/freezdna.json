@@ -1,9 +1,0 @@
-{
-  "id": "freezdna",
-  "display_name": "Checklist: Permission to freeze sample",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ppt_paper_checklist"
-  ]
-}

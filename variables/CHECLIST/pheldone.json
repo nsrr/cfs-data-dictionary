@@ -1,9 +1,0 @@
-{
-  "id": "pheldone",
-  "display_name": "Checklist: Phlebotomy done",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ppt_paper_checklist"
-  ]
-}

@@ -1,9 +1,0 @@
-{
-  "id": "aatech",
-  "display_name": "Checklist: Ankle-Arm tech",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ppt_paper_checklist"
-  ]
-}

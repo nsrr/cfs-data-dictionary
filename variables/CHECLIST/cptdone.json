@@ -1,9 +1,0 @@
-{
-  "id": "cptdone",
-  "display_name": "Checklist: CPT done",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ppt_paper_checklist"
-  ]
-}

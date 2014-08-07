@@ -1,9 +1,0 @@
-{
-  "id": "vigltech",
-  "display_name": "Checklist: Vigilance test tech",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ppt_paper_checklist"
-  ]
-}

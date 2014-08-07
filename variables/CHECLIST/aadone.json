@@ -1,9 +1,0 @@
-{
-  "id": "aadone",
-  "display_name": "Checklist: Ankle-Arm done",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ppt_paper_checklist"
-  ]
-}

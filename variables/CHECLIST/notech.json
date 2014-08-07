@@ -1,9 +1,0 @@
-{
-  "id": "notech",
-  "display_name": "Checklist: Nitric Oxide test tech",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ppt_paper_checklist"
-  ]
-}

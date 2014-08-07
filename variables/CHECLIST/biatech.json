@@ -1,9 +1,0 @@
-{
-  "id": "biatech",
-  "display_name": "Checklist: BIA tech",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ppt_paper_checklist"
-  ]
-}

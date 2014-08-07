@@ -1,9 +1,0 @@
-{
-  "id": "vigldone",
-  "display_name": "Checklist: Vigilance test done",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ppt_paper_checklist"
-  ]
-}

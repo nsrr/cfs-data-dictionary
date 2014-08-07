@@ -1,9 +1,0 @@
-{
-  "id": "naadone",
-  "display_name": "Checklist: Nurses Assessment done",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ppt_paper_checklist"
-  ]
-}

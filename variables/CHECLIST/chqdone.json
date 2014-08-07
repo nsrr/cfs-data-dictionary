@@ -1,9 +1,0 @@
-{
-  "id": "chqdone",
-  "display_name": "Checklist: CHQ done",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ppt_paper_checklist"
-  ]
-}

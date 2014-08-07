@@ -1,9 +1,0 @@
-{
-  "id": "ecgdone",
-  "display_name": "Checklist: ECG done",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ppt_paper_checklist"
-  ]
-}

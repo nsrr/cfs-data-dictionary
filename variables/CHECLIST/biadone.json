@@ -1,9 +1,0 @@
-{
-  "id": "biadone",
-  "display_name": "Checklist: BIA done ",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ppt_paper_checklist"
-  ]
-}

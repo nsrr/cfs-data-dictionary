@@ -1,9 +1,0 @@
-{
-  "id": "svdone",
-  "display_name": "Checklist: Signal Verification done",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "ppt_paper_checklist"
-  ]
-}
