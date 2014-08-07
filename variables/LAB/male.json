@@ -2,8 +2,8 @@
   "id": "male",
   "display_name": "Subject gender",
   "description": "",
-  "type": "numeric",
-  "units": "",
+  "type": "choices",
+  "domain": "gender01",
   "forms": [
     "lab_dataset"
   ]
