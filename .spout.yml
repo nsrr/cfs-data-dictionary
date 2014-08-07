@@ -2,7 +2,7 @@ visit: rectype
 charts:
 - chart: age
   title: Age
-- chart: male
+- chart: sex
   title: Gender
 - chart: race
   title: Race

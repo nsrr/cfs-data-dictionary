@@ -1,9 +1,9 @@
 {
   "id": "sex",
   "display_name": "Subject Sex",
-  "domain": "gender01",
   "description": "",
   "type": "choices",
+  "domain": "gender01",
   "forms": [
     "nunames"
   ]
