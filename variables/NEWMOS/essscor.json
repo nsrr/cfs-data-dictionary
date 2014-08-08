@@ -3,6 +3,7 @@
   "display_name": "ESS: Summary Score",
   "description": "",
   "type": "numeric",
+  "calculation": "essq1 + essq2 + essq3 + essq4 + essq5 + essq6 + essq7 + essq8"
   "forms": [
     "ess"
   ]
