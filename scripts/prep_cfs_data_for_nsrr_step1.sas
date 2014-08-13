@@ -176,7 +176,7 @@ data rectype5_narrowedvars;
   drop &mlist;
 run;
 
-data nsrrdata.rectype5_pass1;
+data rectype5_pass1;
   length obf_pptid 8.;
   merge obf.obfid rectype5_narrowedvars(drop=motherid fatherid in=a);
   by personi;
@@ -193,62 +193,137 @@ data nsrrdata.rectype5_pass1;
   drop inall incatecholamine incrp incrpsnp incystatinc incytokine inddimer inddimerstar infibrinogen inflmed inghrelin inicam inil6 inil6snp inleptin inmaster inmicroalb inoxldl inpai1 inpanela insolil6 intnfa invermontdna invisfatin lab_datercvd microalb_date ddimerstaram_rundate ddimer_transmit ddimer_datercvd cystatinc_date zipcode state city cellphon midinit cdlabel f2r barcode whenwhe medicno diffaddr scorerid techid scoredt visityr oldindexf oldrelative monhbid monpibid keyfield pptid personi;
 run;
 
-proc export data=nsrrdata.rectype5_pass1 outfile="\\rfa01\bwh-sleepepi-home\projects\cohorts\Family\nsrr-prep\_releases\&release\cfs-rectype5-dataset-&release..csv" dbms=csv replace; run;
-
-/*Consider running checks below, besides just histogram and classic NSRR checks
-
-********************************************************;
-* Values to check
-********************************************************;
-
-proc sgplot data = added_variablesQC;
-  REG X=bmi Y=waist2height;
-  LOESS X=bmi Y=waist2height / nomarkers;
-  title "Scatter Plot with Fit Models for BMI (X-axis) and Waist to Height ratio (Y-Axis)";
-  title;
+data alldata_withobfids;
+  set rectype5_pass1;
 run;
 
-*ods pdf startpage = no;
-
-proc sgplot data = added_variablesQC;
-  REG X=bmi Y=waist2hip;
-  LOESS X=bmi Y=waist2hip / nomarkers;
-  title "Scatter Plot with Fit Models for BMI (X-axis) and Waist to Hip ratio (Y-Axis)";
-  title;
+data indexdates_byid;
+  set obf.indexdates_byid;
+  keep obf_pptid index_date;
 run;
 
-
-proc sort data = lastrectype_mergephenocare_pcs2; by age; run;
-proc sql;
-  title "Instances Where BMI > 60 or BMI < 15";
-  select personi, rectype, age, BMI, height, weight, waistcm
-  from lastrectype_mergephenocare_pcs2
-  where  BMI > 60 or (BMI < 15 and BMI ne .);
-  title;
+proc sort data = alldata_withobfids;
+  by obf_pptid;
 run;
-proc sort data = lastrectype_mergephenocare_pcs2; by personi; run;
+
+data alldata_withindexdates;
+  retain obf_pptid familyi motherid fatherid rectype index_date;
+  merge alldata_withobfids (in = a) indexdates_byid;
+  by obf_pptid;
+  if a;
+run;
+
+/*
+proc sql;
+  select *
+  from alldata_withindexdates
+  where index_date = .;
+quit;
+*/
+
+%let date_variable_list = visitdat date visitaa visitecg visitbr visitld visitnfs;
+%let year_variable_list = yrdiagn APNDIAYR DIANARYR DIASNOYR DIAEXSYR DIALEGYR DIACHLYR DIASIDYR DIANMYR DIABPYR DIAHRTYR DIADIAYR DIAIRRYR ANGDIAYR BYPDIAYR ANGIOYR 
+                            HTFDIAYR PACDIAYR HEAAGEYR STRODIYR ENDARTYR TIADIAYR PARTDIYR OSTDIAYR GULDIAYR PARDIAYR CRODIAYR  KIDNDIYR LIVDIAYR KFDIAGYR MDYSDIYR 
+                            TOUDIAYR SICDIAYR ANEDIAYR CIRDIAYR HEPDIAYR ASTDIAYR BRODIAYR EMPDIAYR PNEDIAYR SINDIAYR HAYDIAYR DEVDIAYR ADEDIAYR TONDIAYR INSDIAYR 
+                            ANXDIAYR ADDDIAYR BEHDIAYR GOUDIAYR MSCDIAYR RHEDIAYR THYDIAYR DEPDIAYR ECZDIAYR PSYDIAYR CANDIAYR SURDIAYR OSMDIAYR;
+
+data alldata_withindexdates_obf;
+  set alldata_withindexdates;
+
+  array date_variables[*] &date_variable_list;
+  array year_variables[*] &year_variable_list;
+
+  do i = 1 to dim(date_variables);
+    if date_variables[i] le 0 then date_variables[i] = .;
+  end;
+
+  do i = 1 to dim(year_variables);
+    if year_variables[i] le 0 then year_variables[i] = .;
+  end;
+
+  do i = 1 to dim(date_variables);
+    date_variables[i] = date_variables[i] - index_date;
+  end;
+
+  do i = 1 to dim(year_variables);
+    year_variables[i] = year_variables[i] - year(index_date);
+  end;
+
+  drop i;
+
+  format &date_variable_list &year_variable_list best12.;
+run;
+
+*need to check that this next step works anytime input dataset is changed;
+data alldata_withindexdates_obf2 (drop = store_year_whenpsg);
+  set alldata_withindexdates_obf;
+  if whenpsg in ('-1', '-2', '-9') then whenpsg = '';
+
+  if find(whenpsg,'-') = 0 and find(whenpsg,'/') = 0 then store_year_whenpsg = input(compress(whenpsg,,"kd"),12.);
+  if store_year_whenpsg > 2010 or store_year_whenpsg < 1900 then store_year_whenpsg = .;
+
+  if store_year_whenpsg ne . then whenpsg_yearsfromindex = store_year_whenpsg - year(index_date);
+  else if find(lowcase(compress(whenpsg,' ')), 'yearago') > 0 or find(lowcase(compress(whenpsg,' ')), 'yearsago') > 0 then do;
+    if find(whenpsg,'-') = 0 then do;
+      whenpsg_yearsfromindex = 0 - input(compress(whenpsg,,"kd"),12.);
+    end;
+  end;
+
+run;
 
 proc sql;
-  title "Instances Where Avg SaO2 < Min SaO2";
-  select personi, rectype, rdi3p_allrec, avgo2_allrec, lowo2_allrec
-  from cfs_lastrectypefinal
-  where lowo2_allrec ne . and avgo2_allrec ne . and avgo2_allrec < lowo2_allrec;
-  title;
+  select index_date, whenpsg, whenpsg_yearsfromindex
+  from  alldata_withindexdates_obf2
+  where whenpsg_yearsfromindex ne .;
 quit;
 
-proc sql;
-  title "Instances Where Min SaO2 < 90 and '% SaO2 < 90' = 0";
-  select personi, rectype, lowo2_allrec, per90_allrec
-  from cfs_lastrectypefinal
-  where lowo2_allrec ne . and per90_allrec ne . and lowo2_allrec < 90 and per90_allrec = 0;
-  title;
-quit;
+data alldata_withindexdates_obf2;
+  set alldata_withindexdates_obf2 (drop = whenpsg);
+  rename whenpsg_yearsfromindex = whenpsg;
+run;
 
+proc freq data = alldata_withindexdates_obf2;
+  table whenpsg;
+run;
 
-proc sql;
-  title "Instances Where '% SaO2 < 90' = 100 and Min SaO2 > 90 or Avg SaO2 > 90";
-  select personi, rectype, per90_allrec, lowo2_allrec, avgo2_allrec
-  from cfs_lastrectypefinal
-  where lowo2_allrec ne . and avgo2_allrec ne . and per90_allrec = 100 and (lowo2_allrec > 90 or avgo2_allrec > 90);
-  title;
+%let phivars_droplist = NAMDOC TXOTHER MOMSPECC DADSPECC BROCAUS1 BROCAUS2 BROCAUS3 SISCAUS1 SISCAUS2 SISCAUS3 SIBCANSP SONCAUS1 SONCAUS2 SONCAUS3 
+                          DAUCAUS1 DAUCAUS2 DAUCAUS3 KIDCANSP DOCSAY MAJSURSP OSMCSP
+                        dna_bestsampleid 
+;
+
+%let whyinclude_droplist = ANKARMTK BRTECH OPERATOR rpt;
+
+data alldata_obf_penult;
+  set alldata_withindexdates_obf2;
+  drop &phivars_droplist &whyinclude_droplist;
+run;
+
+proc contents data = alldata_obf_penult out = alldata_obf_penult_cont noprint;
+run;
+
+proc sql noprint;
+  select %unquote(NAME) into :char_variable_list separated by ', '
+  from alldata_obf_penult_cont
+  where type = 2;
+
+  create table check_char_vars as
+  select &char_variable_list
+  from alldata_obf_penult;
 quit;
+/*
+proc contents data = check_char_vars;
+run;
+
+proc freq data = check_char_vars;
+run;
+*/
+
+%let additional_droplist = CAUSDIE1 CAUSDIE2 CAUSDIE3 HOSREAS RECOCC WHATILL;
+
+data alldata_obf_all /*nsrrdata.rectype5_pass1_obfphi*/;
+  set alldata_obf_penult;
+  drop &additional_droplist;
+run;
+
+proc export data=alldata_obf_all outfile="\\rfa01\bwh-sleepepi-home\projects\cohorts\Family\nsrr-prep\_releases\&release\cfs-rectype5-dataset-&release..csv" dbms=csv replace; 
+run;
