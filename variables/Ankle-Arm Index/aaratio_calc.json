@@ -1,8 +1,9 @@
 {
   "id": "aaratio_calc",
-  "display_name": "Ankle-Arm: Ratio (mean of arm/mean of leg)",
+  "display_name": "Ratio of arm to ankle pressure",
   "description": "",
   "type": "numeric",
+  "calculation": "( armmean / ankmean )",
   "forms": [
     "ankle_arm_index"
   ]

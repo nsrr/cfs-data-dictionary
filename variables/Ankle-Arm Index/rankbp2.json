@@ -1,8 +1,9 @@
 {
   "id": "rankbp2",
-  "display_name": "Ankle-Arm: Right Ankle Systolic Blood Pressure 2",
+  "display_name": "Right Ankle Systolic Blood Pressure 2",
   "description": "",
   "type": "numeric",
+  "units": "millimeters of mercury",
   "forms": [
     "ankle_arm_index"
   ]

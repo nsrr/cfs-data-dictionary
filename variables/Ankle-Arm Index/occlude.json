@@ -1,8 +1,9 @@
 {
   "id": "occlude",
-  "display_name": "Ankle-Arm: Did the patient occlude?",
+  "display_name": "Did the patient occlude?",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "ankle_arm_index"
   ]

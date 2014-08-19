@@ -1,8 +1,9 @@
 {
   "id": "armmean",
-  "display_name": "Ankle-Arm: mean of arm bp measurements",
+  "display_name": "Mean of arm blood pressure measurements",
   "description": "",
   "type": "numeric",
+  "units": "millimeters of mercury",
   "forms": [
     "ankle_arm_index"
   ]

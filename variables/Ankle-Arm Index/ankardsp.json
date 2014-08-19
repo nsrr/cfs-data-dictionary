@@ -1,8 +1,9 @@
 {
   "id": "ankardsp",
-  "display_name": "Ankle-Arm: Doppler Systolic Pressure",
+  "display_name": "Doppler Systolic Pressure",
   "description": "",
   "type": "numeric",
+  "units": "millimeters of mercury",
   "forms": [
     "ankle_arm_index"
   ]

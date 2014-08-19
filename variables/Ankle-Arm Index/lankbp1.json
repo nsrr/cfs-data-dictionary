@@ -1,8 +1,9 @@
 {
   "id": "lankbp1",
-  "display_name": "Ankle-Arm: Left Ankle Systolic Blood Pressure 1",
+  "display_name": "Left Ankle Systolic Blood Pressure 1",
   "description": "",
   "type": "numeric",
+  "units": "millimeters of mercury",
   "forms": [
     "ankle_arm_index"
   ]

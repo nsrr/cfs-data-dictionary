@@ -1,8 +1,9 @@
 {
   "id": "ankarmil",
-  "display_name": "Ankle-Arm: Maximal Inflation Level",
+  "display_name": "Maximal Inflation Level",
   "description": "",
   "type": "numeric",
+  "units": "millimeters of mercury",
   "forms": [
     "ankle_arm_index"
   ]

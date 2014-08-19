@@ -1,8 +1,9 @@
 {
   "id": "rarmbp1",
-  "display_name": "Ankle-Arm: Right Arm Systolic Blood Pressure 1",
+  "display_name": "Right Arm Systolic Blood Pressure 1",
   "description": "",
   "type": "numeric",
+  "units": "millimeters of mercury",
   "forms": [
     "ankle_arm_index"
   ]

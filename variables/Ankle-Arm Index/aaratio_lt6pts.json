@@ -1,8 +1,9 @@
 {
   "id": "aaratio_lt6pts",
-  "display_name": "Ankle-Arm: Flag =1 if less than 6 measurements in calculations",
+  "display_name": "Less than 6 measurements in calculations",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "flag",
   "forms": [
     "ankle_arm_index"
   ]
