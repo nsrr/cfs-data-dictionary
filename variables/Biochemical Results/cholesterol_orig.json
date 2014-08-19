@@ -3,5 +3,5 @@
   "display_name": "Cholesterol levels",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "milligrams per deciliter"
 }

@@ -3,5 +3,5 @@
   "display_name": "D-dimer protein levels - PM reading",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "nanograms per milliliter"
 }

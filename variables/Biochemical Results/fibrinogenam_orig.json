@@ -3,5 +3,5 @@
   "display_name": "Fibrinogen levels - AM reading",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "milligrams per deciliter"
 }

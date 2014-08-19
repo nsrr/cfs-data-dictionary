@@ -3,5 +3,5 @@
   "display_name": "D-Dimer levels - PM reading",
   "description": "",
   "type": "numeric",
-  "units": "micrograms per milliliter"
+  "units": "nanograms per milliliter"
 }

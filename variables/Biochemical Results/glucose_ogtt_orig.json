@@ -3,5 +3,5 @@
   "display_name": "Oral glucose tolerance test",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "milligrams per deciliter"
 }

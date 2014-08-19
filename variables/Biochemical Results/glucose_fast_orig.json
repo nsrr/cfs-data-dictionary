@@ -3,5 +3,5 @@
   "display_name": "Fasting glucose levels",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "milligrams per deciliter"
 }

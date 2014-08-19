@@ -3,5 +3,5 @@
   "display_name": "Intercellular Adhesion Molecule (ICAM) levels",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "nanograms per milliliter"
 }

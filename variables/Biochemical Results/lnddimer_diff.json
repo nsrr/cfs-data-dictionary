@@ -3,5 +3,5 @@
   "display_name": "Log value: D-dimer protein levels - difference between AM and PM draw",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "micrograms per milliliter"
 }

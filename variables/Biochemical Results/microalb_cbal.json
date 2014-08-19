@@ -2,6 +2,5 @@
   "id": "microalb_cbal",
   "display_name": "Microalbumin Assay: Core Biochemical Assay Lab ID Number",
   "description": "",
-  "type": "numeric",
-  "units": ""
+  "type": "identifier"
 }

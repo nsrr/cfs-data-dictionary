@@ -3,5 +3,5 @@
   "display_name": "Log value: D-Dimer levels - AM reading (star reading)",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "micrograms per milliliter"
 }
