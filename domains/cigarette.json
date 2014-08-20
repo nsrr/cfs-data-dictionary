@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": "Nonsmoker",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Within the last hour",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Within the last 12 hours, more than 1 hour",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "More than 12 hours",
+    "description": ""
+  }
+]
