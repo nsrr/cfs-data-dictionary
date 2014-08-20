@@ -1,8 +1,9 @@
 {
   "id": "basedia",
-  "display_name": "BracReac: Baseline 2D Image BP diastolic",
+  "display_name": "Baseline 2D Image BP diastolic",
   "description": "",
   "type": "numeric",
+  "units": "millimeters of mercury",
   "forms": [
     "brachial_art_vasact"
   ]

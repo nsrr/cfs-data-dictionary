@@ -1,8 +1,9 @@
 {
   "id": "brlstcig",
-  "display_name": "BracReac: Last Cigarette",
+  "display_name": "Last Cigarette",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "cigarette",
   "forms": [
     "brachial_art_vasact"
   ]

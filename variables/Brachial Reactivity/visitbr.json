@@ -1,6 +1,6 @@
 {
   "id": "visitbr",
-  "display_name": "BracReac: Date of visit",
+  "display_name": "Date of visit",
   "description": "",
   "type": "date",
   "forms": [

@@ -1,8 +1,9 @@
 {
   "id": "hyphr",
-  "display_name": "BracReac: Hyperemia/FMV One minute Cuff Release 2D Image HR",
+  "display_name": "Hyperemia/FMV One minute Cuff Release 2D Image HR",
   "description": "",
   "type": "numeric",
+  "units": "beats per minute",
   "forms": [
     "brachial_art_vasact"
   ]

@@ -1,8 +1,9 @@
 {
   "id": "basehr2d",
-  "display_name": "BracReac: Baseline 2D Image HR",
+  "display_name": "Baseline 2D Image HR",
   "description": "",
   "type": "numeric",
+  "units": "beats per minute",
   "forms": [
     "brachial_art_vasact"
   ]

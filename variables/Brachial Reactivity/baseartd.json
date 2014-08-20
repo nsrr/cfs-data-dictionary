@@ -1,8 +1,9 @@
 {
   "id": "baseartd",
-  "display_name": "BracReac: Arterial Diameter Result mm",
+  "display_name": "Arterial Diameter Result",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "brachial_art_vasact"
   ]

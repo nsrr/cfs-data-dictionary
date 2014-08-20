@@ -1,8 +1,9 @@
 {
   "id": "basesys",
-  "display_name": "BracReac: Baseline 2D Image BP systolic",
+  "display_name": "Baseline 2D Image BP systolic",
   "description": "",
   "type": "numeric",
+  "units": "millimeters of mercury",
   "forms": [
     "brachial_art_vasact"
   ]

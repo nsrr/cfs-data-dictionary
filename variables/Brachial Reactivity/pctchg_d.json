@@ -1,8 +1,9 @@
 {
   "id": "pctchg_d",
-  "display_name": "BracReac: Percent Change diameter",
+  "display_name": "Percent Change diameter",
   "description": "",
   "type": "numeric",
+  "units": "percent",
   "forms": [
     "brachial_art_vasact"
   ]

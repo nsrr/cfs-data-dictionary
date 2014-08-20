@@ -1,6 +1,6 @@
 {
   "id": "baseflow",
-  "display_name": "BracReac: Baseline flow volume",
+  "display_name": "Baseline flow volume",
   "description": "",
   "type": "numeric",
   "forms": [

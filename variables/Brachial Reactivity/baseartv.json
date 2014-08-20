@@ -1,8 +1,9 @@
 {
   "id": "baseartv",
-  "display_name": "BracReac: Arterial Diameter Doppler Velocity (m/s)",
+  "display_name": "Arterial Diameter Doppler Velocity",
   "description": "",
   "type": "numeric",
+  "units": "meters per second",
   "forms": [
     "brachial_art_vasact"
   ]

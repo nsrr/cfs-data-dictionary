@@ -1,8 +1,9 @@
 {
   "id": "hypfmvv",
-  "display_name": "BracReac: FMV Arterial Diameter Doppler Velocity (m/s)",
+  "display_name": "FMV Arterial Diameter Doppler Velocity",
   "description": "",
   "type": "numeric",
+  "units": "meters per second",
   "forms": [
     "brachial_art_vasact"
   ]

@@ -1,8 +1,9 @@
 {
   "id": "hypbpsys",
-  "display_name": "BracReac: Hyperemia/FMV One minute Cuff Release 2D Image BP systolic",
+  "display_name": "Hyperemia/FMV One minute Cuff Release 2D Image BP systolic",
   "description": "",
   "type": "numeric",
+  "units": "millimeters of mercury",
   "forms": [
     "brachial_art_vasact"
   ]
