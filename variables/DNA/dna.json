@@ -1,6 +1,7 @@
 {
   "id": "dna",
-  "display_name": "DNA: 1=Has any active DNA sample",
+  "display_name": "Has any active DNA sample",
   "description": "",
-  "type": "numeric"
+  "type": "choices",
+  "domain": "yesno"
 }

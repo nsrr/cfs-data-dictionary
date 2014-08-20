@@ -1,6 +1,7 @@
 {
   "id": "dna_active",
-  "display_name": "DNA: Is DNA sample active (1=yes,2=yes but not much left)",
+  "display_name": "Is DNA sample active?",
   "description": "",
-  "type": "numeric"
+  "type": "choices",
+  "domain": "dnayesno"
 }

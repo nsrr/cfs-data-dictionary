@@ -1,6 +1,7 @@
 {
   "id": "dna_conc",
-  "display_name": "DNA: concentration of best DNA sample (ug/ul)",
+  "display_name": "Concentration of best DNA sample",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "micrograms per microliter"
 }

@@ -1,6 +1,7 @@
 {
   "id": "dna_count",
-  "display_name": "DNA: Estimated number of times extracted",
+  "display_name": "Estimated number of times extracted",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "samples"
 }

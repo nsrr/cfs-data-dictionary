@@ -1,6 +1,7 @@
 {
   "id": "dna_vol",
-  "display_name": "DNA: volume of best DNA sample (ug)",
+  "display_name": "Volume of best DNA sample",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "micrograms"
 }
