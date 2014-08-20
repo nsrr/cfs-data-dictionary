@@ -1,8 +1,9 @@
 {
   "id": "avlste",
-  "display_name": "ECG: AVL: STE",
+  "display_name": "aVL Lead: Amplitude of the S-T wave at the end point of the S wave",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "ecg"
   ]

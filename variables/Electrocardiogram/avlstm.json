@@ -1,8 +1,9 @@
 {
   "id": "avlstm",
-  "display_name": "ECG: AVL: STM",
+  "display_name": "aVL Lead: Amplitude of the S-T wave at the midpoint",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "ecg"
   ]

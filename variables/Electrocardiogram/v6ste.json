@@ -1,8 +1,9 @@
 {
   "id": "v6ste",
-  "display_name": "ECG: V6: STE",
+  "display_name": "V6: Amplitude of the S-T wave at the endpoint",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "ecg"
   ]

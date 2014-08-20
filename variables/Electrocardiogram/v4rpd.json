@@ -1,8 +1,9 @@
 {
   "id": "v4rpd",
-  "display_name": "ECG: V4: RPD",
+  "display_name": "V4: Duration of the secondary R-wave",
   "description": "",
   "type": "numeric",
+  "units": "milliseconds",
   "forms": [
     "ecg"
   ]

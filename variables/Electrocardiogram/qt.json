@@ -1,8 +1,9 @@
 {
   "id": "qt",
-  "display_name": "ECG: QT (ms)",
+  "display_name": "Q-T interval",
   "description": "",
   "type": "numeric",
+  "units": "milliseconds",
   "forms": [
     "ecg"
   ]

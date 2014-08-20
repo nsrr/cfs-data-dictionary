@@ -1,8 +1,9 @@
 {
   "id": "v1pa",
-  "display_name": "ECG: V1: PA",
+  "display_name": "V1: Minimum amplitude of the P-wave",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "ecg"
   ]

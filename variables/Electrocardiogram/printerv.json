@@ -1,8 +1,9 @@
 {
   "id": "printerv",
-  "display_name": "ECG: PR Interval (ms)",
+  "display_name": "PR Interval",
   "description": "",
   "type": "numeric",
+  "units": "milliseconds",
   "forms": [
     "ecg"
   ]

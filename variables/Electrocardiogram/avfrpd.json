@@ -1,8 +1,9 @@
 {
   "id": "avfrpd",
-  "display_name": "ECG: AVF: RPD",
+  "display_name": "aVF lead: duration of the secondary R wave",
   "description": "",
   "type": "numeric",
+  "units": "milliseconds",
   "forms": [
     "ecg"
   ]

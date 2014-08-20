@@ -1,8 +1,9 @@
 {
   "id": "iiiqd",
-  "display_name": "ECG: III: QD",
+  "display_name": "Lead III: Duration of the Q-wave",
   "description": "",
   "type": "numeric",
+  "units": "milliseconds",
   "forms": [
     "ecg"
   ]

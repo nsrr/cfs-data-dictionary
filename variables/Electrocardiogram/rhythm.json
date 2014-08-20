@@ -1,8 +1,9 @@
 {
   "id": "rhythm",
-  "display_name": "ECG: Rhythm",
+  "display_name": "Rhythm",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "rhythm",
   "forms": [
     "ecg"
   ]

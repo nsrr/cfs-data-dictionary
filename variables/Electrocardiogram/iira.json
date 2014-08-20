@@ -1,8 +1,9 @@
 {
   "id": "iira",
-  "display_name": "ECG: II: RA",
+  "display_name": "Lead II: Absolute amplitude of the R-wave",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "ecg"
   ]

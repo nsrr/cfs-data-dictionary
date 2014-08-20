@@ -1,8 +1,9 @@
 {
   "id": "avlsa",
-  "display_name": "ECG: AVL: SA",
+  "display_name": "aVL: Absolute amplitude of the S wave (Left arm)",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "ecg"
   ]

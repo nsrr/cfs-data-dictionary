@@ -1,8 +1,9 @@
 {
   "id": "v5qa",
-  "display_name": "ECG: V5: QA",
+  "display_name": "V5: Absolute amplitude of the Q-wave",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "ecg"
   ]

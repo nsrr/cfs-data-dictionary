@@ -1,8 +1,9 @@
 {
   "id": "prtaxes2",
-  "display_name": "ECG: P-R-T axis 2",
+  "display_name": "P-R-T axis 2",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "ecg"
   ]

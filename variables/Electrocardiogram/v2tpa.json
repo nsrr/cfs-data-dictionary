@@ -1,8 +1,9 @@
 {
   "id": "v2tpa",
-  "display_name": "ECG: V2: TPA",
+  "display_name": "V2: Maximum amplitude of the T-wave",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "ecg"
   ]

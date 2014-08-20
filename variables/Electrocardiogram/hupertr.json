@@ -1,8 +1,9 @@
 {
   "id": "hupertr",
-  "display_name": "ECG: Hypertrophy",
+  "display_name": "Hypertrophy",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "hypertrophy",
   "forms": [
     "ecg"
   ]

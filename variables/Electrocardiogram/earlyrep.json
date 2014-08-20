@@ -1,8 +1,9 @@
 {
   "id": "earlyrep",
-  "display_name": "ECG: Early Repolarization",
+  "display_name": "Early Repolarization",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "earlyrepo",
   "forms": [
     "ecg"
   ]

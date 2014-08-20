@@ -1,8 +1,9 @@
 {
   "id": "iste",
-  "display_name": "ECG: I: STE",
+  "display_name": "Lead I: Amplitude of the S-T wave at the endpoint",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "ecg"
   ]

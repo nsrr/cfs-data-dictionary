@@ -1,8 +1,9 @@
 {
   "id": "v4sd",
-  "display_name": "ECG: V4: SD",
+  "display_name": "V4: Duration of the S-wave",
   "description": "",
   "type": "numeric",
+  "units": "milliseconds",
   "forms": [
     "ecg"
   ]

@@ -1,8 +1,9 @@
 {
   "id": "v2rpa",
-  "display_name": "ECG: V2: RPA",
+  "display_name": "V2: Amplitude of the secondary R-wave",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "ecg"
   ]

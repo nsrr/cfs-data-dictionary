@@ -1,8 +1,9 @@
 {
   "id": "iipa",
-  "display_name": "ECG: II: PA",
+  "display_name": "Lead II: Minimum amplitude of the P-wave",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "ecg"
   ]

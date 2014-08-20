@@ -1,8 +1,9 @@
 {
   "id": "avfta",
-  "display_name": "ECG: AVF: TA",
+  "display_name": "aVF Lead: Minimum amplitude of the T-wave",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "ecg"
   ]

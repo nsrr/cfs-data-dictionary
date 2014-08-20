@@ -1,8 +1,9 @@
 {
   "id": "avfste",
-  "display_name": "ECG: AVF: STE",
+  "display_name": "aVF Lead: Amplitude of the S-T wave at the endpoint",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "ecg"
   ]

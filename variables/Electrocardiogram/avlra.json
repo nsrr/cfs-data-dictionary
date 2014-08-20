@@ -1,8 +1,9 @@
 {
   "id": "avlra",
-  "display_name": "ECG: AVL: RA",
+  "display_name": "aVL Lead: Absolute amplitude of the R-wave",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "ecg"
   ]

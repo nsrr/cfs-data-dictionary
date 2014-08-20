@@ -1,8 +1,9 @@
 {
   "id": "ird",
-  "display_name": "ECG: I: RD",
+  "display_name": "Lead I: Duration of the R-wave",
   "description": "",
   "type": "numeric",
+  "units": "milliseconds",
   "forms": [
     "ecg"
   ]

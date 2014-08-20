@@ -1,8 +1,9 @@
 {
   "id": "v6qd",
-  "display_name": "ECG: V6: QD",
+  "display_name": "V6: Duration of the Q-wave",
   "description": "",
   "type": "numeric",
+  "units": "milliseconds",
   "forms": [
     "ecg"
   ]

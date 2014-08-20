@@ -1,6 +1,6 @@
 {
   "id": "avfspa",
-  "display_name": "ECG: AVF: SPA",
+  "display_name": "aVF Lead: amplitude of the secondary S wave",
   "description": "",
   "type": "numeric",
   "forms": [

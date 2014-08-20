@@ -1,8 +1,9 @@
 {
   "id": "qrsblok",
-  "display_name": "ECG: QRS Conduction Block",
+  "display_name": "QRS Conduction Block",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "qrsblock",
   "forms": [
     "ecg"
   ]

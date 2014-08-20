@@ -1,8 +1,9 @@
 {
   "id": "avlppa",
-  "display_name": "ECG: AVL: PPA",
+  "display_name": "aVL Lead: Maximum amplitude of the P-wave",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "ecg"
   ]

@@ -1,8 +1,9 @@
 {
   "id": "v4stj",
-  "display_name": "ECG: V4: STJ",
+  "display_name": "V4: Amplitude of the S-T wave at the J-point",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "ecg"
   ]

@@ -1,8 +1,9 @@
 {
   "id": "avfsa",
-  "display_name": "ECG: AVF: SA",
+  "display_name": "aVF Lead: Absolute amplitude of the S-wave",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "ecg"
   ]

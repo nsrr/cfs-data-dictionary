@@ -1,8 +1,9 @@
 {
   "id": "avltpa",
-  "display_name": "ECG: AVL: TPA",
+  "display_name": "aVL Lead: Maximum amplitude of the T-wave",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "ecg"
   ]

@@ -1,8 +1,9 @@
 {
   "id": "qtc",
-  "display_name": "ECG: QTc (ms)",
+  "display_name": "Q-Tc Interval",
   "description": "",
   "type": "numeric",
+  "units": "milliseconds",
   "forms": [
     "ecg"
   ]

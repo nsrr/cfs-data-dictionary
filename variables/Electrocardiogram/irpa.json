@@ -1,8 +1,9 @@
 {
   "id": "irpa",
-  "display_name": "ECG: I: RPA",
+  "display_name": "Lead I: Amplitude of the secondary R-wave",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "ecg"
   ]

@@ -1,8 +1,9 @@
 {
   "id": "v3ppa",
-  "display_name": "ECG: V3: PPA",
+  "display_name": "V3: Maximum amplitude of the P-wave",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "ecg"
   ]

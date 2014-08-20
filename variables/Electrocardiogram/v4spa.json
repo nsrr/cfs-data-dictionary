@@ -1,8 +1,9 @@
 {
   "id": "v4spa",
-  "display_name": "ECG: V4: SPA",
+  "display_name": "V4: Amplitude of the secondary S-wave",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "ecg"
   ]

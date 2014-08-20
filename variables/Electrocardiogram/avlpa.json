@@ -1,8 +1,9 @@
 {
   "id": "avlpa",
-  "display_name": "ECG: AVL: PA",
+  "display_name": "aVL Lead: Minimum amplitude of the P-wave",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "ecg"
   ]

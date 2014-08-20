@@ -1,8 +1,9 @@
 {
   "id": "ippa",
-  "display_name": "ECG: I: PPA",
+  "display_name": "Lead I: Maximum amplitude of the P-wave",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "ecg"
   ]

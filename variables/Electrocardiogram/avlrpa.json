@@ -1,8 +1,9 @@
 {
   "id": "avlrpa",
-  "display_name": "ECG: AVL: RPA",
+  "display_name": "aVL Lead: Amplitude of the secondary R-wave",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "ecg"
   ]

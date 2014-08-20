@@ -1,8 +1,9 @@
 {
   "id": "ventrate",
-  "display_name": "ECG: Vent rate (bpm)",
+  "display_name": "Ventricular heart rate",
   "description": "",
   "type": "numeric",
+  "units": "beats per minute",
   "forms": [
     "ecg"
   ]

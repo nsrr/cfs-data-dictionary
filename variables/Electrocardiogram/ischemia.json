@@ -1,8 +1,9 @@
 {
   "id": "ischemia",
-  "display_name": "ECG: Ischemia pattern",
+  "display_name": "Ischemia pattern",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "ischemiapatterns",
   "forms": [
     "ecg"
   ]

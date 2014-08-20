@@ -1,8 +1,9 @@
 {
   "id": "avfppa",
-  "display_name": "ECG: AVF: PPA",
+  "display_name": "aVF Lead: maximum P wave amplitude",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "ecg"
   ]

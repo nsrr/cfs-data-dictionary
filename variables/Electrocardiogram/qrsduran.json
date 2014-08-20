@@ -1,8 +1,9 @@
 {
   "id": "qrsduran",
-  "display_name": "ECG: QRS Duration (ms)",
+  "display_name": "QRS Duration",
   "description": "",
   "type": "numeric",
+  "units": "milliseconds",
   "forms": [
     "ecg"
   ]

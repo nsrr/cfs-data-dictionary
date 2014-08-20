@@ -1,8 +1,9 @@
 {
   "id": "avlspa",
-  "display_name": "ECG: AVL: SPA",
+  "display_name": "aVL Lead: Amplitude of the secondary S wave (Left Arm)",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "ecg"
   ]

@@ -1,8 +1,9 @@
 {
   "id": "oldinfar",
-  "display_name": "ECG: Old infarct",
+  "display_name": "Old infarct",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "oldinfarct",
   "forms": [
     "ecg"
   ]

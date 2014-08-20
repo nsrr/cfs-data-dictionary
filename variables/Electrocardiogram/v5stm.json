@@ -1,8 +1,9 @@
 {
   "id": "v5stm",
-  "display_name": "ECG: V5: STM",
+  "display_name": "V5: Amplitude of the S-T wave at the midpoint",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "ecg"
   ]

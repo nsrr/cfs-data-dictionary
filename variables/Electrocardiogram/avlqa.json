@@ -1,8 +1,9 @@
 {
   "id": "avlqa",
-  "display_name": "ECG: AVL: QA",
+  "display_name": "aVL Lead: Absolute amplitude of the Q-wave",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "ecg"
   ]

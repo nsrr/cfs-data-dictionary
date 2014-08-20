@@ -1,8 +1,9 @@
 {
   "id": "v2sa",
-  "display_name": "ECG: V2: SA",
+  "display_name": "V2: Absolute amplitude of the S-wave",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "ecg"
   ]

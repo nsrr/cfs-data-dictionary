@@ -1,6 +1,6 @@
 {
   "id": "avfstj",
-  "display_name": "ECG: AVF: STJ",
+  "display_name": "AVF: Amplitude of the S-T wave at the J-point",
   "description": "",
   "type": "numeric",
   "forms": [

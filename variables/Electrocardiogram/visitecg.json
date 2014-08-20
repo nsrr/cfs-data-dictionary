@@ -1,6 +1,6 @@
 {
   "id": "visitecg",
-  "display_name": "ECG: Date of visit",
+  "display_name": "Date of visit",
   "description": "",
   "type": "date",
   "forms": [

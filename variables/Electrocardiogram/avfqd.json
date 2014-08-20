@@ -1,8 +1,9 @@
 {
   "id": "avfqd",
-  "display_name": "ECG: AVF: QD",
+  "display_name": "aVF Lead: Duration of the Q-wave",
   "description": "",
   "type": "numeric",
+  "units": "milliseconds",
   "forms": [
     "ecg"
   ]

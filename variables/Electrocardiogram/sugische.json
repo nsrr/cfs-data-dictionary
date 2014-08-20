@@ -1,8 +1,9 @@
 {
   "id": "sugische",
-  "display_name": "ECG: Suggesting Ischemia",
+  "display_name": "Suggesting Ischemia",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "ischemia",
   "forms": [
     "ecg"
   ]

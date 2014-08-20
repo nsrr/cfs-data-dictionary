@@ -1,8 +1,9 @@
 {
   "id": "v4ra",
-  "display_name": "ECG: V4: RA",
+  "display_name": "V4: Absolute amplitude of the R-wave",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "ecg"
   ]

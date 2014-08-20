@@ -1,8 +1,9 @@
 {
   "id": "iiisd",
-  "display_name": "ECG: III: SD",
+  "display_name": "Lead III: Duration of the S-wave",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "ecg"
   ]

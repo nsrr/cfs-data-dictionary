@@ -1,8 +1,9 @@
 {
   "id": "ectopy",
-  "display_name": "ECG: Ectopy",
+  "display_name": "Ectopy",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "ectopy",
   "forms": [
     "ecg"
   ]

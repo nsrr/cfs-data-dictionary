@@ -1,8 +1,9 @@
 {
   "id": "iiita",
-  "display_name": "ECG: III: TA",
+  "display_name": "Lead III: Minimum amplitude of the T-wave",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "ecg"
   ]

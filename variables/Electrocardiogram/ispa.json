@@ -1,8 +1,9 @@
 {
   "id": "ispa",
-  "display_name": "ECG: I: SPA",
+  "display_name": "Lead I: Amplitude of the secondary S-wave",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "ecg"
   ]
