@@ -1,8 +1,9 @@
 {
   "id": "ecwliters",
-  "display_name": "Cyprus: Extracellular water (liters)",
+  "display_name": "Volume of extracellular water",
   "description": "",
   "type": "numeric",
+  "units": "liters",
   "forms": [
     "cyprus_body_fat"
   ]

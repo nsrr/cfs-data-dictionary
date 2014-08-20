@@ -1,8 +1,9 @@
 {
   "id": "icwliters",
-  "display_name": "Cyprus: Intracellular water (liters)",
+  "display_name": "Volume of intracellular water",
   "description": "",
   "type": "numeric",
+  "units": "liters",
   "forms": [
     "cyprus_body_fat"
   ]

@@ -1,8 +1,9 @@
 {
   "id": "bcmwt",
-  "display_name": "Cyprus: Body cell mass",
+  "display_name": "Weight of body cells",
   "description": "",
   "type": "numeric",
+  "units": "kilograms",
   "forms": [
     "cyprus_body_fat"
   ]

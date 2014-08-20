@@ -1,8 +1,9 @@
 {
   "id": "ecmwt",
-  "display_name": "Cyprus: Extracellular mass",
+  "display_name": "Weight of extracellular mass",
   "description": "",
   "type": "numeric",
+  "units": "kilograms",
   "forms": [
     "cyprus_body_fat"
   ]

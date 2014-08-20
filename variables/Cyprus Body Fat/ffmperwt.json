@@ -1,8 +1,9 @@
 {
   "id": "ffmperwt",
-  "display_name": "Cyprus: Fat free mass (% of wt)",
+  "display_name": "Percentage of body weight due to fat-free mass",
   "description": "",
   "type": "numeric",
+  "units": "percent",
   "forms": [
     "cyprus_body_fat"
   ]

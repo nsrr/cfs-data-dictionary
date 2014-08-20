@@ -1,8 +1,9 @@
 {
   "id": "bcmperwt",
-  "display_name": "Cyprus: Body cell mass (% of wt)",
+  "display_name": "Cell mass as a percentage of total body weight",
   "description": "",
   "type": "numeric",
+  "units": "percent",
   "forms": [
     "cyprus_body_fat"
   ]

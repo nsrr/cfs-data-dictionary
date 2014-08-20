@@ -1,8 +1,9 @@
 {
   "id": "ecmperwt",
-  "display_name": "Cyprus: Extracellular mass (% of wt)",
+  "display_name": "Percentage of body weight due to extracellular mass",
   "description": "",
   "type": "numeric",
+  "units": "percent",
   "forms": [
     "cyprus_body_fat"
   ]

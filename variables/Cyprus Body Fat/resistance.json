@@ -1,8 +1,9 @@
 {
   "id": "resistance",
-  "display_name": "Cyprus: BIA resistance",
+  "display_name": "Bioimpedance analysis resistance",
   "description": "",
   "type": "numeric",
+  "units": "ohms",
   "forms": [
     "cyprus_body_fat"
   ]

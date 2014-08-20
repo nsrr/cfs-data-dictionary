@@ -1,8 +1,9 @@
 {
   "id": "fatperwt",
-  "display_name": "Cyprus: Body fat (% of wt)",
+  "display_name": "Percentage of body weight due to body fat",
   "description": "",
   "type": "numeric",
+  "units": "percent",
   "forms": [
     "cyprus_body_fat"
   ]

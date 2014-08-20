@@ -1,8 +1,9 @@
 {
   "id": "fatwt",
-  "display_name": "Cyprus: Body fat",
+  "display_name": "Weight of body fat",
   "description": "",
   "type": "numeric",
+  "units": "kilograms",
   "forms": [
     "cyprus_body_fat"
   ]
