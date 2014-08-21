@@ -1,0 +1,9 @@
+{
+  "id": "oralgluc",
+  "display_name": "Oral Hypoglycemic in the last three days",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

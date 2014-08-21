@@ -1,0 +1,9 @@
+{
+  "id": "anemdiag",
+  "display_name": "Anemia",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult3"
+  ]
+}

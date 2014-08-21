@@ -1,0 +1,9 @@
+{
+  "id": "astdiag",
+  "display_name": "Asthma",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult3"
+  ]
+}

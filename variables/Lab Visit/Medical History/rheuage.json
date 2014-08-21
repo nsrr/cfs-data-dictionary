@@ -1,0 +1,10 @@
+{
+  "id": "rheuage",
+  "display_name": "Age Diagnosed Rheumatoid Arthritis",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult3"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "id": "thryd",
-  "display_name": "74 Thyroid in the last three days ",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

@@ -1,9 +1,0 @@
-{
-  "id": "livediag",
-  "display_name": "95 Liver Disease",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

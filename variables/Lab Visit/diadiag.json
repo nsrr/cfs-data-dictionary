@@ -1,9 +1,0 @@
-{
-  "id": "diadiag",
-  "display_name": "95 Diabetes",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

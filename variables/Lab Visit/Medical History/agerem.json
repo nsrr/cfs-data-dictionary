@@ -1,0 +1,10 @@
+{
+  "id": "agerem",
+  "display_name": "Age tonsils/adenoids removed (A)",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult2"
+  ]
+}

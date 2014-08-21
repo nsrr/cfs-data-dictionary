@@ -1,9 +1,0 @@
-{
-  "id": "sinage",
-  "display_name": "95 Age Diagnosed Sinus",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

@@ -1,0 +1,10 @@
+{
+  "id": "heaage",
+  "display_name": "Age Diagnosed Other Heart Disease",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult3"
+  ]
+}

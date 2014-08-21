@@ -1,9 +1,0 @@
-{
-  "id": "pacemage",
-  "display_name": "95 Age Diagnosed Implant of Cardiac Pacemaker",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

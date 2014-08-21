@@ -1,0 +1,9 @@
+{
+  "id": "irrdiag",
+  "display_name": "Irregular Heart Beat",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult3"
+  ]
+}

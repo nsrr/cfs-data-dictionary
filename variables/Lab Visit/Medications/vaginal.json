@@ -1,0 +1,9 @@
+{
+  "id": "vaginal",
+  "display_name": "Ever use Vaginal",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

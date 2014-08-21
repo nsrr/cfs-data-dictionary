@@ -1,0 +1,9 @@
+{
+  "id": "asthspyr",
+  "display_name": "Breathing sprays in last yr (L)",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

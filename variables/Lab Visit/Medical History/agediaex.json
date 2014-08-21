@@ -1,0 +1,10 @@
+{
+  "id": "agediaex",
+  "display_name": "Age Diagnosed Excessive Sleepiness",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult3"
+  ]
+}

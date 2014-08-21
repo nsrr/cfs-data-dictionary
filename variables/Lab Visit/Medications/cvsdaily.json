@@ -1,0 +1,9 @@
+{
+  "id": "cvsdaily",
+  "display_name": "Multivitamin: VS Daily",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

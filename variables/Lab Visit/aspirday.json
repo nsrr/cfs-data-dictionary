@@ -1,9 +1,0 @@
-{
-  "id": "aspirday",
-  "display_name": "74 how many days per week do you take aspirin",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

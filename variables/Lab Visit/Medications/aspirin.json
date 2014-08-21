@@ -1,0 +1,9 @@
+{
+  "id": "aspirin",
+  "display_name": "Aspirin in last three days",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "id": "stroage",
-  "display_name": "95 Age Diagnosed Stroke (CVA)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

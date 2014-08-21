@@ -1,0 +1,10 @@
+{
+  "id": "bypasage",
+  "display_name": "Age Diagnosed Coronary Bypass",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult3"
+  ]
+}

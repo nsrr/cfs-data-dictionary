@@ -1,0 +1,9 @@
+{
+  "id": "hrtpl3dy",
+  "display_name": "Heart pills in last 3 days (L)",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

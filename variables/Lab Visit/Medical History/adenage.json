@@ -1,0 +1,10 @@
+{
+  "id": "adenage",
+  "display_name": "Age Diagnosed Adenoidectomy",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult3"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "id": "othchldr",
-  "display_name": "74 Other cholesterol lowering drug in the last three days ",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

@@ -1,9 +1,0 @@
-{
-  "id": "prog3dy",
-  "display_name": "73 Progesterone in last 3 days (L)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

@@ -1,0 +1,10 @@
+{
+  "id": "diaage",
+  "display_name": "Age Diagnose Diabetes",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult3"
+  ]
+}

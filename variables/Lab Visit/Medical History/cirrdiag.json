@@ -1,0 +1,9 @@
+{
+  "id": "cirrdiag",
+  "display_name": "Cirrhosis of the Liver",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult3"
+  ]
+}

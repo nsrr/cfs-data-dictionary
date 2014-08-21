@@ -1,9 +1,0 @@
-{
-  "id": "mscldiag",
-  "display_name": "95 Multiple Sclerosis",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

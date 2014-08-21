@@ -1,9 +1,0 @@
-{
-  "id": "zoloft",
-  "display_name": "74 Zoloft in the last three days ",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

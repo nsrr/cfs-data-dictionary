@@ -1,0 +1,9 @@
+{
+  "id": "hrtplyr",
+  "display_name": "Heart pills in last yr (L)",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

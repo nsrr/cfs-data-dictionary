@@ -1,9 +1,0 @@
-{
-  "id": "nasaldil",
-  "display_name": "97 recommended or prescribed nasal dilators",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

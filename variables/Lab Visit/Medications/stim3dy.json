@@ -1,0 +1,9 @@
+{
+  "id": "stim3dy",
+  "display_name": "Stimulants in last 3 days (L)",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

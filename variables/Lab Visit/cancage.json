@@ -1,9 +1,0 @@
-{
-  "id": "cancage",
-  "display_name": "95 Age Diagnosed: Cancer",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

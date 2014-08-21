@@ -1,9 +1,0 @@
-{
-  "id": "tiadiayr",
-  "display_name": "95 Year DiagnosedTIA (Transient Ischemic Attack)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

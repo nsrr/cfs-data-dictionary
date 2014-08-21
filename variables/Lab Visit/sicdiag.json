@@ -1,9 +1,0 @@
-{
-  "id": "sicdiag",
-  "display_name": "95 Sickle Cell Disease",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

@@ -1,9 +1,0 @@
-{
-  "id": "htfdiag",
-  "display_name": "95 Congestive Heart Failure",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

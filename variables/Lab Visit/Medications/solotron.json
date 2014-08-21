@@ -1,0 +1,9 @@
+{
+  "id": "solotron",
+  "display_name": "Multivitamin: Solotron for Women",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

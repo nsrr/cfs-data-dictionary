@@ -1,0 +1,9 @@
+{
+  "id": "protegra",
+  "display_name": "Multivitamin: Protegra",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

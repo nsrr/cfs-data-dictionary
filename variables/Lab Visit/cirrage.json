@@ -1,9 +1,0 @@
-{
-  "id": "cirrage",
-  "display_name": "95 Age Diagnosed Cirrhosis of the Liver",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

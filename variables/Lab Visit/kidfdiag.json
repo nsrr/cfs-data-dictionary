@@ -1,9 +1,0 @@
-{
-  "id": "kidfdiag",
-  "display_name": "95 Kidney Failure",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

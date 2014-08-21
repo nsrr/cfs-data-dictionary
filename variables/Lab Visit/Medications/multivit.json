@@ -1,0 +1,9 @@
+{
+  "id": "multivit",
+  "display_name": "Do you currently take a multi-vitamin?",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

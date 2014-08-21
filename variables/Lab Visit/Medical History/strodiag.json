@@ -1,0 +1,9 @@
+{
+  "id": "strodiag",
+  "display_name": "Stroke (CVA)",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult3"
+  ]
+}

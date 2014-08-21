@@ -1,9 +1,0 @@
-{
-  "id": "aceinhib",
-  "display_name": "74 ACE Inhibitors in the last three days ",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

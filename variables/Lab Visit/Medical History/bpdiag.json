@@ -1,0 +1,9 @@
+{
+  "id": "bpdiag",
+  "display_name": "High Blood Pressure",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult3"
+  ]
+}

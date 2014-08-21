@@ -1,0 +1,9 @@
+{
+  "id": "sindiag",
+  "display_name": "Sinus",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult3"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "tranquyr",
+  "display_name": "Tranquilizer in last yr (L)",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

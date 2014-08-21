@@ -1,0 +1,10 @@
+{
+  "id": "msclage",
+  "display_name": "Age Diagnosed Multiple Sclerosis",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult3"
+  ]
+}

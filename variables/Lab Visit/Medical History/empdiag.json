@@ -1,0 +1,9 @@
+{
+  "id": "empdiag",
+  "display_name": "Emphysema",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult3"
+  ]
+}

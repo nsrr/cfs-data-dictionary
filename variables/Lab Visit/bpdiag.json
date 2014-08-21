@@ -1,9 +1,0 @@
-{
-  "id": "bpdiag",
-  "display_name": "95 High Blood Pressure:",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

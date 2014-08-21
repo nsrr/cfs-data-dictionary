@@ -1,9 +1,0 @@
-{
-  "id": "tourdiag",
-  "display_name": "95 Tourettes Syndrome",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

@@ -1,0 +1,10 @@
+{
+  "id": "partage",
+  "display_name": "Age Diagnosed Peripheral Artery Disease of Claudication of the Legs",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult3"
+  ]
+}

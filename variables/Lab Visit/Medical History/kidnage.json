@@ -1,0 +1,10 @@
+{
+  "id": "kidnage",
+  "display_name": "Age Diagnosed Kidney Stones",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult3"
+  ]
+}

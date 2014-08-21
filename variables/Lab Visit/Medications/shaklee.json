@@ -1,0 +1,9 @@
+{
+  "id": "shaklee",
+  "display_name": "Multivitamin: Shaklee Vita-Lea",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

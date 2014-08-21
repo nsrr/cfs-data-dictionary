@@ -1,0 +1,9 @@
+{
+  "id": "allergy",
+  "display_name": "Are you allergic to dust/mold/pollen",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult2"
+  ]
+}

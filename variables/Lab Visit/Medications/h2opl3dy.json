@@ -1,0 +1,9 @@
+{
+  "id": "h2opl3dy",
+  "display_name": "Water pills in last 3 days (L)",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

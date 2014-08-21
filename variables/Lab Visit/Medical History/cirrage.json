@@ -1,0 +1,10 @@
+{
+  "id": "cirrage",
+  "display_name": "Age Diagnosed Cirrhosis of the Liver",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult3"
+  ]
+}

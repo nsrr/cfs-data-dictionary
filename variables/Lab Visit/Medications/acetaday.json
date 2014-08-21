@@ -1,0 +1,10 @@
+{
+  "id": "acetaday",
+  "display_name": "How many days per week do you take acetaminophen",
+  "description": "",
+  "type": "numeric",
+  "units": "days per week",
+  "forms": [
+    "lab_adult1"
+  ]
+}

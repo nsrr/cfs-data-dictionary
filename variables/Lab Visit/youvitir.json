@@ -1,9 +1,0 @@
-{
-  "id": "youvitir",
-  "display_name": "74 Does your multivitamin include iron?",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

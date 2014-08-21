@@ -1,0 +1,9 @@
+{
+  "id": "othhpill",
+  "display_name": "Ever use Other hormones or birth control pills?",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

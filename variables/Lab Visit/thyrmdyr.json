@@ -1,9 +1,0 @@
-{
-  "id": "thyrmdyr",
-  "display_name": "73 Thyroid medicines in last yr (L)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

@@ -1,9 +1,0 @@
-{
-  "id": "agepipe",
-  "display_name": "85 Age first started smoking pipes?",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

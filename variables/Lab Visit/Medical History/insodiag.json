@@ -1,0 +1,9 @@
+{
+  "id": "insodiag",
+  "display_name": "Insomnia",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult3"
+  ]
+}

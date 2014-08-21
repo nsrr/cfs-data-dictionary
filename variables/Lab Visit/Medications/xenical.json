@@ -1,0 +1,9 @@
+{
+  "id": "xenical",
+  "display_name": "Xenical in the last three days",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

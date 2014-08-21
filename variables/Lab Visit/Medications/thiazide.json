@@ -1,0 +1,9 @@
+{
+  "id": "thiazide",
+  "display_name": "Thiazide diureti in the last three days",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

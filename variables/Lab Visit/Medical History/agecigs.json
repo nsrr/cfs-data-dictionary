@@ -1,0 +1,10 @@
+{
+  "id": "agecigs",
+  "display_name": "Age first started smoking cigars?",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult2"
+  ]
+}

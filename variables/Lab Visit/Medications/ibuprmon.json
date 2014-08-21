@@ -1,0 +1,9 @@
+{
+  "id": "ibuprmon",
+  "display_name": "Last month have you used ibuprof",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

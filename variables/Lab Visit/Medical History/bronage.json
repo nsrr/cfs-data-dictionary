@@ -1,0 +1,10 @@
+{
+  "id": "bronage",
+  "display_name": "Age Diagnosed Chronic Bronchitis",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult3"
+  ]
+}

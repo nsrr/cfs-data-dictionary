@@ -1,0 +1,10 @@
+{
+  "id": "agediana",
+  "display_name": "Age Diagnose Narcolepsy",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult3"
+  ]
+}

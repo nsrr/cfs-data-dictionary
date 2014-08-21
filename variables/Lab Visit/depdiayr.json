@@ -1,9 +1,0 @@
-{
-  "id": "depdiayr",
-  "display_name": "95 Year Diagnosed Depression",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

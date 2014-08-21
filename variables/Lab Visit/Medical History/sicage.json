@@ -1,0 +1,10 @@
+{
+  "id": "sicage",
+  "display_name": "Age Diagnose Sickle Cell Disease",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult3"
+  ]
+}

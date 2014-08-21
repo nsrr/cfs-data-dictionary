@@ -1,9 +1,0 @@
-{
-  "id": "headiag",
-  "display_name": "95 Other Heart Disease",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

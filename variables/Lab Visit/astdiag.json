@@ -1,9 +1,0 @@
-{
-  "id": "astdiag",
-  "display_name": "95 Asthma",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

@@ -1,9 +1,0 @@
-{
-  "id": "tquilize",
-  "display_name": "74 Tranquilizers in the last three days ",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

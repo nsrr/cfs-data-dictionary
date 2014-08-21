@@ -1,0 +1,10 @@
+{
+  "id": "endarage",
+  "display_name": "Age Diagnosed Carotid Surgery (Endarterectomy)",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult3"
+  ]
+}

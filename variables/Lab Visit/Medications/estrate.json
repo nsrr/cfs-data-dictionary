@@ -1,0 +1,9 @@
+{
+  "id": "estrate",
+  "display_name": "Ever use Estratest",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "id": "rheudiag",
-  "display_name": "95 Rheumatoid Arthritis",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

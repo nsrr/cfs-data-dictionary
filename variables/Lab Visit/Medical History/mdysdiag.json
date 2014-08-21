@@ -1,0 +1,9 @@
+{
+  "id": "mdysdiag",
+  "display_name": "Muscular Dystrophy",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult3"
+  ]
+}

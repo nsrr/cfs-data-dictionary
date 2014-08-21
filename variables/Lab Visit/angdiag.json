@@ -1,9 +1,0 @@
-{
-  "id": "angdiag",
-  "display_name": "95 Angina pectoris or Chest Pain from a heart condition",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

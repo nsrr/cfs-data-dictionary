@@ -1,0 +1,10 @@
+{
+  "id": "stroage",
+  "display_name": "Age Diagnosed Stroke (CVA)",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult3"
+  ]
+}

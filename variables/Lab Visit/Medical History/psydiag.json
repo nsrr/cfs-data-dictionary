@@ -1,0 +1,9 @@
+{
+  "id": "psydiag",
+  "display_name": "Other Psychiatric Disease",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult3"
+  ]
+}

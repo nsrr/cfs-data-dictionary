@@ -1,0 +1,9 @@
+{
+  "id": "headiag",
+  "display_name": "Other Heart Disease",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult3"
+  ]
+}

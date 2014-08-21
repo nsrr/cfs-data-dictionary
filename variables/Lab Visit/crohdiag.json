@@ -1,9 +1,0 @@
-{
-  "id": "crohdiag",
-  "display_name": "95 Ulcerative Colitis/Crohns",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

@@ -1,0 +1,9 @@
+{
+  "id": "anxdiag",
+  "display_name": "Anxiety",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult3"
+  ]
+}

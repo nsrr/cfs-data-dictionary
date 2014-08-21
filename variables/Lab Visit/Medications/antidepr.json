@@ -1,0 +1,9 @@
+{
+  "id": "antidepr",
+  "display_name": "Anti depressant in the last three days",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

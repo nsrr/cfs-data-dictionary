@@ -1,0 +1,9 @@
+{
+  "id": "asprinno",
+  "display_name": "On average how many aspirin",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "id": "rheuage",
-  "display_name": "95 Age Diagnosed Rheumatoid Arthritis",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

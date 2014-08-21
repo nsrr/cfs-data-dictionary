@@ -1,0 +1,10 @@
+{
+  "id": "pneuage",
+  "display_name": "Age Diagnose Pneumonia",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult3"
+  ]
+}

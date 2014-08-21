@@ -1,0 +1,9 @@
+{
+  "id": "folicacd",
+  "display_name": "Do you take Folic Acid?",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

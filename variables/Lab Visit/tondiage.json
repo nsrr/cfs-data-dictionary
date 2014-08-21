@@ -1,9 +1,0 @@
-{
-  "id": "tondiage",
-  "display_name": "95 Age Diagnosed Tonsillectomy",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

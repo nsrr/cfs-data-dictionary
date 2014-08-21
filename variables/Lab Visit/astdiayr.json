@@ -1,9 +1,0 @@
-{
-  "id": "astdiayr",
-  "display_name": "95 Year Diagnosed Asthma",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

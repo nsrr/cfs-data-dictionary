@@ -1,9 +1,0 @@
-{
-  "id": "surgage",
-  "display_name": "95 Age DiagnosedOther Major Surgery:",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

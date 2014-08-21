@@ -1,0 +1,9 @@
+{
+  "id": "tourdiag",
+  "display_name": "Tourettes Syndrome",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult3"
+  ]
+}
