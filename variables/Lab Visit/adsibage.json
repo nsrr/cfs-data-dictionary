@@ -1,8 +1,9 @@
 {
   "id": "adsibage",
-  "display_name": "83 Age Sibling2 with colon cancer",
+  "display_name": "Age Sibling 2 with colon cancer",
   "description": "",
   "type": "numeric",
+  "units": "years",
   "forms": [
     "lab_adult2"
   ]

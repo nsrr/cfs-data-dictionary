@@ -1,8 +1,9 @@
 {
   "id": "dageslp",
-  "display_name": "77 Age Dad diagnosed Excessive Sleepiness",
+  "display_name": "Age Dad diagnosed Excessive Sleepiness",
   "description": "",
   "type": "numeric",
+  "units": "years",
   "forms": [
     "lab_adult2"
   ]

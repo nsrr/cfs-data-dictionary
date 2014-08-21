@@ -1,8 +1,9 @@
 {
   "id": "dagediab",
-  "display_name": "77 Age Dad diagnosed Diabetes",
+  "display_name": "Age Dad diagnosed Diabetes",
   "description": "",
   "type": "numeric",
+  "units": "years",
   "forms": [
     "lab_adult2"
   ]

@@ -1,8 +1,9 @@
 {
   "id": "magesick",
-  "display_name": "77 Age Mom diagnosed Sickle Cell Disease",
+  "display_name": "Age Mom diagnosed Sickle Cell Disease",
   "description": "",
   "type": "numeric",
+  "units": "years",
   "forms": [
     "lab_adult2"
   ]

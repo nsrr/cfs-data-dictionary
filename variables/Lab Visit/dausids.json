@@ -1,6 +1,6 @@
 {
   "id": "dausids",
-  "display_name": "82 Num of dau with (SIDS)",
+  "display_name": "Number of daughters with (SIDS)",
   "description": "",
   "type": "numeric",
   "forms": [

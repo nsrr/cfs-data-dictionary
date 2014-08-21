@@ -1,6 +1,6 @@
 {
   "id": "radchemo",
-  "display_name": "75 periods stop chemotherapy",
+  "display_name": "Periods stop chemotherapy",
   "description": "",
   "type": "numeric",
   "forms": [

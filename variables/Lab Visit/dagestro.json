@@ -1,8 +1,9 @@
 {
   "id": "dagestro",
-  "display_name": "77 Age Dad diagnosed Stroke (TIA)",
+  "display_name": "Age Dad diagnosed Stroke (TIA)",
   "description": "",
   "type": "numeric",
+  "units": "years",
   "forms": [
     "lab_adult2"
   ]

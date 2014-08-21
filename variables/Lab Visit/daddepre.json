@@ -1,8 +1,8 @@
 {
   "id": "daddepre",
-  "display_name": "77 Dad diagnosed Specify cancer",
+  "display_name": "Dad diagnosed Specify cancer",
   "description": "",
-  "type": "numeric",
+  "type": "text",
   "forms": [
     "lab_adult2"
   ]

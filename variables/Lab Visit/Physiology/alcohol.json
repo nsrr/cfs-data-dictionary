@@ -1,6 +1,6 @@
 {
   "id": "alcohol",
-  "display_name": "Sleep Diary: amt alcohol on day of study (A)",
+  "display_name": "Sleep Diary: amount of alcohol on day of study (A)",
   "description": "",
   "type": "numeric",
   "forms": [

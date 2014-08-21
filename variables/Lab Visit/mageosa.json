@@ -1,8 +1,9 @@
 {
   "id": "mageosa",
-  "display_name": "77 Age Mom diagnosed Sleep Apnea",
+  "display_name": "Age Mom diagnosed Sleep Apnea",
   "description": "",
   "type": "numeric",
+  "units": "years",
   "forms": [
     "lab_adult2"
   ]

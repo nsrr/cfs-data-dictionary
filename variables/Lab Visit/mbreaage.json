@@ -1,8 +1,9 @@
 {
   "id": "mbreaage",
-  "display_name": "83 Age Mom breast cancer",
+  "display_name": "Age Mom breast cancer",
   "description": "",
   "type": "numeric",
+  "units": "years",
   "forms": [
     "lab_adult2"
   ]

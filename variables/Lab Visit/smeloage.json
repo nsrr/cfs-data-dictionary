@@ -1,8 +1,9 @@
 {
   "id": "smeloage",
-  "display_name": "83 Age Sibling with melanoma",
+  "display_name": "Age Sibling with melanoma",
   "description": "",
   "type": "numeric",
+  "units": "years",
   "forms": [
     "lab_adult2"
   ]

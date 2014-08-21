@@ -1,6 +1,6 @@
 {
   "id": "naps",
-  "display_name": "42 needed daytime naps >= 5 min. (A)",
+  "display_name": "Needed daytime naps >= 5 min. (A)",
   "description": "",
   "type": "numeric",
   "forms": [

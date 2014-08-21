@@ -1,6 +1,6 @@
 {
   "id": "sleepmed",
-  "display_name": "74 Sleeping medicine in the last three days",
+  "display_name": "Sleeping medicine in the last three days",
   "description": "",
   "type": "numeric",
   "forms": [

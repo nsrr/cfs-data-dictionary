@@ -1,8 +1,9 @@
 {
   "id": "magebypa",
-  "display_name": "77 Age Mom diagnosed Angioplasty or By-pass Surgery",
+  "display_name": "Age Mom diagnosed Angioplasty or By-pass Surgery",
   "description": "",
   "type": "numeric",
+  "units": "years",
   "forms": [
     "lab_adult2"
   ]

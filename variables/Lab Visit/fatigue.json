@@ -1,6 +1,6 @@
 {
   "id": "fatigue",
-  "display_name": "25 fatigued after sleeping",
+  "display_name": "Fatigued after sleeping",
   "description": "",
   "type": "numeric",
   "forms": [

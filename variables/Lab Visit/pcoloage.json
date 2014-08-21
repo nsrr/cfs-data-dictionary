@@ -1,8 +1,9 @@
 {
   "id": "pcoloage",
-  "display_name": "83 Age Parent with colon cancer",
+  "display_name": "Age Parent with colon cancer",
   "description": "",
   "type": "numeric",
+  "units": "years",
   "forms": [
     "lab_adult2"
   ]

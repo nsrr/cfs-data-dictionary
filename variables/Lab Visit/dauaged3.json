@@ -1,8 +1,9 @@
 {
   "id": "dauaged3",
-  "display_name": "82 Age of death dau 3",
+  "display_name": "Age of death daughter 3",
   "description": "",
   "type": "numeric",
+  "units": "years",
   "forms": [
     "lab_adult2"
   ]

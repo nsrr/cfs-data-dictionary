@@ -1,8 +1,9 @@
 {
   "id": "magenarc",
-  "display_name": "77 Age Mom diagnosed Narcolepsy",
+  "display_name": "Age Mom diagnosed Narcolepsy",
   "description": "",
   "type": "numeric",
+  "units": "years",
   "forms": [
     "lab_adult2"
   ]

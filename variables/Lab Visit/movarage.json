@@ -1,8 +1,9 @@
 {
   "id": "movarage",
-  "display_name": "83 Age Mom Ovarian cancer",
+  "display_name": "Age Mom Ovarian cancer",
   "description": "",
   "type": "numeric",
+  "units": "years",
   "forms": [
     "lab_adult2"
   ]

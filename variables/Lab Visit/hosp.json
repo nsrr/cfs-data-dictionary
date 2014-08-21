@@ -1,6 +1,6 @@
 {
   "id": "hosp",
-  "display_name": "96 hospitalized since last visit",
+  "display_name": "Hospitalized since last visit",
   "description": "",
   "type": "numeric",
   "forms": [

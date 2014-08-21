@@ -1,8 +1,9 @@
 {
   "id": "dageleg",
-  "display_name": "77 Age Dad diagnosed Restless Legs or Periodic",
+  "display_name": "Age Dad diagnosed Restless Legs or Periodic",
   "description": "",
   "type": "numeric",
+  "units": "years",
   "forms": [
     "lab_adult2"
   ]

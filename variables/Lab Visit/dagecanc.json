@@ -1,8 +1,9 @@
 {
   "id": "dagecanc",
-  "display_name": "77 Age Dad diagnosed Cancer",
+  "display_name": "Age Dad diagnosed Cancer",
   "description": "",
   "type": "numeric",
+  "units": "years",
   "forms": [
     "lab_adult2"
   ]

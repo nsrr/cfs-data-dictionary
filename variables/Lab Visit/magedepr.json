@@ -1,8 +1,8 @@
 {
   "id": "magedepr",
-  "display_name": "77 Age Mom diagnosed Specify cancer",
+  "display_name": "Age Mom diagnosed Specify cancer",
   "description": "",
-  "type": "numeric",
+  "type": "text",
   "forms": [
     "lab_adult2"
   ]

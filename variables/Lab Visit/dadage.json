@@ -1,8 +1,9 @@
 {
   "id": "dadage",
-  "display_name": "79 age of dad (if alive)(A)",
+  "display_name": "Age of dad (if alive)(A)",
   "description": "",
   "type": "numeric",
+  "units": "years",
   "forms": [
     "lab_adult2"
   ]

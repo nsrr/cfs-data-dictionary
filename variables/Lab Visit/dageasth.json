@@ -1,8 +1,9 @@
 {
   "id": "dageasth",
-  "display_name": "77 Age Dad diagnosed Asthma",
+  "display_name": "Age Dad diagnosed Asthma",
   "description": "",
   "type": "numeric",
+  "units": "years",
   "forms": [
     "lab_adult2"
   ]

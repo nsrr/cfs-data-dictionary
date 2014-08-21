@@ -1,8 +1,9 @@
 {
   "id": "soverage",
-  "display_name": "83 Age sis ovarian cancer",
+  "display_name": "Age sister diagnosed ovarian cancer",
   "description": "",
   "type": "numeric",
+  "units": "years",
   "forms": [
     "lab_adult2"
   ]

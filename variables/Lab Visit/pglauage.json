@@ -1,8 +1,9 @@
 {
   "id": "pglauage",
-  "display_name": "83 Age Parent with glaucoma",
+  "display_name": "Age Parent with glaucoma",
   "description": "",
   "type": "numeric",
+  "units": "years",
   "forms": [
     "lab_adult2"
   ]

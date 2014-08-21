@@ -1,6 +1,6 @@
 {
   "id": "surgery",
-  "display_name": "75 periods stop due to surgery",
+  "display_name": "Periods stop due to surgery",
   "description": "",
   "type": "numeric",
   "forms": [

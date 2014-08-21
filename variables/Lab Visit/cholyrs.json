@@ -1,6 +1,6 @@
 {
   "id": "cholyrs",
-  "display_name": "74 If yes, Number of years used",
+  "display_name": "If yes, Number of years used",
   "description": "",
   "type": "numeric",
   "forms": [

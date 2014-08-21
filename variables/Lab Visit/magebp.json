@@ -1,8 +1,9 @@
 {
   "id": "magebp",
-  "display_name": "77 Age Mom diagnosed High Blood Pressure",
+  "display_name": "Age Mom diagnosed High Blood Pressure",
   "description": "",
   "type": "numeric",
+  "units": "years",
   "forms": [
     "lab_adult2"
   ]

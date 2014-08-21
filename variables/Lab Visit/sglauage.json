@@ -1,8 +1,9 @@
 {
   "id": "sglauage",
-  "display_name": "83 Age Sibling with glaucoma",
+  "display_name": "Age Sibling with glaucoma",
   "description": "",
   "type": "numeric",
+  "units": "years",
   "forms": [
     "lab_adult2"
   ]

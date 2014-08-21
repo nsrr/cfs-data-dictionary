@@ -1,6 +1,6 @@
 {
   "id": "upbath",
-  "display_name": "32 wake up to use toilet >= 2x (A)",
+  "display_name": "Wake up to use toilet greater than 2 times (A)",
   "description": "",
   "type": "numeric",
   "forms": [

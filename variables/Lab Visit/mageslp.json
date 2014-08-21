@@ -1,8 +1,9 @@
 {
   "id": "mageslp",
-  "display_name": "77 Age Mom diagnosed Excessive Sleepiness",
+  "display_name": "Age Mom diagnosed Excessive Sleepiness",
   "description": "",
   "type": "numeric",
+  "units": "years",
   "forms": [
     "lab_adult2"
   ]

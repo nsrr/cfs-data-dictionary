@@ -1,8 +1,9 @@
 {
   "id": "dageosa",
-  "display_name": "77 Age Dad diagnosed Sleep Apnea",
+  "display_name": "Age Dad diagnosed Sleep Apnea",
   "description": "",
   "type": "numeric",
+  "units": "years",
   "forms": [
     "lab_adult2"
   ]

@@ -1,6 +1,6 @@
 {
   "id": "ovaries",
-  "display_name": "75 If surgery, were ovaries removed?",
+  "display_name": "If surgery, were ovaries removed?",
   "description": "",
   "type": "numeric",
   "forms": [
