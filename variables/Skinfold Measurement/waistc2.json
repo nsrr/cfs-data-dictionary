@@ -1,8 +1,9 @@
 {
   "id": "waistc2",
-  "display_name": "Skinfold: waist circumference 2 (cm)",
+  "display_name": "waist circumference 2",
   "description": "",
   "type": "numeric",
+  "units": "centimeters",
   "forms": [
     "skinfold"
   ]

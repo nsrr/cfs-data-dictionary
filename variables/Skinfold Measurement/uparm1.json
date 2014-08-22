@@ -1,8 +1,9 @@
 {
   "id": "uparm1",
-  "display_name": "Skinfold: mid upper arm circumference 1 (cm)",
+  "display_name": "mid upper arm circumference 1",
   "description": "",
   "type": "numeric",
+  "units": "centimeters",
   "forms": [
     "skinfold"
   ]

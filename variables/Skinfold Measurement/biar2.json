@@ -1,8 +1,9 @@
 {
   "id": "biar2",
-  "display_name": "Skinfold: BIA Total body resistance 2 R",
+  "display_name": "BIA Total body resistance 2 R",
   "description": "",
   "type": "numeric",
+  "units": "ohms",
   "forms": [
     "skinfold"
   ]

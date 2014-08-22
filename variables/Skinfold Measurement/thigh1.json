@@ -1,8 +1,9 @@
 {
   "id": "thigh1",
-  "display_name": "Skinfold: thigh skinfol 1 (mm)",
+  "display_name": "thigh skinfold 1",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "skinfold"
   ]

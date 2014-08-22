@@ -1,8 +1,9 @@
 {
   "id": "calfc1",
-  "display_name": "Skinfold: calf circumference 1 (cm)",
+  "display_name": "calf circumference 1",
   "description": "",
   "type": "numeric",
+  "units": "centimeters",
   "forms": [
     "skinfold"
   ]

@@ -1,8 +1,9 @@
 {
   "id": "midaxil2",
-  "display_name": "Skinfold: midaxillary 1 (mm)",
+  "display_name": "midaxillary 1",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "skinfold"
   ]

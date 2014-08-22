@@ -1,8 +1,9 @@
 {
   "id": "thighc2",
-  "display_name": "Skinfold: thigh circumference 2 (cm)",
+  "display_name": "thigh circumference 2",
   "description": "",
   "type": "numeric",
+  "units": "centimeters",
   "forms": [
     "skinfold"
   ]

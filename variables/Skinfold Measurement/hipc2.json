@@ -1,8 +1,9 @@
 {
   "id": "hipc2",
-  "display_name": "Skinfold: hip circumference 2 (cm)",
+  "display_name": "hip circumference 2",
   "description": "",
   "type": "numeric",
+  "units": "centimeters",
   "forms": [
     "skinfold"
   ]

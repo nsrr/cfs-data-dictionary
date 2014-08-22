@@ -1,8 +1,9 @@
 {
   "id": "subscap1",
-  "display_name": "Skinfold: subscapular 1 (mm)",
+  "display_name": "subscapular 1",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "skinfold"
   ]

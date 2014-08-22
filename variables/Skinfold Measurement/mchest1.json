@@ -1,8 +1,9 @@
 {
   "id": "mchest1",
-  "display_name": "Skinfold: chest (male only) 1 (mm)",
+  "display_name": "chest (male only) 1",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "skinfold"
   ]

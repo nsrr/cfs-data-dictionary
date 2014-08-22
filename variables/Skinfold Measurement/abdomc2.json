@@ -1,8 +1,9 @@
 {
   "id": "abdomc2",
-  "display_name": "Skinfold: abdominal circumference 2 (cm)",
+  "display_name": "abdominal circumference 2",
   "description": "",
   "type": "numeric",
+  "units": "centimeters",
   "forms": [
     "skinfold"
   ]

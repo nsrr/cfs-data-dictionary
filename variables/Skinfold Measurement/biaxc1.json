@@ -1,8 +1,9 @@
 {
   "id": "biaxc1",
-  "display_name": "Skinfold: BIA Total body reactant 1 Xc",
+  "display_name": "BIA Total body reactant 1 Xc",
   "description": "",
   "type": "numeric",
+  "units": "ohms",
   "forms": [
     "skinfold"
   ]
