@@ -1,8 +1,9 @@
 {
   "id": "noavgdev",
-  "display_name": "Nitric Oxide: % Avg SD",
+  "display_name": "Percent Average Standard Deviation",
   "description": "",
   "type": "numeric",
+  "units": "percent",
   "forms": [
     "nosanalyzer"
   ]
