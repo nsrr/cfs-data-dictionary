@@ -1,9 +1,0 @@
-{
-  "id": "am10tech",
-  "display_name": "BP: 10 AM - Technician",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "nurses_flow_sheet"
-  ]
-}
