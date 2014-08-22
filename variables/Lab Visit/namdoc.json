@@ -1,9 +1,0 @@
-{
-  "id": "namdoc",
-  "display_name": "Name doctor that diagnosed sleep apnea",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "lab_adult3"
-  ]
-}
