@@ -1,8 +1,9 @@
 {
   "id": "mensnow",
-  "display_name": "Nurses notes: Menstruating at time of lab visit",
+  "display_name": "Menstruating at time of lab visit",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "doctor_eval"
   ]

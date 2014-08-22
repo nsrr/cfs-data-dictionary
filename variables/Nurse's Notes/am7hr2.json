@@ -1,8 +1,9 @@
 {
   "id": "am7hr2",
-  "display_name": "BP: 7 AM - Heart Rate 2",
+  "display_name": "7 AM - Heart Rate 2",
   "description": "",
   "type": "numeric",
+  "units": "beats per minute",
   "forms": [
     "nurses_flow_sheet"
   ]

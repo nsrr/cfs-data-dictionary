@@ -1,6 +1,6 @@
 {
   "id": "drugtype",
-  "display_name": "Nurses notes: Type of recreational drugs",
+  "display_name": "Type of recreational drugs",
   "description": "",
   "type": "text",
   "forms": [

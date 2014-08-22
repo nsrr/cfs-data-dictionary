@@ -1,8 +1,9 @@
 {
   "id": "recdrugs",
-  "display_name": "Nurses notes: Use recreational drugs",
+  "display_name": "Use recreational drugs",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "nurse_admiss"
   ]

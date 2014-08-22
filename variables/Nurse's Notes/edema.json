@@ -1,8 +1,9 @@
 {
   "id": "edema",
-  "display_name": "Nurses notes: Has edema",
+  "display_name": "Has edema",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "doctor_eval"
   ]
