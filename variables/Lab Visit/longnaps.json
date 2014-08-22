@@ -1,8 +1,9 @@
 {
   "id": "longnaps",
-  "display_name": "42b length of naps (min.) (A)",
+  "display_name": "Length of naps (A)",
   "description": "",
   "type": "numeric",
+  "units": "minutes",
   "forms": [
     "lab_adult1"
   ]
