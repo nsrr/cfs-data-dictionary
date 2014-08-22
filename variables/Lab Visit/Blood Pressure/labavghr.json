@@ -1,8 +1,9 @@
 {
   "id": "labavghr",
-  "display_name": "BP: Mean lab HR",
+  "display_name": "Mean lab Heart Rate",
   "description": "",
   "type": "numeric",
+  "units": "beats per minute",
   "forms": [
     "lab_dataset"
   ]

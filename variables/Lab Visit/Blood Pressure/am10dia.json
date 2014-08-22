@@ -1,8 +1,9 @@
 {
   "id": "am10dia",
-  "display_name": "BP: 10 AM Diastolic",
+  "display_name": "10 AM Diastolic",
   "description": "",
   "type": "numeric",
+  "units": "millimeters of mercury",
   "forms": [
     "lab_dataset"
   ]
