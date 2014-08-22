@@ -2,7 +2,8 @@
   "id": "momsnor",
   "display_name": "Mom diagnosed Loud/Disruptive Snoring",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "lab_adult2"
   ]

@@ -2,7 +2,8 @@
   "id": "dadosa",
   "display_name": "Dad diagnosed Sleep Apnea",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "lab_adult2"
   ]

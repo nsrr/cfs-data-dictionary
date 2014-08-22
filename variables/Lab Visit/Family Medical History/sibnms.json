@@ -2,7 +2,8 @@
   "id": "sibnms",
   "display_name": "Any siblings with Near Miss SIDS",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "lab_adult2"
   ]

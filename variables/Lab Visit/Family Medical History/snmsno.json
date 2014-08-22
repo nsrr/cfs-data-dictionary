@@ -3,6 +3,7 @@
   "display_name": "How many sisters with Near Miss SIDS",
   "description": "",
   "type": "numeric",
+  "units": "sisters",
   "forms": [
     "lab_adult2"
   ]

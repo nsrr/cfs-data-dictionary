@@ -2,7 +2,8 @@
   "id": "kidbp",
   "display_name": "Any kids have High Blood Pressure",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "lab_adult2"
   ]

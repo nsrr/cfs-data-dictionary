@@ -2,7 +2,8 @@
   "id": "siblegs",
   "display_name": "Any siblings with Restless Legs or Periodic Movement Disorder (PLMs)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "lab_adult2"
   ]

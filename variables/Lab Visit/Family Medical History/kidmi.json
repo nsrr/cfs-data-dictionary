@@ -2,7 +2,8 @@
   "id": "kidmi",
   "display_name": "Any kids have Heart Attack (Myocardial Infarction)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "lab_adult2"
   ]

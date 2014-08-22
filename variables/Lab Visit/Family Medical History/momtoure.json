@@ -2,7 +2,8 @@
   "id": "momtoure",
   "display_name": "Mom diagnosed Tourettes Syndrome",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "lab_adult2"
   ]

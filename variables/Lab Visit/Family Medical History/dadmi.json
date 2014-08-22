@@ -2,7 +2,8 @@
   "id": "dadmi",
   "display_name": "Dad diagnosed Heart Attack",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "lab_adult2"
   ]

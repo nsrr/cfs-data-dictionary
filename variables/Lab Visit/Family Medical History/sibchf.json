@@ -2,7 +2,8 @@
   "id": "sibchf",
   "display_name": "Any siblings with Congestive Heart Failure",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "lab_adult2"
   ]

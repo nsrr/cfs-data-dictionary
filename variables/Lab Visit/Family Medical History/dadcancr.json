@@ -2,7 +2,8 @@
   "id": "dadcancr",
   "display_name": "Dad diagnosed Cancer",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "lab_adult2"
   ]

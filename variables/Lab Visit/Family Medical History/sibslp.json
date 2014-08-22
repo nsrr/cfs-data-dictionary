@@ -2,7 +2,8 @@
   "id": "sibslp",
   "display_name": "Any siblings with Excessive (too much) Sleepiness",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "lab_adult2"
   ]

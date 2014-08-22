@@ -2,7 +2,8 @@
   "id": "mommd",
   "display_name": "Mom diagnosed Muscular Dystrophy",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "lab_adult2"
   ]

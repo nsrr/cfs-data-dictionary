@@ -2,7 +2,8 @@
   "id": "dadsickl",
   "display_name": "Dad diagnosed Sickle Cell Disease",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "lab_adult2"
   ]

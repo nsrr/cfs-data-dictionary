@@ -3,6 +3,7 @@
   "display_name": "How many living daughters",
   "description": "",
   "type": "numeric",
+  "units": "daughters",
   "forms": [
     "lab_adult2"
   ]

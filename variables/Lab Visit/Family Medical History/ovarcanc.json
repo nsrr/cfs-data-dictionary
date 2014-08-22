@@ -2,7 +2,8 @@
   "id": "ovarcanc",
   "display_name": "Any biological relatives had Ovarian Cancer",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "lab_adult2"
   ]

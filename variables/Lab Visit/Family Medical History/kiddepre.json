@@ -2,7 +2,8 @@
   "id": "kiddepre",
   "display_name": "Any kids have Depression",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "lab_adult2"
   ]

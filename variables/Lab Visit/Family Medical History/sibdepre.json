@@ -2,7 +2,8 @@
   "id": "sibdepre",
   "display_name": "Any siblings with Depression",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "lab_adult2"
   ]

@@ -2,7 +2,8 @@
   "id": "sibbp",
   "display_name": "Any siblings with High Blood Pressure",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "lab_adult2"
   ]

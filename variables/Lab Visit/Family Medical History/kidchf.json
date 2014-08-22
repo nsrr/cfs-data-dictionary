@@ -2,7 +2,8 @@
   "id": "kidchf",
   "display_name": "Any kids have Congestive Heart Failure",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "lab_adult2"
   ]

@@ -3,6 +3,7 @@
   "display_name": "How many sisters with Attention Deficit Disorder",
   "description": "",
   "type": "numeric",
+  "units": "sisters",
   "forms": [
     "lab_adult2"
   ]

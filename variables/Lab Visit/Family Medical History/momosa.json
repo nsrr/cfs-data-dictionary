@@ -2,7 +2,8 @@
   "id": "momosa",
   "display_name": "Mom diagnosed Sleep Apnea",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "lab_adult2"
   ]

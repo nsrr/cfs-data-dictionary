@@ -2,7 +2,8 @@
   "id": "dadslp",
   "display_name": "Dad diagnosed Excessive Sleepiness",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "lab_adult2"
   ]

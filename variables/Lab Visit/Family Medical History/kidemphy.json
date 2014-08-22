@@ -2,7 +2,8 @@
   "id": "kidemphy",
   "display_name": "Any kids have Emphysema",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "lab_adult2"
   ]

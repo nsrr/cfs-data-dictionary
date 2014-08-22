@@ -3,6 +3,7 @@
   "display_name": "Number of living sisters",
   "description": "",
   "type": "numeric",
+  "units": "sisters",
   "forms": [
     "lab_adult2"
   ]

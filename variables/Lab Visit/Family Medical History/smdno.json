@@ -1,8 +1,9 @@
 {
   "id": "smdno",
-  "display_name": "How many sisters withMuscular Dystrophy",
+  "display_name": "How many sisters with Muscular Dystrophy",
   "description": "",
   "type": "numeric",
+  "units": "sisters",
   "forms": [
     "lab_adult2"
   ]

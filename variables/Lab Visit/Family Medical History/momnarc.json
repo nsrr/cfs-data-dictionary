@@ -2,7 +2,8 @@
   "id": "momnarc",
   "display_name": "Mom diagnosed Narcolepsy",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "lab_adult2"
   ]

@@ -3,6 +3,7 @@
   "display_name": "How many brothers with Other Significant Medical Condition",
   "description": "",
   "type": "numeric",
+  "units": "brothers",
   "forms": [
     "lab_adult2"
   ]

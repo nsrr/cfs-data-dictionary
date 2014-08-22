@@ -2,7 +2,8 @@
   "id": "momslp",
   "display_name": "Mom diagnosed Excessive Sleepiness",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "lab_adult2"
   ]

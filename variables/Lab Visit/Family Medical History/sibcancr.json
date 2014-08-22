@@ -2,7 +2,8 @@
   "id": "sibcancr",
   "display_name": "Any siblings with Cancer",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "lab_adult2"
   ]

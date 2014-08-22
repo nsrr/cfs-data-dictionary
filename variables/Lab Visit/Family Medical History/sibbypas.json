@@ -1,8 +1,9 @@
 {
   "id": "sibbypas",
-  "display_name": "Any siblings with Angioplasty or By-Pass Surgery",
+  "display_name": "Any siblings with Angioplasty or Bypass Surgery",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "lab_adult2"
   ]

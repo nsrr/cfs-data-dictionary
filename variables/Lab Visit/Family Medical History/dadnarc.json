@@ -2,7 +2,8 @@
   "id": "dadnarc",
   "display_name": "Dad diagnosed Narcolepsy",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "lab_adult2"
   ]

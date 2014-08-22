@@ -2,7 +2,8 @@
   "id": "kidstrok",
   "display_name": "Any kids have Stroke (or a TIA)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "lab_adult2"
   ]

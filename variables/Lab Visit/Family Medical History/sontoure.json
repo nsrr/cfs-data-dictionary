@@ -3,6 +3,7 @@
   "display_name": "Number of sons with Tourettes Syndrome",
   "description": "",
   "type": "numeric",
+  "units": "sons",
   "forms": [
     "lab_adult2"
   ]

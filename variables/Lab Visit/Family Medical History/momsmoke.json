@@ -2,7 +2,8 @@
   "id": "momsmoke",
   "display_name": "Did mom smoke while pregnant with you? (L)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "lab_adult1"
   ]

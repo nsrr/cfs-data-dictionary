@@ -2,7 +2,8 @@
   "id": "kids",
   "display_name": "Has any children **rectype2 specifies since last visit",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "lab_adult2"
   ]

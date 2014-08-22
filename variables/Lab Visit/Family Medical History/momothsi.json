@@ -2,7 +2,8 @@
   "id": "momothsi",
   "display_name": "Mom diagnosed Other Significant Medical",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "lab_adult2"
   ]

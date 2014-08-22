@@ -2,7 +2,8 @@
   "id": "dadadd",
   "display_name": "Dad diagnosed Attention Deficit Disorder",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "lab_adult2"
   ]

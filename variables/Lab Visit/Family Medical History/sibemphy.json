@@ -2,7 +2,8 @@
   "id": "sibemphy",
   "display_name": "Any siblings with Emphysema",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "lab_adult2"
   ]

@@ -2,7 +2,8 @@
   "id": "colocanc",
   "display_name": "Any biological relatives had Colon or Rectal Cancer",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "lab_adult2"
   ]

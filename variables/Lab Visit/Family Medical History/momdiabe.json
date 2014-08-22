@@ -2,7 +2,8 @@
   "id": "momdiabe",
   "display_name": "Mom diagnosed Diabetes",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "lab_adult2"
   ]

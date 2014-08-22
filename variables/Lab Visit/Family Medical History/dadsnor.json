@@ -2,7 +2,8 @@
   "id": "dadsnor",
   "display_name": "Dad diagnosed Loud/Disruptive Snoring",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "lab_adult2"
   ]

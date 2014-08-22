@@ -3,6 +3,7 @@
   "display_name": "Number of sons with Muscular Dystrophy",
   "description": "",
   "type": "numeric",
+  "units": "sons",
   "forms": [
     "lab_adult2"
   ]

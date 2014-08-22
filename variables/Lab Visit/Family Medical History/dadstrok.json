@@ -2,7 +2,8 @@
   "id": "dadstrok",
   "display_name": "Dad diagnosed Stroke (TIA)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "yesno",
   "forms": [
     "lab_adult2"
   ]
