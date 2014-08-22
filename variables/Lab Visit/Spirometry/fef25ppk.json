@@ -3,7 +3,7 @@
   "display_name": "Percent of Knudson predictor: FEF 25% (including race correlation)",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "percent",
   "forms": [
     "lab_dataset"
   ]

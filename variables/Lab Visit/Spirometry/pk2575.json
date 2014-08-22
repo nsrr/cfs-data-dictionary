@@ -4,6 +4,7 @@
   "description": "",
   "type": "numeric",
   "units": "",
+  "units": "",
   "forms": [
     "lab_dataset"
   ]
