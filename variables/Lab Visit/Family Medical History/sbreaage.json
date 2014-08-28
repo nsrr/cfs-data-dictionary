@@ -1,0 +1,10 @@
+{
+  "id": "sbreaage",
+  "display_name": "Age Sister 1 breast cancer",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult2"
+  ]
+}

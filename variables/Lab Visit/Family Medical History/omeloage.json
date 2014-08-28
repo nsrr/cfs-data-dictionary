@@ -1,0 +1,10 @@
+{
+  "id": "omeloage",
+  "display_name": "Age Offspring with melanoma",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult2"
+  ]
+}

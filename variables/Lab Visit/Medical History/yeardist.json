@@ -1,0 +1,9 @@
+{
+  "id": "yeardist",
+  "display_name": "Years snoring disturbed others (AC)",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

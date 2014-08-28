@@ -1,6 +1,6 @@
 {
   "id": "endwake",
-  "display_name": "43 wake up time on weekends (A)",
+  "display_name": "Wake up time on weekends (A)",
   "description": "",
   "type": "numeric",
   "forms": [

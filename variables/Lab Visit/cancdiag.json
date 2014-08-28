@@ -1,9 +1,0 @@
-{
-  "id": "cancdiag",
-  "display_name": "95 Cancer",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

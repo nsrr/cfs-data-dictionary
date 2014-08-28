@@ -1,0 +1,10 @@
+{
+  "id": "kidbypas",
+  "display_name": "Any kids have Angioplasty or By-Pass Surgery",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_adult2"
+  ]
+}

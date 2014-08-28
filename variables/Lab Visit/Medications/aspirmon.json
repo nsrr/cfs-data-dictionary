@@ -1,0 +1,9 @@
+{
+  "id": "aspirmon",
+  "display_name": "Last month have you used aspirin",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

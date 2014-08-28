@@ -1,9 +1,0 @@
-{
-  "id": "sonemphy",
-  "display_name": "82 Num of sons with Emphysema",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

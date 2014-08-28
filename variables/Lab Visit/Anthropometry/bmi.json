@@ -1,0 +1,10 @@
+{
+  "id": "bmi",
+  "display_name": "BMI",
+  "description": "",
+  "type": "numeric",
+  "units": "kilograms per meter squared",
+  "forms": [
+    "lab_dataset"
+  ]
+}

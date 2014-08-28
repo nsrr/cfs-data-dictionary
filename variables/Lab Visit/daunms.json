@@ -1,9 +1,0 @@
-{
-  "id": "daunms",
-  "display_name": "82 Num of dau with Acute Life Threatening Episode (ALTE)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

@@ -1,9 +1,0 @@
-{
-  "id": "momdiabe",
-  "display_name": "77 Mom diagnosed Diabetes",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

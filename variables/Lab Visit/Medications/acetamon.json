@@ -1,0 +1,9 @@
+{
+  "id": "acetamon",
+  "display_name": "Last month have you used acetaminophen",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

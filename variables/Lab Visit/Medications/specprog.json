@@ -1,0 +1,9 @@
+{
+  "id": "specprog",
+  "display_name": "Ever use specify progesterone",
+  "description": "",
+  "type": "text",
+  "forms": [
+    "lab_adult1"
+  ]
+}

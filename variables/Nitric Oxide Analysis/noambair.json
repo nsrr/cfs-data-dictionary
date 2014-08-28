@@ -1,8 +1,9 @@
 {
   "id": "noambair",
-  "display_name": "Nitric Oxide: Ambient Air",
+  "display_name": "Ambient Air",
   "description": "",
   "type": "numeric",
+  "units": "ppm",
   "forms": [
     "nosanalyzer"
   ]

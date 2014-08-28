@@ -1,0 +1,9 @@
+{
+  "id": "premprob",
+  "display_name": "Ever use Prempro (blue)",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

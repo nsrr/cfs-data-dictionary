@@ -1,9 +1,0 @@
-{
-  "id": "am10dia",
-  "display_name": "BP: 10 AM Diastolic",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_dataset"
-  ]
-}

@@ -1,9 +1,0 @@
-{
-  "id": "discramp",
-  "display_name": "16 leg cramps",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

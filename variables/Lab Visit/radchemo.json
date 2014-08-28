@@ -1,9 +1,0 @@
-{
-  "id": "radchemo",
-  "display_name": "75 periods stop chemotherapy",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

@@ -1,0 +1,9 @@
+{
+  "id": "avgpipe",
+  "display_name": "How many pipes on average",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult2"
+  ]
+}

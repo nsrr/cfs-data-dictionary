@@ -1,0 +1,9 @@
+{
+  "id": "thydiag",
+  "display_name": "Thyroid Disease",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult3"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "nuskinpk",
+  "display_name": "Multivitamin: Nuskin Life Pack",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "broaged3",
+  "display_name": "Age of death of brother 3",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult2"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "id": "pm10sys",
-  "display_name": "BP: 10 PM Systolic",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_dataset"
-  ]
-}

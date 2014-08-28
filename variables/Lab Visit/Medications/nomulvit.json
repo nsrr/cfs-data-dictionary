@@ -1,0 +1,9 @@
+{
+  "id": "nomulvit",
+  "display_name": "How many multvit do you take per week?",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

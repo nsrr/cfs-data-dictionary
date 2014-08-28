@@ -1,6 +1,6 @@
 {
   "id": "nostairs",
-  "display_name": "53 How many flights of stairs do you climb daily?(L)",
+  "display_name": "How many flights of stairs do you climb daily?(L)",
   "description": "",
   "type": "numeric",
   "forms": [

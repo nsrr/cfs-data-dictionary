@@ -1,0 +1,9 @@
+{
+  "id": "premphas",
+  "display_name": "Ever use Premphase",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

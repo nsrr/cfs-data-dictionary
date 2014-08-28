@@ -1,9 +1,0 @@
-{
-  "id": "visitnfs",
-  "display_name": "Nurses notes: Date of visit",
-  "description": "",
-  "type": "date",
-  "forms": [
-    "nurses_flow_sheet"
-  ]
-}

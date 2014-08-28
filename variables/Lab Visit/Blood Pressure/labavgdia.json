@@ -1,0 +1,10 @@
+{
+  "id": "labavgdia",
+  "display_name": "Mean lab Diastolic Blood Pressure",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters of mercury",
+  "forms": [
+    "lab_dataset"
+  ]
+}

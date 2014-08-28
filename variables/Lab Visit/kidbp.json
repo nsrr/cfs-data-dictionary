@@ -1,9 +1,0 @@
-{
-  "id": "kidbp",
-  "display_name": "82 Any kids have High Blood Pressure",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

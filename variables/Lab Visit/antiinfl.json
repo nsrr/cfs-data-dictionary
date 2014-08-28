@@ -1,9 +1,0 @@
-{
-  "id": "antiinfl",
-  "display_name": "74 Other anti-inflammatory analgesics, 2+ times/week",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

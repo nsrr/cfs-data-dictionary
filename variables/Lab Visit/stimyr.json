@@ -1,9 +1,0 @@
-{
-  "id": "stimyr",
-  "display_name": "73 Stimulants  in last yr (L)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

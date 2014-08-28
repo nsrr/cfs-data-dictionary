@@ -1,8 +1,9 @@
 {
   "id": "wrist2",
-  "display_name": "Skinfold: wrist circumference 2 (cm)",
+  "display_name": "wrist circumference 2",
   "description": "",
   "type": "numeric",
+  "units": "centimeters",
   "forms": [
     "skinfold"
   ]

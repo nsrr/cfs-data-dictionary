@@ -1,0 +1,10 @@
+{
+  "id": "pefppk",
+  "display_name": "Percent of Knudson predictor: PEF (including race correlation)",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "forms": [
+    "lab_dataset"
+  ]
+}

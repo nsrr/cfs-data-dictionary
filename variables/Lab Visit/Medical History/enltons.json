@@ -1,0 +1,9 @@
+{
+  "id": "enltons",
+  "display_name": "Enlarged tonsils (A)",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult2"
+  ]
+}

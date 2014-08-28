@@ -1,0 +1,10 @@
+{
+  "id": "ppancage",
+  "display_name": "Age Parent with Pancreatic Cancer",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult2"
+  ]
+}

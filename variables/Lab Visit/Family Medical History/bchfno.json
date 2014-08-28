@@ -1,0 +1,10 @@
+{
+  "id": "bchfno",
+  "display_name": "How many brothers with Congestive Heart Failure",
+  "description": "",
+  "type": "numeric",
+  "units": "brothers",
+  "forms": [
+    "lab_adult2"
+  ]
+}

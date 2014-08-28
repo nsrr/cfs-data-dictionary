@@ -1,0 +1,10 @@
+{
+  "id": "bemphyno",
+  "display_name": "How many brothers with Emphysema",
+  "description": "",
+  "type": "numeric",
+  "units": "brothers",
+  "forms": [
+    "lab_adult2"
+  ]
+}

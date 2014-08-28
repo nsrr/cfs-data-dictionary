@@ -1,0 +1,10 @@
+{
+  "id": "magetour",
+  "display_name": "Age Mom diagnosed Tourettes Syndrome",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult2"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "avgsmok",
+  "display_name": "84b av of cigarettes smoke per day (A)",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult2"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "id": "kidfage",
-  "display_name": "95 Age Diagnosed Kidney Failure",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

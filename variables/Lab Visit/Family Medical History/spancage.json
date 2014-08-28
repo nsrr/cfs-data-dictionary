@@ -1,0 +1,10 @@
+{
+  "id": "spancage",
+  "display_name": "Age Sibling with Pancreatic Cancer",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult2"
+  ]
+}

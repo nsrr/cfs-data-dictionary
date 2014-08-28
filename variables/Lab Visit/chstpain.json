@@ -1,9 +1,0 @@
-{
-  "id": "chstpain",
-  "display_name": "12 chest pain while in bed (A)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

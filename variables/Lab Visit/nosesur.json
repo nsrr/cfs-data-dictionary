@@ -1,9 +1,0 @@
-{
-  "id": "nosesur",
-  "display_name": "97 have nose surgery",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

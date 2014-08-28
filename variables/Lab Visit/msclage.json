@@ -1,9 +1,0 @@
-{
-  "id": "msclage",
-  "display_name": "95 Age DiagnosedMultiple Sclerosis",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

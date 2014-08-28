@@ -1,0 +1,9 @@
+{
+  "id": "heartsp",
+  "display_name": "Specify other heart dz",
+  "description": "",
+  "type": "text",
+  "forms": [
+    "lab_adult3"
+  ]
+}

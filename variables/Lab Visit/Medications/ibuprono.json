@@ -1,0 +1,9 @@
+{
+  "id": "ibuprono",
+  "display_name": "On average how many ibuprof",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

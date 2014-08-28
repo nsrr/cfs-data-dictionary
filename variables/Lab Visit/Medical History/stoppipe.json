@@ -1,0 +1,10 @@
+{
+  "id": "stoppipe",
+  "display_name": "Age stop smoking Pipes",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult2"
+  ]
+}

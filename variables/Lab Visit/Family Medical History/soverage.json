@@ -1,0 +1,10 @@
+{
+  "id": "soverage",
+  "display_name": "Age sister diagnosed ovarian cancer",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult2"
+  ]
+}

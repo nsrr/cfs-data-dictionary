@@ -1,0 +1,9 @@
+{
+  "id": "brocaus2",
+  "display_name": "Cause of death brother 2",
+  "description": "",
+  "type": "text",
+  "forms": [
+    "lab_adult2"
+  ]
+}

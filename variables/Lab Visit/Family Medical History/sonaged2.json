@@ -1,0 +1,10 @@
+{
+  "id": "sonaged2",
+  "display_name": "Age of death son 2",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult2"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "id": "sonslp",
-  "display_name": "82 Num of sons with Excessive (too much) Sleepiness",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

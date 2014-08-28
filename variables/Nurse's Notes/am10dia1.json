@@ -1,8 +1,9 @@
 {
   "id": "am10dia1",
-  "display_name": "BP: 10 AM - Diastolic 1",
+  "display_name": "10 AM - Diastolic 1",
   "description": "",
   "type": "numeric",
+  "units": "millimeters of mercury",
   "forms": [
     "nurses_flow_sheet"
   ]

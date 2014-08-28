@@ -1,9 +1,0 @@
-{
-  "id": "dadlegs",
-  "display_name": "77 Dad diagnosed Restless Legs or Periodic",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

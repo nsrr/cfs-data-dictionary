@@ -1,9 +1,0 @@
-{
-  "id": "sibdiabe",
-  "display_name": "81 Any sibs with Diabetes",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

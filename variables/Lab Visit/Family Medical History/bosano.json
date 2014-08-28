@@ -1,0 +1,10 @@
+{
+  "id": "bosano",
+  "display_name": "How many brothers with Sleep Apnea",
+  "description": "",
+  "type": "numeric",
+  "units": "brothers",
+  "forms": [
+    "lab_adult2"
+  ]
+}

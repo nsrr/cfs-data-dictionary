@@ -1,0 +1,10 @@
+{
+  "id": "daddiabe",
+  "display_name": "Dad diagnosed Diabetes",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_adult2"
+  ]
+}

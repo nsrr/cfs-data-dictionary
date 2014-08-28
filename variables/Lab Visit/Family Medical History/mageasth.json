@@ -1,0 +1,10 @@
+{
+  "id": "mageasth",
+  "display_name": "Age Mom diagnosed Asthma",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult2"
+  ]
+}

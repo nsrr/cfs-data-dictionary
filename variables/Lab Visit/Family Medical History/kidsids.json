@@ -1,0 +1,10 @@
+{
+  "id": "kidsids",
+  "display_name": "Any kids have Crib death, Sudden Death Syndrome (SIDS)",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_adult2"
+  ]
+}

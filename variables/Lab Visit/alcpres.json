@@ -1,9 +1,0 @@
-{
-  "id": "alcpres",
-  "display_name": "90 alcoholism still present (A)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

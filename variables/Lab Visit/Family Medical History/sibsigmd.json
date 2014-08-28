@@ -1,0 +1,10 @@
+{
+  "id": "sibsigmd",
+  "display_name": "Any siblings with Other Significant Medical Condition",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_adult2"
+  ]
+}

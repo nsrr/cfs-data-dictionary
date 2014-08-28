@@ -1,0 +1,9 @@
+{
+  "id": "gulcdiag",
+  "display_name": "Gastric of Duodenal Ulcer",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult3"
+  ]
+}

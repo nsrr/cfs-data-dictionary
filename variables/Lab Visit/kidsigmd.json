@@ -1,9 +1,0 @@
-{
-  "id": "kidsigmd",
-  "display_name": "82 Any kids have Other Significant Medical Condition",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

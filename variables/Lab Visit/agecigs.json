@@ -1,9 +1,0 @@
-{
-  "id": "agecigs",
-  "display_name": "85 Age first started smoking cigars ?",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

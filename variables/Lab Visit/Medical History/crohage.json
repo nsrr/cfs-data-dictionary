@@ -1,0 +1,10 @@
+{
+  "id": "crohage",
+  "display_name": "Age Diagnose Colitis/Crohns",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult3"
+  ]
+}

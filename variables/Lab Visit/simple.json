@@ -1,9 +1,0 @@
-{
-  "id": "simple",
-  "display_name": "97 have had a simple tonsillectomy",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

@@ -1,0 +1,9 @@
+{
+  "id": "surgery",
+  "display_name": "Periods stop due to surgery",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

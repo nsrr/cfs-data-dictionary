@@ -1,9 +1,0 @@
-{
-  "id": "tondiag",
-  "display_name": "87 enlarged tonsils diagnosed by doctor (A)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

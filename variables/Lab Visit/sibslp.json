@@ -1,9 +1,0 @@
-{
-  "id": "sibslp",
-  "display_name": "81 Any sibs with Excessive (too much) Sleepiness",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

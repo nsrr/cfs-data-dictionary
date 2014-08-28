@@ -1,9 +1,0 @@
-{
-  "id": "daddepre",
-  "display_name": "77 Dad diagnosed Specify cancer",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

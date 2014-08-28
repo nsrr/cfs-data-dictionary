@@ -1,0 +1,9 @@
+{
+  "id": "bpmed3dy",
+  "display_name": "Blood pressure meds in last 3 days (L)",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

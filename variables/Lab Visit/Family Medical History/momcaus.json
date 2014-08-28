@@ -1,0 +1,9 @@
+{
+  "id": "momcaus",
+  "display_name": "Cause of death for mom (A)",
+  "description": "",
+  "type": "text",
+  "forms": [
+    "lab_adult2"
+  ]
+}

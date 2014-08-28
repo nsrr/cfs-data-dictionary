@@ -1,9 +1,0 @@
-{
-  "id": "sonchf",
-  "display_name": "82 Num of sons with Congestive Heart Failure",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

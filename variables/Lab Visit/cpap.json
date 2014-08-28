@@ -1,6 +1,6 @@
 {
   "id": "cpap",
-  "display_name": "97 recommended or prescribed CPAP",
+  "display_name": "Recommended or prescribed CPAP",
   "description": "",
   "type": "numeric",
   "forms": [

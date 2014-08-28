@@ -1,9 +1,0 @@
-{
-  "id": "bpmedyr",
-  "display_name": "73 Blood pressure medicine in last yr (L)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

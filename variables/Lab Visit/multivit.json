@@ -1,9 +1,0 @@
-{
-  "id": "multivit",
-  "display_name": "74 Do you currently take a multi-vitamin?",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

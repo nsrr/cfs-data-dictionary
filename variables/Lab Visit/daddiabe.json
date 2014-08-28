@@ -1,9 +1,0 @@
-{
-  "id": "daddiabe",
-  "display_name": "77 Dad diagnosed Diabetes",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

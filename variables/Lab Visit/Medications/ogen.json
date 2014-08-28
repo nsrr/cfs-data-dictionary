@@ -1,0 +1,9 @@
+{
+  "id": "ogen",
+  "display_name": "Ever use Ogen",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

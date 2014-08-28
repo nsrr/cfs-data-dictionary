@@ -1,0 +1,10 @@
+{
+  "id": "mageoths",
+  "display_name": "Age Mom diagnosed Other Significant Medical",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult2"
+  ]
+}

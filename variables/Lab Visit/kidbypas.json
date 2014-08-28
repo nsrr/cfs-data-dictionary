@@ -1,9 +1,0 @@
-{
-  "id": "kidbypas",
-  "display_name": "82 Any kids have Angioplasty or By-Pass Surgery",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

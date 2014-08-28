@@ -1,0 +1,10 @@
+{
+  "id": "sonosa",
+  "display_name": "Number of sons with Sleep Apnea",
+  "description": "",
+  "type": "numeric",
+  "units": "sons",
+  "forms": [
+    "lab_adult2"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "id": "kidnms",
-  "display_name": "82 Any kids have Acute Life Threatening Episode (ALTE)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

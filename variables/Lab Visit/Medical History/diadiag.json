@@ -1,0 +1,9 @@
+{
+  "id": "diadiag",
+  "display_name": "Diabetes",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult3"
+  ]
+}

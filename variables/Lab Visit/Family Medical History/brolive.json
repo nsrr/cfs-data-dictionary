@@ -1,0 +1,10 @@
+{
+  "id": "brolive",
+  "display_name": "Number of living brothers",
+  "description": "",
+  "type": "numeric",
+  "units": "brothers",
+  "forms": [
+    "lab_adult2"
+  ]
+}

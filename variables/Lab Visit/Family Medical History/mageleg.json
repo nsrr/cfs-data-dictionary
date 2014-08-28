@@ -1,0 +1,10 @@
+{
+  "id": "mageleg",
+  "display_name": "Age Mom diagnosed Restless Legs or Periodic",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult2"
+  ]
+}

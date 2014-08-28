@@ -1,9 +1,0 @@
-{
-  "id": "otmasurg",
-  "display_name": "95 Other Major Surgery",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

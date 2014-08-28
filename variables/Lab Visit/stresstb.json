@@ -1,9 +1,0 @@
-{
-  "id": "stresstb",
-  "display_name": "74 Mult Vit: Stresstabs",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

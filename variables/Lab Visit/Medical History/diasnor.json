@@ -1,0 +1,9 @@
+{
+  "id": "diasnor",
+  "display_name": "Loud/Disruptive Snoring",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult3"
+  ]
+}

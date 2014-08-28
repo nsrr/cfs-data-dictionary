@@ -1,9 +1,0 @@
-{
-  "id": "daumi",
-  "display_name": "82 Num of dau with Heart Attack (Myocardial Infarction)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

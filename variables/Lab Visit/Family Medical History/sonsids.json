@@ -1,0 +1,10 @@
+{
+  "id": "sonsids",
+  "display_name": "Number of sons with (SIDS)",
+  "description": "",
+  "type": "numeric",
+  "units": "sons",
+  "forms": [
+    "lab_adult2"
+  ]
+}

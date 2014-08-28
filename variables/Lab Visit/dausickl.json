@@ -1,9 +1,0 @@
-{
-  "id": "dausickl",
-  "display_name": "82 Num of dau with Sickle Cell Disease",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

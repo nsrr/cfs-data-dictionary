@@ -1,0 +1,9 @@
+{
+  "id": "snorsur",
+  "display_name": "Have surgery for snoring",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult3"
+  ]
+}

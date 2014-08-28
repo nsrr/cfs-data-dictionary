@@ -1,6 +1,6 @@
 {
   "id": "diffwgt",
-  "display_name": "54 what is max weight diff over past 5 yrs (L)",
+  "display_name": "What is max weight difference over past 5 years (L)",
   "description": "",
   "type": "numeric",
   "forms": [

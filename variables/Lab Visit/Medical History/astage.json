@@ -1,0 +1,10 @@
+{
+  "id": "astage",
+  "display_name": "Age Diagnosed Asthma",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult3"
+  ]
+}

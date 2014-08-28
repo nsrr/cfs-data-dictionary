@@ -1,0 +1,10 @@
+{
+  "id": "tiaage",
+  "display_name": "Age Diagnosed TIA (Transient Ischemic Attack)",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult3"
+  ]
+}

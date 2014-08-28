@@ -1,9 +1,0 @@
-{
-  "id": "diabpyr",
-  "display_name": "95 Year DiagnosedHigh Blood Pressure:",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

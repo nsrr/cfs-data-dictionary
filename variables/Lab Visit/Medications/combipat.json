@@ -1,0 +1,9 @@
+{
+  "id": "combipat",
+  "display_name": "Ever use Combipatch",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

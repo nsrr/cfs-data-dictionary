@@ -1,9 +1,0 @@
-{
-  "id": "diachol",
-  "display_name": "95 Elevated Cholesterol",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

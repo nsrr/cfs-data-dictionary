@@ -1,9 +1,0 @@
-{
-  "id": "aspirin",
-  "display_name": "74 Aspirin in last three days",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

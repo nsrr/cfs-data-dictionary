@@ -1,0 +1,10 @@
+{
+  "id": "dagebypa",
+  "display_name": "Age Dad diagnosed Angioplasty or By-pass Surgery",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult2"
+  ]
+}

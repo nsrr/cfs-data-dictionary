@@ -1,0 +1,10 @@
+{
+  "id": "kiddiabe",
+  "display_name": "Any kids have Diabetes",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_adult2"
+  ]
+}

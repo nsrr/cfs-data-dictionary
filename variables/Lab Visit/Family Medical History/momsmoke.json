@@ -1,0 +1,10 @@
+{
+  "id": "momsmoke",
+  "display_name": "Did mom smoke while pregnant with you? (L)",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_adult1"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "id": "bedalcl",
-  "display_name": "93 do you drink 2 hours before bed",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

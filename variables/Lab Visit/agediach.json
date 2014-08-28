@@ -1,9 +1,0 @@
-{
-  "id": "agediach",
-  "display_name": "95 Age Diagnosed Elevated Cholesterol",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

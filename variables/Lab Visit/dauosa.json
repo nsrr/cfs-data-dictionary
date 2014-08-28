@@ -1,9 +1,0 @@
-{
-  "id": "dauosa",
-  "display_name": "82 Num of dau with Sleep Apnea",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

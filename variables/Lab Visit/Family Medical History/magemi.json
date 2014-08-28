@@ -1,0 +1,10 @@
+{
+  "id": "magemi",
+  "display_name": "Age Mom diagnosed Heart Attack",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult2"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "id": "kidnarc",
-  "display_name": "82 Any kids have Narcolepsy",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

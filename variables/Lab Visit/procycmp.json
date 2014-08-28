@@ -1,9 +1,0 @@
-{
-  "id": "procycmp",
-  "display_name": "76 ever use Provera/Cycrin/MPA",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

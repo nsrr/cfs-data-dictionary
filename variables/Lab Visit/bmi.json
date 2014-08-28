@@ -1,9 +1,0 @@
-{
-  "id": "bmi",
-  "display_name": "BMI",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_dataset"
-  ]
-}

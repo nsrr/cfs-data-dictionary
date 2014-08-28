@@ -1,9 +1,0 @@
-{
-  "id": "am7sys",
-  "display_name": "BP: 7 AM Systolic",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_dataset"
-  ]
-}

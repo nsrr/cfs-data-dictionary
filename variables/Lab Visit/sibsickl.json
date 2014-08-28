@@ -1,9 +1,0 @@
-{
-  "id": "sibsickl",
-  "display_name": "81 Any sibs with Sickle Cell Disease",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

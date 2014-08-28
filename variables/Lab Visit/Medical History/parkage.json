@@ -1,0 +1,10 @@
+{
+  "id": "parkage",
+  "display_name": "Age Diagnose Duodenal Ulcer",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult3"
+  ]
+}

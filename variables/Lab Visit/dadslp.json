@@ -1,9 +1,0 @@
-{
-  "id": "dadslp",
-  "display_name": "77 Dad diagnosed Excessive Sleepiness",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

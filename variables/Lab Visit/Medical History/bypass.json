@@ -1,0 +1,9 @@
+{
+  "id": "bypass",
+  "display_name": "Coronary Bypass",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult3"
+  ]
+}

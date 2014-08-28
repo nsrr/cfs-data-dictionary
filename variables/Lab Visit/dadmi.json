@@ -1,9 +1,0 @@
-{
-  "id": "dadmi",
-  "display_name": "77 Dad diagnosed Heart Attack",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

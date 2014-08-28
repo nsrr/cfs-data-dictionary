@@ -1,0 +1,9 @@
+{
+  "id": "dishead",
+  "display_name": "Headaches during normal sleep time (A)",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

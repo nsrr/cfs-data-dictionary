@@ -1,9 +1,0 @@
-{
-  "id": "goutdiag",
-  "display_name": "95 Gout",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

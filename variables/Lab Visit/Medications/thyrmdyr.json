@@ -1,0 +1,9 @@
+{
+  "id": "thyrmdyr",
+  "display_name": "Thyroid medicines in last yr (L)",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

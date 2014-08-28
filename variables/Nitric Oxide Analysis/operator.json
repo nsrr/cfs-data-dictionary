@@ -1,9 +1,0 @@
-{
-  "id": "operator",
-  "display_name": "Nitric Oxide: Technician",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "nosanalyzer"
-  ]
-}

@@ -1,0 +1,10 @@
+{
+  "id": "smeloage",
+  "display_name": "Age Sibling with melanoma",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult2"
+  ]
+}

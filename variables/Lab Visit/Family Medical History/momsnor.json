@@ -1,0 +1,10 @@
+{
+  "id": "momsnor",
+  "display_name": "Mom diagnosed Loud/Disruptive Snoring",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_adult2"
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "id": "going",
-  "display_name": "49 amt time to get going after sleeping (A)",
+  "display_name": "Amount of time to get going after sleeping (A)",
   "description": "",
   "type": "numeric",
   "forms": [

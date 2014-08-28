@@ -1,0 +1,10 @@
+{
+  "id": "momsickl",
+  "display_name": "Mom diagnosed Sickle Cell Disease",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_adult2"
+  ]
+}

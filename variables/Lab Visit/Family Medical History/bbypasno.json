@@ -1,0 +1,10 @@
+{
+  "id": "bbypasno",
+  "display_name": "How many brothers with Angioplasty or By-Pass Surgery",
+  "description": "",
+  "type": "numeric",
+  "units": "brothers",
+  "forms": [
+    "lab_adult2"
+  ]
+}

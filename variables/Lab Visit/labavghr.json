@@ -1,9 +1,0 @@
-{
-  "id": "labavghr",
-  "display_name": "BP: Mean lab HR",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_dataset"
-  ]
-}

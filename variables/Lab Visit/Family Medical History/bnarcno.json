@@ -1,0 +1,10 @@
+{
+  "id": "bnarcno",
+  "display_name": "How many brothers with Narcolepsy",
+  "description": "",
+  "type": "numeric",
+  "units": "brothers",
+  "forms": [
+    "lab_adult2"
+  ]
+}

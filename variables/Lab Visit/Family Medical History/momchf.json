@@ -1,0 +1,10 @@
+{
+  "id": "momchf",
+  "display_name": "Mom diagnosed Congestive Heart Failure",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_adult2"
+  ]
+}

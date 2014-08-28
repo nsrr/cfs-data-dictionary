@@ -1,8 +1,9 @@
 {
   "id": "phsegmax",
-  "display_name": "Pharyn: max segment limit",
+  "display_name": "Maximum segment limit",
   "description": "",
   "type": "numeric",
+  "units": "centimeters",
   "forms": [
     "pharyngometry_report"
   ]

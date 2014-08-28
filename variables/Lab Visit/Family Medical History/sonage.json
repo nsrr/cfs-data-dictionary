@@ -1,0 +1,9 @@
+{
+  "id": "sonage",
+  "display_name": "Ages of living sons",
+  "description": "",
+  "type": "text",
+  "forms": [
+    "lab_adult2"
+  ]
+}

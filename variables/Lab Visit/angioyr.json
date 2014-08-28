@@ -1,9 +1,0 @@
-{
-  "id": "angioyr",
-  "display_name": "95 Year Diagnosed  Coronary Angioplasty",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

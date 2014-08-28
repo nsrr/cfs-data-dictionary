@@ -1,6 +1,6 @@
 {
   "id": "pm10alco",
-  "display_name": "Blood Draw: 10 PM - how long since last alcohol drink",
+  "display_name": "10 PM - how long since last alcohol drink",
   "description": "",
   "type": "numeric",
   "forms": [

@@ -1,9 +1,0 @@
-{
-  "id": "agestop",
-  "display_name": "75 at what age did your natural periods cease?",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

@@ -1,9 +1,0 @@
-{
-  "id": "siblegs",
-  "display_name": "81 Any sibs with Restless Legs or Periodic Movement Disorder (PLMs)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

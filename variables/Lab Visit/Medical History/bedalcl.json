@@ -1,0 +1,10 @@
+{
+  "id": "bedalcl",
+  "display_name": "Do you drink 2 hours before bed",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_adult2"
+  ]
+}

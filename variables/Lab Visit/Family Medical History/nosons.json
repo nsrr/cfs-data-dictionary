@@ -1,0 +1,10 @@
+{
+  "id": "nosons",
+  "display_name": "How many sons",
+  "description": "",
+  "type": "numeric",
+  "units": "sons",
+  "forms": [
+    "lab_adult2"
+  ]
+}

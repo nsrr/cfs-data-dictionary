@@ -1,9 +1,0 @@
-{
-  "id": "daudiabe",
-  "display_name": "82 Num of dau with Diabetes",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

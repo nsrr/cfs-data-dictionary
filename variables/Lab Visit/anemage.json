@@ -1,9 +1,0 @@
-{
-  "id": "anemage",
-  "display_name": "95 Age Diagnosed Anemia",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

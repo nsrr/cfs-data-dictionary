@@ -1,0 +1,9 @@
+{
+  "id": "painches",
+  "display_name": "Ever had any chest pain or discomfort",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult2"
+  ]
+}

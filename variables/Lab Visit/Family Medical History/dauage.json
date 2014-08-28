@@ -1,0 +1,9 @@
+{
+  "id": "dauage",
+  "display_name": "Ages of living daughters",
+  "description": "",
+  "type": "text",
+  "forms": [
+    "lab_adult2"
+  ]
+}

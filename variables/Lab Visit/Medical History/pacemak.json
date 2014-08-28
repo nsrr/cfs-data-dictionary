@@ -1,0 +1,9 @@
+{
+  "id": "pacemak",
+  "display_name": "Implant of Cardiac Pacemaker",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult3"
+  ]
+}

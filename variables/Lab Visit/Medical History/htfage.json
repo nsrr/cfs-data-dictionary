@@ -1,0 +1,10 @@
+{
+  "id": "htfage",
+  "display_name": "Age Diagnosed Congestive Heart Failure",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult3"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "soonches",
+  "display_name": "How soon is chest discomfort relieved / not relieved?",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult2"
+  ]
+}

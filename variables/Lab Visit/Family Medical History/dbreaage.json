@@ -1,0 +1,10 @@
+{
+  "id": "dbreaage",
+  "display_name": "Age Daughter breast cancer",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult2"
+  ]
+}

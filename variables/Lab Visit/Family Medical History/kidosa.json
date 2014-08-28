@@ -1,0 +1,10 @@
+{
+  "id": "kidosa",
+  "display_name": "Any kids have Sleep Apnea",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_adult2"
+  ]
+}

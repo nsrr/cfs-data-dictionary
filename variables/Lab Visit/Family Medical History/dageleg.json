@@ -1,0 +1,10 @@
+{
+  "id": "dageleg",
+  "display_name": "Age Dad diagnosed Restless Legs or Periodic",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult2"
+  ]
+}

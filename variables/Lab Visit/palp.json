@@ -1,9 +1,0 @@
-{
-  "id": "palp",
-  "display_name": "14 palpitations while asleep (A)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

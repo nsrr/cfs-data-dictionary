@@ -1,0 +1,10 @@
+{
+  "id": "sibsnor",
+  "display_name": "Any siblings with Loud/Disruptive Snoring",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_adult2"
+  ]
+}

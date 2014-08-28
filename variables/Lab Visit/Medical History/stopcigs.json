@@ -1,0 +1,10 @@
+{
+  "id": "stopcigs",
+  "display_name": "Age stop smoking Cigars",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult2"
+  ]
+}

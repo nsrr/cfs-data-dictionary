@@ -1,0 +1,9 @@
+{
+  "id": "thyrm3dy",
+  "display_name": "Thyroid meds in last 3 days (L)",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

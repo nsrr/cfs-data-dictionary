@@ -1,9 +1,0 @@
-{
-  "id": "ostediag",
-  "display_name": "95 Osteoporosis",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

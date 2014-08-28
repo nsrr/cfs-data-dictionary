@@ -1,0 +1,10 @@
+{
+  "id": "kidsigmd",
+  "display_name": "Any kids have Other Significant Medical Condition",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_adult2"
+  ]
+}

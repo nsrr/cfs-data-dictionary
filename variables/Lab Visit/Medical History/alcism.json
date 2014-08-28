@@ -1,0 +1,9 @@
+{
+  "id": "alcism",
+  "display_name": "Alcoholism (A)",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult2"
+  ]
+}

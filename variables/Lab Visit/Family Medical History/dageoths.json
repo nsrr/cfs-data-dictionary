@@ -1,0 +1,10 @@
+{
+  "id": "dageoths",
+  "display_name": "Age Dad diagnosed Other Significant Medical",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult2"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "id": "kidslp",
-  "display_name": "82 Any kids have Excessive (too much) Sleepiness",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

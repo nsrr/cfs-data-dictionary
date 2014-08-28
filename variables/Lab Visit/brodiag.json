@@ -1,9 +1,0 @@
-{
-  "id": "brodiag",
-  "display_name": "95 Chronic Bronchitis",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

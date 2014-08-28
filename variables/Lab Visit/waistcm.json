@@ -1,9 +1,0 @@
-{
-  "id": "waistcm",
-  "display_name": "Mean waist circumference (cm)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_dataset"
-  ]
-}

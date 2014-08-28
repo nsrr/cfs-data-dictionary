@@ -1,9 +1,0 @@
-{
-  "id": "estrace",
-  "display_name": "76 ever use Estrace",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

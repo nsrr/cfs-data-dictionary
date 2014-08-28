@@ -1,0 +1,9 @@
+{
+  "id": "cholyrs",
+  "display_name": "If yes, Number of years used",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

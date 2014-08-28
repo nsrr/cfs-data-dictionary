@@ -1,9 +1,0 @@
-{
-  "id": "acetamno",
-  "display_name": "74 on avge, how many tablets acetaminophen",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

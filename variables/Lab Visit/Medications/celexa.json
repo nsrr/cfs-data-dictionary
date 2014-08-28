@@ -1,0 +1,9 @@
+{
+  "id": "celexa",
+  "display_name": "Celexa in the last three days",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

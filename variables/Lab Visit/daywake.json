@@ -1,6 +1,6 @@
 {
   "id": "daywake",
-  "display_name": "43 wake up time on weekdays (A)",
+  "display_name": "Wake up time on weekdays (A)",
   "description": "",
   "type": "numeric",
   "forms": [

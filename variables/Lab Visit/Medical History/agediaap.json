@@ -1,0 +1,10 @@
+{
+  "id": "agediaap",
+  "display_name": "Age Diagnosed Sleep Apnea",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult3"
+  ]
+}

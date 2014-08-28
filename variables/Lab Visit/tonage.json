@@ -1,9 +1,0 @@
-{
-  "id": "tonage",
-  "display_name": "87 age when enlarged tonsils noted (A)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

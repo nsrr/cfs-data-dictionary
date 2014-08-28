@@ -1,0 +1,10 @@
+{
+  "id": "momlive",
+  "display_name": "Mom is alive (A)",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_adult2"
+  ]
+}

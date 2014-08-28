@@ -1,0 +1,10 @@
+{
+  "id": "goutage",
+  "display_name": "Age Diagnosed Gout",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult3"
+  ]
+}

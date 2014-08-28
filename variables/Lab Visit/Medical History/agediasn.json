@@ -1,0 +1,10 @@
+{
+  "id": "agediasn",
+  "display_name": "Age Diagnosed Loud/Disruptive Snoring",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult3"
+  ]
+}

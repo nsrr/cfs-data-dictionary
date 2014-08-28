@@ -1,6 +1,6 @@
 {
   "id": "endslp",
-  "display_name": "43 time alseep on weekends (A)",
+  "display_name": "Time spent asleep on weekends (A)",
   "description": "",
   "type": "numeric",
   "forms": [

@@ -1,9 +1,0 @@
-{
-  "id": "sibdepre",
-  "display_name": "81 Any sibs with Depression",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

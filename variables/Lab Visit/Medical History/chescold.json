@@ -1,0 +1,9 @@
+{
+  "id": "chescold",
+  "display_name": "If you had any colds this year did they go to your chest?(L)",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

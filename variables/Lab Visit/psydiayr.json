@@ -1,9 +1,0 @@
-{
-  "id": "psydiayr",
-  "display_name": "95 Year Diagnosed Other Psychiatric Disease",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

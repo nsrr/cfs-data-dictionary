@@ -1,0 +1,10 @@
+{
+  "id": "sibcancr",
+  "display_name": "Any siblings with Cancer",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_adult2"
+  ]
+}

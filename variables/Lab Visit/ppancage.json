@@ -1,9 +1,0 @@
-{
-  "id": "ppancage",
-  "display_name": "83 Age Parent with Pancreatic Cancer",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

@@ -1,0 +1,10 @@
+{
+  "id": "snarcno",
+  "display_name": "How many sisters with Narcolepsy",
+  "description": "",
+  "type": "numeric",
+  "units": "sisters",
+  "forms": [
+    "lab_adult2"
+  ]
+}

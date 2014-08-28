@@ -1,0 +1,10 @@
+{
+  "id": "momage",
+  "display_name": "Age of mom (if alive)(A)",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult2"
+  ]
+}

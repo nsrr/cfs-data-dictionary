@@ -1,0 +1,10 @@
+{
+  "id": "sonlive",
+  "display_name": "How many living sons",
+  "description": "",
+  "type": "numeric",
+  "units": "sons",
+  "forms": [
+    "lab_adult2"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "bdepreno",
+  "display_name": "How many brothers with Depression",
+  "description": "",
+  "type": "numeric",
+  "units": "brothers",
+  "forms": [
+    "lab_adult2"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "dadosa",
+  "display_name": "Dad diagnosed Sleep Apnea",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_adult2"
+  ]
+}

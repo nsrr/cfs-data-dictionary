@@ -1,9 +1,0 @@
-{
-  "id": "perstart",
-  "display_name": "75 At what age did your menstrual periods begin?",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

@@ -1,0 +1,10 @@
+{
+  "id": "dagemd",
+  "display_name": "Age Dad diagnosed Muscular Dystrophy",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult2"
+  ]
+}

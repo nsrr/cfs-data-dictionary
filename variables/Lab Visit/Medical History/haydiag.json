@@ -1,0 +1,9 @@
+{
+  "id": "haydiag",
+  "display_name": "Hay Fever",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult3"
+  ]
+}

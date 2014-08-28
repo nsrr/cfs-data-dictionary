@@ -1,9 +1,0 @@
-{
-  "id": "angiop",
-  "display_name": "95 Coronary Angioplasty",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

@@ -1,6 +1,6 @@
 {
   "id": "nodrinks",
-  "display_name": "92 last month largest number ofu may have had in one day",
+  "display_name": "Last month largest number of drinks you may have had in one day",
   "description": "",
   "type": "numeric",
   "forms": [

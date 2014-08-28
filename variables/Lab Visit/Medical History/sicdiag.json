@@ -1,0 +1,9 @@
+{
+  "id": "sicdiag",
+  "display_name": "Sickle Cell Disease",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult3"
+  ]
+}

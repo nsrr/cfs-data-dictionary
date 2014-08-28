@@ -1,0 +1,9 @@
+{
+  "id": "nitrates",
+  "display_name": "Nitrates in the last three days",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

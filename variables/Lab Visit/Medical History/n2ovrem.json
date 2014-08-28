@@ -1,0 +1,9 @@
+{
+  "id": "n2ovrem",
+  "display_name": "Surgery to remove two ovaries after natural menopause",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

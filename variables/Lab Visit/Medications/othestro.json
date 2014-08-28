@@ -1,0 +1,9 @@
+{
+  "id": "othestro",
+  "display_name": "Ever use Other Estrogen",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

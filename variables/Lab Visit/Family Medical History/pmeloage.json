@@ -1,0 +1,10 @@
+{
+  "id": "pmeloage",
+  "display_name": "Age Parent with melanoma",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult2"
+  ]
+}

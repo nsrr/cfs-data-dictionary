@@ -1,0 +1,9 @@
+{
+  "id": "dispain",
+  "display_name": "Pain or physical discomfort while asleep (A)",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

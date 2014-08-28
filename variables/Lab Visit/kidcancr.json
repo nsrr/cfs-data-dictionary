@@ -1,9 +1,0 @@
-{
-  "id": "kidcancr",
-  "display_name": "82 Any kids have Cancer",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

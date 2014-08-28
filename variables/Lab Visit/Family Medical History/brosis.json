@@ -1,0 +1,10 @@
+{
+  "id": "brosis",
+  "display_name": "Any biological siblings",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_adult2"
+  ]
+}

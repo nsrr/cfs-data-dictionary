@@ -1,0 +1,9 @@
+{
+  "id": "babyasno",
+  "display_name": "On average how many baby aspirin",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

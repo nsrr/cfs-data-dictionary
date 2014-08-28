@@ -1,9 +1,0 @@
-{
-  "id": "devdiag",
-  "display_name": "95 Nose with a Deviated Septum",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

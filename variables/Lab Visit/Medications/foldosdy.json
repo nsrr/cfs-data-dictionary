@@ -1,0 +1,9 @@
+{
+  "id": "foldosdy",
+  "display_name": "Dose per day",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

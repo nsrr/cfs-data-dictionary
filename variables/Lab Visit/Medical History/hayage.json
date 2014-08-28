@@ -1,0 +1,10 @@
+{
+  "id": "hayage",
+  "display_name": "Age Diagnosed Hay Fever",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult3"
+  ]
+}

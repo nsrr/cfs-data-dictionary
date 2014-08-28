@@ -1,9 +1,0 @@
-{
-  "id": "diaexslp",
-  "display_name": "95 Excessive (too much) Sleepiness",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

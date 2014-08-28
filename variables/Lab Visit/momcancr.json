@@ -1,9 +1,0 @@
-{
-  "id": "momcancr",
-  "display_name": "77 Mom diagnosed Cancer",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

@@ -1,0 +1,9 @@
+{
+  "id": "vagestro",
+  "display_name": "Ever use vaginal estrogen",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

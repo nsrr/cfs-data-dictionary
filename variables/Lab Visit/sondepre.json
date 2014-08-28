@@ -1,9 +1,0 @@
-{
-  "id": "sondepre",
-  "display_name": "82 Num of sons with Depression",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

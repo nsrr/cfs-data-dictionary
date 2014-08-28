@@ -1,0 +1,9 @@
+{
+  "id": "tonsdiag",
+  "display_name": "Tonsillectomy",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult3"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "docpain",
+  "display_name": "See a doctor because of this pain (or discomfort)?",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult2"
+  ]
+}

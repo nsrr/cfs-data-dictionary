@@ -1,9 +1,0 @@
-{
-  "id": "daucancr",
-  "display_name": "82 Num of dau with Cancer",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

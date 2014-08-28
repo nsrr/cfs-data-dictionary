@@ -1,0 +1,10 @@
+{
+  "id": "panccanr",
+  "display_name": "Any biological relatives had Pancreatic Cancer",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_adult2"
+  ]
+}

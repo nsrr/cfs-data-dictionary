@@ -1,0 +1,9 @@
+{
+  "id": "pneudiag",
+  "display_name": "Pneumonia",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult3"
+  ]
+}

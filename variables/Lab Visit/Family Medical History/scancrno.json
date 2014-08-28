@@ -1,0 +1,10 @@
+{
+  "id": "scancrno",
+  "display_name": "How many sisters with Cancer",
+  "description": "",
+  "type": "numeric",
+  "units": "sisters",
+  "forms": [
+    "lab_adult2"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "patchest",
+  "display_name": "Ever use patch estrogen",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

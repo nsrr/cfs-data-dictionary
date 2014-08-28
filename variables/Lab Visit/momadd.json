@@ -1,9 +1,0 @@
-{
-  "id": "momadd",
-  "display_name": "77 Mom diagnosedAttention Deficit Disorder",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

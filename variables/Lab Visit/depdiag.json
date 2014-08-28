@@ -1,9 +1,0 @@
-{
-  "id": "depdiag",
-  "display_name": "95 Depression",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

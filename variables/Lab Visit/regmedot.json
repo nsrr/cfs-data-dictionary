@@ -1,9 +1,0 @@
-{
-  "id": "regmedot",
-  "display_name": "74 Other regular medicine in the last three days ",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

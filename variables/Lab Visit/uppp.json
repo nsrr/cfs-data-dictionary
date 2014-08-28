@@ -1,9 +1,0 @@
-{
-  "id": "uppp",
-  "display_name": "97 had UPPP surgery",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

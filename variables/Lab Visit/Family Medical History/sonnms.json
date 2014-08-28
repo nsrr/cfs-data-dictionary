@@ -1,0 +1,10 @@
+{
+  "id": "sonnms",
+  "display_name": "Number of sons with Acute Life Threatening Episode (ALTE)",
+  "description": "",
+  "type": "numeric",
+  "units": "sons",
+  "forms": [
+    "lab_adult2"
+  ]
+}

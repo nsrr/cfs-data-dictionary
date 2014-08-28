@@ -1,0 +1,10 @@
+{
+  "id": "pglauage",
+  "display_name": "Age Parent with glaucoma",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult2"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "angiop",
+  "display_name": "Coronary Angioplasty",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult3"
+  ]
+}

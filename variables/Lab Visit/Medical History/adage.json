@@ -1,0 +1,10 @@
+{
+  "id": "adage",
+  "display_name": "Age Diagnosed Attention Deficit Disorder",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult3"
+  ]
+}

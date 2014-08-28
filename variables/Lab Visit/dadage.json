@@ -1,9 +1,0 @@
-{
-  "id": "dadage",
-  "display_name": "79 age of dad (if alive)(A)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

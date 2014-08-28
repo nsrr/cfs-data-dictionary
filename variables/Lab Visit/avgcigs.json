@@ -1,9 +1,0 @@
-{
-  "id": "avgcigs",
-  "display_name": "85 How many cigars on average",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

@@ -1,0 +1,9 @@
+{
+  "id": "dialegs",
+  "display_name": "Restless Legs or PLMs",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult3"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "id": "hormones",
-  "display_name": "76 ever use prescription female hormones?",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

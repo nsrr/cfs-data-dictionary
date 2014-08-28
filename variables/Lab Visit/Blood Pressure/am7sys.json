@@ -1,0 +1,10 @@
+{
+  "id": "am7sys",
+  "display_name": "7 AM Systolic",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters of mercury",
+  "forms": [
+    "lab_dataset"
+  ]
+}

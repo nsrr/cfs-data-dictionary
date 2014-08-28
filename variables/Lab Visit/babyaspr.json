@@ -1,9 +1,0 @@
-{
-  "id": "babyaspr",
-  "display_name": "74 Baby aspirin in the last three days",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

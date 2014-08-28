@@ -1,9 +1,0 @@
-{
-  "id": "dagedepr",
-  "display_name": "77 Age Dad diagnosed Specify cancer",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

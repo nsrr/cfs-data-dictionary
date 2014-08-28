@@ -1,0 +1,9 @@
+{
+  "id": "parkdiag",
+  "display_name": "Parkinsons Disease",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult3"
+  ]
+}

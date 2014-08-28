@@ -1,9 +1,0 @@
-{
-  "id": "ibuprday",
-  "display_name": "74 days per week ibuprof",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

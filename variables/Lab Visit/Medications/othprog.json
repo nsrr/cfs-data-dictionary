@@ -1,0 +1,9 @@
+{
+  "id": "othprog",
+  "display_name": "Ever use Other Progeserone",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

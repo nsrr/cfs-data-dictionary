@@ -1,9 +1,0 @@
-{
-  "id": "momage",
-  "display_name": "78 age of mom (if alive)(A)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

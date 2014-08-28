@@ -1,8 +1,9 @@
 {
   "id": "am7drk",
-  "display_name": "Blood Draw: 7 AM - how long since last caffeinated drink",
+  "display_name": "7 AM - how long since last caffeinated drink",
   "description": "",
   "type": "numeric",
+  "units": "days",
   "forms": [
     "blood_draw"
   ]

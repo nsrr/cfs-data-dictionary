@@ -1,9 +1,0 @@
-{
-  "id": "chollowd",
-  "display_name": "74 Cholesterol lowering drugs in the last three days ",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

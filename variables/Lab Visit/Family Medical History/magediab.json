@@ -1,0 +1,10 @@
+{
+  "id": "magediab",
+  "display_name": "Age Mom diagnosed Diabetes",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult2"
+  ]
+}

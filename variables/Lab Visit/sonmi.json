@@ -1,9 +1,0 @@
-{
-  "id": "sonmi",
-  "display_name": "82 Num of sons with Heart Attack (Myocardial Infarction)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

@@ -1,0 +1,10 @@
+{
+  "id": "kidslp",
+  "display_name": "Any kids have Excessive (too much) Sleepiness",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_adult2"
+  ]
+}

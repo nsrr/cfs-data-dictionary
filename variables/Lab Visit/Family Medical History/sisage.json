@@ -1,0 +1,9 @@
+{
+  "id": "sisage",
+  "display_name": "Ages of living sisters",
+  "description": "",
+  "type": "text",
+  "forms": [
+    "lab_adult2"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "cancesp",
+  "display_name": "Specify other cancer",
+  "description": "",
+  "type": "text",
+  "forms": [
+    "lab_adult3"
+  ]
+}

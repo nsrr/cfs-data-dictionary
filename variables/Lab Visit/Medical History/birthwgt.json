@@ -1,0 +1,9 @@
+{
+  "id": "birthwgt",
+  "display_name": "How much did you weigh at birth? (L)",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

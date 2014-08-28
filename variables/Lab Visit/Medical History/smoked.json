@@ -1,0 +1,9 @@
+{
+  "id": "smoked",
+  "display_name": "Ever smoked cigarettes (A)",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult2"
+  ]
+}

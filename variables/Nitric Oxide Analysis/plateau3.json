@@ -1,8 +1,9 @@
 {
   "id": "plateau3",
-  "display_name": "Nitric Oxide: Plateau 3",
+  "display_name": "Plateau 3",
   "description": "",
   "type": "numeric",
+  "units": "ppm",
   "forms": [
     "nosanalyzer"
   ]

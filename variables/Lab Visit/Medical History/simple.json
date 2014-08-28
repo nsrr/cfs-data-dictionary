@@ -1,0 +1,9 @@
+{
+  "id": "simple",
+  "display_name": "Have had a simple tonsillectomy",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult3"
+  ]
+}

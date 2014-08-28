@@ -1,0 +1,10 @@
+{
+  "id": "sbypasno",
+  "display_name": "How many sisters with Angioplasty or By-Pass Surgery",
+  "description": "",
+  "type": "numeric",
+  "units": "sisters",
+  "forms": [
+    "lab_adult2"
+  ]
+}

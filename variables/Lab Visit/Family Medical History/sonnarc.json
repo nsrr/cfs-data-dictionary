@@ -1,0 +1,10 @@
+{
+  "id": "sonnarc",
+  "display_name": "Number of sons with Narcolepsy",
+  "description": "",
+  "type": "numeric",
+  "units": "sons",
+  "forms": [
+    "lab_adult2"
+  ]
+}

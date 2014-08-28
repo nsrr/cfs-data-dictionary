@@ -1,0 +1,10 @@
+{
+  "id": "depage",
+  "display_name": "Age Diagnosed Depression",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult3"
+  ]
+}

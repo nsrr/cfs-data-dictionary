@@ -1,8 +1,9 @@
 {
   "id": "bicep2",
-  "display_name": "Skinfold: bicep skinfold 2 (mm)",
+  "display_name": "bicep skinfold 2",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "skinfold"
   ]

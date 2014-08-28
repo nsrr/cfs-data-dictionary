@@ -1,0 +1,10 @@
+{
+  "id": "dagetour",
+  "display_name": "Age Dad diagnosed Tourettes Syndrome",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult2"
+  ]
+}

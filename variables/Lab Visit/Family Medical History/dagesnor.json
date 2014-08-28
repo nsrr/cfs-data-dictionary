@@ -1,0 +1,10 @@
+{
+  "id": "dagesnor",
+  "display_name": "Age Dad diagnosed Loud/Disruptive Snoring",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult2"
+  ]
+}

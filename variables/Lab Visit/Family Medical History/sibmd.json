@@ -1,0 +1,10 @@
+{
+  "id": "sibmd",
+  "display_name": "Any siblings with Muscular Dystrophy",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_adult2"
+  ]
+}

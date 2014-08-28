@@ -1,0 +1,9 @@
+{
+  "id": "femhrt",
+  "display_name": "Ever use FemHRT",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

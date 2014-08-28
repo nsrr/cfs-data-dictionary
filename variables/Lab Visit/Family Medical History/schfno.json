@@ -1,0 +1,10 @@
+{
+  "id": "schfno",
+  "display_name": "How many sisters with Congestive Heart Failure",
+  "description": "",
+  "type": "numeric",
+  "units": "sisters",
+  "forms": [
+    "lab_adult2"
+  ]
+}

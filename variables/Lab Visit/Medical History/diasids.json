@@ -1,0 +1,9 @@
+{
+  "id": "diasids",
+  "display_name": "Crib Death, SIDS",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult3"
+  ]
+}

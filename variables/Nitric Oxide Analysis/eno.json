@@ -1,8 +1,9 @@
 {
   "id": "eno",
-  "display_name": "Nitric Oxide: Expired NO",
+  "display_name": "Expired Nitric Oxide",
   "description": "",
   "type": "numeric",
+  "units": "ppm",
   "forms": [
     "nosanalyzer"
   ]

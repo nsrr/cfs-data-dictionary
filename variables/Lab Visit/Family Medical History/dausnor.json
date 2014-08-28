@@ -1,0 +1,10 @@
+{
+  "id": "dausnor",
+  "display_name": "Number of daughters with Loud/Disruptive Snoring",
+  "description": "",
+  "type": "numeric",
+  "units": "daughters",
+  "forms": [
+    "lab_adult2"
+  ]
+}

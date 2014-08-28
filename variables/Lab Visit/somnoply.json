@@ -1,9 +1,0 @@
-{
-  "id": "somnoply",
-  "display_name": "97 rec or prescribe Somnoplasty",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

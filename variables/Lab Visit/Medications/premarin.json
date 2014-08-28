@@ -1,0 +1,9 @@
+{
+  "id": "premarin",
+  "display_name": "Ever use oral Premarin",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

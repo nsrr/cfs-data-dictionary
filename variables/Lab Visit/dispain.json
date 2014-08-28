@@ -1,9 +1,0 @@
-{
-  "id": "dispain",
-  "display_name": "24 pain/physical discomfort w asleep (A)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

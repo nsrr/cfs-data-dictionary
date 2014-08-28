@@ -1,0 +1,9 @@
+{
+  "id": "sleepmed",
+  "display_name": "Sleeping medicine in the last three days",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

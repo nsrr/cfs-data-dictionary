@@ -1,0 +1,10 @@
+{
+  "id": "neckcm",
+  "display_name": "Mean neck circumference",
+  "description": "",
+  "type": "numeric",
+  "units": "centimeters",
+  "forms": [
+    "lab_dataset"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "bcancrno",
+  "display_name": "How many brothers with Cancer",
+  "description": "",
+  "type": "numeric",
+  "units": "brothers",
+  "forms": [
+    "lab_adult2"
+  ]
+}

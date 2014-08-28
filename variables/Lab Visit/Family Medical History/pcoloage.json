@@ -1,0 +1,10 @@
+{
+  "id": "pcoloage",
+  "display_name": "Age Parent with colon cancer",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult2"
+  ]
+}

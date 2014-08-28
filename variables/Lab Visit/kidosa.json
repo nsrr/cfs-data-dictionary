@@ -1,9 +1,0 @@
-{
-  "id": "kidosa",
-  "display_name": "82 Any kids have Sleep Apnea",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

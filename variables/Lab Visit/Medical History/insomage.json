@@ -1,0 +1,10 @@
+{
+  "id": "insomage",
+  "display_name": "Age Diagnosed Insomnia",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult3"
+  ]
+}

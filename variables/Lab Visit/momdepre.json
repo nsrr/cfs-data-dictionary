@@ -1,9 +1,0 @@
-{
-  "id": "momdepre",
-  "display_name": "77 Mom diagnosed Depression",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

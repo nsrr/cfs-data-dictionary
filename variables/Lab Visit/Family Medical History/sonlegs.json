@@ -1,0 +1,10 @@
+{
+  "id": "sonlegs",
+  "display_name": "Number of sons with Periodic Movement Disorder (PLMs)",
+  "description": "",
+  "type": "numeric",
+  "units": "sons",
+  "forms": [
+    "lab_adult2"
+  ]
+}

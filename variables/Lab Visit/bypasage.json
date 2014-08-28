@@ -1,9 +1,0 @@
-{
-  "id": "bypasage",
-  "display_name": "95 Age Diagnosed Coronary Bypass",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

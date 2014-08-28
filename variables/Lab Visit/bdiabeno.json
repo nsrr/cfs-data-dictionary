@@ -1,9 +1,0 @@
-{
-  "id": "bdiabeno",
-  "display_name": "81 How many bro with Diabetes",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

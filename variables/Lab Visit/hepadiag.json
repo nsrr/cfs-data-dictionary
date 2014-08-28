@@ -1,9 +1,0 @@
-{
-  "id": "hepadiag",
-  "display_name": "95 Hepatitis",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

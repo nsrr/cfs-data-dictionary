@@ -1,0 +1,9 @@
+{
+  "id": "hrtdiag",
+  "display_name": "Myocardial Infarction",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult3"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ovaries",
+  "display_name": "If surgery, were ovaries removed?",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

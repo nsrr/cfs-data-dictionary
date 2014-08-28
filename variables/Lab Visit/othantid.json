@@ -1,9 +1,0 @@
-{
-  "id": "othantid",
-  "display_name": "74  Other antidepressants in the last three days ",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

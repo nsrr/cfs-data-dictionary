@@ -1,0 +1,9 @@
+{
+  "id": "eczdiag",
+  "display_name": "Eczema",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult3"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "angioage",
+  "display_name": "Age Diagnose Coronary Angioplasty",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult3"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "id": "ssidsno",
-  "display_name": "81 How many sis with (SIDS)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

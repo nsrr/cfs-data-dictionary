@@ -1,9 +1,0 @@
-{
-  "id": "scancrno",
-  "display_name": "81 How many sis with Cancer",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

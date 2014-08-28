@@ -1,0 +1,10 @@
+{
+  "id": "sonasthm",
+  "display_name": "Number of sons with Asthma",
+  "description": "",
+  "type": "numeric",
+  "units": "sons",
+  "forms": [
+    "lab_adult2"
+  ]
+}

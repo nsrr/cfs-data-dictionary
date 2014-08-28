@@ -1,9 +1,0 @@
-{
-  "id": "tiadiag",
-  "display_name": "95 TIA (Transient Ischemic Attack)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

@@ -1,0 +1,10 @@
+{
+  "id": "bmino",
+  "display_name": "How many brothers with Excessive (too much) Sleepiness",
+  "description": "",
+  "type": "numeric",
+  "units": "brothers",
+  "forms": [
+    "lab_adult2"
+  ]
+}

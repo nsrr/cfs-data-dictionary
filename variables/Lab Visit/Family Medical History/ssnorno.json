@@ -1,0 +1,10 @@
+{
+  "id": "ssnorno",
+  "display_name": "How many sisters with Loud/Disruptive Snoring",
+  "description": "",
+  "type": "numeric",
+  "units": "sisters",
+  "forms": [
+    "lab_adult2"
+  ]
+}

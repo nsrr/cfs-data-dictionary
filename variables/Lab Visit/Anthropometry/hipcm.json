@@ -1,0 +1,10 @@
+{
+  "id": "hipcm",
+  "display_name": "Mean hip circumference",
+  "description": "",
+  "type": "numeric",
+  "units": "centimeters",
+  "forms": [
+    "lab_dataset"
+  ]
+}

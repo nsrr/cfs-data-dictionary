@@ -1,0 +1,10 @@
+{
+  "id": "psyage",
+  "display_name": "Age Diagnosed Other Psychiatric Disease",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult3"
+  ]
+}

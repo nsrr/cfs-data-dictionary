@@ -1,0 +1,9 @@
+{
+  "id": "healtpac",
+  "display_name": "Multivitamin: Health Balance Daily Pack",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

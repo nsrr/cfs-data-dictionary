@@ -1,0 +1,9 @@
+{
+  "id": "utergone",
+  "display_name": "Surgery to remove uterus after natural menopause",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

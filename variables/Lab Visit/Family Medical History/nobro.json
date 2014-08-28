@@ -1,0 +1,10 @@
+{
+  "id": "nobro",
+  "display_name": "Number of brothers",
+  "description": "",
+  "type": "numeric",
+  "units": "brothers",
+  "forms": [
+    "lab_adult2"
+  ]
+}

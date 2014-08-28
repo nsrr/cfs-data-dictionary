@@ -1,0 +1,10 @@
+{
+  "id": "momdied",
+  "display_name": "Age when mom died (A)",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult2"
+  ]
+}

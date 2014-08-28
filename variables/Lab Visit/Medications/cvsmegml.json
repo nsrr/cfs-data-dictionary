@@ -1,0 +1,9 @@
+{
+  "id": "cvsmegml",
+  "display_name": "Multivitamin: CVS Mega Multi",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

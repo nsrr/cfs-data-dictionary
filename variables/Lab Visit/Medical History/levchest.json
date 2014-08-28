@@ -1,0 +1,9 @@
+{
+  "id": "levchest",
+  "display_name": "Chest discomfort when walk at an ordinary pace",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult2"
+  ]
+}

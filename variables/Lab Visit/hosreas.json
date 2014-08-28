@@ -1,6 +1,6 @@
 {
   "id": "hosreas",
-  "display_name": "96 reason for hospitalization",
+  "display_name": "Reason for hospitalization",
   "description": "",
   "type": "text",
   "forms": [

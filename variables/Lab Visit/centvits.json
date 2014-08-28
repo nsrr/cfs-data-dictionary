@@ -1,9 +1,0 @@
-{
-  "id": "centvits",
-  "display_name": "74 Mult Vit: Central Vite Select",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

@@ -1,6 +1,6 @@
 {
   "id": "lnbmi",
-  "display_name": "log(BMI)",
+  "display_name": "Log(BMI)",
   "description": "",
   "type": "numeric",
   "forms": [

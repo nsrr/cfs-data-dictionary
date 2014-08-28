@@ -1,9 +1,0 @@
-{
-  "id": "surgery",
-  "display_name": "75 periods stop due to surgery",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

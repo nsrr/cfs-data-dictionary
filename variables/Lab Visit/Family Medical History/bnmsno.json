@@ -1,0 +1,10 @@
+{
+  "id": "bnmsno",
+  "display_name": "How many brothers with Near Miss SIDS",
+  "description": "",
+  "type": "numeric",
+  "units": "brothers",
+  "forms": [
+    "lab_adult2"
+  ]
+}

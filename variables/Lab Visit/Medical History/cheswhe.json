@@ -1,0 +1,9 @@
+{
+  "id": "cheswhe",
+  "display_name": "Chest wheeze or whistle last yr (A)",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "curpreg",
+  "display_name": "Currently pregnant (A)",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

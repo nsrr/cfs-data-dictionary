@@ -1,0 +1,10 @@
+{
+  "id": "magestro",
+  "display_name": "Age Mom diagnosed Stroke (TIA)",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult2"
+  ]
+}

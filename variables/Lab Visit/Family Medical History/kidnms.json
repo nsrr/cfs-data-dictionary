@@ -1,0 +1,10 @@
+{
+  "id": "kidnms",
+  "display_name": "Any kids have Acute Life Threatening Episode (ALTE)",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_adult2"
+  ]
+}

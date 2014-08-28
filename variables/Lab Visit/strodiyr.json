@@ -1,9 +1,0 @@
-{
-  "id": "strodiyr",
-  "display_name": "95 Year DiagnosedStroke (CVA)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

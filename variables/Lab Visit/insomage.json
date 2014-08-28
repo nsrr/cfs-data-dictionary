@@ -1,9 +1,0 @@
-{
-  "id": "insomage",
-  "display_name": "95 Age Diagnosed Insomnia",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

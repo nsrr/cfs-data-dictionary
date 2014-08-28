@@ -1,0 +1,10 @@
+{
+  "id": "sonsickl",
+  "display_name": "Number of sons with Sickle Cell Disease",
+  "description": "",
+  "type": "numeric",
+  "units": "sons",
+  "forms": [
+    "lab_adult2"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "id": "mornhead",
-  "display_name": "20 morning headaches (A)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

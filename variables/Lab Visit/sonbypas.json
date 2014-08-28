@@ -1,9 +1,0 @@
-{
-  "id": "sonbypas",
-  "display_name": "82 Num of sons with Angioplasty or By-Pass Surgery",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

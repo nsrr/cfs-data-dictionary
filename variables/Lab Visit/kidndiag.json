@@ -1,9 +1,0 @@
-{
-  "id": "kidndiag",
-  "display_name": "95 Kidney Stones",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

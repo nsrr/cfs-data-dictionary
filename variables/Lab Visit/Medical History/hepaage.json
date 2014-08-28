@@ -1,0 +1,10 @@
+{
+  "id": "hepaage",
+  "display_name": "Age Diagnosed Hepatitis",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult3"
+  ]
+}

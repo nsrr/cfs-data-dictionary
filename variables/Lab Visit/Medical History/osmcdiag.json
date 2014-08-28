@@ -1,0 +1,9 @@
+{
+  "id": "osmcdiag",
+  "display_name": "Other Significant Medical Condition",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult3"
+  ]
+}

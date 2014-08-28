@@ -1,9 +1,0 @@
-{
-  "id": "foldosdy",
-  "display_name": "74 Dose per day",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

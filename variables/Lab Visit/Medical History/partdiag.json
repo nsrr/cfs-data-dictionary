@@ -1,0 +1,9 @@
+{
+  "id": "partdiag",
+  "display_name": "Peripheral Artery Disease of Claudication of the Legs",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult3"
+  ]
+}

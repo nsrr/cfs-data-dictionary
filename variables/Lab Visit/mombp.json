@@ -1,9 +1,0 @@
-{
-  "id": "mombp",
-  "display_name": "77 Mom diagnosed High Blood Pressure",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

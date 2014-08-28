@@ -1,0 +1,9 @@
+{
+  "id": "h2bloc",
+  "display_name": "Other H2 Blocker in the last three days",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

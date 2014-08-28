@@ -1,6 +1,6 @@
 {
   "id": "chgtime",
-  "display_name": "33 bedtime changed by > 2 hrs (A)",
+  "display_name": "Bedtime changed by > 2 hrs (A)",
   "description": "",
   "type": "numeric",
   "forms": [

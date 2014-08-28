@@ -1,0 +1,9 @@
+{
+  "id": "melonoma",
+  "display_name": "Any biological relatives had Melanoma",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult2"
+  ]
+}

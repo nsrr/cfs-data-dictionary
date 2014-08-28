@@ -1,9 +1,0 @@
-{
-  "id": "momlegs",
-  "display_name": "77 Mom diagnosed Restless Legs or Periodic",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

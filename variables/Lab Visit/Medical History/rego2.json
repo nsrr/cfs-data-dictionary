@@ -1,0 +1,9 @@
+{
+  "id": "rego2",
+  "display_name": "Did you require oxygen at birth",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

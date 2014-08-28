@@ -1,9 +1,0 @@
-{
-  "id": "monpipe",
-  "display_name": "85 Last month, have you smoked Pipes?",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

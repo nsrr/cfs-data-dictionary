@@ -1,0 +1,10 @@
+{
+  "id": "angage",
+  "display_name": "Age Diagnosed Chest Pain from a heart condition",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult3"
+  ]
+}

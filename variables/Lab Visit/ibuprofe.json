@@ -1,9 +1,0 @@
-{
-  "id": "ibuprofe",
-  "display_name": "74 Ibuprofen in the last three days",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

@@ -1,8 +1,9 @@
 {
   "id": "pm10sys3",
-  "display_name": "BP: 10 PM - Systolic 3",
+  "display_name": "10 PM - Systolic 3",
   "description": "",
   "type": "numeric",
+  "units": "millimeters of mercury",
   "forms": [
     "nurses_flow_sheet"
   ]

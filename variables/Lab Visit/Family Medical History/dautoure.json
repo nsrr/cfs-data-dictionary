@@ -1,0 +1,10 @@
+{
+  "id": "dautoure",
+  "display_name": "Number of daughters with Tourettes Syndrome",
+  "description": "",
+  "type": "numeric",
+  "units": "daughters",
+  "forms": [
+    "lab_adult2"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "behage",
+  "display_name": "Age Diagnosed Behavior Disorder",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult3"
+  ]
+}

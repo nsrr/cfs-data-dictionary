@@ -1,0 +1,10 @@
+{
+  "id": "bbpno",
+  "display_name": "How many brothers with High Blood Pressure",
+  "description": "",
+  "type": "numeric",
+  "units": "brothers",
+  "forms": [
+    "lab_adult2"
+  ]
+}

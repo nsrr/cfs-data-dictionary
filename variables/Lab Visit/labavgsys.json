@@ -1,9 +1,0 @@
-{
-  "id": "labavgsys",
-  "display_name": "BP: Mean lab Systolic BP",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_dataset"
-  ]
-}

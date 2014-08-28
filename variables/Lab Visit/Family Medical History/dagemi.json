@@ -1,0 +1,10 @@
+{
+  "id": "dagemi",
+  "display_name": "Age Dad diagnosed Heart Attack",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult2"
+  ]
+}

@@ -1,8 +1,9 @@
 {
   "id": "phsegmin",
-  "display_name": "Pharyn: min segment limit",
+  "display_name": "Minimum segment limit",
   "description": "",
   "type": "numeric",
+  "units": "centimeters",
   "forms": [
     "pharyngometry_report"
   ]

@@ -1,9 +1,0 @@
-{
-  "id": "anediayr",
-  "display_name": "95 Year Diagnosed Anemia",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

@@ -1,9 +1,0 @@
-{
-  "id": "kids",
-  "display_name": "82 has any children **rectype2 specifies since last visit",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

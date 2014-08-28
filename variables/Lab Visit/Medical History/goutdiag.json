@@ -1,0 +1,9 @@
+{
+  "id": "goutdiag",
+  "display_name": "Gout",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult3"
+  ]
+}

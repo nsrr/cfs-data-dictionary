@@ -1,9 +1,0 @@
-{
-  "id": "birthwgt",
-  "display_name": "58 How much did you weight at birth? (L)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

@@ -1,9 +1,0 @@
-{
-  "id": "oralster",
-  "display_name": "74 Steroids taken orally in the last three days ",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

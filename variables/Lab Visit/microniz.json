@@ -1,9 +1,0 @@
-{
-  "id": "microniz",
-  "display_name": "76 ever use Micronized (e.g. Prometrium)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

@@ -1,8 +1,9 @@
 {
   "id": "am930cig",
-  "display_name": "Blood Draw: 9:30 AM - how long since last cigarette",
+  "display_name": "9:30 AM - how long since last cigarette",
   "description": "",
   "type": "numeric",
+  "units": "days",
   "forms": [
     "blood_draw"
   ]

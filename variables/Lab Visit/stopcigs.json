@@ -1,9 +1,0 @@
-{
-  "id": "stopcigs",
-  "display_name": "85 Age stop smoking Cigars",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

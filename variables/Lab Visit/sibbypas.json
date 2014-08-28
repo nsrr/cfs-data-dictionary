@@ -1,9 +1,0 @@
-{
-  "id": "sibbypas",
-  "display_name": "81 Any sibs with Angioplasty or By-Pass Surgery",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

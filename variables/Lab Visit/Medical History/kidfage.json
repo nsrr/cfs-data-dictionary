@@ -1,0 +1,10 @@
+{
+  "id": "kidfage",
+  "display_name": "Age Diagnosed Kidney Failure",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult3"
+  ]
+}

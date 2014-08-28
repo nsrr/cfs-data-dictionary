@@ -1,0 +1,9 @@
+{
+  "id": "fornu100",
+  "display_name": "Multivitamin: Formula 100, Nutri-100",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

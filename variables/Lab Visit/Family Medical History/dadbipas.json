@@ -1,0 +1,10 @@
+{
+  "id": "dadbipas",
+  "display_name": "Dad diagnosed Angioplasty or By-pass Surgery",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_adult2"
+  ]
+}

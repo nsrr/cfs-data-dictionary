@@ -1,9 +1,0 @@
-{
-  "id": "psychsp",
-  "display_name": "95 Specify Psychiatric dz",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "lab_adult3"
-  ]
-}

@@ -1,0 +1,9 @@
+{
+  "id": "tonpres",
+  "display_name": "Enlarged tonsils still present (A)",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult2"
+  ]
+}

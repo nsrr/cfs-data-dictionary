@@ -1,9 +1,0 @@
-{
-  "id": "bornpre",
-  "display_name": "55 born prematurely",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

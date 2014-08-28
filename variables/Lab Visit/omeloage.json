@@ -1,9 +1,0 @@
-{
-  "id": "omeloage",
-  "display_name": "83 Age Offspring with melanoma",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

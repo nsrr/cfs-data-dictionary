@@ -1,6 +1,6 @@
 {
   "id": "daymin",
-  "display_name": "44  minutes sleep during the weekdays",
+  "display_name": "Number of minutes of sleep during the weekdays",
   "description": "",
   "type": "numeric",
   "forms": [

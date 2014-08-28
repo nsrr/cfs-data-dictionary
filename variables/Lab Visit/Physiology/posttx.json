@@ -1,6 +1,6 @@
 {
   "id": "posttx",
-  "display_name": "subject studied post-treatment",
+  "display_name": "Subject studied post-treatment",
   "description": "",
   "type": "numeric",
   "forms": [

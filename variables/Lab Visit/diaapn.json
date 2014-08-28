@@ -1,9 +1,0 @@
-{
-  "id": "diaapn",
-  "display_name": "97 ever been diagnosed w/ sleep apnea",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult3"
-  ]
-}

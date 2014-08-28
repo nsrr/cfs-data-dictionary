@@ -1,9 +1,0 @@
-{
-  "id": "sondiabe",
-  "display_name": "82 Num of sons with Diabetes",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

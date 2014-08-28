@@ -1,0 +1,9 @@
+{
+  "id": "skintst",
+  "display_name": "Have a skintest for allergies",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult2"
+  ]
+}

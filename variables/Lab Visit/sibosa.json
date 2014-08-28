@@ -1,9 +1,0 @@
-{
-  "id": "sibosa",
-  "display_name": "81 Any sibs with Sleep Apnea",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

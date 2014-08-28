@@ -1,9 +1,0 @@
-{
-  "id": "lstmens",
-  "display_name": "75 When was your last period?",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

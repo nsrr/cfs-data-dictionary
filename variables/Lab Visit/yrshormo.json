@@ -1,9 +1,0 @@
-{
-  "id": "yrshormo",
-  "display_name": "76 How many months did you use them during the last 2 years",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

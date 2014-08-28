@@ -1,9 +1,0 @@
-{
-  "id": "glaucoma",
-  "display_name": "83 Any bio relatives had Glaucoma",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

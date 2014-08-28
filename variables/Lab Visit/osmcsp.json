@@ -1,9 +1,0 @@
-{
-  "id": "osmcsp",
-  "display_name": "95 Specify other sig med condition",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "lab_adult3"
-  ]
-}

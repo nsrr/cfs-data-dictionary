@@ -1,9 +1,0 @@
-{
-  "id": "weekpre",
-  "display_name": "55 how many weeks early",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult1"
-  ]
-}

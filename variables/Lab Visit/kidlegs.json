@@ -1,9 +1,0 @@
-{
-  "id": "kidlegs",
-  "display_name": "82 Any kids have Restless Legs or Periodic Movement Disorder (PLMs)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

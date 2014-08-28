@@ -1,0 +1,10 @@
+{
+  "id": "irrage",
+  "display_name": "Age Diagnosed Irregular Heart Beat",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult3"
+  ]
+}

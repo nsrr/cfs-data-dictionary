@@ -1,0 +1,9 @@
+{
+  "id": "dadspecc",
+  "display_name": "Dad diagnosed Specify cancer",
+  "description": "",
+  "type": "text",
+  "forms": [
+    "lab_adult2"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "prozac",
+  "display_name": "Prozac in the last three days",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "id": "pmeloage",
-  "display_name": "83 Age Parent with melanoma",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

@@ -1,0 +1,10 @@
+{
+  "id": "empage",
+  "display_name": "Age Diagnosed Emphysema",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult3"
+  ]
+}

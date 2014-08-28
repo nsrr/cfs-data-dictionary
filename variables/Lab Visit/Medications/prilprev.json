@@ -1,0 +1,9 @@
+{
+  "id": "prilprev",
+  "display_name": "Prilosec or Prevacid in the last three days",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult1"
+  ]
+}

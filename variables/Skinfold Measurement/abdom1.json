@@ -1,8 +1,9 @@
 {
   "id": "abdom1",
-  "display_name": "Skinfold: abdominal 1 (mm)",
+  "display_name": "abdominal 1",
   "description": "",
   "type": "numeric",
+  "units": "millimeters",
   "forms": [
     "skinfold"
   ]

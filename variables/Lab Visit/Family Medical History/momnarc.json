@@ -1,0 +1,10 @@
+{
+  "id": "momnarc",
+  "display_name": "Mom diagnosed Narcolepsy",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_adult2"
+  ]
+}

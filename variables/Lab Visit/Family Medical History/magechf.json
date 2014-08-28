@@ -1,0 +1,10 @@
+{
+  "id": "magechf",
+  "display_name": "Age Mom diagnosed Congestive Heart Failure",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult2"
+  ]
+}

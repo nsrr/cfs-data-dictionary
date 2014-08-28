@@ -1,8 +1,9 @@
 {
   "id": "alcohday",
-  "display_name": "91 On avg last year how many alc bev per week?",
+  "display_name": "On average last year how many alcoholic beverages did you drink per week?",
   "description": "",
   "type": "numeric",
+  "units": "days per week",
   "forms": [
     "lab_adult2"
   ]

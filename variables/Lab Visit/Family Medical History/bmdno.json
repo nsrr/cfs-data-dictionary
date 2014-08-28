@@ -1,0 +1,10 @@
+{
+  "id": "bmdno",
+  "display_name": "How many brothers with Muscular Dystrophy",
+  "description": "",
+  "type": "numeric",
+  "units": "brothers",
+  "forms": [
+    "lab_adult2"
+  ]
+}

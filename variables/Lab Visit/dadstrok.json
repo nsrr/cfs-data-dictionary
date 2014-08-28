@@ -1,9 +1,0 @@
-{
-  "id": "dadstrok",
-  "display_name": "77 Dad diagnosed Stroke (TIA)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

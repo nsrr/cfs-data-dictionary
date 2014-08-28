@@ -1,0 +1,9 @@
+{
+  "id": "dianarc",
+  "display_name": "Narcolepsy",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "lab_adult3"
+  ]
+}

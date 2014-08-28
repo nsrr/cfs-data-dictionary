@@ -1,0 +1,10 @@
+{
+  "id": "dadbp",
+  "display_name": "Dad diagnosed High Blood Pressure",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno",
+  "forms": [
+    "lab_adult2"
+  ]
+}

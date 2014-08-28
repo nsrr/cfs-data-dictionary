@@ -1,0 +1,10 @@
+{
+  "id": "alcage",
+  "display_name": "Age when alcoholism noted (A)",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "forms": [
+    "lab_adult2"
+  ]
+}
