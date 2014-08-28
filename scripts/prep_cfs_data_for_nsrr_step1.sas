@@ -101,7 +101,7 @@ run;
 data nsrrdata.combined_rectypes_pass1_20140716;
   set combined_rectypes_NULL_err0;
 
-	attrib _all_ label = "";
+  attrib _all_ label = "";
   format _all_;
 run;
 */
@@ -181,7 +181,7 @@ data rectype5_pass1;
   merge obf.obfid rectype5_narrowedvars(drop=motherid fatherid in=a);
   by personi;
 
-	attrib _all_ label = "";
+  attrib _all_ label = "";
   format _all_;
 
   if a;
@@ -222,9 +222,9 @@ quit;
 */
 
 %let date_variable_list = visitdat date visitaa visitecg visitbr visitld visitnfs;
-%let year_variable_list = yrdiagn APNDIAYR DIANARYR DIASNOYR DIAEXSYR DIALEGYR DIACHLYR DIASIDYR DIANMYR DIABPYR DIAHRTYR DIADIAYR DIAIRRYR ANGDIAYR BYPDIAYR ANGIOYR 
-                            HTFDIAYR PACDIAYR HEAAGEYR STRODIYR ENDARTYR TIADIAYR PARTDIYR OSTDIAYR GULDIAYR PARDIAYR CRODIAYR  KIDNDIYR LIVDIAYR KFDIAGYR MDYSDIYR 
-                            TOUDIAYR SICDIAYR ANEDIAYR CIRDIAYR HEPDIAYR ASTDIAYR BRODIAYR EMPDIAYR PNEDIAYR SINDIAYR HAYDIAYR DEVDIAYR ADEDIAYR TONDIAYR INSDIAYR 
+%let year_variable_list = yrdiagn APNDIAYR DIANARYR DIASNOYR DIAEXSYR DIALEGYR DIACHLYR DIASIDYR DIANMYR DIABPYR DIAHRTYR DIADIAYR DIAIRRYR ANGDIAYR BYPDIAYR ANGIOYR
+                            HTFDIAYR PACDIAYR HEAAGEYR STRODIYR ENDARTYR TIADIAYR PARTDIYR OSTDIAYR GULDIAYR PARDIAYR CRODIAYR  KIDNDIYR LIVDIAYR KFDIAGYR MDYSDIYR
+                            TOUDIAYR SICDIAYR ANEDIAYR CIRDIAYR HEPDIAYR ASTDIAYR BRODIAYR EMPDIAYR PNEDIAYR SINDIAYR HAYDIAYR DEVDIAYR ADEDIAYR TONDIAYR INSDIAYR
                             ANXDIAYR ADDDIAYR BEHDIAYR GOUDIAYR MSCDIAYR RHEDIAYR THYDIAYR DEPDIAYR ECZDIAYR PSYDIAYR CANDIAYR SURDIAYR OSMDIAYR;
 
 data alldata_withindexdates_obf;
@@ -271,24 +271,20 @@ data alldata_withindexdates_obf2 (drop = store_year_whenpsg);
 
 run;
 
-proc sql;
-  select index_date, whenpsg, whenpsg_yearsfromindex
-  from  alldata_withindexdates_obf2
-  where whenpsg_yearsfromindex ne .;
-quit;
-
 data alldata_withindexdates_obf2;
   set alldata_withindexdates_obf2 (drop = whenpsg);
   rename whenpsg_yearsfromindex = whenpsg;
 run;
 
+/*
 proc freq data = alldata_withindexdates_obf2;
   table whenpsg;
 run;
+*/
 
-%let phivars_droplist = NAMDOC TXOTHER MOMSPECC DADSPECC BROCAUS1 BROCAUS2 BROCAUS3 SISCAUS1 SISCAUS2 SISCAUS3 SIBCANSP SONCAUS1 SONCAUS2 SONCAUS3 
+%let phivars_droplist = NAMDOC TXOTHER MOMSPECC DADSPECC BROCAUS1 BROCAUS2 BROCAUS3 SISCAUS1 SISCAUS2 SISCAUS3 SIBCANSP SONCAUS1 SONCAUS2 SONCAUS3
                           DAUCAUS1 DAUCAUS2 DAUCAUS3 KIDCANSP DOCSAY MAJSURSP OSMCSP
-                        dna_bestsampleid 
+                        dna_bestsampleid
 ;
 
 %let whyinclude_droplist = ANKARMTK BRTECH OPERATOR rpt;
@@ -310,6 +306,9 @@ proc sql noprint;
   select &char_variable_list
   from alldata_obf_penult;
 quit;
+
+%put &char_variable_list;
+
 /*
 proc contents data = check_char_vars;
 run;
@@ -325,5 +324,88 @@ data alldata_obf_all /*nsrrdata.rectype5_pass1_obfphi*/;
   drop &additional_droplist;
 run;
 
-proc export data=alldata_obf_all outfile="\\rfa01\bwh-sleepepi-home\projects\cohorts\Family\nsrr-prep\_releases\&release\cfs-rectype5-dataset-&release..csv" dbms=csv replace; 
+proc import datafile = "\\rfa01\bwh-sleepepi-home\projects\cohorts\Family\nsrr-prep\cfs_systematic_cleaning_variables.csv" dbms = csv out = systematic_cleaning replace;
+guessingrows = 250;
+run;
+
+proc sql noprint;
+  select variable_name into :null_negative_list separated by " "
+  from systematic_cleaning
+  where lowcase(cleaning_step) = "null negatives";
+
+  select variable_name into :null_negative_chars separated by " "
+  from systematic_cleaning
+  where lowcase(cleaning_step) = "null negatives (char)";
+
+  select variable_name into :outlier_implausible_list separated by " "
+  from systematic_cleaning
+  where lowcase(cleaning_step) = "outliers or implausible" and fixed_or_checked ne 1;
+quit;
+
+%put &null_negative_list;
+%put &null_negative_chars;
+
+data alldata_obf_all_systclean;
+  set alldata_obf_all;
+
+  array null_negatives[*] &null_negative_list;
+  do i = 1 to dim(null_negatives);
+    if null_negatives[i] < 0 then null_negatives[i] = .;
+  end;
+  drop i;
+
+  array null_negatives_charray[*] &null_negative_chars;
+  do i = 1 to dim(null_negatives_charray);
+    if null_negatives_charray[i] in ("-1", "-2", "-8", "-9","-333", "-999","-1010") then null_negatives_charray[i] = "";
+  end;
+  drop i;
+run;
+
+data alldata_obf_all_systclean2;
+  retain obf_pptid &outlier_implausible_list;
+  set alldata_obf_all_systclean;
+run;
+
+proc sort data = alldata_obf_all_systclean2 out=aa_alldata_obf_all_systclean2;
+by lowsaoslp;
+run;
+
+proc sql;
+select obf_pptid,
+      hypbpsys,
+      sbp
+from aa_alldata_obf_all_systclean2
+where 0 le hypbpsys < 80 or hypbpsys > 200;
+quit;
+
+data alldata_obf_all_moreclean;
+  set alldata_obf_all_systclean;
+
+  *NULL cases where "maximum inflation" is less than observed value;
+  if ankarmil < ankardsp then ankarmil = .;
+
+  *NULL implausible bp values;
+  if hypbpsys < 20 then hypbpsys = .;
+
+  *NULL implausible lowo2 values;
+  if lowsaoslp = 0 then lowsaoslp = .;
+  if lowsaonr < 10 then lowsaonr = .;
+  *consider nulling cases where lowsaonr < lowsaoslp;
+
+  *recalculate end_dur_hr and end_dur_mn (must have been some flaw in original formula);
+  endslp_timevalue = hms(floor(endslp/100),mod(endslp,100),0);
+  endwake_timevalue = hms(floor(endwake/100),mod(endwake,100),0);
+
+  if endwake_timevalue = 0 and endslp_timevalue ge (11*60*60) then end_dur_mn = ((endwake_timevalue+(24*60*60)) - endslp_timevalue)/60;
+  else if endslp_timevalue ge (12*60*60) and endwake_timevalue le (12*60*60) then end_dur_mn = ((endwake_timevalue+(24*60*60)) - endslp_timevalue)/60;
+  else end_dur_mn = (endwake_timevalue - endslp_timevalue)/60;
+
+  if end_dur_mn < 0 then end_dur_mn = .;
+  end_dur_hr = end_dur_mn/60;
+  drop endslp_timevalue endwake_timevalue;
+
+run;
+
+
+proc export data=alldata_obf_all_moreclean outfile="\\rfa01\bwh-sleepepi-home\projects\cohorts\Family\nsrr-prep\_releases\&release\cfs-rectype5-dataset-&release..csv" dbms=csv replace;
 run;
