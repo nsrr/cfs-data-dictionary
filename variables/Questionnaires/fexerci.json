@@ -2,7 +2,8 @@
   "id": "fexerci",
   "display_name": "FOSQ: Difficulty exercising",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "fosq"
   ]

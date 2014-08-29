@@ -2,7 +2,8 @@
   "id": "vaginal",
   "display_name": "Ever use Vaginal",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

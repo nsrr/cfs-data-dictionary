@@ -2,7 +2,8 @@
   "id": "palp",
   "display_name": "Palpitations while asleep (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

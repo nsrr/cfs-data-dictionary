@@ -2,7 +2,8 @@
   "id": "reasrem",
   "display_name": "Reason tonsils/adenoids removed (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult2"
   ]

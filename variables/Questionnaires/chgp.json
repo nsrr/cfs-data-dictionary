@@ -2,7 +2,8 @@
   "id": "chgp",
   "display_name": "SF-36 Health Transition Item ?",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "sf36"
   ]

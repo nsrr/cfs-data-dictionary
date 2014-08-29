@@ -2,7 +2,8 @@
   "id": "q9q3a",
   "display_name": "CHQ-PF50: Q9Q3A",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "chq_pr"
   ]

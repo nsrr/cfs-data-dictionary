@@ -2,7 +2,8 @@
   "id": "nowpipe",
   "display_name": "How many Pipes (bowls) per day now?",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult2"
   ]

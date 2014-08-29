@@ -2,7 +2,8 @@
   "id": "chstpain",
   "display_name": "Chest pain while in bed (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

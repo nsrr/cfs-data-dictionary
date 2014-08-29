@@ -2,7 +2,8 @@
   "id": "agesmok",
   "display_name": "84a age when first smoked cigarettes (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult2"
   ]

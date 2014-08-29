@@ -2,7 +2,8 @@
   "id": "monitor",
   "display_name": "Sleep Diary: sleep monitor used for study (AC)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "sleep_diary"
   ]

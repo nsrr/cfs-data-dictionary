@@ -2,7 +2,8 @@
   "id": "tiadiag",
   "display_name": "TIA (Transient Ischemic Attack)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

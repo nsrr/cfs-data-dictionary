@@ -2,7 +2,8 @@
   "id": "nasdecyr",
   "display_name": "Antihistamines in last yr (L)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

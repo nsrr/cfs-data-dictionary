@@ -2,7 +2,8 @@
   "id": "hepadiag",
   "display_name": "Hepatitis",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

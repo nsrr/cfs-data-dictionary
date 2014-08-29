@@ -2,7 +2,8 @@
   "id": "diachol",
   "display_name": "Elevated Cholesterol",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

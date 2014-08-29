@@ -2,7 +2,8 @@
   "id": "mscldiag",
   "display_name": "Multiple Sclerosis",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

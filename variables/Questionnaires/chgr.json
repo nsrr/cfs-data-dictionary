@@ -2,7 +2,8 @@
   "id": "chgr",
   "display_name": "SF-36 Raw Health Transition Item (ht)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "sf36"
   ]

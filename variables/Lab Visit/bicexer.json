@@ -2,7 +2,8 @@
   "id": "bicexer",
   "display_name": "Past year time spent bicycling (including stationary machine)?(L)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

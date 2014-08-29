@@ -2,7 +2,8 @@
   "id": "regbas",
   "display_name": "Do you use CPAP on a regular basis",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

@@ -2,7 +2,8 @@
   "id": "weatcold",
   "display_name": "Cold weather gives you a stuffy or runny nose (L)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

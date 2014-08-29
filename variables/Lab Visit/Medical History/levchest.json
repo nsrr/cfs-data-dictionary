@@ -2,7 +2,8 @@
   "id": "levchest",
   "display_name": "Chest discomfort when walk at an ordinary pace",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult2"
   ]

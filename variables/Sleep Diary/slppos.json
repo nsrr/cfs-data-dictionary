@@ -2,7 +2,8 @@
   "id": "slppos",
   "display_name": "PostSleep: What position did you sleep in most of the night?",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "postsleep"
   ]

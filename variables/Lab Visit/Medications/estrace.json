@@ -2,7 +2,8 @@
   "id": "estrace",
   "display_name": "Ever use Estrace",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

@@ -2,7 +2,8 @@
   "id": "prozac",
   "display_name": "Prozac in the last three days",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

@@ -2,7 +2,8 @@
   "id": "aspirmon",
   "display_name": "Last month have you used aspirin",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

@@ -2,7 +2,8 @@
   "id": "phl1st",
   "display_name": "Phlegm 1st thing in morning",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

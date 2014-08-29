@@ -2,7 +2,8 @@
   "id": "melonoma",
   "display_name": "Any biological relatives had Melanoma",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult2"
   ]

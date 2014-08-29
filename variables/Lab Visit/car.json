@@ -2,7 +2,8 @@
   "id": "car",
   "display_name": "Of accidents while driving (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

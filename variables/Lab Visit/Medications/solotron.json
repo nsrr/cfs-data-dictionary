@@ -2,7 +2,8 @@
   "id": "solotron",
   "display_name": "Multivitamin: Solotron for Women",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

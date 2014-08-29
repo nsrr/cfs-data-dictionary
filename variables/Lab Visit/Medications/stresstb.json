@@ -2,7 +2,8 @@
   "id": "stresstb",
   "display_name": "Multivitamin: Stresstabs",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

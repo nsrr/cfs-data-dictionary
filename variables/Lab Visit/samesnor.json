@@ -2,7 +2,8 @@
   "id": "samesnor",
   "display_name": "Variation in snores in last month (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

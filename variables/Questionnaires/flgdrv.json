@@ -2,7 +2,8 @@
   "id": "flgdrv",
   "display_name": "FOSQ: Difficulty driving long distances",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "fosq"
   ]

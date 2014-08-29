@@ -2,7 +2,8 @@
   "id": "dendev",
   "display_name": "Received or prescribed dental device as a treatment",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

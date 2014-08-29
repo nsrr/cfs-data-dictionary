@@ -2,7 +2,8 @@
   "id": "injury",
   "display_name": "100 has been injuries or accidents in family",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

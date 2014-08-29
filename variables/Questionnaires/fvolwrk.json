@@ -2,7 +2,8 @@
   "id": "fvolwrk",
   "display_name": "FOSQ: Difficulty performing work",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "fosq"
   ]

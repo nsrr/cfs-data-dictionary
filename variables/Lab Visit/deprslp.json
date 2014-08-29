@@ -2,7 +2,8 @@
   "id": "deprslp",
   "display_name": "Lie awake feeling depressed, etc. (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

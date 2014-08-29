@@ -2,7 +2,8 @@
   "id": "chrphle",
   "display_name": "Bring up phlegm as much as twice a day",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

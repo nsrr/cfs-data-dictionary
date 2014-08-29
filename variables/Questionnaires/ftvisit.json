@@ -2,7 +2,8 @@
   "id": "ftvisit",
   "display_name": "FOSQ: Difficulty visiting in their home",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "fosq"
   ]

@@ -2,7 +2,8 @@
   "id": "work",
   "display_name": "Have you ever worked outside home (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

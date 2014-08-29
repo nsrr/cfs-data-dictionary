@@ -2,7 +2,8 @@
   "id": "microniz",
   "display_name": "Ever use Micronized (e.g. Prometrium)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

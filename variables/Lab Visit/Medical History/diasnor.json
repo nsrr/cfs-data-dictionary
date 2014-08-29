@@ -2,7 +2,8 @@
   "id": "diasnor",
   "display_name": "Loud/Disruptive Snoring",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

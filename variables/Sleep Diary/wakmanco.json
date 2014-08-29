@@ -2,7 +2,8 @@
   "id": "wakmanco",
   "display_name": "PostSleep: Compared to usual, wake up more, same, or less?",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "postsleep"
   ]

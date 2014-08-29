@@ -2,7 +2,8 @@
   "id": "phenterm",
   "display_name": "Phentermine in the last three days",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

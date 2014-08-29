@@ -2,7 +2,8 @@
   "id": "adddiag",
   "display_name": "Attention Deficit Disorder",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

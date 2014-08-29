@@ -1,8 +1,9 @@
 {
   "id": "othprog",
-  "display_name": "Ever use Other Progeserone",
+  "display_name": "Ever use Other Progesterone",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

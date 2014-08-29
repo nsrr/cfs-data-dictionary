@@ -2,7 +2,8 @@
   "id": "vigexer",
   "display_name": "Past year time spent other vigorous activities(L)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

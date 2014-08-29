@@ -2,7 +2,8 @@
   "id": "sharbed",
   "display_name": "Does someone share a bedroom with you",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

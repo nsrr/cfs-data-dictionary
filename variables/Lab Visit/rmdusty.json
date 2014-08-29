@@ -2,7 +2,8 @@
   "id": "rmdusty",
   "display_name": "A dusty room gives you a stuffy of runny nose(L)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

@@ -2,7 +2,8 @@
   "id": "hrtdiag",
   "display_name": "Myocardial Infarction",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

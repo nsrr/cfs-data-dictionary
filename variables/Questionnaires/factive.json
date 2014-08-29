@@ -2,7 +2,8 @@
   "id": "factive",
   "display_name": "FOSQ: Level of activity",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "fosq"
   ]

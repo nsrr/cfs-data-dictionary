@@ -2,7 +2,8 @@
   "id": "caffdrk",
   "display_name": "Use caffeine drinks to stay awake (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

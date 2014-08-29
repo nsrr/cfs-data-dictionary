@@ -2,7 +2,8 @@
   "id": "mosq3j",
   "display_name": "MOS: Q3J (pf10)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "sf36"
   ]

@@ -2,7 +2,8 @@
   "id": "struggle",
   "display_name": "Struggle for breath while asleep (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

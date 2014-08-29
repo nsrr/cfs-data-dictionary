@@ -2,7 +2,8 @@
   "id": "chgtime",
   "display_name": "Bedtime changed by > 2 hrs (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

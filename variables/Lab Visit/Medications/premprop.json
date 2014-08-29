@@ -2,7 +2,8 @@
   "id": "premprop",
   "display_name": "Ever use Prempro (pink):",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

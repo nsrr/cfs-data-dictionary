@@ -2,7 +2,8 @@
   "id": "ftheatr",
   "display_name": "FOSQ: Difficulty enjoying theater",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "fosq"
   ]

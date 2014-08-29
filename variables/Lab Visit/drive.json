@@ -2,7 +2,8 @@
   "id": "drive",
   "display_name": "Ever driven a vehicle (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

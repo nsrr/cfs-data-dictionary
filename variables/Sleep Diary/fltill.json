@@ -2,7 +2,8 @@
   "id": "fltill",
   "display_name": "PreSleep: Felt ill today or last 2 weeks?",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "presleep"
   ]

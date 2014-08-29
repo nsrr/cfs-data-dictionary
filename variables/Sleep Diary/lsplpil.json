@@ -2,7 +2,8 @@
   "id": "lsplpil",
   "display_name": "PreSleep: Sleeping Pill today?",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "presleep"
   ]

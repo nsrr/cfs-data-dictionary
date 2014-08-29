@@ -2,7 +2,8 @@
   "id": "dialegs",
   "display_name": "Restless Legs or PLMs",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

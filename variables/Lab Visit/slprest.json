@@ -2,7 +2,8 @@
   "id": "slprest",
   "display_name": "Do not wake up feeling rested (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

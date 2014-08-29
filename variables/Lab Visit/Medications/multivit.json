@@ -2,7 +2,8 @@
   "id": "multivit",
   "display_name": "Do you currently take a multi-vitamin?",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

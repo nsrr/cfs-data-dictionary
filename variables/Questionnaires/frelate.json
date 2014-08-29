@@ -2,7 +2,8 @@
   "id": "frelate",
   "display_name": "FOSQ: Relationships been affected",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "fosq"
   ]

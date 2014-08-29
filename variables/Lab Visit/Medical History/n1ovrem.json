@@ -2,7 +2,8 @@
   "id": "n1ovrem",
   "display_name": "Surgery to remove one ovary after natural menopause",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

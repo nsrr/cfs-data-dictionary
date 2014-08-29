@@ -2,7 +2,8 @@
   "id": "onlynite",
   "display_name": "62g wheeze only during nights (AC)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

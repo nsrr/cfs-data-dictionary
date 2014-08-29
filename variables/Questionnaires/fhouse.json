@@ -2,7 +2,8 @@
   "id": "fhouse",
   "display_name": "FOSQ: Difficulty doing work around the house",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "fosq"
   ]

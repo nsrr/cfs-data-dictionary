@@ -2,7 +2,8 @@
   "id": "eat",
   "display_name": "How often fall asleep eating?",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

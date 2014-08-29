@@ -2,7 +2,8 @@
   "id": "smoke5yr",
   "display_name": "Did mom smoke during the first five years of your life? (L)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

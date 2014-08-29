@@ -2,7 +2,8 @@
   "id": "fpace",
   "display_name": "FOSQ: Difficulty keeping pace",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "fosq"
   ]

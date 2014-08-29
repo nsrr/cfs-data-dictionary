@@ -2,7 +2,8 @@
   "id": "mondist",
   "display_name": "Snoring disturbs others, past month (AC)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

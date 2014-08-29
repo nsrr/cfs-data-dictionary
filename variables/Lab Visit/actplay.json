@@ -2,7 +2,8 @@
   "id": "actplay",
   "display_name": "How often fall asleep active with friends?",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

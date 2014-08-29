@@ -2,7 +2,8 @@
   "id": "astpl3dy",
   "display_name": "Breathing pills in last 3 days (L)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

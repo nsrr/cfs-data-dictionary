@@ -2,7 +2,8 @@
   "id": "wheexer",
   "display_name": "Do you wheeze when exercising (AC)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

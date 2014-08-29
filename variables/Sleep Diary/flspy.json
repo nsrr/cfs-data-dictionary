@@ -2,7 +2,8 @@
   "id": "flspy",
   "display_name": "PostSleep: Do you feel sleepy this morning?",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "postsleep"
   ]

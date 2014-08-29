@@ -2,7 +2,8 @@
   "id": "zbec",
   "display_name": "Multivitamin: Z-Bec",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

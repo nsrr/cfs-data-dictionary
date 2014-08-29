@@ -2,7 +2,8 @@
   "id": "wompowpk",
   "display_name": "Multivitamin: Women Power Pack",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

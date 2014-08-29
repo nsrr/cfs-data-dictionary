@@ -2,7 +2,8 @@
   "id": "lcafbev",
   "display_name": "PreSleep: Have you had any caffeinated drinls after 5 p.m. this evening",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "presleep"
   ]

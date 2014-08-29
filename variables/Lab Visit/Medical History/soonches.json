@@ -2,7 +2,8 @@
   "id": "soonches",
   "display_name": "How soon is chest discomfort relieved / not relieved?",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult2"
   ]

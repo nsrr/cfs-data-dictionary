@@ -2,7 +2,8 @@
   "id": "bronchio",
   "display_name": "Sleep Diary: took bronchodilators on day of study(AC)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "sleep_diary"
   ]

@@ -2,7 +2,8 @@
   "id": "loudsnor",
   "display_name": "4 snores (AC)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

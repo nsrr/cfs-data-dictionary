@@ -2,7 +2,8 @@
   "id": "strnnos",
   "display_name": "Are you bothered by a stuffy or runny nose? (L)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

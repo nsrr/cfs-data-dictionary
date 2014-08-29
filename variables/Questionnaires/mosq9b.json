@@ -2,7 +2,8 @@
   "id": "mosq9b",
   "display_name": "MOS: Q9B mh1",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "sf36"
   ]

@@ -2,7 +2,8 @@
   "id": "tonsaden",
   "display_name": "Tonsils/adenoids removed (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult2"
   ]

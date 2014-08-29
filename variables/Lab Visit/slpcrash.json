@@ -2,7 +2,8 @@
   "id": "slpcrash",
   "display_name": "Almost had a car accident because you were sleepy (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

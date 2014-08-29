@@ -2,7 +2,8 @@
   "id": "fevenng",
   "display_name": "FOSQ: Difficulty in evening",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "fosq"
   ]

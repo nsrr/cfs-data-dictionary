@@ -2,7 +2,8 @@
   "id": "ocuvitpl",
   "display_name": "Multivitamin: Ocuvite Plus",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

@@ -2,7 +2,8 @@
   "id": "angdiag",
   "display_name": "Angina pectoris or Chest Pain from a heart condition",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

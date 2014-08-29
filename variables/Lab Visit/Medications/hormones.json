@@ -2,7 +2,8 @@
   "id": "hormones",
   "display_name": "Ever use prescription female hormones?",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

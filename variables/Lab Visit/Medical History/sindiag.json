@@ -2,7 +2,8 @@
   "id": "sindiag",
   "display_name": "Sinus",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

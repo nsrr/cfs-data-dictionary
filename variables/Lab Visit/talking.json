@@ -2,7 +2,8 @@
   "id": "talking",
   "display_name": "Ever fallen asleep while talking (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

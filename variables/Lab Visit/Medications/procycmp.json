@@ -2,7 +2,8 @@
   "id": "procycmp",
   "display_name": "Ever use Provera/Cycrin/MPA",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

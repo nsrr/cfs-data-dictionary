@@ -2,7 +2,8 @@
   "id": "uphchest",
   "display_name": "Chest discomfort when you walk uphill or hurry",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult2"
   ]

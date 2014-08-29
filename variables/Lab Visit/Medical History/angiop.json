@@ -2,7 +2,8 @@
   "id": "angiop",
   "display_name": "Coronary Angioplasty",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

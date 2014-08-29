@@ -1,8 +1,9 @@
 {
   "id": "thiazide",
-  "display_name": "Thiazide diureti in the last three days",
+  "display_name": "Thiazide diuretics in the last three days",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

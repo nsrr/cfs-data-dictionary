@@ -2,7 +2,8 @@
   "id": "parkdiag",
   "display_name": "Parkinsons Disease",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

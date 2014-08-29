@@ -2,7 +2,8 @@
   "id": "unuslp",
   "display_name": "PostSleep: Did anything unusual happen to disturb your sleep last night?",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "postsleep"
   ]

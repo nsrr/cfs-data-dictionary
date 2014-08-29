@@ -2,7 +2,8 @@
   "id": "lanti",
   "display_name": "PreSleep: Antihistamines today?",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "presleep"
   ]

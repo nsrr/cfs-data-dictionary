@@ -2,7 +2,8 @@
   "id": "apnobst",
   "display_name": "Sleep Study: subj had predominantly obstructive apnea",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "physio_report"
   ]

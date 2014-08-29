@@ -2,7 +2,8 @@
   "id": "tondiag",
   "display_name": "Enlarged tonsils diagnosed by doctor (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult2"
   ]

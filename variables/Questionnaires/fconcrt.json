@@ -2,7 +2,8 @@
   "id": "fconcrt",
   "display_name": "FOSQ: Difficulty enjoying concert",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "fosq"
   ]

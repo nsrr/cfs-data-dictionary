@@ -2,7 +2,8 @@
   "id": "jogexer",
   "display_name": "Past year time spent jogging (slower than 10 minutes/mile)(L)?",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

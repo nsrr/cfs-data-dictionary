@@ -2,7 +2,8 @@
   "id": "fosq_global",
   "display_name": "FOSQ Global Score",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "fosq"
   ]

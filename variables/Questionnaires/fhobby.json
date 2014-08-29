@@ -2,7 +2,8 @@
   "id": "fhobby",
   "display_name": "FOSQ: Difficulty working on a hobby",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "fosq"
   ]

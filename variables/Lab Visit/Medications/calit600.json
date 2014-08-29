@@ -2,7 +2,8 @@
   "id": "calit600",
   "display_name": "Multivitamin: Calitrate 600",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

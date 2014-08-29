@@ -2,7 +2,8 @@
   "id": "osmcdiag",
   "display_name": "Other Significant Medical Condition",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

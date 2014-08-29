@@ -2,7 +2,8 @@
   "id": "stdynite",
   "display_name": "105 steady night shift work (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

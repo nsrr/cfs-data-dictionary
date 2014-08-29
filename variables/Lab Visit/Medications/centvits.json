@@ -2,7 +2,8 @@
   "id": "centvits",
   "display_name": "Multivitamin: Central Vite Select",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

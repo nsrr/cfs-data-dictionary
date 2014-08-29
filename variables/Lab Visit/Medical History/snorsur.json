@@ -2,7 +2,8 @@
   "id": "snorsur",
   "display_name": "Have surgery for snoring",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

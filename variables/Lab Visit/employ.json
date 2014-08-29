@@ -2,7 +2,8 @@
   "id": "employ",
   "display_name": "102 employment status (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

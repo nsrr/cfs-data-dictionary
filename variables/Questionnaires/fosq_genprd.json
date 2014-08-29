@@ -2,7 +2,8 @@
   "id": "fosq_genprd",
   "display_name": "FOSQ General Productivity",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "fosq"
   ]

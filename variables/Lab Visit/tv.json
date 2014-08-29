@@ -2,7 +2,8 @@
   "id": "tv",
   "display_name": "How often do you fall asleep while watching tv",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

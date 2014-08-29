@@ -2,7 +2,8 @@
   "id": "othchldr",
   "display_name": "Other cholesterol lowering drug in the last three days",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

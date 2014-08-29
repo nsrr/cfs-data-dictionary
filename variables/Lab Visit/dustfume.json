@@ -2,7 +2,8 @@
   "id": "dustfume",
   "display_name": "62e wheeze when exposed to dust/fume (AC)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

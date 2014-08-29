@@ -2,7 +2,8 @@
   "id": "wellslp",
   "display_name": "Sleep Diary: how well slept night of study (AC)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "sleep_diary"
   ]

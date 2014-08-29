@@ -2,7 +2,8 @@
   "id": "adendiag",
   "display_name": "Adenoidectomy",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

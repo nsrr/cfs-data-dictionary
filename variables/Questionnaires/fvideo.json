@@ -2,7 +2,8 @@
   "id": "fvideo",
   "display_name": "FOSQ: Difficulty watching movie",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "fosq"
   ]

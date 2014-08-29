@@ -2,7 +2,8 @@
   "id": "fsexual",
   "display_name": "FOSQ: Sexual relationship affected",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "fosq"
   ]

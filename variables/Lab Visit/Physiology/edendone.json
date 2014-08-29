@@ -2,7 +2,8 @@
   "id": "edendone",
   "display_name": "Sleep Study: Edentec sleep study done",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "physio_report"
   ]

@@ -2,7 +2,8 @@
   "id": "fgetdon",
   "display_name": "FOSQ: Difficulty getting things done",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "fosq"
   ]

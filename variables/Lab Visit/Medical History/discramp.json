@@ -2,7 +2,8 @@
   "id": "discramp",
   "display_name": "Leg cramps",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

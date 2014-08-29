@@ -2,7 +2,8 @@
   "id": "mosq1",
   "display_name": "MOS: Q1 (gh1)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "sf36"
   ]

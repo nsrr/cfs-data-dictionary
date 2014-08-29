@@ -2,7 +2,8 @@
   "id": "relative",
   "display_name": "Relationship to index",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "nunames"
   ]

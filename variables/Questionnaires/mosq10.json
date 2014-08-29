@@ -2,7 +2,8 @@
   "id": "mosq10",
   "display_name": "MOS: Q10 sf2",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "sf36"
   ]

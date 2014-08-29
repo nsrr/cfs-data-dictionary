@@ -2,7 +2,8 @@
   "id": "fosq_actlev",
   "display_name": "FOSQ Activity Level",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "fosq"
   ]

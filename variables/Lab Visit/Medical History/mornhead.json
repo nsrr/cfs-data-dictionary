@@ -2,7 +2,8 @@
   "id": "mornhead",
   "display_name": "Morning headaches (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

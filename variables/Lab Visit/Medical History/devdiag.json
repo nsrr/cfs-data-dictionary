@@ -2,7 +2,8 @@
   "id": "devdiag",
   "display_name": "Nose with a Deviated Septum",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

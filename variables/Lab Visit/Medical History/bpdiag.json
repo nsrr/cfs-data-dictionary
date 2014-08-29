@@ -2,7 +2,8 @@
   "id": "bpdiag",
   "display_name": "High Blood Pressure",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

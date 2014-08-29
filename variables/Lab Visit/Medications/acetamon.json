@@ -2,7 +2,8 @@
   "id": "acetamon",
   "display_name": "Last month have you used acetaminophen",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

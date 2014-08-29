@@ -2,7 +2,8 @@
   "id": "extissue",
   "display_name": "Excessive tissue observed by tester",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "inlab_physio"
   ]

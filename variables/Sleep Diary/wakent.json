@@ -2,7 +2,8 @@
   "id": "wakent",
   "display_name": "PostSleep: Did you wake up during the night?",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "postsleep"
   ]

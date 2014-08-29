@@ -2,7 +2,8 @@
   "id": "legexer",
   "display_name": "Past year time spent weight training legs(L)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

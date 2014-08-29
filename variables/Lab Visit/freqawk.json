@@ -2,7 +2,8 @@
   "id": "freqawk",
   "display_name": "Frequent awakenings (AC)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

@@ -2,7 +2,8 @@
   "id": "shaklee",
   "display_name": "Multivitamin: Shaklee Vita-Lea",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

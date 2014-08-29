@@ -2,7 +2,8 @@
   "id": "estrate",
   "display_name": "Ever use Estratest",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

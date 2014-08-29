@@ -2,7 +2,8 @@
   "id": "diaprob",
   "display_name": "Problems with Diastolic BP measures",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_dataset"
   ]

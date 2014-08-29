@@ -2,7 +2,8 @@
   "id": "fshdrv",
   "display_name": "FOSQ: Difficulty driving short distances",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "fosq"
   ]

@@ -2,7 +2,8 @@
   "id": "cafbevad",
   "display_name": "On average, how often do you drink caffeine",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult2"
   ]

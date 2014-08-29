@@ -2,7 +2,8 @@
   "id": "snloudly",
   "display_name": "Loud Snoring, loud enough to wake others (L)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

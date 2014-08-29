@@ -2,7 +2,8 @@
   "id": "cirrdiag",
   "display_name": "Cirrhosis of the Liver",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

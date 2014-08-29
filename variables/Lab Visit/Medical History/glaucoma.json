@@ -2,7 +2,8 @@
   "id": "glaucoma",
   "display_name": "Any biological relatives had Glaucoma",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult2"
   ]

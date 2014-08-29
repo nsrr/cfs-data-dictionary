@@ -2,7 +2,8 @@
   "id": "drvrslp",
   "display_name": "Ever fallen asleep driving (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

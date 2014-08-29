@@ -2,7 +2,8 @@
   "id": "depdiag",
   "display_name": "Depression",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

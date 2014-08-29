@@ -2,7 +2,8 @@
   "id": "protegra",
   "display_name": "Multivitamin: Protegra",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

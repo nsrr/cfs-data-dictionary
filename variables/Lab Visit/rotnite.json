@@ -2,7 +2,8 @@
   "id": "rotnite",
   "display_name": "104 rotating night shift work (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

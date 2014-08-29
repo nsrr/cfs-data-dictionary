@@ -2,7 +2,8 @@
   "id": "natsurno",
   "display_name": "No surgery to remove ovaries/uterus after natural menopause",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

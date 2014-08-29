@@ -2,7 +2,8 @@
   "id": "posn",
   "display_name": "Usual sleep position (AC)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

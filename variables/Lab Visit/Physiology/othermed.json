@@ -2,7 +2,8 @@
   "id": "othermed",
   "display_name": "Sleep Diary: took other meds on day of study (AC)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "sleep_diary"
   ]

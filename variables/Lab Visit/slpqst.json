@@ -2,7 +2,8 @@
   "id": "slpqst",
   "display_name": "Subject dozed off while completing questionnaire",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

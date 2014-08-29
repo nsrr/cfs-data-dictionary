@@ -2,7 +2,8 @@
   "id": "somnoply",
   "display_name": "Received or prescribed Somnoplasty",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

@@ -2,7 +2,8 @@
   "id": "dishrtb",
   "display_name": "Heartburn during normal sleep time (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

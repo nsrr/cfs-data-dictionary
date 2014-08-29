@@ -2,7 +2,8 @@
   "id": "oneadayw",
   "display_name": "Multivitamin: One A Day Womens",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

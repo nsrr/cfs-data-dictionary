@@ -2,7 +2,8 @@
   "id": "wkschool",
   "display_name": "How often do you fall asleep at work or school?",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

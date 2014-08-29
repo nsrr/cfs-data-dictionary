@@ -2,7 +2,8 @@
   "id": "diffslp",
   "display_name": "Difficulty falling asleep (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

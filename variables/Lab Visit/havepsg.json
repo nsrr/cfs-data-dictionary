@@ -2,7 +2,8 @@
   "id": "havepsg",
   "display_name": "109 subj had a previous sleep study",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

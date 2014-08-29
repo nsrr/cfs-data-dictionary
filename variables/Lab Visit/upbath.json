@@ -2,7 +2,8 @@
   "id": "upbath",
   "display_name": "Wake up to use toilet greater than 2 times (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

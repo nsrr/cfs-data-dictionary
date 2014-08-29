@@ -2,7 +2,8 @@
   "id": "tonsdiag",
   "display_name": "Tonsillectomy",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

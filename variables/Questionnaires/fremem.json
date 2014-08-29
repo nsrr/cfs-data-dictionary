@@ -2,7 +2,8 @@
   "id": "fremem",
   "display_name": "FOSQ: Difficulty remembering",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "fosq"
   ]

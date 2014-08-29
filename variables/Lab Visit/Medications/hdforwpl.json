@@ -2,7 +2,8 @@
   "id": "hdforwpl",
   "display_name": "Multivitamin: Healthy Direction Forward Plus",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

@@ -2,7 +2,8 @@
   "id": "dysfn",
   "display_name": "What time of day do you function worst (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

@@ -2,7 +2,8 @@
   "id": "wheattac",
   "display_name": "Attack of wheezing past year that made you feel short of breath?(L)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

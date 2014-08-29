@@ -2,7 +2,8 @@
   "id": "otmasurg",
   "display_name": "Other Major Surgery",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

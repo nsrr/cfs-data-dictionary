@@ -2,7 +2,8 @@
   "id": "txuse",
   "display_name": "Treatment use",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "inlab_physio"
   ]

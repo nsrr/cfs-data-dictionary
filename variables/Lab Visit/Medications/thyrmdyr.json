@@ -2,7 +2,8 @@
   "id": "thyrmdyr",
   "display_name": "Thyroid medicines in last yr (L)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

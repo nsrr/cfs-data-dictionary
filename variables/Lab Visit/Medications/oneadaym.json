@@ -2,7 +2,8 @@
   "id": "oneadaym",
   "display_name": "Multivitamin: One A Day Maximum",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

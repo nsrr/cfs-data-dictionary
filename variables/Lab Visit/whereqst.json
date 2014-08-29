@@ -2,7 +2,8 @@
   "id": "whereqst",
   "display_name": "Where was the questionnaire was completed",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

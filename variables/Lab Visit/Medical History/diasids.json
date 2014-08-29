@@ -2,7 +2,8 @@
   "id": "diasids",
   "display_name": "Crib Death, SIDS",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

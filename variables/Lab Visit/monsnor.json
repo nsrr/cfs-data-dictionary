@@ -2,7 +2,8 @@
   "id": "monsnor",
   "display_name": "Loudness of snoring in last month (AC)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

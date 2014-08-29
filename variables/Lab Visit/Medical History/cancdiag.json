@@ -2,7 +2,8 @@
   "id": "cancdiag",
   "display_name": "Cancer",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

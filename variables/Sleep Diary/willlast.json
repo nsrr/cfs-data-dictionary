@@ -2,7 +2,8 @@
   "id": "willlast",
   "display_name": "PreSleep: How long ago last ill?",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "presleep"
   ]

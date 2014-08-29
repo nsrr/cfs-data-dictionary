@@ -2,7 +2,8 @@
   "id": "hosp",
   "display_name": "Hospitalized since last visit",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

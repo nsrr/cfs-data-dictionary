@@ -2,7 +2,8 @@
   "id": "irrdiag",
   "display_name": "Irregular Heart Beat",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

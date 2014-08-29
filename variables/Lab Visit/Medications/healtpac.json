@@ -2,7 +2,8 @@
   "id": "healtpac",
   "display_name": "Multivitamin: Health Balance Daily Pack",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

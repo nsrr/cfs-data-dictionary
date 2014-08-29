@@ -2,7 +2,8 @@
   "id": "position",
   "display_name": "Sleep Diary: position slept in most during study (AC)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "sleep_diary"
   ]

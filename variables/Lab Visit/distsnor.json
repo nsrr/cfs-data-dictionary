@@ -2,7 +2,8 @@
   "id": "distsnor",
   "display_name": "Snoring disturbs others (AC)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

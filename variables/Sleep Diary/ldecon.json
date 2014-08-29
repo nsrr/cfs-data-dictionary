@@ -2,7 +2,8 @@
   "id": "ldecon",
   "display_name": "PreSleep: Decongestant today?",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "presleep"
   ]

@@ -2,7 +2,8 @@
   "id": "stufexer",
   "display_name": "Does exercise give you a stuffy or runny nose (L)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

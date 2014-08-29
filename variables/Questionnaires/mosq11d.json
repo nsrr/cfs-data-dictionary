@@ -2,7 +2,8 @@
   "id": "mosq11d",
   "display_name": "MOS: Q11D gh5",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "sf36"
   ]

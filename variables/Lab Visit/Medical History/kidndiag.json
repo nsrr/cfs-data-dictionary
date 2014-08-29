@@ -2,7 +2,8 @@
   "id": "kidndiag",
   "display_name": "Kidney Stones",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

@@ -2,7 +2,8 @@
   "id": "fosq_vigiln",
   "display_name": "FOSQ Vigilence",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "fosq"
   ]

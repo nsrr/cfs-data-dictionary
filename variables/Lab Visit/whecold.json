@@ -2,7 +2,8 @@
   "id": "whecold",
   "display_name": "Do you wheeze when have a cold (AC)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

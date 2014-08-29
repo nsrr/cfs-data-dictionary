@@ -2,7 +2,8 @@
   "id": "ffinace",
   "display_name": "FOSQ: Difficulty with financial affairs",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "fosq"
   ]

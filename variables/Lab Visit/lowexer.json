@@ -2,7 +2,8 @@
   "id": "lowexer",
   "display_name": "Past year time spent low intensity exercise(L)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

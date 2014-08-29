@@ -2,7 +2,8 @@
   "id": "function",
   "display_name": "What time of day that you function best (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

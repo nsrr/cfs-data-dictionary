@@ -2,7 +2,8 @@
   "id": "bornpre",
   "display_name": "Born prematurely",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

@@ -2,7 +2,8 @@
   "id": "typetx",
   "display_name": "Type of sleep apnea treatment",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "inlab_physio"
   ]

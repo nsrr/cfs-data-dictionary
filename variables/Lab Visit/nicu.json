@@ -2,7 +2,8 @@
   "id": "nicu",
   "display_name": "57Were you in nicu",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

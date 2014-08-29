@@ -2,7 +2,8 @@
   "id": "lanymed",
   "display_name": "PreSleep: Have you taken any medication today?",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "presleep"
   ]

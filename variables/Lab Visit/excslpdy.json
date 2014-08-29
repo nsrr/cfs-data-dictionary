@@ -2,7 +2,8 @@
   "id": "excslpdy",
   "display_name": "Excessive sleepiness during day (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

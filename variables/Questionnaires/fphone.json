@@ -2,7 +2,8 @@
   "id": "fphone",
   "display_name": "FOSQ: Difficulty with phone conversation",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "fosq"
   ]

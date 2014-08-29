@@ -2,7 +2,8 @@
   "id": "fhelpng",
   "display_name": "FOSQ: Difficulty doing things with friends",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "fosq"
   ]

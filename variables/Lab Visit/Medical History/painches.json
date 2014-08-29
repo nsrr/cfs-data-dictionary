@@ -2,7 +2,8 @@
   "id": "painches",
   "display_name": "Ever had any chest pain or discomfort",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult2"
   ]

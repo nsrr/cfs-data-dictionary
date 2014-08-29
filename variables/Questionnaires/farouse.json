@@ -2,7 +2,8 @@
   "id": "farouse",
   "display_name": "FOSQ: Sexual ability affected",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "fosq"
   ]

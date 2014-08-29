@@ -2,7 +2,8 @@
   "id": "marstat",
   "display_name": "Marital Status",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "nunames"
   ]

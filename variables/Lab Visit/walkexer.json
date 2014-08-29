@@ -2,7 +2,8 @@
   "id": "walkexer",
   "display_name": "Past year time spent walking for exercise or walking to work? (L)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

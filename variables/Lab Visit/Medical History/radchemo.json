@@ -1,8 +1,9 @@
 {
   "id": "radchemo",
-  "display_name": "Periods stop chemotherapy",
+  "display_name": "Periods stopped due to chemotherapy",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

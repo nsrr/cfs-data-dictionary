@@ -2,7 +2,8 @@
   "id": "goutdiag",
   "display_name": "Gout",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

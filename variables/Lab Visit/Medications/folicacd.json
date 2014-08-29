@@ -2,7 +2,8 @@
   "id": "folicacd",
   "display_name": "Do you take Folic Acid?",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

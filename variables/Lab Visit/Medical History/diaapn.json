@@ -1,8 +1,9 @@
 {
   "id": "diaapn",
-  "display_name": "Ever been diagnosed w/ sleep apnea",
+  "display_name": "Ever been diagnosed with sleep apnea",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

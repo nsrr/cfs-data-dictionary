@@ -2,7 +2,8 @@
   "id": "obslp",
   "display_name": "106 lives different house,but observed sleep",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

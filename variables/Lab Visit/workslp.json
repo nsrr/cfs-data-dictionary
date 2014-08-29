@@ -2,7 +2,8 @@
   "id": "workslp",
   "display_name": "Fallen asleep on the job (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

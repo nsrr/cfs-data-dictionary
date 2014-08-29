@@ -2,7 +2,8 @@
   "id": "armexer",
   "display_name": "Past year time spent weight training arms(L)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

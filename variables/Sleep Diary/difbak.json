@@ -2,7 +2,8 @@
   "id": "difbak",
   "display_name": "PostSleep: Have difficulty falling back to sleep?",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "postsleep"
   ]

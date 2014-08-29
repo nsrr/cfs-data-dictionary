@@ -2,7 +2,8 @@
   "id": "centsilv",
   "display_name": "Multivitamin: Centrum Silver",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

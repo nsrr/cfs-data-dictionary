@@ -2,7 +2,8 @@
   "id": "mosq3a",
   "display_name": "MOS: Q3A (pf01)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "sf36"
   ]

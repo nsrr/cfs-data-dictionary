@@ -2,7 +2,8 @@
   "id": "offroad",
   "display_name": "Had to pull off road while driving (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

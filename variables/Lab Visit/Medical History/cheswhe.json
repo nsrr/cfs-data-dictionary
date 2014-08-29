@@ -2,7 +2,8 @@
   "id": "cheswhe",
   "display_name": "Chest wheeze or whistle last yr (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

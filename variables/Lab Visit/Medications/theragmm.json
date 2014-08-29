@@ -1,8 +1,9 @@
 {
   "id": "theragmm",
-  "display_name": "Multivitamin: heragram M",
+  "display_name": "Multivitamin: Theragram M",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

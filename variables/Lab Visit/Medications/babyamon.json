@@ -2,7 +2,8 @@
   "id": "babyamon",
   "display_name": "Last month have you baby aspirin",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

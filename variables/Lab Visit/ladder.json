@@ -2,7 +2,8 @@
   "id": "ladder",
   "display_name": "111 Where would you place yourself on this ladder?",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

@@ -1,8 +1,9 @@
 {
   "id": "lazertx",
-  "display_name": "Rec or prescribe Laser Treatment",
+  "display_name": "Received or prescribed Laser Treatment",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

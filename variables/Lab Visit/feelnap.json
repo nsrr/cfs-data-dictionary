@@ -2,7 +2,8 @@
   "id": "feelnap",
   "display_name": "42c how often do you feel refreshed after nap (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

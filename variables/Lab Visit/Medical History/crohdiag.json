@@ -2,7 +2,8 @@
   "id": "crohdiag",
   "display_name": "Ulcerative Colitis/Crohns",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

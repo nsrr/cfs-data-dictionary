@@ -2,7 +2,8 @@
   "id": "choke",
   "display_name": "8 choke while asleep (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

@@ -2,7 +2,8 @@
   "id": "cvsminer",
   "display_name": "Multivitamin: CVS Daily w Minerals",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

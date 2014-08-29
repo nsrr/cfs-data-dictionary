@@ -2,7 +2,8 @@
   "id": "devsept",
   "display_name": "Deviated septum observed by tester",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "inlab_physio"
   ]

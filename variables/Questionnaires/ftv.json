@@ -1,8 +1,9 @@
 {
   "id": "ftv",
-  "display_name": "FOSQ: Difficulty watcing tv",
+  "display_name": "FOSQ: Difficulty watching tv",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "fosq"
   ]

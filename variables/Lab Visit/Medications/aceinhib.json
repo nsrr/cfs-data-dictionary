@@ -2,7 +2,8 @@
   "id": "aceinhib",
   "display_name": "ACE Inhibitors in the last three days",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

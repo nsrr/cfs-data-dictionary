@@ -2,8 +2,8 @@
   "id": "ethnicity",
   "display_name": "Subject ethnicity",
   "description": "",
-  "type": "numeric",
-  "units": "FIND DOMAIN VALUES",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_dataset"
   ]

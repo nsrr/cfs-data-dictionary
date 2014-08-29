@@ -2,7 +2,8 @@
   "id": "period",
   "display_name": "Sleep Study: subj had periodicity",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "physio_report"
   ]

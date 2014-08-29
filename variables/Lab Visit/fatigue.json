@@ -2,7 +2,8 @@
   "id": "fatigue",
   "display_name": "Fatigued after sleeping",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

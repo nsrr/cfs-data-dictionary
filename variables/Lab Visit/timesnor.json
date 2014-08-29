@@ -2,7 +2,8 @@
   "id": "timesnor",
   "display_name": "Loudness of snoring (AC)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

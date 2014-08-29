@@ -2,7 +2,8 @@
   "id": "fmeal",
   "display_name": "FOSQ: Difficulty furnishing a meal",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "fosq"
   ]

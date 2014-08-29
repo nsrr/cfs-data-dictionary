@@ -2,7 +2,8 @@
   "id": "astdiag",
   "display_name": "Asthma",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

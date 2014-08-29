@@ -2,7 +2,8 @@
   "id": "unicapm",
   "display_name": "Multivitamin: Unicap-M",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

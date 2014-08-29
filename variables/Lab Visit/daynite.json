@@ -2,7 +2,8 @@
   "id": "daynite",
   "display_name": "62c wheeze most days or nights (AC)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

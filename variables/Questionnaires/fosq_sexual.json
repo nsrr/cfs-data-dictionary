@@ -2,7 +2,8 @@
   "id": "fosq_sexual",
   "display_name": "FOSQ Sexual Activity",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "fosq"
   ]

@@ -2,7 +2,8 @@
   "id": "prelcpap",
   "display_name": "Sleep Study: on CPAP",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "physio_report"
   ]

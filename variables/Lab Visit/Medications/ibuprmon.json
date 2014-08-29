@@ -1,8 +1,9 @@
 {
   "id": "ibuprmon",
-  "display_name": "Last month have you used ibuprof",
+  "display_name": "Last month have you used ibuprofen",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

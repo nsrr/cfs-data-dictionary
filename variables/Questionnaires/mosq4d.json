@@ -2,7 +2,8 @@
   "id": "mosq4d",
   "display_name": "MOS: Q4D (rp4)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "sf36"
   ]

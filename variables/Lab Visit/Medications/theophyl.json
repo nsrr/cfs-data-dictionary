@@ -2,7 +2,8 @@
   "id": "theophyl",
   "display_name": "Theophylline in the last three days",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

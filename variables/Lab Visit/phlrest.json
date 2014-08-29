@@ -2,7 +2,8 @@
   "id": "phlrest",
   "display_name": "Phlegm during day and night",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

@@ -2,7 +2,8 @@
   "id": "eczdiag",
   "display_name": "Eczema",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

@@ -2,7 +2,8 @@
   "id": "mosq3i",
   "display_name": "MOS: Q3I",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "sf36"
   ]

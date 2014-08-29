@@ -2,7 +2,8 @@
   "id": "skintst",
   "display_name": "Have a skintest for allergies",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult2"
   ]

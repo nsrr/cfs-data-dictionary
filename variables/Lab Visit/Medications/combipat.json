@@ -2,7 +2,8 @@
   "id": "combipat",
   "display_name": "Ever use Combipatch",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

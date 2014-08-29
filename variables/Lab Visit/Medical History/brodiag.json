@@ -2,7 +2,8 @@
   "id": "brodiag",
   "display_name": "Chronic Bronchitis",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

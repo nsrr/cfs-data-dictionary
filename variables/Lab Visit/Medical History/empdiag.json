@@ -2,7 +2,8 @@
   "id": "empdiag",
   "display_name": "Emphysema",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

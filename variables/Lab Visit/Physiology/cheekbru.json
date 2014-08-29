@@ -2,7 +2,8 @@
   "id": "cheekbru",
   "display_name": "Cheek brushing performed",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "inlab_physio"
   ]

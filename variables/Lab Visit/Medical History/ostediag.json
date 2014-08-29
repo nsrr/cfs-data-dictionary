@@ -2,7 +2,8 @@
   "id": "ostediag",
   "display_name": "Osteoporosis",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

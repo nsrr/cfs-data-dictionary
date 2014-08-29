@@ -2,7 +2,8 @@
   "id": "livediag",
   "display_name": "Liver Disease",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

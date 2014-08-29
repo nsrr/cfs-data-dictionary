@@ -2,7 +2,8 @@
   "id": "xenical",
   "display_name": "Xenical in the last three days",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

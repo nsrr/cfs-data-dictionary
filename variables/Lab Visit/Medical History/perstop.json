@@ -2,7 +2,8 @@
   "id": "perstop",
   "display_name": "Have your periods stopped permanently?",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

@@ -2,7 +2,8 @@
   "id": "walkpace",
   "display_name": "What is your normal walking pace outdoors?(L)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

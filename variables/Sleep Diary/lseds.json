@@ -2,7 +2,8 @@
   "id": "lseds",
   "display_name": "PreSleep: Sedatives today?",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "presleep"
   ]

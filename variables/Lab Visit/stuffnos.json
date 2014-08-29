@@ -2,7 +2,8 @@
   "id": "stuffnos",
   "display_name": "Stuffy nose while sleeping",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

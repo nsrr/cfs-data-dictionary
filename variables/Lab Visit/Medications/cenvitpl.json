@@ -2,7 +2,8 @@
   "id": "cenvitpl",
   "display_name": "Multivitamin: Central Vite Plus",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

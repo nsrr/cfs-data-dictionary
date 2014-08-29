@@ -2,7 +2,8 @@
   "id": "labothmd",
   "display_name": "PreSleep: Other today?",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "presleep"
   ]

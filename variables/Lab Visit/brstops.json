@@ -2,7 +2,8 @@
   "id": "brstops",
   "display_name": "7 stop breathing while asleep (AC)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

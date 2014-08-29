@@ -2,7 +2,8 @@
   "id": "diaexslp",
   "display_name": "Excessive (too much) Sleepiness",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

@@ -2,7 +2,8 @@
   "id": "tenexer",
   "display_name": "Past year time spent tennis, squash, racquetball?(L)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

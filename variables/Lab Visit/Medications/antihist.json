@@ -2,7 +2,8 @@
   "id": "antihist",
   "display_name": "Antihistamine in the last three days",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

@@ -2,7 +2,8 @@
   "id": "nutonsil",
   "display_name": "Tonsillar size, Dr. Rosen scale",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "inlab_physio"
   ]

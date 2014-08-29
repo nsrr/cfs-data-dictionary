@@ -2,7 +2,8 @@
   "id": "uppp",
   "display_name": "Had UPPP surgery",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

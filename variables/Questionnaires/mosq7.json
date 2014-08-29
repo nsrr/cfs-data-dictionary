@@ -2,7 +2,8 @@
   "id": "mosq7",
   "display_name": "MOS: Q7 (bp1)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "sf36"
   ]

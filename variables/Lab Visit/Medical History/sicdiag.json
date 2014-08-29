@@ -2,7 +2,8 @@
   "id": "sicdiag",
   "display_name": "Sickle Cell Disease",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

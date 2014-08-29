@@ -2,7 +2,8 @@
   "id": "vimin75",
   "display_name": "Multivitamin: VI-MIN 75",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

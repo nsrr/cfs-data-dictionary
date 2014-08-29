@@ -2,7 +2,8 @@
   "id": "mosq3c",
   "display_name": "MOS: Q3C",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "sf36"
   ]

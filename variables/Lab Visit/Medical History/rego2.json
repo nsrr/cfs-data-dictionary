@@ -2,7 +2,8 @@
   "id": "rego2",
   "display_name": "Did you require oxygen at birth",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

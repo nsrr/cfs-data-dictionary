@@ -2,7 +2,8 @@
   "id": "forgasm",
   "display_name": "FOSQ: Ability for orgasm affected",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "fosq"
   ]

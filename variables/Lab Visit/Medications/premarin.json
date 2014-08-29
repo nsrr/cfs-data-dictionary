@@ -2,7 +2,8 @@
   "id": "premarin",
   "display_name": "Ever use oral Premarin",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

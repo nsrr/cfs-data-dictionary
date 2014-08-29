@@ -2,7 +2,8 @@
   "id": "coldair",
   "display_name": "62i wheeze when breathing cold air (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

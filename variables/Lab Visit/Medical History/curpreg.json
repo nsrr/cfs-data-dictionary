@@ -2,7 +2,8 @@
   "id": "curpreg",
   "display_name": "Currently pregnant (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

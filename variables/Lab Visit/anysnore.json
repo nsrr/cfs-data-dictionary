@@ -2,7 +2,8 @@
   "id": "anysnore",
   "display_name": "Ever told you snore (AC)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

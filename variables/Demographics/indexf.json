@@ -2,7 +2,8 @@
   "id": "indexf",
   "display_name": "Family Type",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "nunames"
   ]

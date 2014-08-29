@@ -2,7 +2,8 @@
   "id": "chescold",
   "display_name": "If you had any colds this year did they go to your chest?(L)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

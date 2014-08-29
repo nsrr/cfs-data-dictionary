@@ -2,7 +2,8 @@
   "id": "youvitir",
   "display_name": "Does your multivitamin include iron?",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

@@ -2,7 +2,8 @@
   "id": "slapndia",
   "display_name": "Sleep Apnea",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

@@ -2,7 +2,8 @@
   "id": "desslp",
   "display_name": "PostSleep: How would you describe your sleep last night?",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "postsleep"
   ]

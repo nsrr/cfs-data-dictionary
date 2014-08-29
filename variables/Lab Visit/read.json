@@ -2,7 +2,8 @@
   "id": "read",
   "display_name": "How often fall asleep reading or studying?",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

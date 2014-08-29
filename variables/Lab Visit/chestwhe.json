@@ -2,7 +2,8 @@
   "id": "chestwhe",
   "display_name": "Wheeze while asleep (AC)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

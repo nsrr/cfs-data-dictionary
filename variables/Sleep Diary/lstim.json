@@ -2,7 +2,8 @@
   "id": "lstim",
   "display_name": "PreSleep: Stimulants today?",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "presleep"
   ]

@@ -2,7 +2,8 @@
   "id": "bypass",
   "display_name": "Coronary Bypass",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

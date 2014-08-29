@@ -2,7 +2,8 @@
   "id": "q11q3d",
   "display_name": "CHQ-PF50: Q11Q3D",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "chq_pr"
   ]

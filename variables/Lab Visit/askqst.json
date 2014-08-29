@@ -2,7 +2,8 @@
   "id": "askqst",
   "display_name": "106 subj had help w/ questionnaire",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

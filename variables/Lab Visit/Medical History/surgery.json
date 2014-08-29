@@ -2,7 +2,8 @@
   "id": "surgery",
   "display_name": "Periods stop due to surgery",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

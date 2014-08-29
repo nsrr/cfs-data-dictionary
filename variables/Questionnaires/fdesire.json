@@ -2,7 +2,8 @@
   "id": "fdesire",
   "display_name": "FOSQ: Desire for intimacy affected",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "fosq"
   ]

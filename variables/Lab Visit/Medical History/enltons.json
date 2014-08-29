@@ -2,7 +2,8 @@
   "id": "enltons",
   "display_name": "Enlarged tonsils (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult2"
   ]

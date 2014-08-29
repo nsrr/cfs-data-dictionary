@@ -2,7 +2,8 @@
   "id": "slphear",
   "display_name": "Has person to hear breathing while asleep (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

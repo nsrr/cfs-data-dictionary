@@ -2,7 +2,8 @@
   "id": "simple",
   "display_name": "Have had a simple tonsillectomy",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]

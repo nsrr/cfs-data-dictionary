@@ -2,7 +2,8 @@
   "id": "pastmon",
   "display_name": "62h wheeze during past month",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

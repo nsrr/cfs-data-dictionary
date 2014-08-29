@@ -2,7 +2,8 @@
   "id": "unicapsr",
   "display_name": "Multivitamin: Unicap Senior",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

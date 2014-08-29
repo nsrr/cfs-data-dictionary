@@ -2,7 +2,8 @@
   "id": "cigar",
   "display_name": "Have you ever smoked cigars/cigarillos?",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult2"
   ]

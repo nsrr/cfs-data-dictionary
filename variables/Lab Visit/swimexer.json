@@ -2,7 +2,8 @@
   "id": "swimexer",
   "display_name": "Past year time spent lap swimming?(L)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

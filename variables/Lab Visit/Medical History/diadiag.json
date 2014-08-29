@@ -2,7 +2,8 @@
   "id": "diadiag",
   "display_name": "Diabetes",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult3"
   ]
