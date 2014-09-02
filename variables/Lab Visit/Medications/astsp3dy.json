@@ -3,7 +3,7 @@
   "display_name": "Breathing spray in last 3 days (L)",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "lab_adult1"
   ]

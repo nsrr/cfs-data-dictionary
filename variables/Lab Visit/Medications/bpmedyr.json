@@ -3,7 +3,7 @@
   "display_name": "Blood pressure medicine in last yr (L)",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "lab_adult1"
   ]

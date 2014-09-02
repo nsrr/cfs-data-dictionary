@@ -3,7 +3,7 @@
   "display_name": "Do you take Folic Acid?",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "lab_adult1"
   ]

@@ -3,7 +3,7 @@
   "display_name": "Multivitamin: Z-Bec",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "lab_adult1"
   ]

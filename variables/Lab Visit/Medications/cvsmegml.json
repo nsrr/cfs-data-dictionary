@@ -3,7 +3,7 @@
   "display_name": "Multivitamin: CVS Mega Multi",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "lab_adult1"
   ]

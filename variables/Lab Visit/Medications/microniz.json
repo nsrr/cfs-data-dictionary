@@ -3,7 +3,7 @@
   "display_name": "Ever use Micronized (e.g. Prometrium)",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "lab_adult1"
   ]

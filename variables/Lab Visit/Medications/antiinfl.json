@@ -3,7 +3,7 @@
   "display_name": "Other anti-inflammatory analgesics, 2+ times/week",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "lab_adult1"
   ]
