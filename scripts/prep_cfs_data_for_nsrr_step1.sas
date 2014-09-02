@@ -325,7 +325,7 @@ data alldata_obf_all /*nsrrdata.rectype5_pass1_obfphi*/;
 run;
 
 proc import datafile = "\\rfa01\bwh-sleepepi-home\projects\cohorts\Family\nsrr-prep\cfs_systematic_cleaning_variables.csv" dbms = csv out = systematic_cleaning replace;
-guessingrows = 250;
+guessingrows = 500;
 run;
 
 proc sql noprint;
@@ -360,7 +360,7 @@ data alldata_obf_all_systclean;
   end;
   drop i;
 run;
-
+/*
 data alldata_obf_all_systclean2;
   retain obf_pptid &outlier_implausible_list;
   set alldata_obf_all_systclean;
@@ -377,6 +377,7 @@ select obf_pptid,
 from aa_alldata_obf_all_systclean2
 where 0 le hypbpsys < 80 or hypbpsys > 200;
 quit;
+*/
 
 data alldata_obf_all_moreclean;
   set alldata_obf_all_systclean;
@@ -406,12 +407,12 @@ data alldata_obf_all_moreclean;
 
 run;
 
-%let manual_json_droplist = aadone aatech adddiayr adediayr am10tech am7tech anediayr angdiayr angioyr anxdiayr apndiayr astdiayr behdiayr biadone biatech bracdone bractech brodiayr 
-                            bypdiayr candiayr cdssdone chqdone cirdiayr consdone cptdone cpttech crodiayr depdiayr devdiayr diabpyr diachlyr diadiayr diaexsyr diahrtyr diairryr 
-                            dialegyr dianaryr dianmyr diasidyr diasnoyr disbdone disclose drmrdone ecgdone eczdiayr empdiayr endartyr essdone fosqdone freezdna fsdone futurdna 
-                            goudiayr guldiayr h2opilyr haydiayr heaageyr hepdiayr hippa htfdiayr inno insdiayr kfdiagyr kidndiyr livdiayr mdysdiyr mosdone mrmrdone mscdiayr naadone 
-                            nodone notech nsrhind nsrhtech ogttdone osmdiayr ostdiayr pacdiayr pardiayr partdiyr phardone phartech pheldone physdone pm10tech pndone pnediayr postdone 
-                            preddone psydiayr rhediayr rhindone rhintech shqdone sicdiayr sindiayr skindone skintech snakdone spirdone spirtech ssedone strodiyr surdiayr svdone 
+%let manual_json_droplist = aadone aatech adddiayr adediayr am10tech am7tech anediayr angdiayr angioyr anxdiayr apndiayr astdiayr behdiayr biadone biatech bracdone bractech brodiayr
+                            bypdiayr candiayr cdssdone chqdone cirdiayr consdone cptdone cpttech crodiayr depdiayr devdiayr diabpyr diachlyr diadiayr diaexsyr diahrtyr diairryr
+                            dialegyr dianaryr dianmyr diasidyr diasnoyr disbdone disclose drmrdone ecgdone eczdiayr empdiayr endartyr essdone fosqdone freezdna fsdone futurdna
+                            goudiayr guldiayr h2opilyr haydiayr heaageyr hepdiayr hippa htfdiayr inno insdiayr kfdiagyr kidndiyr livdiayr mdysdiyr mosdone mrmrdone mscdiayr naadone
+                            nodone notech nsrhind nsrhtech ogttdone osmdiayr ostdiayr pacdiayr pardiayr partdiyr phardone phartech pheldone physdone pm10tech pndone pnediayr postdone
+                            preddone psydiayr rhediayr rhindone rhintech shqdone sicdiayr sindiayr skindone skintech snakdone spirdone spirtech ssedone strodiyr surdiayr svdone
                             thydiayr tiadiayr tondiayr toudiayr vigldone vigltech visitnfs yrdiagn;
 
 *drop variables that were excluded from the json data dictionary because of redundancy or a lack of relevance/importance;
