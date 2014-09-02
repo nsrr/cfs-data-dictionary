@@ -14,7 +14,7 @@ libname nsrrdata "&newfamilypath\nsrr-prep\_datasets";
 
 libname obf "&newfamilypath\nsrr-prep\_ids";
 
-%let release = 0.1.0.beta4;
+%let release = 0.1.0.beta5;
 
 ********************************************************;
 * Import CFS data
@@ -404,6 +404,21 @@ data alldata_obf_all_moreclean;
   end_dur_hr = end_dur_mn/60;
   drop endslp_timevalue endwake_timevalue;
 
+run;
+
+%let manual_json_droplist = aadone aatech adddiayr adediayr am10tech am7tech anediayr angdiayr angioyr anxdiayr apndiayr astdiayr behdiayr biadone biatech bracdone bractech brodiayr 
+                            bypdiayr candiayr cdssdone chqdone cirdiayr consdone cptdone cpttech crodiayr depdiayr devdiayr diabpyr diachlyr diadiayr diaexsyr diahrtyr diairryr 
+                            dialegyr dianaryr dianmyr diasidyr diasnoyr disbdone disclose drmrdone ecgdone eczdiayr empdiayr endartyr essdone fosqdone freezdna fsdone futurdna 
+                            goudiayr guldiayr h2opilyr haydiayr heaageyr hepdiayr hippa htfdiayr inno insdiayr kfdiagyr kidndiyr livdiayr mdysdiyr mosdone mrmrdone mscdiayr naadone 
+                            nodone notech nsrhind nsrhtech ogttdone osmdiayr ostdiayr pacdiayr pardiayr partdiyr phardone phartech pheldone physdone pm10tech pndone pnediayr postdone 
+                            preddone psydiayr rhediayr rhindone rhintech shqdone sicdiayr sindiayr skindone skintech snakdone spirdone spirtech ssedone strodiyr surdiayr svdone 
+                            thydiayr tiadiayr tondiayr toudiayr vigldone vigltech visitnfs yrdiagn;
+
+*drop variables that were excluded from the json data dictionary because of redundancy or a lack of relevance/importance;
+data alldata_obfclean_all_final;
+  set alldata_obf_all_moreclean;
+
+  drop &manual_json_droplist;
 run;
 
 
