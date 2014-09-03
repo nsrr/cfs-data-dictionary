@@ -3,7 +3,7 @@
   "display_name": "MOS: Q9C mh2",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "sf36",
   "forms": [
     "sf36"
   ]

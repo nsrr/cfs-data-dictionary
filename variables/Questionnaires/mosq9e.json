@@ -3,7 +3,7 @@
   "display_name": "MOS: Q9E vt2",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "sf36",
   "forms": [
     "sf36"
   ]

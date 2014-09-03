@@ -3,7 +3,7 @@
   "display_name": "MOS: Q3I",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "sf36",
   "forms": [
     "sf36"
   ]
