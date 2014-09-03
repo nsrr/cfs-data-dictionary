@@ -3,7 +3,7 @@
   "display_name": "FOSQ: Level of activity",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "fosq_lowhigh",
   "forms": [
     "fosq"
   ]

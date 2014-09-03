@@ -3,7 +3,7 @@
   "display_name": "FOSQ: Desire for intimacy affected",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "fosq_main",
   "forms": [
     "fosq"
   ]
