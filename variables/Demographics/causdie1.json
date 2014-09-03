@@ -1,9 +1,0 @@
-{
-  "id": "causdie1",
-  "display_name": "Cause of death 1",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "nunames"
-  ]
-}
