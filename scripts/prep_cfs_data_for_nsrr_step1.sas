@@ -423,5 +423,5 @@ data alldata_obfclean_all_final;
 run;
 
 
-proc export data=alldata_obf_all_moreclean outfile="\\rfa01\bwh-sleepepi-home\projects\cohorts\Family\nsrr-prep\_releases\&release\cfs-rectype5-dataset-&release..csv" dbms=csv replace;
+proc export data=alldata_obfclean_all_final outfile="\\rfa01\bwh-sleepepi-home\projects\cohorts\Family\nsrr-prep\_releases\&release\cfs-rectype5-dataset-&release..csv" dbms=csv replace;
 run;
