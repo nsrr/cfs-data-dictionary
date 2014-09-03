@@ -1,9 +1,0 @@
-{
-  "id": "txother",
-  "display_name": "Other type of treatment for sleep apnea",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "inlab_physio"
-  ]
-}

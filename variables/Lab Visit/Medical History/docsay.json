@@ -1,9 +1,0 @@
-{
-  "id": "docsay",
-  "display_name": "What did the doctor say about chest pain",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "lab_adult2"
-  ]
-}

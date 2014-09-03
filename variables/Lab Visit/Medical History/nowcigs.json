@@ -2,8 +2,8 @@
   "id": "nowcigs",
   "display_name": "How many Cigars per day now?",
   "description": "",
-  "type": "choices",
-  "domain": "find",
+  "type": "numeric",
+  "units": "cigars",
   "forms": [
     "lab_adult2"
   ]

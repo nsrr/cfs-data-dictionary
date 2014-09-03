@@ -2,8 +2,8 @@
   "id": "carslpy",
   "display_name": "Of car accidents due to sleepiness (A)",
   "description": "",
-  "type": "choices",
-  "domain": "find",
+  "type": "numeric",
+  "units": "accidents",
   "forms": [
     "lab_adult1"
   ]

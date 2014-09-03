@@ -2,8 +2,8 @@
   "id": "nowsmoke",
   "display_name": "84d cigarettes currently smoke/day (A)",
   "description": "",
-  "type": "choices",
-  "domain": "find",
+  "type": "numeric",
+  "units": "cigarettes",
   "forms": [
     "lab_adult2"
   ]

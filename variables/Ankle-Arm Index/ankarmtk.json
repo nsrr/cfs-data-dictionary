@@ -1,9 +1,0 @@
-{
-  "id": "ankarmtk",
-  "display_name": "Technician",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "ankle_arm_index"
-  ]
-}

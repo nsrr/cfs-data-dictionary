@@ -1,9 +1,0 @@
-{
-  "id": "brtech",
-  "display_name": "Technician",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "brachial_art_vasact"
-  ]
-}
