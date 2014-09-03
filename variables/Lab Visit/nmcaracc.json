@@ -2,8 +2,8 @@
   "id": "nmcaracc",
   "display_name": "Near miss accidents due to sleepiness? (L)",
   "description": "",
-  "type": "choices",
-  "domain": "find",
+  "type": "numeric",
+  "units": "accidents",
   "forms": [
     "lab_adult1"
   ]

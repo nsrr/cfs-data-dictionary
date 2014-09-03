@@ -1,9 +1,0 @@
-{
-  "id": "hosreas",
-  "display_name": "Reason for hospitalization",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "lab_adult3"
-  ]
-}

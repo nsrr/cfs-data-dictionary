@@ -1,9 +1,0 @@
-{
-  "id": "majsursp",
-  "display_name": "Specify Major surg",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "lab_adult3"
-  ]
-}

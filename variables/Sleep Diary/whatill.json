@@ -1,9 +1,0 @@
-{
-  "id": "whatill",
-  "display_name": "PreSleep: Specify what illness today/past two weeks",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "presleep"
-  ]
-}

@@ -1,9 +1,0 @@
-{
-  "id": "osmcsp",
-  "display_name": "Specify other significant med condition",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "lab_adult3"
-  ]
-}

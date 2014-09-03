@@ -1,9 +1,0 @@
-{
-  "id": "momspecc",
-  "display_name": "Mom diagnosed Specify cancer",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "lab_adult2"
-  ]
-}

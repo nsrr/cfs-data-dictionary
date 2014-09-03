@@ -1,9 +1,0 @@
-{
-  "id": "kidcansp",
-  "display_name": "Specify kids cancer",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "lab_adult2"
-  ]
-}

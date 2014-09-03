@@ -2,8 +2,8 @@
   "id": "fosq_socout",
   "display_name": "FOSQ Social Outcome",
   "description": "",
-  "type": "choices",
-  "domain": "find",
+  "type": "numeric",
+  "units": "",
   "forms": [
     "fosq"
   ]

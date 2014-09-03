@@ -1,9 +1,9 @@
 {
   "id": "fosq_vigiln",
-  "display_name": "FOSQ Vigilence",
+  "display_name": "FOSQ Vigilance",
   "description": "",
-  "type": "choices",
-  "domain": "find",
+  "type": "numeric",
+  "units": "",
   "forms": [
     "fosq"
   ]

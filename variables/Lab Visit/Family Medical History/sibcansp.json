@@ -1,9 +1,0 @@
-{
-  "id": "sibcansp",
-  "display_name": "Specify kind of cancer",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "lab_adult2"
-  ]
-}
