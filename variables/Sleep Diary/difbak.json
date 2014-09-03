@@ -3,7 +3,7 @@
   "display_name": "PostSleep: Have difficulty falling back to sleep?",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "postsleep"
   ]

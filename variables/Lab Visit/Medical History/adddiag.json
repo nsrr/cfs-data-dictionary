@@ -3,7 +3,7 @@
   "display_name": "Attention Deficit Disorder",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "lab_adult3"
   ]

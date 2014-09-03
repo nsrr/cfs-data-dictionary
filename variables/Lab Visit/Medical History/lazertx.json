@@ -3,7 +3,7 @@
   "display_name": "Received or prescribed Laser Treatment",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "lab_adult3"
   ]

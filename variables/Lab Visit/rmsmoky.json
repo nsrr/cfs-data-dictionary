@@ -3,7 +3,7 @@
   "display_name": "Smoky room gives you a stuffy or runny nose? (L)",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "lab_adult1"
   ]

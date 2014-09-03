@@ -3,7 +3,7 @@
   "display_name": "Self-report of blood pressure medication usage, or on a specified medication",
   "description": "",
   "type": "choices",
-  "domain": "yesno",
+  "domain": "noyes01",
   "forms": [
     "lab_dataset"
   ]

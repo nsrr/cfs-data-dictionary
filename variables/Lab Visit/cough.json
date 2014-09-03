@@ -3,7 +3,7 @@
   "display_name": "67do you cough",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "lab_adult1"
   ]

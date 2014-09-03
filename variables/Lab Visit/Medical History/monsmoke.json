@@ -3,7 +3,7 @@
   "display_name": "84c past month, smoke greater than 1 cigarettes per day (A)",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "lab_adult2"
   ]

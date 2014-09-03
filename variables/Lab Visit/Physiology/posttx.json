@@ -3,7 +3,7 @@
   "display_name": "Subject studied post-treatment",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "inlab_physio"
   ]

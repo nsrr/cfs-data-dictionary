@@ -3,7 +3,7 @@
   "display_name": "CHQ-PF50: Q11Q3C",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "chq_pr"
   ]

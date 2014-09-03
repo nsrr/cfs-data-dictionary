@@ -3,7 +3,7 @@
   "display_name": "Phlegm during day and night",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "lab_adult1"
   ]

@@ -3,7 +3,7 @@
   "display_name": "Did mom smoke during the first five years of your life? (L)",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "lab_adult1"
   ]

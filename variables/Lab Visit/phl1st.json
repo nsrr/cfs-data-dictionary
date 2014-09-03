@@ -3,7 +3,7 @@
   "display_name": "Phlegm 1st thing in morning",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "lab_adult1"
   ]

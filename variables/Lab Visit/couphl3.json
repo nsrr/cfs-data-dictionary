@@ -3,7 +3,7 @@
   "display_name": "Cough + phlegm last more than 3 weeks",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "lab_adult1"
   ]

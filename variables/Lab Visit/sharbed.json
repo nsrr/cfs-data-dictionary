@@ -3,7 +3,7 @@
   "display_name": "Does someone share a bedroom with you",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "lab_adult3"
   ]

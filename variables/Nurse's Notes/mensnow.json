@@ -3,7 +3,7 @@
   "display_name": "Menstruating at time of lab visit",
   "description": "",
   "type": "choices",
-  "domain": "yesno",
+  "domain": "noyes01",
   "forms": [
     "doctor_eval"
   ]

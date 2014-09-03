@@ -3,7 +3,7 @@
   "display_name": "Have you ever worked outside home (A)",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "lab_adult1"
   ]

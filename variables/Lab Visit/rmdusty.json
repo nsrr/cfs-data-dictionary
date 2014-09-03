@@ -3,7 +3,7 @@
   "display_name": "A dusty room gives you a stuffy of runny nose(L)",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "lab_adult1"
   ]

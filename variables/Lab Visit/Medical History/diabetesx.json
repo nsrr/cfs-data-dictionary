@@ -3,7 +3,7 @@
   "display_name": "Self-report of a physician diagnosis of diabetes or diabetes medication use",
   "description": "",
   "type": "choices",
-  "domain": "yesno",
+  "domain": "noyes01",
   "forms": [
     "lab_dataset"
   ]

@@ -3,7 +3,7 @@
   "display_name": "Subject dozed off while completing questionnaire",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "lab_adult3"
   ]

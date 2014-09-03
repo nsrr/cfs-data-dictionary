@@ -3,5 +3,5 @@
   "display_name": "Was the participant on CPAP?",
   "description": "",
   "type": "choices",
-  "domain": "yesno"
+  "domain": "noyes01"
 }

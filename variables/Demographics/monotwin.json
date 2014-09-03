@@ -3,7 +3,7 @@
   "display_name": "Has Identical twin",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "nunames"
   ]

@@ -3,7 +3,7 @@
   "display_name": "Are you allergic to dust/mold/pollen",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "lab_adult2"
   ]
