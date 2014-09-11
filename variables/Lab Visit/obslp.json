@@ -3,7 +3,7 @@
   "display_name": "106 lives different house,but observed sleep",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "lab_adult3"
   ]

@@ -3,7 +3,7 @@
   "display_name": "Elevated Cholesterol",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "lab_adult3"
   ]

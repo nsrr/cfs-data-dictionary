@@ -1,9 +1,9 @@
 {
   "id": "mosq9h",
-  "display_name": "MOS: Q9H mh5",
+  "display_name": "Have you been happy?",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "sf36",
   "forms": [
     "sf36"
   ]

@@ -3,7 +3,7 @@
   "display_name": "Chest discomfort when walk at an ordinary pace",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "lab_adult2"
   ]

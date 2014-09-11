@@ -1,9 +1,9 @@
 {
   "id": "mosq3f",
-  "display_name": "MOS: Q3F",
+  "display_name": "Bending, kneeling, or stooping",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "sf36",
   "forms": [
     "sf36"
   ]

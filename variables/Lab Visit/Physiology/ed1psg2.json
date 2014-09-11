@@ -3,7 +3,7 @@
   "display_name": "Sleep Study: edentec (1) o psg (2) study",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "physio_report"
   ]

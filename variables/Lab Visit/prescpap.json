@@ -3,7 +3,7 @@
   "display_name": "Ever prescribed CPAP",
   "description": "",
   "type": "choices",
-  "domain": "yesno",
+  "domain": "noyes01",
   "forms": [
     "lab_dataset"
   ]

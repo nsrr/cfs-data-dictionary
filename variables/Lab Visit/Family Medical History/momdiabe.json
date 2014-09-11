@@ -3,7 +3,7 @@
   "display_name": "Mom diagnosed Diabetes",
   "description": "",
   "type": "choices",
-  "domain": "yesno",
+  "domain": "noyes01",
   "forms": [
     "lab_adult2"
   ]

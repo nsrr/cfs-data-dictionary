@@ -1,9 +1,9 @@
 {
   "id": "mosq9g",
-  "display_name": "MOS: Q9G vt3",
+  "display_name": "Did you feel worn out?",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "sf36",
   "forms": [
     "sf36"
   ]

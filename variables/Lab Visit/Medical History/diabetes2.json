@@ -3,7 +3,7 @@
   "display_name": "Physician diagnosis of diabetes or diabetes medication usage or abnormal fasting",
   "description": "",
   "type": "choices",
-  "domain": "yesno",
+  "domain": "noyes01",
   "forms": [
     "lab_dataset"
   ]

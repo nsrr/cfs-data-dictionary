@@ -1,9 +1,9 @@
 {
   "id": "mosq9a",
-  "display_name": "MOS: Q9A vt1",
+  "display_name": "Did you feel full of life?",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "sf36",
   "forms": [
     "sf36"
   ]

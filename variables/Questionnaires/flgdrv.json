@@ -3,7 +3,7 @@
   "display_name": "FOSQ: Difficulty driving long distances",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "fosq_main",
   "forms": [
     "fosq"
   ]

@@ -1,9 +1,9 @@
 {
   "id": "mosq8",
-  "display_name": "MOS: Q8 (bp2)",
+  "display_name": "During the past 4 weeks, how much did pain interfere with your normal work (including both work outside the home and housework)?",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "sf36",
   "forms": [
     "sf36"
   ]

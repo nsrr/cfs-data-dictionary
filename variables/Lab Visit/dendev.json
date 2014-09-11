@@ -3,7 +3,7 @@
   "display_name": "Received or prescribed dental device as a treatment",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "lab_adult3"
   ]

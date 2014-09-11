@@ -3,5 +3,5 @@
   "display_name": "Has any active DNA sample",
   "description": "",
   "type": "choices",
-  "domain": "yesno"
+  "domain": "noyes01"
 }

@@ -3,7 +3,7 @@
   "display_name": "Cerebrovascular disease",
   "description": "",
   "type": "choices",
-  "domain": "yesno",
+  "domain": "noyes01",
   "forms": [
     "lab_dataset"
   ]

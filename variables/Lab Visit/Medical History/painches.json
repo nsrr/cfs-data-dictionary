@@ -3,7 +3,7 @@
   "display_name": "Ever had any chest pain or discomfort",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "lab_adult2"
   ]

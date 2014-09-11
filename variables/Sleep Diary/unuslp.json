@@ -3,7 +3,7 @@
   "display_name": "PostSleep: Did anything unusual happen to disturb your sleep last night?",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "postsleep"
   ]

@@ -3,7 +3,7 @@
   "display_name": "100 has been injuries or accidents in family",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "lab_adult3"
   ]

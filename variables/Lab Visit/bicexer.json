@@ -3,7 +3,7 @@
   "display_name": "Past year time spent bicycling (including stationary machine)?(L)",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "exercise_time",
   "forms": [
     "lab_adult1"
   ]

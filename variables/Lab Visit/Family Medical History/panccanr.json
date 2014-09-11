@@ -3,7 +3,7 @@
   "display_name": "Any biological relatives had Pancreatic Cancer",
   "description": "",
   "type": "choices",
-  "domain": "yesno",
+  "domain": "noyes01",
   "forms": [
     "lab_adult2"
   ]

@@ -1,9 +1,9 @@
 {
   "id": "mosq3e",
-  "display_name": "MOS: Q3E",
+  "display_name": "Climbing one flight of stairs",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "sf36",
   "forms": [
     "sf36"
   ]

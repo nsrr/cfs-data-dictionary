@@ -4,7 +4,7 @@
   "domain": "noyes01",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "nunames"
   ]

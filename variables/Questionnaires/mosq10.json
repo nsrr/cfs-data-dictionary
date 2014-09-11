@@ -1,9 +1,9 @@
 {
   "id": "mosq10",
-  "display_name": "MOS: Q10 sf2",
+  "display_name": "During the past 4 weeks, how much of the time has your physical health or emotional problems interfered with your social activities ( like visiting friends, relatives, etc)?",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "sf36",
   "forms": [
     "sf36"
   ]

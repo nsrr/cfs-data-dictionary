@@ -3,7 +3,7 @@
   "display_name": "See a doctor because of this pain (or discomfort)?",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "lab_adult2"
   ]

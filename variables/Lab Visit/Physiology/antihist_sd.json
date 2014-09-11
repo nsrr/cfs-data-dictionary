@@ -3,7 +3,7 @@
   "display_name": "Sleep Diary: took antihistamines on day of study (AC)",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "sleep_diary"
   ]

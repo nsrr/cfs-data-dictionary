@@ -3,7 +3,7 @@
   "display_name": "106 live in same house but different bedroom",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "lab_adult3"
   ]

@@ -3,7 +3,7 @@
   "display_name": "More than drink per week on average in the past year",
   "description": "",
   "type": "choices",
-  "domain": "yesno",
+  "domain": "noyes01",
   "forms": [
     "lab_dataset"
   ]

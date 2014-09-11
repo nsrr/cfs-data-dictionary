@@ -3,7 +3,7 @@
   "display_name": "Shortness of breath while hurrying or walking up a small hill (AC)",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "lab_adult1"
   ]

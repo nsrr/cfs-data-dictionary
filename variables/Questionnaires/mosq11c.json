@@ -1,9 +1,9 @@
 {
   "id": "mosq11c",
-  "display_name": "MOS: Q11C gh4",
+  "display_name": "I expect my health to get worse",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "sf36",
   "forms": [
     "sf36"
   ]

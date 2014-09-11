@@ -3,7 +3,7 @@
   "display_name": "FOSQ: Difficulty doing things with friends",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "fosq_main",
   "forms": [
     "fosq"
   ]

@@ -1,9 +1,9 @@
 {
   "id": "ladder",
   "display_name": "111 Where would you place yourself on this ladder?",
-  "description": "",
-  "type": "choices",
-  "domain": "find",
+  "description": "Think of this ladder as representing where people stand in the United States. At the top of the ladder are the people who are the best off – those who have the most money, the most education, and the most respectable jobs. The bottom are the people who are the worst off – those who have the least money, least education, and the least respected jobs or no job",
+  "type": "numeric",
+  "units": "",
   "forms": [
     "lab_adult3"
   ]

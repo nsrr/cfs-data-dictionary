@@ -1,9 +1,9 @@
 {
   "id": "mosq4b",
-  "display_name": "MOS: Q4B",
+  "display_name": "Accomplished less than you would like",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "sf36",
   "forms": [
     "sf36"
   ]

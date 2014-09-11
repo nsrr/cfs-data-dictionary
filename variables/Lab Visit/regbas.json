@@ -3,7 +3,7 @@
   "display_name": "Do you use CPAP on a regular basis",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "lab_adult3"
   ]

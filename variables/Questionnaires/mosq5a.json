@@ -1,9 +1,9 @@
 {
   "id": "mosq5a",
-  "display_name": "MOS: Q5A (re1)",
+  "display_name": "Cut down on the amount of time you spent on work or toher activities",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "sf36",
   "forms": [
     "sf36"
   ]

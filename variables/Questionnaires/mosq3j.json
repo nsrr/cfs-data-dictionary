@@ -1,9 +1,9 @@
 {
   "id": "mosq3j",
-  "display_name": "MOS: Q3J (pf10)",
+  "display_name": "Bathing or dressing yourself",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "sf36",
   "forms": [
     "sf36"
   ]

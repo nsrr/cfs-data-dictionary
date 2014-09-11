@@ -1,9 +1,9 @@
 {
   "id": "mosq3c",
-  "display_name": "MOS: Q3C",
+  "display_name": "Lifting or carrying groceries",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "sf36",
   "forms": [
     "sf36"
   ]

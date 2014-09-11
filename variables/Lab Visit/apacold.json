@@ -3,7 +3,7 @@
   "display_name": "62b wheeze apart from a cold (AC)",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "lab_adult1"
   ]

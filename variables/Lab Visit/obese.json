@@ -3,7 +3,7 @@
   "display_name": "Obese (BMI greater than 30)?",
   "description": "",
   "type": "choices",
-  "domain": "yesno",
+  "domain": "noyes01",
   "forms": [
     "lab_dataset"
   ]

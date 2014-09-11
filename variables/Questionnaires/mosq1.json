@@ -1,9 +1,9 @@
 {
   "id": "mosq1",
-  "display_name": "MOS: Q1 (gh1)",
+  "display_name": "In general, would you say your health is",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "sf36",
   "forms": [
     "sf36"
   ]

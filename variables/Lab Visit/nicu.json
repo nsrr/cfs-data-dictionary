@@ -3,7 +3,7 @@
   "display_name": "57Were you in nicu",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "lab_adult1"
   ]

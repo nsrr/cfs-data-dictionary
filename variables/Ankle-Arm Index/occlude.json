@@ -3,7 +3,7 @@
   "display_name": "Did the patient occlude?",
   "description": "",
   "type": "choices",
-  "domain": "yesno",
+  "domain": "noyes01",
   "forms": [
     "ankle_arm_index"
   ]

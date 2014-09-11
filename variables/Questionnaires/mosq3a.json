@@ -1,9 +1,9 @@
 {
   "id": "mosq3a",
-  "display_name": "MOS: Q3A (pf01)",
+  "display_name": "Vigorous activities, such as running, lifting heavy objects, participating in strenuous sports",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "sf36",
   "forms": [
     "sf36"
   ]

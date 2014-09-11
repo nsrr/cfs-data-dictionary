@@ -3,7 +3,7 @@
   "display_name": "Spirometry:  expiratory sawtooth pattern",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "physio_report"
   ]

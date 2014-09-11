@@ -3,7 +3,7 @@
   "display_name": "Abnormal blood pressure (systolic greater than 140 or diastolic greater than 90) or medication",
   "description": "",
   "type": "choices",
-  "domain": "yesno",
+  "domain": "noyes01",
   "forms": [
     "lab_dataset"
   ]

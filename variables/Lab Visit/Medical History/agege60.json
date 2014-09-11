@@ -3,7 +3,7 @@
   "display_name": "Age greater than or equal to 60?",
   "description": "",
   "type": "choices",
-  "domain": "yesno",
+  "domain": "noyes01",
   "forms": [
     "lab_dataset"
   ]

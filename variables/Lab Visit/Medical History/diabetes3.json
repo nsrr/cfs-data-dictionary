@@ -3,7 +3,7 @@
   "display_name": "Diabetes: Diagnosed using broad criteria",
   "description": "Physician diagnosis of diabetes or diabetes medication usage or abnormal fasting or abnormal oral glucose tolerance test reading",
   "type": "choices",
-  "domain": "yesno",
+  "domain": "noyes01",
   "forms": [
     "lab_dataset"
   ]

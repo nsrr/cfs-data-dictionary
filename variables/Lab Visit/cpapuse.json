@@ -3,7 +3,7 @@
   "display_name": "Used CPAP during the sleep study or use CPAP regularly",
   "description": "",
   "type": "choices",
-  "domain": "yesno",
+  "domain": "noyes01",
   "forms": [
     "lab_dataset"
   ]

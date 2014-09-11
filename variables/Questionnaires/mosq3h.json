@@ -1,9 +1,9 @@
 {
   "id": "mosq3h",
-  "display_name": "MOS: Q3H",
+  "display_name": "Walking several hundred yards",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "sf36",
   "forms": [
     "sf36"
   ]

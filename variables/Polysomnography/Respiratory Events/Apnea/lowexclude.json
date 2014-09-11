@@ -3,5 +3,5 @@
   "display_name": "Apnea-Propensity Index to be excluded for being below threshold - potential artifact",
   "description": "",
   "type": "choices",
-  "domain": "yesno"
+  "domain": "noyes01"
 }

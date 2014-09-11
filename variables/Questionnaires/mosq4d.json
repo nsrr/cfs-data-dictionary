@@ -1,9 +1,9 @@
 {
   "id": "mosq4d",
-  "display_name": "MOS: Q4D (rp4)",
+  "display_name": "Had difficulty performing the work or other activities (for example, it took extra effort)",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "sf36",
   "forms": [
     "sf36"
   ]

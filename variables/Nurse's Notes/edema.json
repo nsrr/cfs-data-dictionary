@@ -3,7 +3,7 @@
   "display_name": "Has edema",
   "description": "",
   "type": "choices",
-  "domain": "yesno",
+  "domain": "noyes01",
   "forms": [
     "doctor_eval"
   ]

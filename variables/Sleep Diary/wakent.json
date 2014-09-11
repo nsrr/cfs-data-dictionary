@@ -3,7 +3,7 @@
   "display_name": "PostSleep: Did you wake up during the night?",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "postsleep"
   ]

@@ -1,9 +1,9 @@
 {
   "id": "mosq9d",
-  "display_name": "MOS: Q9D mh3",
+  "display_name": "Have you felt calm and peaceful?",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "sf36",
   "forms": [
     "sf36"
   ]

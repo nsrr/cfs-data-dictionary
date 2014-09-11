@@ -3,7 +3,7 @@
   "display_name": "Enlarged tonsils diagnosed by doctor (A)",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "lab_adult2"
   ]
