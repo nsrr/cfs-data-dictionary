@@ -66,3 +66,4 @@ These are known issues in the current version.
 - One occurrence found: **[sao90awk](https://sleepdata.org/datasets/cfs/variables/sao90awk) value = 107**
 - One occurrence found: **[saondcaslp](https://sleepdata.org/datasets/cfs/variables/saondcaslp) value = 73**
 - One occurrence found: **[savbnbh](https://sleepdata.org/datasets/cfs/variables/savbnbh) value = 147**
+- One occurrence found: **[savbnoh](https://sleepdata.org/datasets/cfs/variables/savbnoh) value = 131**
