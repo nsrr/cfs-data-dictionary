@@ -75,3 +75,4 @@ These are known issues in the current version.
 - One occurrence found: **[slplatp](https://sleepdata.org/datasets/cfs/variables/slplatp) value = 539 minutes**
 - Multiple occurrences found: **High values in [smxbroh](https://sleepdata.org/datasets/cfs/variables/smxbroh)**
   - Several values are greater than 256
+- One occurrence found: **[tbwperwt](https://sleepdata.org/datasets/cfs/variables/tbwperwt) value = 81.7 %**
