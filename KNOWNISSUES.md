@@ -12,3 +12,4 @@ These are known issues in the current version.
 - One occurrence found: **[hypbpsys](https://sleepdata.org/datasets/cfs/variables/hypbpsys) value = 11 mmHg**
 - One occurrence found: **[icwperwt](https://sleepdata.org/datasets/cfs/variables/icwperwt) value = 82.8 %**
 - One occurrence found: **[lowsaonr](https://sleepdata.org/datasets/cfs/variables/lowsaonr) value = 0**
+- One occurrence found: **[lowsaoslp](https://sleepdata.org/datasets/cfs/variables/lowsaoslp) value = 0**
