@@ -39,3 +39,4 @@ These are known issues in the current version.
 - One occurrence found: **[mxdnoa2](https://sleepdata.org/datasets/cfs/variables/mxdnoa2) value = 255**
 - One occurrence found: **[mxdnoa3](https://sleepdata.org/datasets/cfs/variables/mxdnoa3) value = 255**
 - One occurrence found: **[mxdnoa4](https://sleepdata.org/datasets/cfs/variables/mxdnoa4) value = 255**
+- One occurrence found: **[mxdnoa5](https://sleepdata.org/datasets/cfs/variables/mxdnoa5) value = 255**
