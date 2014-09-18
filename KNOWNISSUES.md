@@ -64,3 +64,4 @@ These are known issues in the current version.
   - Percent changes were either -7.8 or 40.9
 - One occurrence found: **[pctchg_v](https://sleepdata.org/datasets/cfs/variables/pctchg_v) value = 484.4 %**
 - One occurrence found: **[sao90awk](https://sleepdata.org/datasets/cfs/variables/sao90awk) value = 107**
+- One occurrence found: **[saondcaslp](https://sleepdata.org/datasets/cfs/variables/saondcaslp) value = 73**
