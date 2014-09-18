@@ -73,3 +73,5 @@ These are known issues in the current version.
   - Several values are greater than 124
 - One occurrence found: **[slp_lat](https://sleepdata.org/datasets/cfs/variables/slp_lat) value = 539 minutes**
 - One occurrence found: **[slplatp](https://sleepdata.org/datasets/cfs/variables/slplatp) value = 539 minutes**
+- Multiple occurrences found: **High values in [smxbroh](https://sleepdata.org/datasets/cfs/variables/smxbroh)**
+  - Several values are greater than 256
