@@ -15,3 +15,5 @@ These are known issues in the current version.
 - One occurrence found: **[lowsaoslp](https://sleepdata.org/datasets/cfs/variables/lowsaoslp) value = 0**
 - Multiple occurrences found: **Low and high values in [mndnoa](https://sleepdata.org/datasets/cfs/variables/mndnoa)**
   - Several values were either 0 or 119
+- Multiple occurrences found: **Low and high values in [mndnoa2](https://sleepdata.org/datasets/cfs/variables/mndnoa2)**
+  - Several values were either 0 or 119
