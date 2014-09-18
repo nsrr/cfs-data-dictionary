@@ -4,3 +4,4 @@ These are known issues in the current version.
 
 - Multiple occurrences found: **Low values in [bpmmin](https://sleepdata.org/datasets/cfs/variables/bpmmin)**
   - Several blood pressure values were below 7 mmHg
+- One occurrence found: **[ecwperwt](https://sleepdata.org/datasets/cfs/variables/ecwperwt) value = 17**
