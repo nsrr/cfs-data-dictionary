@@ -67,3 +67,5 @@ These are known issues in the current version.
 - One occurrence found: **[saondcaslp](https://sleepdata.org/datasets/cfs/variables/saondcaslp) value = 73**
 - One occurrence found: **[savbnbh](https://sleepdata.org/datasets/cfs/variables/savbnbh) value = 147**
 - One occurrence found: **[savbnoh](https://sleepdata.org/datasets/cfs/variables/savbnoh) value = 131**
+- Multiple occurrences found: **High values in [savbrbh](https://sleepdata.org/datasets/cfs/variables/savbrbh)**
+  - Several values are greater than 136
