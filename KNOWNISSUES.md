@@ -21,3 +21,5 @@ These are known issues in the current version.
   - Several values were either 0 or 119
 - Multiple occurrences found: **Low and high values in [mndnoa4](https://sleepdata.org/datasets/cfs/variables/mndnoa4)**
   - Several values were either 0 or 119
+- Multiple occurrences found: **Low and high values in [mndnoa5](https://sleepdata.org/datasets/cfs/variables/mndnoa5)**
+  - Several values were either 0 or 119
