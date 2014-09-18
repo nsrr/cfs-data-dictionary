@@ -52,3 +52,4 @@ These are known issues in the current version.
 - One occurrence found: **[mxdrba5](https://sleepdata.org/datasets/cfs/variables/mxdrba5) value = 255**
 - One occurrence found: **[mxdrbp](https://sleepdata.org/datasets/cfs/variables/mxdrbp) value = 255**
 - One occurrence found: **[mxdroa](https://sleepdata.org/datasets/cfs/variables/mxdroa) value = 255**
+- One occurrence found: **[mxdroa2](https://sleepdata.org/datasets/cfs/variables/mxdroa2) value = 255**
