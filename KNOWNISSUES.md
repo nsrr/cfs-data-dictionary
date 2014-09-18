@@ -62,3 +62,4 @@ These are known issues in the current version.
 - One occurrence found: **[ndes5ph](https://sleepdata.org/datasets/cfs/variables/ndes5ph) value = 871**
 - Multiple occurrences found: **Low and high values in [pctchg_d](https://sleepdata.org/datasets/cfs/variables/pctchg_d)**
   - Percent changes were either -7.8 or 40.9
+- One occurrence found: **[pctchg_v](https://sleepdata.org/datasets/cfs/variables/pctchg_v) value = 484.4 %**
