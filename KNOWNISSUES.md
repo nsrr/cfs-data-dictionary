@@ -76,3 +76,4 @@ These are known issues in the current version.
 - Multiple occurrences found: **High values in [smxbroh](https://sleepdata.org/datasets/cfs/variables/smxbroh)**
   - Several values are greater than 256
 - One occurrence found: **[tbwperwt](https://sleepdata.org/datasets/cfs/variables/tbwperwt) value = 81.7 %**
+- One occurrence found: **[timest1p](https://sleepdata.org/datasets/cfs/variables/timest1p) value = 47.4**
