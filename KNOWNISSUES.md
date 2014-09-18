@@ -30,3 +30,5 @@ These are known issues in the current version.
 - One occurrence found: **[mndnop5](https://sleepdata.org/datasets/cfs/variables/mndnop5) value = 0**
 - One occurrence found: **[mxdnba](https://sleepdata.org/datasets/cfs/variables/mxdnba) value = 255**
 - One occurrence found: **[mxdnba2](https://sleepdata.org/datasets/cfs/variables/mxdnba2) value = 255**
+- One occurrence found: **[mxdnba2](https://sleepdata.org/datasets/cfs/variables/mxdnba2) value = 255**
+- One occurrence found: **[mxdnba3](https://sleepdata.org/datasets/cfs/variables/mxdnba3) value = 255**
