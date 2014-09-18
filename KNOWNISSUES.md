@@ -27,3 +27,4 @@ These are known issues in the current version.
 - One occurrence found: **[mndnop2](https://sleepdata.org/datasets/cfs/variables/mndnop2) value = 0**
 - One occurrence found: **[mndnop3](https://sleepdata.org/datasets/cfs/variables/mndnop3) value = 0**
 - One occurrence found: **[mndnop4](https://sleepdata.org/datasets/cfs/variables/mndnop4) value = 0**
+- One occurrence found: **[mndnop5](https://sleepdata.org/datasets/cfs/variables/mndnop5) value = 0**
