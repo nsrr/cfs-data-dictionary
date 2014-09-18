@@ -10,3 +10,4 @@ These are known issues in the current version.
 - One occurrence found: **[hmnbnoh](https://sleepdata.org/datasets/cfs/variables/hmnbnoh) value = 130**
 - One occurrence found: **[hmxbrbh](https://sleepdata.org/datasets/cfs/variables/hmxbrbh) value = 273 beats per minute**
 - One occurrence found: **[hypbpsys](https://sleepdata.org/datasets/cfs/variables/hypbpsys) value = 11 mmHg**
+- One occurrence found: **[icwperwt](https://sleepdata.org/datasets/cfs/variables/icwperwt) value = 82.8 %**
