@@ -3,7 +3,7 @@
   "display_name": "Any siblings with Angioplasty or Bypass Surgery",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
+  "domain": "noyesdk-2",
   "forms": [
     "lab_adult2"
   ]

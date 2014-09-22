@@ -3,7 +3,7 @@
   "display_name": "Ever had any chest pressure or heaviness",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
+  "domain": "noyesdk-2",
   "forms": [
     "lab_adult2"
   ]

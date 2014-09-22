@@ -3,7 +3,7 @@
   "display_name": "Fallen asleep on the job (A)",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
+  "domain": "noyesdk-2",
   "forms": [
     "lab_adult1"
   ]

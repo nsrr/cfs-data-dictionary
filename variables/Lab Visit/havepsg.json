@@ -3,7 +3,7 @@
   "display_name": "109 subj had a previous sleep study",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
+  "domain": "noyesdk-2",
   "forms": [
     "lab_adult3"
   ]

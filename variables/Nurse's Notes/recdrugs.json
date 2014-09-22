@@ -3,7 +3,7 @@
   "display_name": "Use recreational drugs",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
+  "domain": "noyesdk-2",
   "forms": [
     "nurse_admiss"
   ]

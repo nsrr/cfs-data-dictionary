@@ -3,7 +3,7 @@
   "display_name": "Cold weather gives you a stuffy or runny nose (L)",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
+  "domain": "noyesdk-2",
   "forms": [
     "lab_adult1"
   ]

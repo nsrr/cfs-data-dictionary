@@ -3,7 +3,7 @@
   "display_name": "62g wheeze only during nights (AC)",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
+  "domain": "noyesdk-2",
   "forms": [
     "lab_adult1"
   ]

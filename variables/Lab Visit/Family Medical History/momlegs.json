@@ -3,7 +3,7 @@
   "display_name": "Mom diagnosed Restless Legs or Periodic",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
+  "domain": "noyesdk-2",
   "forms": [
     "lab_adult2"
   ]

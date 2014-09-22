@@ -3,7 +3,7 @@
   "display_name": "Near Miss SIDS, ALTE",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
+  "domain": "noyesdk-2",
   "forms": [
     "lab_adult3"
   ]

@@ -3,7 +3,7 @@
   "display_name": "Other Significant Medical Condition",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
+  "domain": "noyesdk-2",
   "forms": [
     "lab_adult3"
   ]
