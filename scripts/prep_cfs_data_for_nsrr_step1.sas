@@ -345,6 +345,18 @@ quit;
 %put &null_negative_list;
 %put &null_negative_chars;
 
+*for "choices" variables, "-2" sometimes = "Don't Know", but -1 is missing so set to NULL;
+%let negative1_null_list = alcpres allbeec antihist_sd apacold apnctr apnobst astpl3dy astsp3dy bedalcl bpmed3dy bronchio calit600 centralv centsent centsilv centvits cenvitpl 
+			chrphle coldair combipat cpap curpreg cvsdaily cvsmegml cvsminer cvsprovi daynite dendev difbak distsnor docpain drvrslp dustfume estrace estrate femhrt fornu100 h2opl3dy 
+			hdforwpl healtpac hormones hosphrt hrtpl3dy kidadd kidasthm kidbp kidbypas kidcancr kidchf kiddepre kiddiabe kidemphy kidlegs kidmd kidmi kidnarc kidnms kidosa kidsickl 
+			kidsids kidsigmd kidslp kidsnor kidstrok kidtoure labothmd lanti lanymed lazertx lbron ldecon levchest lseds lsplpil lstim mensnow microniz moncigs mondist monpipe monsmoke 
+			n1ovrem n2ovrem nasaldil nasdc3dy natsurno natural noobser nosesur nuskinpk obslp ocuvite ocuvitpl ogen oneadaye oneadaym oneadayw onedayap onlynite othermed othestro othhpill 
+			othprog pastmon patchest perstop phl3 pollens posttx premarin premphas premprob premprop procycmp prog3dy protegra radchemo regbas rotnite samhse sedative shaklee sharbed 
+			shbrmon sibadd sibasthm sibbp sibbypas sibcancr sibchf sibdepre sibdiabe sibemphy siblegs sibmd sibmi sibnarc sibnms sibosa sibsickl sibsids sibsigmd sibslp sibsnor sibstrok 
+			sibtoure simple skintst slppl3dy solotron somnoply stdynite stim3dy stimulan stresstb surbext surgery theragmm theragrm thyrm3dy tondiag tonpres tranq3dy unicap unicapm unicapsr 
+			uppp utergone vagestro vaginal vimin75 whecold wheexer wompowpk workslp youvitir zbec
+;
+
 data alldata_obf_all_systclean;
   set alldata_obf_all;
 
@@ -357,6 +369,12 @@ data alldata_obf_all_systclean;
   array null_negatives_charray[*] &null_negative_chars;
   do i = 1 to dim(null_negatives_charray);
     if null_negatives_charray[i] in ("-1", "-2", "-8", "-9","-333", "-999","-1010") then null_negatives_charray[i] = "";
+  end;
+  drop i;
+
+	array null_negative1_array[*] &negative1_null_list;
+  do i = 1 to dim(null_negative1_array);
+    if null_negative1_array[i] = -1 then null_negative1_array[i] = .;
   end;
   drop i;
 run;
