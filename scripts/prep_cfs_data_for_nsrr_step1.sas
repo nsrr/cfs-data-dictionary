@@ -14,7 +14,7 @@ libname nsrrdata "&newfamilypath\nsrr-prep\_datasets";
 
 libname obf "&newfamilypath\nsrr-prep\_ids";
 
-%let release = 0.1.0.beta5;
+%let release = 0.1.0.beta6;
 
 ********************************************************;
 * Import CFS data
@@ -392,6 +392,9 @@ data alldata_obf_all_moreclean;
   if lowsaoslp = 0 then lowsaoslp = .;
   if lowsaonr < 10 then lowsaonr = .;
   *consider nulling cases where lowsaonr < lowsaoslp;
+
+	*NULL implausible age values;
+	if dadage > 200 then dadage = 593;
 
   *recalculate end_dur_hr and end_dur_mn (must have been some flaw in original formula);
   endslp_timevalue = hms(floor(endslp/100),mod(endslp,100),0);
