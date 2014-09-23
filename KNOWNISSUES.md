@@ -79,3 +79,4 @@ These are known issues in the current version.
 - One occurrence found: **[timest1p](https://sleepdata.org/datasets/cfs/variables/timest1p) value = 47.4**
 - One occurrence found: **[aavbnoh](https://sleepdata.org/datasets/cfs/variables/aavbnoh) value = 148**
 - One occurrence found: **[agecigs](https://sleepdata.org/datasets/cfs/variables/agecigs) value = 65**
+- One occurrence found: **[carslpy](https://sleepdata.org/datasets/cfs/variables/carslpy) value = 10**
