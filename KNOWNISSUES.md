@@ -86,3 +86,5 @@ These are known issues in the current version.
 - One occurrence found: **[v6pa](https://sleepdata.org/datasets/cfs/variables/v6pa) value = -48**
 - One occurrence found: **[v6ppa](https://sleepdata.org/datasets/cfs/variables/v6ppa) value = -43**
 - One occurrence found: **[v6spa](https://sleepdata.org/datasets/cfs/variables/v6spa) value = 126**
+- Multiple occurrences found: **Low values in [v6ta](https://sleepdata.org/datasets/cfs/variables/v6ta)**
+  - Several values are less than -300
