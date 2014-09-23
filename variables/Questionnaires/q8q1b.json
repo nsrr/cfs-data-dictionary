@@ -1,9 +1,9 @@
 {
   "id": "q8q1b",
-  "display_name": "CHQ-PF50: Q8Q1B",
+  "display_name": "My child has never been seriously ill",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "chq_truth",
   "forms": [
     "chq_pr"
   ]

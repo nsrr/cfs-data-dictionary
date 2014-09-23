@@ -1,9 +1,9 @@
 {
   "id": "q11q7",
-  "display_name": "CHQ-PF50: Q11Q7",
+  "display_name": "Which best describes your racial background?",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "race123456",
   "forms": [
     "chq_pr"
   ]

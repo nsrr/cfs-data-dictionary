@@ -1,9 +1,9 @@
 {
   "id": "q2q1f",
-  "display_name": "CHQ-PF50: Q2Q1F",
+  "display_name": "During the past 4 weeks, has your child been limited in any of the following activities due to health problems? Taking care of him/herself, that is, eating, dressing, bathing, or going to the toilet",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "chq_limits",
   "forms": [
     "chq_pr"
   ]

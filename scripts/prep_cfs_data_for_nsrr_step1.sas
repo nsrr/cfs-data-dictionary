@@ -346,15 +346,16 @@ quit;
 %put &null_negative_chars;
 
 *for "choices" variables, "-2" sometimes = "Don't Know", but -1 is missing so set to NULL;
-%let negative1_null_list = alcpres allbeec antihist_sd apacold apnctr apnobst astpl3dy astsp3dy bedalcl bpmed3dy bronchio calit600 centralv centsent centsilv centvits cenvitpl 
-			chrphle coldair combipat cpap curpreg cvsdaily cvsmegml cvsminer cvsprovi daynite dendev difbak distsnor docpain drvrslp dustfume estrace estrate femhrt fornu100 h2opl3dy 
-			hdforwpl healtpac hormones hosphrt hrtpl3dy kidadd kidasthm kidbp kidbypas kidcancr kidchf kiddepre kiddiabe kidemphy kidlegs kidmd kidmi kidnarc kidnms kidosa kidsickl 
-			kidsids kidsigmd kidslp kidsnor kidstrok kidtoure labothmd lanti lanymed lazertx lbron ldecon levchest lseds lsplpil lstim mensnow microniz moncigs mondist monpipe monsmoke 
-			n1ovrem n2ovrem nasaldil nasdc3dy natsurno natural noobser nosesur nuskinpk obslp ocuvite ocuvitpl ogen oneadaye oneadaym oneadayw onedayap onlynite othermed othestro othhpill 
-			othprog pastmon patchest perstop phl3 pollens posttx premarin premphas premprob premprop procycmp prog3dy protegra radchemo regbas rotnite samhse sedative shaklee sharbed 
-			shbrmon sibadd sibasthm sibbp sibbypas sibcancr sibchf sibdepre sibdiabe sibemphy siblegs sibmd sibmi sibnarc sibnms sibosa sibsickl sibsids sibsigmd sibslp sibsnor sibstrok 
-			sibtoure simple skintst slppl3dy solotron somnoply stdynite stim3dy stimulan stresstb surbext surgery theragmm theragrm thyrm3dy tondiag tonpres tranq3dy unicap unicapm unicapsr 
-			uppp utergone vagestro vaginal vimin75 whecold wheexer wompowpk workslp youvitir zbec
+%let negative1_null_list = actplay dochest farouse fdesire feelnap forgasm minslpco monsor offroad read reasrem samesnor slpcrash slptco soonches stilches timesnor totawco typetx uphchest wakmanco wellslp wkschool
+      alcpres allbeec antihist_sd apacold apnctr apnobst armexer astpl3dy astsp3dy bedalcl bicexer bpmed3dy bronchio calit600 centralv centsent centsilv centvits cenvitpl
+			chrphle coldair combipat cpap curpreg cvsdaily cvsmegml cvsminer cvsprovi daynite dendev difbak distsnor docpain drvrslp dustfume estrace estrate femhrt fornu100 h2opl3dy
+			hdforwpl healtpac hormones hosphrt hrtpl3dy jogexer kidadd kidasthm kidbp kidbypas kidcancr kidchf kiddepre kiddiabe kidemphy kidlegs kidmd kidmi kidnarc kidnms kidosa kidsickl
+			kidsids kidsigmd kidslp kidsnor kidstrok kidtoure labothmd lanti lanymed lazertx lbron ldecon legexer levchest lowexer lseds lsplpil lstim mensnow microniz moncigs mondist monpipe monsmoke
+			n1ovrem n2ovrem nasaldil nasdc3dy natsurno natural noobser nosesur nuskinpk obslp ocuvite ocuvitpl ogen oneadaye oneadaym oneadayw onedayap onlynite othermed othestro othexer othhpill
+			othprog pastmon patchest perstop phl3 pollens posttx premarin premphas premprob premprop procycmp prog3dy protegra radchemo regbas rotnite runexer samhse sedative shaklee sharbed
+			shbrmon sibadd sibasthm sibbp sibbypas sibcancr sibchf sibdepre sibdiabe sibemphy siblegs sibmd sibmi sibnarc sibnms sibosa sibsickl sibsids sibsigmd sibslp sibsnor sibstrok
+			sibtoure simple skintst slppl3dy solotron somnoply stdynite stim3dy stimulan stresstb surbext surgery swimexer tenexer theragmm theragrm thyrm3dy tondiag tonpres tranq3dy unicap unicapm unicapsr
+			uppp utergone vagestro vaginal vimin75 whecold wheexer wompowpk workslp youvitir vigexer zbec
 ;
 
 data alldata_obf_all_systclean;
@@ -434,7 +435,7 @@ run;
                             goudiayr guldiayr h2opilyr haydiayr heaageyr hepdiayr hippa htfdiayr inno insdiayr kfdiagyr kidndiyr livdiayr mdysdiyr mosdone mrmrdone mscdiayr naadone
                             nodone notech nsrhind nsrhtech ogttdone osmdiayr ostdiayr pacdiayr pardiayr partdiyr phardone phartech pheldone physdone pm10tech pndone pnediayr postdone
                             preddone psydiayr rhediayr rhindone rhintech shqdone sicdiayr sindiayr skindone skintech snakdone spirdone spirtech ssedone strodiyr surdiayr svdone
-                            thydiayr tiadiayr tondiayr toudiayr vigldone vigltech visitnfs yrdiagn index_date;
+                            thydiayr tiadiayr tondiayr toudiayr vigldone vigltech visitnfs yrdiagn index_date q10q3 q10q4 q11q2 q11q8;
 
 *drop variables that were excluded from the json data dictionary because of redundancy or a lack of relevance/importance;
 data alldata_obfclean_all_final;

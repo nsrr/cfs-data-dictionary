@@ -1,9 +1,9 @@
 {
   "id": "q6q1c",
-  "display_name": "CHQ-PF50: Q6Q1C",
+  "display_name": "During the past 4 weeks, how much of the time do you think your child acted nervous",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "chq_freq3",
   "forms": [
     "chq_pr"
   ]

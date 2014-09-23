@@ -1,9 +1,9 @@
 {
   "id": "q7q1f",
-  "display_name": "CHQ-PF50: Q7Q1F",
+  "display_name": "During the past 4 weeks, how satisfied do you think your child has felt about his/her life overall",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "chq_sat",
   "forms": [
     "chq_pr"
   ]

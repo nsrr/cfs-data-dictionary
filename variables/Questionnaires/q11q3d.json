@@ -1,9 +1,9 @@
 {
   "id": "q11q3d",
-  "display_name": "CHQ-PF50: Q11Q3D",
+  "display_name": "Which of the following best describes your current work status: Working either full or part time (either outside the home or at a home-based business)",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "chq_pr"
   ]

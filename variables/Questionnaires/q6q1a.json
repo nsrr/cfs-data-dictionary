@@ -1,9 +1,9 @@
 {
   "id": "q6q1a",
-  "display_name": "CHQ-PF50: Q6Q1A",
+  "display_name": "During the past 4 weeks, how much of the time do you think your child felt like crying",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "chq_freq3",
   "forms": [
     "chq_pr"
   ]

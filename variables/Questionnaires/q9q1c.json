@@ -1,9 +1,9 @@
 {
   "id": "q9q1c",
-  "display_name": "CHQ-PF50: Q9Q1C",
+  "display_name": "During the past 4 weeks, how much emotional worry or concern did your child's attention or learning abilities cause you?",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "chq_freq4",
   "forms": [
     "chq_pr"
   ]

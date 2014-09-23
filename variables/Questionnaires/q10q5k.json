@@ -1,9 +1,9 @@
 {
   "id": "q10q5k",
-  "display_name": "CHQ-PF50: Q10Q5K",
+  "display_name": "Have you ever been told by a teacher, school official, doctor, nurse or other health professional that your child has diabetes",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "chq_pr"
   ]

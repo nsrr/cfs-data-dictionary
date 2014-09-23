@@ -1,9 +1,9 @@
 {
   "id": "q4q2",
-  "display_name": "CHQ-PF50: Q4Q2",
+  "display_name": "During the past 4 weeks, how often has your child had bodily pain or discomfort?",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "chq_freq1",
   "forms": [
     "chq_pr"
   ]

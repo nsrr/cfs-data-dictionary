@@ -1,9 +1,9 @@
 {
   "id": "q2q1a",
-  "display_name": "CHQ-PF50: Q2Q1A",
+  "display_name": "During the past 4 weeks, has your child been limited in any of the following activities due to health problems? Doing things that take a lot of energy, such as playing soccer or running",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "chq_limits",
   "forms": [
     "chq_pr"
   ]

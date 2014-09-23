@@ -1,9 +1,9 @@
 {
   "id": "q9q3e",
-  "display_name": "CHQ-PF50: Q9Q3E",
+  "display_name": "During the past 4 weeks, how often has your child's health or behavior been a source of disagreements or arguments in your family",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "chq_freq2",
   "forms": [
     "chq_pr"
   ]

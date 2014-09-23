@@ -1,9 +1,9 @@
 {
   "id": "q11q1",
-  "display_name": "CHQ-PF50: Q11Q1",
+  "display_name": "What is your gender?",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "gender12",
   "forms": [
     "chq_pr"
   ]

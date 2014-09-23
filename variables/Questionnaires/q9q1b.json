@@ -1,9 +1,9 @@
 {
   "id": "q9q1b",
-  "display_name": "CHQ-PF50: Q9Q1B",
+  "display_name": "During the past 4 weeks, how much emotional worry or concern did your child's emotional well-being or behavior cause you?",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "chq_freq4",
   "forms": [
     "chq_pr"
   ]

@@ -1,9 +1,9 @@
 {
   "id": "q8q1d",
-  "display_name": "CHQ-PF50: Q8Q1D",
+  "display_name": "I expect my child will have a very healthy life",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "chq_truth",
   "forms": [
     "chq_pr"
   ]

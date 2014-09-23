@@ -1,9 +1,9 @@
 {
   "id": "q8q1a",
-  "display_name": "CHQ-PF50: Q8Q1A",
+  "display_name": "My child seems to be less healthy than other children I know",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "chq_truth",
   "forms": [
     "chq_pr"
   ]
