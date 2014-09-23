@@ -83,3 +83,4 @@ These are known issues in the current version.
 - One occurrence found: **[dmnbrbh](https://sleepdata.org/datasets/cfs/variables/dmnbrbh) value = 143**
 - One occurrence found: **[v3stj](https://sleepdata.org/datasets/cfs/variables/v3stj) value = 527**
 - One occurrence found: **[v5spa](https://sleepdata.org/datasets/cfs/variables/v5spa) value = 146**
+- One occurrence found: **[v6pa](https://sleepdata.org/datasets/cfs/variables/v6pa) value = -48**
