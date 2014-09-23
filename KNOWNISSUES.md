@@ -78,3 +78,4 @@ These are known issues in the current version.
 - One occurrence found: **[tbwperwt](https://sleepdata.org/datasets/cfs/variables/tbwperwt) value = 81.7 %**
 - One occurrence found: **[timest1p](https://sleepdata.org/datasets/cfs/variables/timest1p) value = 47.4**
 - One occurrence found: **[aavbnoh](https://sleepdata.org/datasets/cfs/variables/aavbnoh) value = 148**
+- One occurrence found: **[agecigs](https://sleepdata.org/datasets/cfs/variables/agecigs) value = 65**
