@@ -85,3 +85,4 @@ These are known issues in the current version.
 - One occurrence found: **[v5spa](https://sleepdata.org/datasets/cfs/variables/v5spa) value = 146**
 - One occurrence found: **[v6pa](https://sleepdata.org/datasets/cfs/variables/v6pa) value = -48**
 - One occurrence found: **[v6ppa](https://sleepdata.org/datasets/cfs/variables/v6ppa) value = -43**
+- One occurrence found: **[v6spa](https://sleepdata.org/datasets/cfs/variables/v6spa) value = 126**
