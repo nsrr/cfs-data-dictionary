@@ -81,3 +81,4 @@ These are known issues in the current version.
 - One occurrence found: **[agecigs](https://sleepdata.org/datasets/cfs/variables/agecigs) value = 65**
 - One occurrence found: **[carslpy](https://sleepdata.org/datasets/cfs/variables/carslpy) value = 10**
 - One occurrence found: **[dmnbrbh](https://sleepdata.org/datasets/cfs/variables/dmnbrbh) value = 143**
+- One occurrence found: **[phsegmin](https://sleepdata.org/datasets/cfs/variables/phsegmin) value = 0**
