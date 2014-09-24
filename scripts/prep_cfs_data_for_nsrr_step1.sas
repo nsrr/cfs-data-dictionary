@@ -396,6 +396,7 @@ data alldata_obf_all_moreclean;
   set alldata_obf_all_systclean;
 
   *Recode variables that were missed in original data entry;
+  if q10q5a = 0 then q10q5a = 2;
   if q11q3a = 3 then q11q3a = 1;
   if q11q3d = 4 then q11q3d = 1;
   if mosq4d > 6 then mosq4d = .;
