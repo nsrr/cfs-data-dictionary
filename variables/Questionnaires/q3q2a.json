@@ -1,9 +1,9 @@
 {
   "id": "q3q2a",
-  "display_name": "CHQ-PF50: Q3Q2A",
+  "display_name": "During the past 4 weeks, has your child's school work or activities with friends been limited in any of the following ways due to problems with his/her physical health in the kind of schoolwork or activities with friends he/she could do",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "chq_limits",
   "forms": [
     "chq_pr"
   ]

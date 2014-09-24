@@ -1,9 +1,9 @@
 {
   "id": "q5q1d",
-  "display_name": "CHQ-PF50: Q5Q1D",
+  "display_name": "How often during the past 4 weeks did your child steal things inside or outside the home",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "chq_freq2",
   "forms": [
     "chq_pr"
   ]

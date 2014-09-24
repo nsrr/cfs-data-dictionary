@@ -1,9 +1,9 @@
 {
   "id": "q10q5b",
-  "display_name": "CHQ-PF50: Q10Q5B",
+  "display_name": "Have you ever been told by a teacher, school official, doctor, nurse or other health professional that your child has asthma",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "chq_pr"
   ]

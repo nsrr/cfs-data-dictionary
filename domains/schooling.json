@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Some high school or college",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "High school diploma/GED",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Vocational school or some college",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "College degree",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Professional or graduate degree",
+    "description": ""
+  }
+]

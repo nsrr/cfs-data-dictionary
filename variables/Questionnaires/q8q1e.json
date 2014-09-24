@@ -1,9 +1,9 @@
 {
   "id": "q8q1e",
-  "display_name": "CHQ-PF50: Q8Q1E",
+  "display_name": "I worry more about my child's health than other people worry about their children's health",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "chq_truth",
   "forms": [
     "chq_pr"
   ]

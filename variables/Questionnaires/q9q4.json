@@ -1,9 +1,9 @@
 {
   "id": "q9q4",
-  "display_name": "CHQ-PF50: Q9Q4",
+  "display_name": "Sometimes families may have difficulty getting along with one another. They do not always agree and they may get angry. In general, how would you rate your family's ability to get along with one another?",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "chq_excel",
   "forms": [
     "chq_pr"
   ]

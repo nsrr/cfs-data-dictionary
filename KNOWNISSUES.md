@@ -77,3 +77,14 @@ These are known issues in the current version.
   - Several values are greater than 256
 - One occurrence found: **[tbwperwt](https://sleepdata.org/datasets/cfs/variables/tbwperwt) value = 81.7 %**
 - One occurrence found: **[timest1p](https://sleepdata.org/datasets/cfs/variables/timest1p) value = 47.4**
+- One occurrence found: **[aavbnoh](https://sleepdata.org/datasets/cfs/variables/aavbnoh) value = 148**
+- One occurrence found: **[agecigs](https://sleepdata.org/datasets/cfs/variables/agecigs) value = 65**
+- One occurrence found: **[carslpy](https://sleepdata.org/datasets/cfs/variables/carslpy) value = 10**
+- One occurrence found: **[dmnbrbh](https://sleepdata.org/datasets/cfs/variables/dmnbrbh) value = 143**
+- One occurrence found: **[v3stj](https://sleepdata.org/datasets/cfs/variables/v3stj) value = 527**
+- One occurrence found: **[v5spa](https://sleepdata.org/datasets/cfs/variables/v5spa) value = 146**
+- One occurrence found: **[v6pa](https://sleepdata.org/datasets/cfs/variables/v6pa) value = -48**
+- One occurrence found: **[v6ppa](https://sleepdata.org/datasets/cfs/variables/v6ppa) value = -43**
+- One occurrence found: **[v6spa](https://sleepdata.org/datasets/cfs/variables/v6spa) value = 126**
+- Multiple occurrences found: **Low values in [v6ta](https://sleepdata.org/datasets/cfs/variables/v6ta)**
+  - Several values are less than -300

@@ -1,9 +1,9 @@
 {
   "id": "q10q2",
-  "display_name": "CHQ-PF50: Q10Q2",
+  "display_name": "Was this your first child (natural or adopted)?",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "chq_pr"
   ]

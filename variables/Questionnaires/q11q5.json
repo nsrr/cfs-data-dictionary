@@ -1,9 +1,9 @@
 {
   "id": "q11q5",
-  "display_name": "CHQ-PF50: Q11Q5",
+  "display_name": "What is the highest level of schooling you have completed?",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "schooling",
   "forms": [
     "chq_pr"
   ]

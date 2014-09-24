@@ -1,9 +1,9 @@
 {
   "id": "q9q3b",
-  "display_name": "CHQ-PF50: Q9Q3B",
+  "display_name": "During the past 4 weeks, how often has your child's health or behavior interrupted various everyday family activities (eating meals, watching tv)",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "chq_freq2",
   "forms": [
     "chq_pr"
   ]

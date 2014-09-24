@@ -1,9 +1,9 @@
 {
   "id": "q9q2c",
-  "display_name": "CHQ-PF50: Q9Q2C",
+  "display_name": "During the past 4 weeks, were you limited in the amount of time you had for your own needs because of your child's attention or learning abilities",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "chq_limits",
   "forms": [
     "chq_pr"
   ]

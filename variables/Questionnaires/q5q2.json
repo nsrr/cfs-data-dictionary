@@ -1,9 +1,9 @@
 {
   "id": "q5q2",
-  "display_name": "CHQ-PF50: Q5Q2",
+  "display_name": "Compared to other children your child's age, in general would you say his/her behavior is",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "chq_excel",
   "forms": [
     "chq_pr"
   ]

@@ -1,9 +1,9 @@
 {
   "id": "q10q5e",
-  "display_name": "CHQ-PF50: Q10Q5E",
+  "display_name": "Have you ever been told by a teacher, school official, doctor, nurse or other health professional that your child has chronic allergies or sinus troubles?",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "chq_pr"
   ]

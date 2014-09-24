@@ -1,9 +1,9 @@
 {
   "id": "q1q1",
-  "display_name": "CHQ-PF50: Q1Q1",
+  "display_name": "In general, would you say your child's health is",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "chq_excel",
   "forms": [
     "chq_pr"
   ]

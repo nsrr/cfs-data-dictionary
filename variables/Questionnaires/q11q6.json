@@ -1,9 +1,9 @@
 {
   "id": "q11q6",
-  "display_name": "CHQ-PF50: Q11Q6",
+  "display_name": "What is your current marital status?",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "marriage",
   "forms": [
     "chq_pr"
   ]

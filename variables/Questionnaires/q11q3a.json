@@ -1,9 +1,9 @@
 {
   "id": "q11q3a",
-  "display_name": "CHQ-PF50: Q11Q3A",
+  "display_name": "Which of the following best describes your current work status: Not working due to my child's health",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "chq_pr"
   ]

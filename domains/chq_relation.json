@@ -1,0 +1,32 @@
+[
+  {
+    "value": "1",
+    "display_name": "Biological parent",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Step parent",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Foster parent",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Adoptive parent",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Guardian",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Other",
+    "description": ""
+  }
+]

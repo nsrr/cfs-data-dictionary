@@ -1,9 +1,9 @@
 {
   "id": "q9q3f",
-  "display_name": "CHQ-PF50: Q9Q3F",
+  "display_name": "During the past 4 weeks, how often has your child's health or behavior caused you to cancel or change plans (personal or work) at the last minute",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "chq_freq2",
   "forms": [
     "chq_pr"
   ]

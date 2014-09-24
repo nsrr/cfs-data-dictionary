@@ -1,9 +1,9 @@
 {
   "id": "q11q4",
-  "display_name": "CHQ-PF50: Q11Q4",
+  "display_name": "What is your relationship to your child?",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "chq_relation",
   "forms": [
     "chq_pr"
   ]

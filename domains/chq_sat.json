@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Very satisfied",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Somewhat satisfied",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Neither satisfied nor dissatisfied",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Somewhat dissatisfied",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Very dissatisfied",
+    "description": ""
+  }
+]
