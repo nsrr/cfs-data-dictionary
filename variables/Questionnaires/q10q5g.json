@@ -3,7 +3,7 @@
   "display_name": "Have you ever been told by a teacher, school official, doctor, nurse or other health professional that your child has chronic respiratory, lung, or breathing trouble (NOT ASTHMA)",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
+  "domain": "yesno12",
   "forms": [
     "chq_pr"
   ]

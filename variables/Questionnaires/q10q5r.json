@@ -3,7 +3,7 @@
   "display_name": "Have you ever been told by a teacher, school official, doctor, nurse or other health professional that your child has any other chronic medical condition that is affecting what they do or how they feel?",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
+  "domain": "yesno12",
   "forms": [
     "chq_pr"
   ]
