@@ -1,6 +1,6 @@
 {
   "id": "napdy",
-  "display_name": "PreSleep: Have you taken any naps today?",
+  "display_name": "Have you taken any naps today?",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

@@ -1,6 +1,6 @@
 {
   "id": "easlp",
-  "display_name": "PostSleep: How easy was it for you to fall asleep last night?",
+  "display_name": "How easy was it for you to fall asleep last night?",
   "description": "",
   "type": "choices",
   "domain": "find",

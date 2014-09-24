@@ -1,6 +1,6 @@
 {
   "id": "wakent",
-  "display_name": "PostSleep: Did you wake up during the night?",
+  "display_name": "Did you wake up during the night?",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

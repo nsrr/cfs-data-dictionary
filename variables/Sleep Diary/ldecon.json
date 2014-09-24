@@ -1,6 +1,6 @@
 {
   "id": "ldecon",
-  "display_name": "PreSleep: Decongestant today?",
+  "display_name": "Decongestant today?",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

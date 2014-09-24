@@ -1,6 +1,6 @@
 {
   "id": "slptm",
-  "display_name": "PostSleep: Minutes sleep last night?",
+  "display_name": "Minutes sleep last night?",
   "description": "",
   "type": "numeric",
   "forms": [

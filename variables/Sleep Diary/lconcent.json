@@ -1,6 +1,6 @@
 {
   "id": "lconcent",
-  "display_name": "PostSleep: How would you describe your ability to concentrate this morning?",
+  "display_name": "How would you describe your ability to concentrate this morning?",
   "description": "",
   "type": "choices",
   "domain": "find",

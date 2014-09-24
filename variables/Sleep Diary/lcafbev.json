@@ -1,6 +1,6 @@
 {
   "id": "lcafbev",
-  "display_name": "PreSleep: Have you had any caffeinated drinls after 5 p.m. this evening",
+  "display_name": "Have you had any caffeinated drinls after 5 p.m. this evening",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

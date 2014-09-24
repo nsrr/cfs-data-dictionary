@@ -1,6 +1,6 @@
 {
   "id": "lsplpil",
-  "display_name": "PreSleep: Sleeping Pill today?",
+  "display_name": "Sleeping Pill today?",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

@@ -1,6 +1,6 @@
 {
   "id": "lanti",
-  "display_name": "PreSleep: Antihistamines today?",
+  "display_name": "Antihistamines today?",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

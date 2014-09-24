@@ -1,6 +1,6 @@
 {
   "id": "lminslp",
-  "display_name": "PostSleep: How long after bedtime did you fall asleep?",
+  "display_name": "How long after bedtime did you fall asleep?",
   "description": "",
   "type": "numeric",
   "forms": [

@@ -1,6 +1,6 @@
 {
   "id": "difbak",
-  "display_name": "PostSleep: Have difficulty falling back to sleep?",
+  "display_name": "Have difficulty falling back to sleep?",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

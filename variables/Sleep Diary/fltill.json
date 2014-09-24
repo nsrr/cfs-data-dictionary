@@ -1,6 +1,6 @@
 {
   "id": "fltill",
-  "display_name": "PreSleep: Felt ill today or last 2 weeks?",
+  "display_name": "Felt ill today or last 2 weeks?",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

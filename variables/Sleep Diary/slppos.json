@@ -1,6 +1,6 @@
 {
   "id": "slppos",
-  "display_name": "PostSleep: What position did you sleep in most of the night?",
+  "display_name": "What position did you sleep in most of the night?",
   "description": "",
   "type": "choices",
   "domain": "find",

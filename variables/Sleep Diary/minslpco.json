@@ -1,6 +1,6 @@
 {
   "id": "minslpco",
-  "display_name": "PostSleep: Fall asleep more, less, or the same compared to usual?",
+  "display_name": "Fall asleep more, less, or the same compared to usual?",
   "description": "",
   "type": "choices",
   "domain": "find",

@@ -1,6 +1,6 @@
 {
   "id": "desslp",
-  "display_name": "PostSleep: How would you describe your sleep last night?",
+  "display_name": "How would you describe your sleep last night?",
   "description": "",
   "type": "choices",
   "domain": "find",

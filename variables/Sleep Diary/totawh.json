@@ -1,6 +1,6 @@
 {
   "id": "totawh",
-  "display_name": "PostSleep: Hours spent awake",
+  "display_name": "Hours spent awake",
   "description": "",
   "type": "numeric",
   "forms": [

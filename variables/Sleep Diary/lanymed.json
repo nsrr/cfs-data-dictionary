@@ -1,6 +1,6 @@
 {
   "id": "lanymed",
-  "display_name": "PreSleep: Have you taken any medication today?",
+  "display_name": "Have you taken any medication today?",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

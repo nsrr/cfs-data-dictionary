@@ -1,6 +1,6 @@
 {
   "id": "flspy",
-  "display_name": "PostSleep: Do you feel sleepy this morning?",
+  "display_name": "Do you feel sleepy this morning?",
   "description": "",
   "type": "choices",
   "domain": "find",

@@ -1,6 +1,6 @@
 {
   "id": "totawco",
-  "display_name": "PostSleep: Compared to usual, time spent awake longer, the same, or shorter?",
+  "display_name": "Compared to usual, time spent awake longer, the same, or shorter?",
   "description": "",
   "type": "choices",
   "domain": "find",

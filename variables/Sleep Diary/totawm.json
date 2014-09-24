@@ -1,6 +1,6 @@
 {
   "id": "totawm",
-  "display_name": "PostSleep: Minutes spent awake after falling asleep for",
+  "display_name": "Minutes spent awake after falling asleep for",
   "description": "",
   "type": "numeric",
   "forms": [

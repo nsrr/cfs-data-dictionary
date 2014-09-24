@@ -1,6 +1,6 @@
 {
   "id": "labothmd",
-  "display_name": "PreSleep: Other today?",
+  "display_name": "Other today?",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

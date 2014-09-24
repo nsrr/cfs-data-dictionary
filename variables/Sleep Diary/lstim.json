@@ -1,6 +1,6 @@
 {
   "id": "lstim",
-  "display_name": "PreSleep: Stimulants today?",
+  "display_name": "Stimulants today?",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

@@ -1,6 +1,6 @@
 {
   "id": "willlast",
-  "display_name": "PreSleep: How long ago last ill?",
+  "display_name": "How long ago last ill?",
   "description": "",
   "type": "choices",
   "domain": "find",

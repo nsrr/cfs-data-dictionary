@@ -1,6 +1,6 @@
 {
   "id": "lseds",
-  "display_name": "PreSleep: Sedatives today?",
+  "display_name": "Sedatives today?",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

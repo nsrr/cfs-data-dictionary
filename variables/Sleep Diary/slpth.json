@@ -1,6 +1,6 @@
 {
   "id": "slpth",
-  "display_name": "PostSleep: Hours sleep last night",
+  "display_name": "Hours sleep last night",
   "description": "",
   "type": "numeric",
   "forms": [

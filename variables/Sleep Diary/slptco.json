@@ -1,6 +1,6 @@
 {
   "id": "slptco",
-  "display_name": "PostSleep: Compared to usual, total time asleep longer, the same, or shorter?",
+  "display_name": "Compared to usual, total time asleep longer, the same, or shorter?",
   "description": "",
   "type": "choices",
   "domain": "find",

@@ -1,6 +1,6 @@
 {
   "id": "unuslp",
-  "display_name": "PostSleep: Did anything unusual happen to disturb your sleep last night?",
+  "display_name": "Did anything unusual happen to disturb your sleep last night?",
   "description": "",
   "type": "choices",
   "domain": "noyes01",
