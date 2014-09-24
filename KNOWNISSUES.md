@@ -9,10 +9,7 @@ These are known issues in the current version.
 - One occurrence found: **[havbnoh](https://sleepdata.org/datasets/cfs/variables/havbnoh) value = 149 beats per minute**
 - One occurrence found: **[hmnbnoh](https://sleepdata.org/datasets/cfs/variables/hmnbnoh) value = 130**
 - One occurrence found: **[hmxbrbh](https://sleepdata.org/datasets/cfs/variables/hmxbrbh) value = 273 beats per minute**
-- One occurrence found: **[hypbpsys](https://sleepdata.org/datasets/cfs/variables/hypbpsys) value = 11 mmHg**
 - One occurrence found: **[icwperwt](https://sleepdata.org/datasets/cfs/variables/icwperwt) value = 82.8 %**
-- One occurrence found: **[lowsaonr](https://sleepdata.org/datasets/cfs/variables/lowsaonr) value = 0**
-- One occurrence found: **[lowsaoslp](https://sleepdata.org/datasets/cfs/variables/lowsaoslp) value = 0**
 - Multiple occurrences found: **Low and high values in [mndnoa](https://sleepdata.org/datasets/cfs/variables/mndnoa)**
   - Several values were either 0 or 119
 - Multiple occurrences found: **Low and high values in [mndnoa2](https://sleepdata.org/datasets/cfs/variables/mndnoa2)**
@@ -57,7 +54,6 @@ These are known issues in the current version.
 - One occurrence found: **[mxdroa4](https://sleepdata.org/datasets/cfs/variables/mxdroa4) value = 255**
 - One occurrence found: **[mxdroa5](https://sleepdata.org/datasets/cfs/variables/mxdroa5) value = 255**
 - One occurrence found: **[mxdrop](https://sleepdata.org/datasets/cfs/variables/mxdrop) value = 255**
-- One occurrence found: **[mxhrahslp](https://sleepdata.org/datasets/cfs/variables/mxhrahslp) value = 526 beats per minute**
 - One occurrence found: **[ndes4ph](https://sleepdata.org/datasets/cfs/variables/ndes4ph) value = 940**
 - One occurrence found: **[ndes5ph](https://sleepdata.org/datasets/cfs/variables/ndes5ph) value = 871**
 - Multiple occurrences found: **Low and high values in [pctchg_d](https://sleepdata.org/datasets/cfs/variables/pctchg_d)**
