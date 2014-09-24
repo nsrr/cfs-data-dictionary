@@ -3,7 +3,7 @@
   "display_name": "Was this your first child (natural or adopted)?",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
+  "domain": "yesno12",
   "forms": [
     "chq_pr"
   ]
