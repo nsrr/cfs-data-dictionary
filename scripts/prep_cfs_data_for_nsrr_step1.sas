@@ -404,6 +404,7 @@ data alldata_obf_all_moreclean;
 
   *NULL implausible bp values;
   if hypbpsys < 20 then hypbpsys = .;
+  if mxhrahslp > 500 then mxhrahslp = .;
 
   *NULL implausible lowo2 values;
   if lowsaoslp = 0 then lowsaoslp = .;
