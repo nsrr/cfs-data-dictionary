@@ -14,7 +14,7 @@ libname nsrrdata "&newfamilypath\nsrr-prep\_datasets";
 
 libname obf "&newfamilypath\nsrr-prep\_ids";
 
-%let release = 0.1.0.beta6;
+%let release = 0.1.0.beta7;
 
 ********************************************************;
 * Import CFS data
@@ -221,7 +221,7 @@ proc sql;
 quit;
 */
 
-%let date_variable_list = visitdat date visitaa visitecg visitbr visitld visitnfs;
+%let date_variable_list = visitdat date visitaa visitecg visitbr visitld visitnfs q10q3 q11q2 q11q8;
 %let year_variable_list = yrdiagn APNDIAYR DIANARYR DIASNOYR DIAEXSYR DIALEGYR DIACHLYR DIASIDYR DIANMYR DIABPYR DIAHRTYR DIADIAYR DIAIRRYR ANGDIAYR BYPDIAYR ANGIOYR
                             HTFDIAYR PACDIAYR HEAAGEYR STRODIYR ENDARTYR TIADIAYR PARTDIYR OSTDIAYR GULDIAYR PARDIAYR CRODIAYR  KIDNDIYR LIVDIAYR KFDIAGYR MDYSDIYR
                             TOUDIAYR SICDIAYR ANEDIAYR CIRDIAYR HEPDIAYR ASTDIAYR BRODIAYR EMPDIAYR PNEDIAYR SINDIAYR HAYDIAYR DEVDIAYR ADEDIAYR TONDIAYR INSDIAYR
@@ -235,18 +235,12 @@ data alldata_withindexdates_obf;
 
   do i = 1 to dim(date_variables);
     if date_variables[i] le 0 then date_variables[i] = .;
+		date_variables[i] = date_variables[i] - index_date;
   end;
 
   do i = 1 to dim(year_variables);
     if year_variables[i] le 0 then year_variables[i] = .;
-  end;
-
-  do i = 1 to dim(date_variables);
-    date_variables[i] = date_variables[i] - index_date;
-  end;
-
-  do i = 1 to dim(year_variables);
-    year_variables[i] = year_variables[i] - year(index_date);
+		year_variables[i] = year_variables[i] - year(index_date);
   end;
 
   drop i;
