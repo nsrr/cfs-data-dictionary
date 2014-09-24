@@ -395,6 +395,10 @@ quit;
 data alldata_obf_all_moreclean;
   set alldata_obf_all_systclean;
 
+  *Recode variables that were missed in original data entry;
+  if q11q3a = 3 then q11q3a = 1;
+  if q11q3d = 4 then q11q3d = 1;
+
   *NULL cases where "maximum inflation" is less than observed value;
   if ankarmil < ankardsp then ankarmil = .;
 
