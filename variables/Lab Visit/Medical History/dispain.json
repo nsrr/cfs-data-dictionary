@@ -3,7 +3,7 @@
   "display_name": "Pain or physical discomfort while asleep (A)",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "freq",
   "forms": [
     "lab_adult1"
   ]

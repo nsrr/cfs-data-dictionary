@@ -3,7 +3,7 @@
   "display_name": "Jerky legs while asleep (AC)",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "freq",
   "forms": [
     "lab_adult1"
   ]

@@ -3,7 +3,7 @@
   "display_name": "Use caffeine drinks to stay awake (A)",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "freq",
   "forms": [
     "lab_adult1"
   ]

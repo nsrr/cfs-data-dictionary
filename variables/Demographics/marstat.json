@@ -3,7 +3,7 @@
   "display_name": "Marital Status",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "marstat",
   "forms": [
     "nunames"
   ]

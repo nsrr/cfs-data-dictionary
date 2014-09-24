@@ -3,7 +3,7 @@
   "display_name": "Heartburn during normal sleep time (A)",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "freq",
   "forms": [
     "lab_adult1"
   ]

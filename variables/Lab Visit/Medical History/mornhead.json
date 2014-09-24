@@ -3,7 +3,7 @@
   "display_name": "Morning headaches (A)",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "freq",
   "forms": [
     "lab_adult1"
   ]

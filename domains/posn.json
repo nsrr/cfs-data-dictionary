@@ -1,0 +1,37 @@
+[
+  {
+    "value": "-2",
+    "display_name": "Not sure",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "My back",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "My side",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "My stomach",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "My back and side",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "All positions",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Sitting up",
+    "description": ""
+  }
+]
