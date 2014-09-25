@@ -441,11 +441,13 @@ run;
                             preddone psydiayr rhediayr rhindone rhintech shqdone sicdiayr sindiayr skindone skintech snakdone spirdone spirtech ssedone strodiyr surdiayr svdone
                             thydiayr tiadiayr tondiayr toudiayr vigldone vigltech visitnfs yrdiagn index_date q10q4;
 
+%let other_reason_droplist = lcafbv3q lcafbv3t lcafbv2q lcafbv2t;
+
 *drop variables that were excluded from the json data dictionary because of redundancy or a lack of relevance/importance;
 data alldata_obfclean_all_final;
   set alldata_obf_all_moreclean;
 
-  drop &manual_json_droplist;
+  drop &manual_json_droplist &other_reason_droplist;
 run;
 
 
