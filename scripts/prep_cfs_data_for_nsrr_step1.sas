@@ -439,7 +439,7 @@ run;
                             goudiayr guldiayr h2opilyr haydiayr heaageyr hepdiayr hippa htfdiayr inno insdiayr kfdiagyr kidndiyr livdiayr mdysdiyr mosdone mrmrdone mscdiayr naadone
                             nodone notech nsrhind nsrhtech ogttdone osmdiayr ostdiayr pacdiayr pardiayr partdiyr phardone phartech pheldone physdone pm10tech pndone pnediayr postdone
                             preddone psydiayr rhediayr rhindone rhintech shqdone sicdiayr sindiayr skindone skintech snakdone spirdone spirtech ssedone strodiyr surdiayr svdone
-                            thydiayr tiadiayr tondiayr toudiayr vigldone vigltech visitnfs yrdiagn index_date q10q4;
+                            thydiayr tiadiayr tondiayr toudiayr vigldone vigltech visitnfs yrdiagn index_date q10q4 psgid;
 
 %let other_reason_droplist = lcafbv3q lcafbv3t lcafbv2q lcafbv2t;
 
