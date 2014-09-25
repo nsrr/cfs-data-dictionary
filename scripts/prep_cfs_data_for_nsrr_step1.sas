@@ -414,8 +414,8 @@ data alldata_obf_all_moreclean;
   if mxhrahslp > 500 then mxhrahslp = .;
 
   *NULL implausible lowo2 values;
-  if lowsaoslp = 0 then lowsaoslp = .;
-  if lowsaonr < 10 then lowsaonr = .;
+  *if lowsaoslp = 0 then lowsaoslp = .;
+  *if lowsaonr < 10 then lowsaonr = .;
   *consider nulling cases where lowsaonr < lowsaoslp;
 
   *NULL desaturation values > 100;
