@@ -392,6 +392,8 @@ where 0 le hypbpsys < 80 or hypbpsys > 200;
 quit;
 */
 
+%let desat_variable_list = mxdnba mxdnba2 mxdnba2 mxdnba3 mxdnba4 mxdnba5 mxdnbp mxdnoa mxdnoa2 mxdnoa3 mxdnoa4 mxdnoa5 mxdnop mxdrba mxdrba2 mxdrba3 mxdrba4 mxdrba5 mxdrbp mxdroa mxdroa2 mxdroa3 mxdroa4 mxdroa5;
+
 data alldata_obf_all_moreclean;
   set alldata_obf_all_systclean;
 
@@ -415,6 +417,13 @@ data alldata_obf_all_moreclean;
   if lowsaoslp = 0 then lowsaoslp = .;
   if lowsaonr < 10 then lowsaonr = .;
   *consider nulling cases where lowsaonr < lowsaoslp;
+
+  *NULL desaturation values > 100;
+  array desat_vars[*] &desat_variable_list;
+  do i = 1 to dim(desat_vars);
+    if desat_vars[i] > 100 then desat_vars[i] = .;
+  end;
+  drop i;
 
 	*NULL implausible age values;
 	if dadage > 200 then dadage = 593;
