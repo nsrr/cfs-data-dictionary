@@ -2,6 +2,14 @@
 
 These are known issues in the current version.
 
+- **Multiple event length variables have occurences of value = 0**
+  - Value denotes cases where no events were observed for category
+  - Special consideration of these cases suggested for analyses
+- **Multiple oxygen saturation variables have occurences of value = 0**
+  - Value denotes cases where category not observed
+    - e.g., mndrbp = 0 if individual never observed supine in REM
+  - Special consideration of these cases suggested for analyses
+
 - Multiple occurrences found: **Low values in [bpmmin](https://sleepdata.org/datasets/cfs/variables/bpmmin)**
   - Several blood pressure values were below 7 mmHg
 - One occurrence found: **[ecwperwt](https://sleepdata.org/datasets/cfs/variables/ecwperwt) value = 17**
