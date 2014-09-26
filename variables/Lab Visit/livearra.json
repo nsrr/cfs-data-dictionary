@@ -3,7 +3,7 @@
   "display_name": "107 What are your living arrangements?",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "roommates",
   "forms": [
     "lab_adult3"
   ]

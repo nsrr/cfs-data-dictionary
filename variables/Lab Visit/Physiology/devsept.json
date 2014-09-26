@@ -3,7 +3,7 @@
   "display_name": "Deviated septum observed by tester",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyes01",
   "forms": [
     "inlab_physio"
   ]

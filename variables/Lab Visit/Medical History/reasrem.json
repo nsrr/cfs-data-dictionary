@@ -3,7 +3,7 @@
   "display_name": "Reason tonsils/adenoids removed (A)",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "reasonforremoval",
   "forms": [
     "lab_adult2"
   ]

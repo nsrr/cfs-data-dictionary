@@ -3,7 +3,7 @@
   "display_name": "Chest discomfort when you walk uphill or hurry",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyesnever",
   "forms": [
     "lab_adult2"
   ]

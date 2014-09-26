@@ -3,7 +3,7 @@
   "display_name": "Implant of Cardiac Pacemaker",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "noyesdk-2",
   "forms": [
     "lab_adult3"
   ]

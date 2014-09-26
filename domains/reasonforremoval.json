@@ -1,0 +1,32 @@
+[
+  {
+    "value": "1",
+    "display_name": "Infection",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Allergies",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Enlarged/Swollen",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Failure to thrive",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Other",
+    "description": ""
+  },
+  {
+    "value": "-2",
+    "display_name": "Don't know",
+    "description": ""
+  }
+]

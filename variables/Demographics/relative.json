@@ -3,7 +3,7 @@
   "display_name": "Relationship to index",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "relative",
   "forms": [
     "nunames"
   ]

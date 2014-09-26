@@ -3,7 +3,7 @@
   "display_name": "What time of day do you function worst (A)",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "fxn_bad",
   "forms": [
     "lab_adult1"
   ]

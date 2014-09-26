@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": "Yes",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "No",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Never hurry or walk uphill",
+    "description": ""
+  },
+  {
+    "value": "-2",
+    "display_name": "Don't know",
+    "description": ""
+  }
+]

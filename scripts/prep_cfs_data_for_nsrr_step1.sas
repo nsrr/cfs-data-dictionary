@@ -405,6 +405,17 @@ data alldata_obf_all_moreclean;
   if mosq9b > 6 then mosq9b = .;
   if mosq9c > 6 then mosq9c = .;
   if mosq9f > 6 then mosq9f = .;
+  if dochest = 0 then dochest = 2;
+  if devsept = 2 then devsept = 0;
+  if hsincome = -9 then hsincome = .;
+  if livearra = -9 then livearra = .;
+  if nutonsil = -9 then nutonsil = .;
+  if slphear = -9 then slphear = .;
+  if slpqst = -9 then slpqst = .;
+  if soonches = 0 then soonches = 2;
+  if wakmanco = -9 then wakmanco = .;
+  if whereqst = -9 then whereqst = .;
+  if uphchest = 2 then uphchest = 0;
 
   *NULL cases where "maximum inflation" is less than observed value;
   if ankarmil < ankardsp then ankarmil = .;

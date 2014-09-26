@@ -3,7 +3,7 @@
   "display_name": "Loudness of snoring (AC)",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "snorvol",
   "forms": [
     "lab_adult1"
   ]

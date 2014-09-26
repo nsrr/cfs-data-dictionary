@@ -3,7 +3,7 @@
   "display_name": "Variation in snores in last month (A)",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "regsnor",
   "forms": [
     "lab_adult1"
   ]

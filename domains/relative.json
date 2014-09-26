@@ -1,0 +1,52 @@
+[
+  {
+    "value": "0",
+    "display_name": "Index",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Mother",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Father",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Daughter",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Son",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Brother",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Sister",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Spouse",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Extended family",
+    "description": ""
+  },
+  {
+    "value": "9",
+    "display_name": "Other",
+    "description": ""
+  }
+]

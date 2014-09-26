@@ -3,7 +3,7 @@
   "display_name": "How soon is chest discomfort relieved / not relieved?",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "min10chest",
   "forms": [
     "lab_adult2"
   ]

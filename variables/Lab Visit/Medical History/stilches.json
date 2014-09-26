@@ -3,7 +3,7 @@
   "display_name": "What happens to chest discomfort when standing still",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "chstpainrelief",
   "forms": [
     "lab_adult2"
   ]

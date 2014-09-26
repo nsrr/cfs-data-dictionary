@@ -3,7 +3,7 @@
   "display_name": "Loud Snoring, loud enough to wake others (L)",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "freq",
   "forms": [
     "lab_adult1"
   ]

@@ -3,7 +3,7 @@
   "display_name": "102 employment status (A)",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "employment",
   "forms": [
     "lab_adult3"
   ]

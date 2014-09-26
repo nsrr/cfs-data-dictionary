@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": "The same with each breath",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Sometime loud, sometimes soft",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "I haven't snored in the last month",
+    "description": ""
+  },
+  {
+    "value": "-2",
+    "display_name": "Don't know",
+    "description": ""
+  }
+]

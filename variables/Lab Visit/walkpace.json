@@ -3,7 +3,7 @@
   "display_name": "What is your normal walking pace outdoors?(L)",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "walkspeed",
   "forms": [
     "lab_adult1"
   ]

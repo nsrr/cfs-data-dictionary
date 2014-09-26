@@ -3,7 +3,7 @@
   "display_name": "What time of day that you function best (A)",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "fxn_best",
   "forms": [
     "lab_adult1"
   ]

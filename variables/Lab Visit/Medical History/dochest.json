@@ -3,7 +3,7 @@
   "display_name": "What do you do when you get chest discomfort while walking?",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "chestpain",
   "forms": [
     "lab_adult2"
   ]

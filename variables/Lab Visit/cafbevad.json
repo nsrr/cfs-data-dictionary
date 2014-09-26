@@ -3,7 +3,7 @@
   "display_name": "On average, how often do you drink caffeine",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "caffbehdaily",
   "forms": [
     "lab_adult2"
   ]

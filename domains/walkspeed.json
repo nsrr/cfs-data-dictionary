@@ -1,0 +1,32 @@
+[
+  {
+    "value": "0",
+    "display_name": "Slow",
+    "description": "Less than 2 mph"
+  },
+  {
+    "value": "1",
+    "display_name": "Normal, average",
+    "description": "2 to 2.9 mph"
+  },
+  {
+    "value": "2",
+    "display_name": "Brisk",
+    "description": "3 to 3.9 mph"
+  },
+  {
+    "value": "3",
+    "display_name": "Very brisk",
+    "description": "4 mph or faster"
+  },
+  {
+    "value": "4",
+    "display_name": "Unable to walk",
+    "description": ""
+  },
+  {
+    "value": "-2",
+    "display_name": "Don't know",
+    "description": ""
+  }
+]

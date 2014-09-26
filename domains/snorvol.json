@@ -1,0 +1,32 @@
+[
+  {
+    "value": "1",
+    "display_name": "Only slightly louder than heaving breathing",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "About as loud as mumbling or talking",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Louder than talking",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Extremely loud - can be heard through a closed door",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "I haven't snored in the last month",
+    "description": ""
+  },
+  {
+    "value": "-2",
+    "display_name": "Don't know",
+    "description": ""
+  }
+]
