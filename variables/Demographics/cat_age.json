@@ -1,0 +1,7 @@
+{
+  "id": "age",
+  "display_name": "Age at time of visit",
+  "description": "",
+  "type": "choices",
+  "domain": "agecat"
+}

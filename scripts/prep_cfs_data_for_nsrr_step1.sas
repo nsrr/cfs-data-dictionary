@@ -473,6 +473,18 @@ run;
 data alldata_obfclean_all_final;
   set alldata_obf_all_moreclean;
 
+  if age < 1 then age_category = 0;
+  else if 1 =< age =< 4 then age_category = 1;
+  else if 5 =< age =< 14 then age_category = 2;
+  else if 15 =< age =< 24 then age_category = 3;
+  else if 25 =< age =< 34 then age_category = 4;
+  else if 35 =< age =< 44 then age_category = 5;
+  else if 45 =< age =< 54 then age_category = 6;
+  else if 55 =< age =< 64 then age_category = 7;
+  else if 65 =< age =< 74 then age_category = 8;
+  else if 75 =< age =< 84 then age_category = 9;
+  else if 85 =< age then age_category = 10;
+
   drop &manual_json_droplist &other_reason_droplist;
 run;
 
