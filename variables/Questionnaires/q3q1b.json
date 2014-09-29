@@ -1,6 +1,6 @@
 {
   "id": "q3q1b",
-  "display_name": "During the past 4 weeks, has your child's school work or activities with friends been limited in any of the following ways due to emotional difficulties or problems with his/her behavior in the amount of time he/she could spend on schoolwork or activities with friends",
+  "display_name": "During the past 4 weeks, has your child's school work or activities with friends been limited due to emotional difficulties or problems with his/her behavior in the amount of time he/she could spend on schoolwork or activities with friends?",
   "description": "",
   "type": "choices",
   "domain": "chq_limits",
