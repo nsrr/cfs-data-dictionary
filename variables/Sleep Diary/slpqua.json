@@ -1,9 +1,9 @@
 {
   "id": "slpqua",
   "display_name": "Rate the overall quality of your sleep last night?",
-  "description": "",
-  "type": "choices",
-  "domain": "find",
+  "description": "Rated on a scale of 1 - 6, with 1 being Extremely Refreshing and 6 being Not Refreshing",
+  "type": "numeric",
+  "units": "",
   "forms": [
     "postsleep"
   ]

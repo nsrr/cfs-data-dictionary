@@ -3,7 +3,7 @@
   "display_name": "Tonsillar size, Dr. Rosen scale",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "rosenscale",
   "forms": [
     "inlab_physio"
   ]

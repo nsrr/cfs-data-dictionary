@@ -3,7 +3,7 @@
   "display_name": "Compared to usual, total time asleep longer, the same, or shorter?",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "longsameshort",
   "forms": [
     "postsleep"
   ]

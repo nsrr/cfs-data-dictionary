@@ -1,0 +1,32 @@
+[
+  {
+    "value": "-2",
+    "display_name": "Don't know",
+    "description": ""
+  },
+  {
+    "value": "0",
+    "display_name": "In fossa, no impingement",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Less than 25% tonsils ariway obstruction",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Less than 50% but greater than 25% airway obstruction",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Less than 75% but greater than 50% airway obstruction",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Greater than 75% airway obstruction",
+    "description": ""
+  }
+]

@@ -1,32 +1,42 @@
 [
   {
-    "value": "1",
+    "value": "0",
     "display_name": "5 hours or less",
     "description": ""
   },
   {
-    "value": "2",
+    "value": "1",
     "display_name": "6 - 6.9 hours",
     "description": ""
   },
   {
-    "value": "3",
+    "value": "2",
     "display_name": "7 - 7.9 hours",
     "description": ""
   },
   {
-    "value": "4",
+    "value": "3",
     "display_name": "8 - 8.9 hours",
     "description": ""
   },
   {
-    "value": "5",
+    "value": "4",
     "display_name": "9 - 9.9 hours",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "10 - 10.9 hours",
     "description": ""
   },
   {
     "value": "6",
     "display_name": "11+ hours",
+    "description": ""
+  },
+  {
+    "value": "-2",
+    "display_name": "Don't know",
     "description": ""
   }
 ]

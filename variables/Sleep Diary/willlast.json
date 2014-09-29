@@ -3,7 +3,7 @@
   "display_name": "How long ago last ill?",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "illness",
   "forms": [
     "presleep"
   ]

@@ -3,7 +3,7 @@
   "display_name": "Sleep Diary: position slept in most during study (AC)",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "postsleeppson",
   "forms": [
     "sleep_diary"
   ]

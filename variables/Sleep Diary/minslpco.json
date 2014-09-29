@@ -3,7 +3,7 @@
   "display_name": "Fall asleep more, less, or the same compared to usual?",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "morelesssame",
   "forms": [
     "postsleep"
   ]

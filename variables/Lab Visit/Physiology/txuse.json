@@ -3,7 +3,7 @@
   "display_name": "Treatment use",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "txusage",
   "forms": [
     "inlab_physio"
   ]

@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": "More",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Same",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Less",
+    "description": ""
+  },
+  {
+    "value": "-2",
+    "display_name": "Don't know",
+    "description": ""
+  }
+]

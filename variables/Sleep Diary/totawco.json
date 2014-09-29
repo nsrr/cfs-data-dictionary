@@ -3,7 +3,7 @@
   "display_name": "Compared to usual, time spent awake longer, the same, or shorter?",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "longsameshort",
   "forms": [
     "postsleep"
   ]

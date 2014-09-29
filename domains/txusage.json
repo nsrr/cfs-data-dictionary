@@ -1,0 +1,32 @@
+[
+  {
+    "value": "1",
+    "display_name": "Uses regularly",
+    "description": "more than 5 nights per week"
+  },
+  {
+    "value": "2",
+    "display_name": "Uses often",
+    "description": "3-5 nights per week"
+  },
+  {
+    "value": "3",
+    "display_name": "Uses sometimes",
+    "description": "1-2 nights per week"
+  },
+  {
+    "value": "4",
+    "display_name": "Uses rarely",
+    "description": "Less than 1 night per week"
+  },
+  {
+    "value": "5",
+    "display_name": "Doesn't use at all",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Prescribed but not yet received",
+    "description": ""
+  }
+]

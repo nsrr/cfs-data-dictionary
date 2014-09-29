@@ -1,37 +1,37 @@
 [
   {
     "value": "1",
-    "display_name": "Infection",
+    "display_name": "UPPP",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "Allergies",
+    "display_name": "Tonsillectomy",
     "description": ""
   },
   {
     "value": "3",
-    "display_name": "Enlarged/Swollen",
+    "display_name": "CPAP",
     "description": ""
   },
   {
     "value": "4",
-    "display_name": "Failure to thrive",
+    "display_name": "Surgery & CPAP",
     "description": ""
   },
   {
     "value": "5",
-    "display_name": "Other",
+    "display_name": "Oxygen",
     "description": ""
   },
   {
     "value": "6",
-    "display_name": "Apnea",
+    "display_name": "Other",
     "description": ""
   },
   {
     "value": "-2",
-    "display_name": "Don't know",
+    "display_name": "Not sure",
     "description": ""
   }
 ]

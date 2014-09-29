@@ -3,7 +3,7 @@
   "display_name": "Dose per day",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "folicaciddose",
   "forms": [
     "lab_adult1"
   ]

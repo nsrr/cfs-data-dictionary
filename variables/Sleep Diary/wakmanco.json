@@ -3,7 +3,7 @@
   "display_name": "Compared to usual, wake up more, same, or less?",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "morelesssame",
   "forms": [
     "postsleep"
   ]

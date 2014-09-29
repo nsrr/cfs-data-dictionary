@@ -349,7 +349,7 @@ quit;
 			othprog pastmon patchest perstop phl3 pollens posttx premarin premphas premprob premprop procycmp prog3dy protegra radchemo regbas rotnite runexer samhse sedative shaklee sharbed
 			shbrmon sibadd sibasthm sibbp sibbypas sibcancr sibchf sibdepre sibdiabe sibemphy siblegs sibmd sibmi sibnarc sibnms sibosa sibsickl sibsids sibsigmd sibslp sibsnor sibstrok
 			sibtoure simple skintst slppl3dy solotron somnoply stdynite stim3dy stimulan stresstb surbext surgery swimexer tenexer theragmm theragrm thyrm3dy tondiag tonpres tranq3dy unicap unicapm unicapsr
-			uppp utergone vagestro vaginal vimin75 whecold wheexer wompowpk workslp youvitir vigexer zbec foldosdy longicu longo2 ovaries tkphnno workacc
+			uppp utergone vagestro vaginal vimin75 whecold wheexer wompowpk workslp youvitir vigexer zbec foldosdy longicu longo2 ovaries tkphnno workacc nonaps
 ;
 
 data alldata_obf_all_systclean;
@@ -416,6 +416,7 @@ data alldata_obf_all_moreclean;
   if wakmanco = -9 then wakmanco = .;
   if whereqst = -9 then whereqst = .;
   if uphchest = 2 then uphchest = 0;
+  if position = -2 then position = 5;
 
   *NULL cases where "maximum inflation" is less than observed value;
   if ankarmil < ankardsp then ankarmil = .;
@@ -459,7 +460,9 @@ run;
                             goudiayr guldiayr h2opilyr haydiayr heaageyr hepdiayr hippa htfdiayr inno insdiayr kfdiagyr kidndiyr livdiayr mdysdiyr mosdone mrmrdone mscdiayr naadone
                             nodone notech nsrhind nsrhtech ogttdone osmdiayr ostdiayr pacdiayr pardiayr partdiyr phardone phartech pheldone physdone pm10tech pndone pnediayr postdone
                             preddone psydiayr rhediayr rhindone rhintech shqdone sicdiayr sindiayr skindone skintech snakdone spirdone spirtech ssedone strodiyr surdiayr svdone
-                            thydiayr tiadiayr tondiayr toudiayr vigldone vigltech visitnfs yrdiagn index_date q10q4 psgid;
+                            thydiayr tiadiayr tondiayr toudiayr vigldone vigltech visitnfs yrdiagn index_date q10q4 psgid
+                            /*removed until we are able to find the overlapping variables*/period
+                            ;
 
 %let other_reason_droplist = lcafbv3q lcafbv3t lcafbv2q lcafbv2t;
 

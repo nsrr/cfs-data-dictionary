@@ -1,0 +1,32 @@
+[
+  {
+    "value": "0",
+    "display_name": "Mostly on back",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Mostly on side",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Both on back and side",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Mostly on stomach",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "All positions",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Not sure",
+    "description": ""
+  }
+]

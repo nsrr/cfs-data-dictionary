@@ -3,7 +3,7 @@
   "display_name": "Type of sleep apnea treatment",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "treattype",
   "forms": [
     "inlab_physio"
   ]

@@ -3,7 +3,7 @@
   "display_name": "How would you describe your sleep last night?",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "slpquality",
   "forms": [
     "postsleep"
   ]
