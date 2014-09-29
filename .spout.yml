@@ -1,7 +1,7 @@
 slug: cfs
 visit: rectype
 charts:
-- chart: age
+- chart: age_category
   title: Age
 - chart: sex
   title: Gender

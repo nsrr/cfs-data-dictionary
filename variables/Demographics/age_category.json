@@ -1,5 +1,5 @@
 {
-  "id": "cat_age",
+  "id": "age_category",
   "display_name": "Age at time of visit",
   "description": "",
   "type": "choices",
