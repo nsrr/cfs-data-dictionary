@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Less than 5 minutes",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "5-15 minutes",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "15-30 minutes",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "More than 30 minutes",
+    "description": ""
+  },
+  {
+    "value": "-2",
+    "display_name": "Don't know",
+    "description": ""
+  }
+]

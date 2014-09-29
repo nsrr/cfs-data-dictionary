@@ -2,7 +2,8 @@
   "id": "tothrslp",
   "display_name": "How many total hrs in a 24 hour period (L)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "hourssleep",
   "forms": [
     "lab_adult1"
   ]

@@ -1,0 +1,32 @@
+[
+  {
+    "value": "1",
+    "display_name": "Only once",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "2-5 times",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "6-20 times",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "21-100 times",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "More than 100 times",
+    "description": ""
+  },
+  {
+    "value": "-2",
+    "display_name": "Don't know",
+    "description": ""
+  }
+]

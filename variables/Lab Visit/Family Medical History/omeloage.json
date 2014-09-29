@@ -2,8 +2,8 @@
   "id": "omeloage",
   "display_name": "Age Offspring with melanoma",
   "description": "",
-  "type": "numeric",
-  "units": "years",
+  "type": "choices",
+  "domain": "ages",
   "forms": [
     "lab_adult2"
   ]

@@ -3,7 +3,7 @@
   "display_name": "How long did you require oxygen",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "earlymeds",
   "forms": [
     "lab_adult1"
   ]

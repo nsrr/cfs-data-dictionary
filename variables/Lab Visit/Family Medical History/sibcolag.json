@@ -2,8 +2,8 @@
   "id": "sibcolag",
   "display_name": "Age sibling 1 with colon cancer",
   "description": "",
-  "type": "numeric",
-  "units": "years",
+  "type": "choices",
+  "domain": "ages",
   "forms": [
     "lab_adult2"
   ]

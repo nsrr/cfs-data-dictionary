@@ -3,7 +3,7 @@
   "display_name": "Amount of time to get going after sleeping (A)",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "functioning",
   "forms": [
     "lab_adult1"
   ]

@@ -2,7 +2,8 @@
   "id": "talkno",
   "display_name": "Number of times fell asleep talking (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "morethan100",
   "forms": [
     "lab_adult1"
   ]

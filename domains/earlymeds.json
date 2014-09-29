@@ -1,0 +1,37 @@
+[
+  {
+    "value": "1",
+    "display_name": "One day or less",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Two to three days",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Four to six days",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Seven to thirteen days",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Three to four weeks",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "More than four weeks",
+    "description": ""
+  },
+  {
+    "value": "-2",
+    "display_name": "Don't know",
+    "description": ""
+  }
+]

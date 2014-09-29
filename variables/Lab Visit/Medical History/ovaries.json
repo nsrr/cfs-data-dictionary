@@ -3,7 +3,7 @@
   "display_name": "If surgery, were ovaries removed?",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "ovaries",
   "forms": [
     "lab_adult1"
   ]

@@ -2,8 +2,8 @@
   "id": "addsbage",
   "display_name": "Age Sister 2 breast cancer",
   "description": "",
-  "type": "numeric",
-  "units": "years",
+  "type": "choices",
+  "domain": "ages",
   "forms": [
     "lab_adult2"
   ]

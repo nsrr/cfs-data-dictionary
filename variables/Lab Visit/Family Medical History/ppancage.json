@@ -3,7 +3,7 @@
   "display_name": "Age Parent with Pancreatic Cancer",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "ages",
   "forms": [
     "lab_adult2"
   ]

@@ -2,7 +2,8 @@
   "id": "nightup",
   "display_name": "Number of times woken up per night (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "nightup",
   "forms": [
     "lab_adult1"
   ]

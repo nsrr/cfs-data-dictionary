@@ -2,7 +2,8 @@
   "id": "nonaps",
   "display_name": "42 of times napped (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "morethan100",
   "forms": [
     "lab_adult1"
   ]

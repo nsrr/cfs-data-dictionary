@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "No",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Yes, both",
+    "description": ""
+  }
+  {
+    "value": "2",
+    "display_name": "Yes, only one",
+    "description": ""
+  }
+  {
+    "value": "3",
+    "display_name": "No, only uterus removed",
+    "description": ""
+  }
+]

@@ -2,8 +2,8 @@
   "id": "pcoloage",
   "display_name": "Age Parent with colon cancer",
   "description": "",
-  "type": "numeric",
-  "units": "years",
+  "type": "choices",
+  "domain": "ages",
   "forms": [
     "lab_adult2"
   ]

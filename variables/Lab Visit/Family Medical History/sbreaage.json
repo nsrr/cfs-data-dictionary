@@ -3,7 +3,7 @@
   "display_name": "Age Sister 1 breast cancer",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "ages",
   "forms": [
     "lab_adult2"
   ]
