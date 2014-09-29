@@ -485,6 +485,8 @@ data alldata_obfclean_all_final;
   else if 75 =< age =< 84 then age_category = 9;
   else if 85 =< age then age_category = 10;
 
+  if race > 2 then race = 3;
+
   drop &manual_json_droplist &other_reason_droplist;
 run;
 

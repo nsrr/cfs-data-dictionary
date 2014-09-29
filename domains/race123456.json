@@ -11,22 +11,7 @@
   },
   {
     "value": "3",
-    "display_name": "Asian",
-    "description": ""
-  },
-  {
-    "value": "4",
-    "display_name": "Hispanic",
-    "description": ""
-  },
-  {
-    "value": "5",
     "display_name": "Other",
-    "description": ""
-  },
-  {
-    "value": "6",
-    "display_name": "More than one race",
     "description": ""
   }
 ]
