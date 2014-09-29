@@ -3,7 +3,7 @@
   "display_name": "Sleep Study: subj had periodicity",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "yesnon",
   "forms": [
     "physio_report"
   ]
