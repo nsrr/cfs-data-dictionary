@@ -464,7 +464,7 @@ run;
                             nodone notech nsrhind nsrhtech ogttdone osmdiayr ostdiayr pacdiayr pardiayr partdiyr phardone phartech pheldone physdone pm10tech pndone pnediayr postdone
                             preddone psydiayr rhediayr rhindone rhintech shqdone sicdiayr sindiayr skindone skintech snakdone spirdone spirtech ssedone strodiyr surdiayr svdone
                             thydiayr tiadiayr tondiayr toudiayr vigldone vigltech visitnfs yrdiagn index_date q10q4 psgid
-                            /* Variable dropped until more information can be found based on domain options */indexf
+                            /* Variable dropped until more information can be found based on domain options */indexf monitor
                             ;
 
 %let other_reason_droplist = lcafbv3q lcafbv3t lcafbv2q lcafbv2t;
