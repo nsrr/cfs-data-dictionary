@@ -417,6 +417,8 @@ data alldata_obf_all_moreclean;
   if whereqst = -9 then whereqst = .;
   if uphchest = 2 then uphchest = 0;
   if position = -2 then position = 5;
+  /*4 Instances of '0' nulled out until meaning can be determined*/
+  if marstat = 0 then marstat = .;
 
   *NULL cases where "maximum inflation" is less than observed value;
   if ankarmil < ankardsp then ankarmil = .;

@@ -67,3 +67,5 @@ These are known issues in the current version.
 - One occurrence found: **[v6spa](https://sleepdata.org/datasets/cfs/variables/v6spa) value = 126**
 - Multiple occurrences found: **Low values in [v6ta](https://sleepdata.org/datasets/cfs/variables/v6ta)**
   - Several values are less than -300
+- Four occurrences found: **Values in [marstat](https://sleepdata.org/datasets/cfs/variables/marstat) that don't correspond to domain options**
+  - Nulled out until a future release

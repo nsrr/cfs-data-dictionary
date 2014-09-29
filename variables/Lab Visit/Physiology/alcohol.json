@@ -2,8 +2,8 @@
   "id": "alcohol",
   "display_name": "Sleep Diary: amount of alcohol on day of study (A)",
   "description": "",
-  "type": "choices",
-  "domain": "find",
+  "type": "numeric",
+  "units": "",
   "forms": [
     "sleep_diary"
   ]

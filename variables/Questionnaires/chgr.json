@@ -3,7 +3,7 @@
   "display_name": "SF-36 Raw Health Transition Item (ht)",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "sfht",
   "forms": [
     "sf36"
   ]
