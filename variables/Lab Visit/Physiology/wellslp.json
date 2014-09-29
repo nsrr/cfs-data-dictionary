@@ -3,7 +3,7 @@
   "display_name": "Sleep Diary: how well slept night of study (AC)",
   "description": "",
   "type": "choices",
-  "domain": "find",
+  "domain": "sleepwell",
   "forms": [
     "sleep_diary"
   ]

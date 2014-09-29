@@ -417,8 +417,9 @@ data alldata_obf_all_moreclean;
   if whereqst = -9 then whereqst = .;
   if uphchest = 2 then uphchest = 0;
   if position = -2 then position = 5;
-  /*4 Instances of '0' nulled out until meaning can be determined*/
+  /* 4 Instances of '0' nulled out until meaning can be determined*/
   if marstat = 0 then marstat = .;
+
 
   *NULL cases where "maximum inflation" is less than observed value;
   if ankarmil < ankardsp then ankarmil = .;
@@ -464,6 +465,7 @@ run;
                             preddone psydiayr rhediayr rhindone rhintech shqdone sicdiayr sindiayr skindone skintech snakdone spirdone spirtech ssedone strodiyr surdiayr svdone
                             thydiayr tiadiayr tondiayr toudiayr vigldone vigltech visitnfs yrdiagn index_date q10q4 psgid
                             /*removed until we are able to find the overlapping variables*/period
+                            /* Variable dropped until more information can be found based on domain options */indexf
                             ;
 
 %let other_reason_droplist = lcafbv3q lcafbv3t lcafbv2q lcafbv2t;
