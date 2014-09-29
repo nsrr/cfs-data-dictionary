@@ -1,6 +1,6 @@
 {
   "id": "alcoholx",
-  "display_name": "More than drink per week on average in the past year",
+  "display_name": "One or more than drink per week on average in the past year",
   "description": "",
   "type": "choices",
   "domain": "noyes01",
