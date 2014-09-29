@@ -11,3 +11,4 @@
     - `cfs-rectype5-dataset-0.1.0.beta6.csv`
 - **Gem Changes**
   - Updated to spout 0.9.0.beta2
+  - Use of Ruby 2.1.3 is now recommended
