@@ -3,7 +3,7 @@
   "display_name": "Race",
   "description": "'Asian', 'Hispanic', 'Other', and 'More than one race' were condensed into 'Other' to match other NSRR datasets",
   "type": "choices",
-  "domain": "race123456",
+  "domain": "race123",
   "forms": [
     "nunames"
   ]
