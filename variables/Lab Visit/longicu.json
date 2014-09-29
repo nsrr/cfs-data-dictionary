@@ -1,8 +1,9 @@
 {
   "id": "longicu",
-  "display_name": "57how long nicu",
+  "display_name": "How long in the NICU",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

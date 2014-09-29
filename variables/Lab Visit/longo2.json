@@ -2,7 +2,8 @@
   "id": "longo2",
   "display_name": "How long did you require oxygen",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

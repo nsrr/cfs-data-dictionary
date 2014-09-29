@@ -2,7 +2,8 @@
   "id": "tkphnno",
   "display_name": "Times fell asleep while on phone (A)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

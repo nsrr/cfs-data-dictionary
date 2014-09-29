@@ -2,7 +2,8 @@
   "id": "wgtgain",
   "display_name": "Past 5 years, what is weight change (L)",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]

@@ -2,7 +2,8 @@
   "id": "ovaries",
   "display_name": "If surgery, were ovaries removed?",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "find",
   "forms": [
     "lab_adult1"
   ]
