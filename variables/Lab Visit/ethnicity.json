@@ -3,7 +3,7 @@
   "display_name": "Subject ethnicity",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
+  "domain": "ethnicity01",
   "forms": [
     "lab_dataset"
   ]
