@@ -176,6 +176,12 @@ data rectype5_narrowedvars;
   drop &mlist;
 run;
 
+%let pass1_droplist = drop inall incatecholamine incrp incrpsnp incystatinc incytokine inddimer inddimerstar infibrinogen inflmed inghrelin inicam inil6 inil6snp inleptin inmaster
+											inmicroalb inoxldl inpai1 inpanela insolil6 intnfa invermontdna invisfatin lab_datercvd microalb_date ddimerstaram_rundate ddimer_transmit ddimer_datercvd
+											cystatinc_date zipcode state city cellphon midinit cdlabel f2r barcode whenwhe medicno diffaddr scorerid techid scoredt visityr oldindexf oldrelative monhbid
+											monpibid keyfield pptid personi;
+
+
 data rectype5_pass1;
   length obf_pptid 8.;
   merge obf.obfid rectype5_narrowedvars(drop=motherid fatherid in=a);
@@ -190,7 +196,8 @@ data rectype5_pass1;
   if rcurve3 = -1 then rcurve3 = .;
   if rcurve4 = -1 then rcurve4 = .;
 
-  drop inall incatecholamine incrp incrpsnp incystatinc incytokine inddimer inddimerstar infibrinogen inflmed inghrelin inicam inil6 inil6snp inleptin inmaster inmicroalb inoxldl inpai1 inpanela insolil6 intnfa invermontdna invisfatin lab_datercvd microalb_date ddimerstaram_rundate ddimer_transmit ddimer_datercvd cystatinc_date zipcode state city cellphon midinit cdlabel f2r barcode whenwhe medicno diffaddr scorerid techid scoredt visityr oldindexf oldrelative monhbid monpibid keyfield pptid personi;
+	drop &pass1_droplist;
+
 run;
 
 data alldata_withobfids;
@@ -273,15 +280,18 @@ run;
 proc sql noprint;
 	select NAME into :check_for_phi_dates separated by ' '
 	from Combined_rectypes_contents
-	where find(lowcase(NAME), 'date') > 0 or find(lowcase(LABEL), 'date') > 0;
+	where find(NAME, 'date', "i") > 0 or find(LABEL, 'date', "i") > 0;
 
-	select NAME into :check_for_phi_years
-	from Combined_rectypes_contents
-	where find(lowcase(NAME), 'year') > 0 or find(lowcase(LABEL), 'year') > 0;
+	select NAME into :check_for_phi_years separated by ' '
+	from combined_rectypes_contents
+	where find(NAME,'year',"i") > 0 or find (LABEL, 'year', "i") > 0;
+
 quit;
 
-%put &check_for_phi_dates;
-%put &check_for_phi_years;
+proc univariate data = alldata_withindexdates_obf2 noprint;;
+	output out = date_univ;
+	var &check_for_phi_dates &check_for_phi_years;
+run;
 
 %let phivars_droplist = NAMDOC TXOTHER MOMSPECC DADSPECC BROCAUS1 BROCAUS2 BROCAUS3 SISCAUS1 SISCAUS2 SISCAUS3 SIBCANSP SONCAUS1 SONCAUS2 SONCAUS3
                           DAUCAUS1 DAUCAUS2 DAUCAUS3 KIDCANSP DOCSAY MAJSURSP OSMCSP
