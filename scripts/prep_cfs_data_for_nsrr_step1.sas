@@ -422,7 +422,9 @@ where 0 le hypbpsys < 80 or hypbpsys > 200;
 quit;
 */
 
-%let desat_variable_list = mxdnba mxdnba2 mxdnba2 mxdnba3 mxdnba4 mxdnba5 mxdnbp mxdnoa mxdnoa2 mxdnoa3 mxdnoa4 mxdnoa5 mxdnop mxdrba mxdrba2 mxdrba3 mxdrba4 mxdrba5 mxdrbp mxdroa mxdroa2 mxdroa3 mxdroa4 mxdroa5;
+%let saturation_variable_list = mxdnba mxdnba2 mxdnba2 mxdnba3 mxdnba4 mxdnba5 mxdnbp mxdnoa mxdnoa2 mxdnoa3 mxdnoa4 mxdnoa5 mxdnop mxdrba mxdrba2 mxdrba3 mxdrba4 mxdrba5 mxdrbp mxdroa mxdroa2 mxdroa3 mxdroa4 mxdroa5
+                                avgsaominnr mxdrop avdnop avdnoa5 avdnoa4 avdnoa3 avdnoa2 avdnoa
+;
 
 data alldata_obf_all_moreclean;
   set alldata_obf_all_systclean;
@@ -464,7 +466,7 @@ data alldata_obf_all_moreclean;
   *consider nulling cases where lowsaonr < lowsaoslp;
 
   *NULL desaturation values > 100;
-  array desat_vars[*] &desat_variable_list;
+  array desat_vars[*] &saturation_variable_list;
   do i = 1 to dim(desat_vars);
     if desat_vars[i] > 100 then desat_vars[i] = .;
   end;
@@ -499,7 +501,8 @@ run;
 
 %let other_reason_droplist = /*Always equal to -1*/ lcafbv3q lcafbv3t lcafbv2q lcafbv2t
                             /*Always equal to 0*/ avgdbslp maxdbslp nobrslp nodb4slp nodb5slp nordb2 nordb3 nordb4 nordb5 nordball notca notcc notch notco pdb5slp plmardelta plmarrem
-                              plmarstg1 plmcardelta prdb5slp nobrap nobrc;
+                              plmarstg1 plmcardelta prdb5slp nobrap nobrc
+                            ;
 
 *drop variables that were excluded from the json data dictionary because of redundancy or a lack of relevance/importance;
 data alldata_obfclean_all_final;
