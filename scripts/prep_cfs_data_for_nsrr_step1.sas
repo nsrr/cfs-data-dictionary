@@ -76,7 +76,11 @@ proc sql noprint;
   from rectype5vars
   where (600 le varnum le 607) or (640 le varnum le 642) or (1010 le varnum le 1012) or (varnum in(363,1014,1015,1018,1019,1020,1023,1024)) or (1130 le varnum le 1137)
           or (varnum in(1139,1141,1142,1143,1858,1859)) or (1928 le varnum le 1956) or (1989 le varnum le 2020) or (varnum in(1983,1984)) or (2330 le varnum le 2335)
-          or (2350 le varnum le 2358);
+          or (2350 le varnum le 2358) or (2070 le varnum le 2078) or (2080 le varnum le 2082) or (2087 le varnum le 2093) or (2095 le varnum le 2097) or (2099 le varnum le 2101)
+          or (2107 le varnum le 2109) or (2113 le varnum le 2135 and varnum not in(2122,2126)) or (2140 le varnum le 2145) or (2147 le varnum le 2155) or (2157 le varnum le 2159)
+          or (2162 le varnum le 2164) or (2166 le varnum le 2168) or (2170 le varnum le 2172) or (2175 le varnum le 2186) or (2189 le varnum le 2191) or (2193 le varnum le 2195)
+          or (2197 le varnum le 2199) or (2232 le varnum le 2240) or (2242 le varnum le 2249 and varnum not in(2243,2245))
+  ;
 quit;
 
 %put &known_rec5vars_inneedof_NULLing;
