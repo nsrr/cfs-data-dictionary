@@ -9,6 +9,7 @@
 ********************************************************;
 
 %include "\\rfa01\bwh-sleepepi-home\projects\cohorts\Family\SAS\Family options and libnames.sas";
+%include "&newfamilypath\nsrr-prep\sleepepi-sas-macros.sas";
 
 libname nsrrdata "&newfamilypath\nsrr-prep\_datasets";
 
@@ -176,7 +177,7 @@ data rectype5_narrowedvars;
   drop &mlist;
 run;
 
-%let pass1_droplist = drop inall incatecholamine incrp incrpsnp incystatinc incytokine inddimer inddimerstar infibrinogen inflmed inghrelin inicam inil6 inil6snp inleptin inmaster
+%let pass1_droplist = inall incatecholamine incrp incrpsnp incystatinc incytokine inddimer inddimerstar infibrinogen inflmed inghrelin inicam inil6 inil6snp inleptin inmaster
 											inmicroalb inoxldl inpai1 inpanela insolil6 intnfa invermontdna invisfatin lab_datercvd microalb_date ddimerstaram_rundate ddimer_transmit ddimer_datercvd
 											cystatinc_date zipcode state city cellphon midinit cdlabel f2r barcode whenwhe medicno diffaddr scorerid techid scoredt visityr oldindexf oldrelative monhbid
 											monpibid keyfield pptid personi;
@@ -277,19 +278,31 @@ data alldata_withindexdates_obf2;
   rename whenpsg_yearsfromindex = whenpsg;
 run;
 
+*Check that there are no dates remaining in the dataset;
+%let nodates_dataset = alldata_withindexdates_obf2;
+
+proc contents data = &nodates_dataset out = nodates_dataset_contents noprint;
+run;
+
 proc sql noprint;
+	select quote(strip(NAME)) into :current_contents_list separated by ', '
+	from nodates_dataset_contents;
+
 	select NAME into :check_for_phi_dates separated by ' '
 	from Combined_rectypes_contents
-	where find(NAME, 'date', "i") > 0 or find(LABEL, 'date', "i") > 0;
+	where NAME in (&current_contents_list)
+				and (find(NAME, 'date', "i") > 0 or find(LABEL, 'date', "i") > 0);
 
 	select NAME into :check_for_phi_years separated by ' '
 	from combined_rectypes_contents
-	where find(NAME,'year',"i") > 0 or find (LABEL, 'year', "i") > 0;
+	where NAME in (&current_contents_list)
+				and (find(NAME,'year',"i") > 0 or find (LABEL, 'year', "i") > 0);
 
 quit;
 
-proc univariate data = alldata_withindexdates_obf2 noprint;;
-	output out = date_univ;
+*Check instances where year value > 1900 
+*Check instances where date value > 7300 [which would represent 20 years after index_date if variable was really "days from index" and not a date value];
+proc univariate data = &nodates_dataset noprint outtable = dates_univ;
 	var &check_for_phi_dates &check_for_phi_years;
 run;
 
