@@ -423,7 +423,7 @@ quit;
 */
 
 %let saturation_variable_list = mxdnba mxdnba2 mxdnba2 mxdnba3 mxdnba4 mxdnba5 mxdnbp mxdnoa mxdnoa2 mxdnoa3 mxdnoa4 mxdnoa5 mxdnop mxdrba mxdrba2 mxdrba3 mxdrba4 mxdrba5 mxdrbp mxdroa mxdroa2 mxdroa3 mxdroa4 mxdroa5
-                                avgsaominnr mxdrop avdnop avdnoa5 avdnoa4 avdnoa3 avdnoa2 avdnoa
+                                mndnoa5 mndnoa4 mndnoa3 mndnoa2 mndnoa mxdrop avdnop avdnoa5 avdnoa4 avdnoa3 avdnoa2 avdnoa avgsaominnr
 ;
 
 data alldata_obf_all_moreclean;
