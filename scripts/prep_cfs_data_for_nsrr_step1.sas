@@ -300,7 +300,7 @@ proc sql noprint;
 
 quit;
 
-*Check instances where year value > 1900 
+*Check instances where year value > 1900
 *Check instances where date value > 7300 [which would represent 20 years after index_date if variable was really "days from index" and not a date value];
 proc univariate data = &nodates_dataset noprint outtable = dates_univ;
 	var &check_for_phi_dates &check_for_phi_years;
@@ -497,7 +497,9 @@ run;
                             /* Variable dropped until more information can be found based on domain options */indexf monitor
                             ;
 
-%let other_reason_droplist = lcafbv3q lcafbv3t lcafbv2q lcafbv2t;
+%let other_reason_droplist = /*Always equal to -1*/ lcafbv3q lcafbv3t lcafbv2q lcafbv2t
+                            /*Always equal to 0*/ avgdbslp maxdbslp nobrslp nodb4slp nodb5slp nordb2 nordb3 nordb4 nordb5 nordball notca notcc notch notco pdb5slp plmardelta plmarrem
+                              plmarstg1 plmcardelta prdb5slp nobrap nobrc;
 
 *drop variables that were excluded from the json data dictionary because of redundancy or a lack of relevance/importance;
 data alldata_obfclean_all_final;
