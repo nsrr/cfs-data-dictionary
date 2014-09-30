@@ -222,7 +222,7 @@ quit;
 */
 
 %let date_variable_list = visitdat date visitaa visitecg visitbr visitld visitnfs stdatep q10q3 q11q2 q11q8;
-%let year_variable_list = yrdiagn APNDIAYR DIANARYR DIASNOYR DIAEXSYR DIALEGYR DIACHLYR DIASIDYR DIANMYR DIABPYR DIAHRTYR DIADIAYR DIAIRRYR ANGDIAYR BYPDIAYR ANGIOYR
+%let year_variable_list = yrdiagn ADDDIAYR APNDIAYR DIANARYR DIASNOYR DIAEXSYR DIALEGYR DIACHLYR DIASIDYR DIANMYR DIABPYR DIAHRTYR DIADIAYR DIAIRRYR ANGDIAYR BYPDIAYR ANGIOYR
                             HTFDIAYR PACDIAYR HEAAGEYR STRODIYR ENDARTYR TIADIAYR PARTDIYR OSTDIAYR GULDIAYR PARDIAYR CRODIAYR  KIDNDIYR LIVDIAYR KFDIAGYR MDYSDIYR
                             TOUDIAYR SICDIAYR ANEDIAYR CIRDIAYR HEPDIAYR ASTDIAYR BRODIAYR EMPDIAYR PNEDIAYR SINDIAYR HAYDIAYR DEVDIAYR ADEDIAYR TONDIAYR INSDIAYR
                             ANXDIAYR ADDDIAYR BEHDIAYR GOUDIAYR MSCDIAYR RHEDIAYR THYDIAYR DEPDIAYR ECZDIAYR PSYDIAYR CANDIAYR SURDIAYR OSMDIAYR;
@@ -270,11 +270,18 @@ data alldata_withindexdates_obf2;
   rename whenpsg_yearsfromindex = whenpsg;
 run;
 
-/*
-proc freq data = alldata_withindexdates_obf2;
-  table whenpsg;
-run;
-*/
+proc sql noprint;
+	select NAME into :check_for_phi_dates separated by ' '
+	from Combined_rectypes_contents
+	where find(lowcase(NAME), 'date') > 0 or find(lowcase(LABEL), 'date') > 0;
+
+	select NAME into :check_for_phi_years
+	from Combined_rectypes_contents
+	where find(lowcase(NAME), 'year') > 0 or find(lowcase(LABEL), 'year') > 0;
+quit;
+
+%put &check_for_phi_dates;
+%put &check_for_phi_years;
 
 %let phivars_droplist = NAMDOC TXOTHER MOMSPECC DADSPECC BROCAUS1 BROCAUS2 BROCAUS3 SISCAUS1 SISCAUS2 SISCAUS3 SIBCANSP SONCAUS1 SONCAUS2 SONCAUS3
                           DAUCAUS1 DAUCAUS2 DAUCAUS3 KIDCANSP DOCSAY MAJSURSP OSMCSP
