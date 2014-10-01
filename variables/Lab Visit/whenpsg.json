@@ -2,7 +2,8 @@
   "id": "whenpsg",
   "display_name": "When subject had previous sleep study",
   "description": "",
-  "type": "text",
+  "type": "numeric",
+  "units": "years from index date",
   "forms": [
     "lab_adult3"
   ]
