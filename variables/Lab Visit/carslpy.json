@@ -1,6 +1,6 @@
 {
   "id": "carslpy",
-  "display_name": "Of car accidents due to sleepiness (A)",
+  "display_name": "Number of car accidents due to sleepiness (A)",
   "description": "",
   "type": "numeric",
   "units": "accidents",
