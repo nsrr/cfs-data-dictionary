@@ -477,7 +477,7 @@ data alldata_obf_all_moreclean;
   drop i;
 
 	*NULL implausible age values;
-	if dadage > 200 then dadage = 593;
+	if dadage > 200 then dadage = .;
 
   *recalculate end_dur_hr and end_dur_mn (must have been some flaw in original formula);
   endslp_timevalue = hms(floor(endslp/100),mod(endslp,100),0);
