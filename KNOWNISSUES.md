@@ -10,6 +10,8 @@ These are known issues in the current version.
     - e.g., mndrbp = 0 if individual never observed supine in REM
   - Special consideration of these cases suggested for analyses
 
+- **[Family Medical History](https://sleepepi.partners.org/edge/sleepdata/datasets/cfs/variables?folder=Lab+Visit/Family+Medical+History) variables contain high volume of missing values**
+
 - Multiple occurrences found: **Low values in [bpmmin](https://sleepdata.org/datasets/cfs/variables/bpmmin)**
   - Several blood pressure values were below 7 mmHg
 - One occurrence found: **[ecwperwt](https://sleepdata.org/datasets/cfs/variables/ecwperwt) value = 17**
