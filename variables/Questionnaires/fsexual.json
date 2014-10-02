@@ -1,10 +1,10 @@
 {
   "id": "fsexual",
-  "display_name": "FOSQ: Sexual relationship affected",
+  "display_name": "Intimacy affected because sleepy",
   "description": "",
   "type": "choices",
   "domain": "fosq_main",
   "forms": [
-    "fosq"
+    "functional_outcomes_of_sleep_questionnaire"
   ]
 }

@@ -1,10 +1,10 @@
 {
   "id": "fhobby",
-  "display_name": "FOSQ: Difficulty working on a hobby",
+  "display_name": "Difficulty working on hobbies because sleepy",
   "description": "",
   "type": "choices",
   "domain": "fosq_main",
   "forms": [
-    "fosq"
+    "functional_outcomes_of_sleep_questionnaire"
   ]
 }

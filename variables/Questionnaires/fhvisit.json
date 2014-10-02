@@ -1,10 +1,10 @@
 {
   "id": "fhvisit",
-  "display_name": "FOSQ: Difficulty visiting in your home",
+  "display_name": "Difficulty with visitors because sleepy",
   "description": "",
   "type": "choices",
   "domain": "fosq_main",
   "forms": [
-    "fosq"
+    "functional_outcomes_of_sleep_questionnaire"
   ]
 }

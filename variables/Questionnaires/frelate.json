@@ -1,10 +1,10 @@
 {
   "id": "frelate",
-  "display_name": "FOSQ: Relationships been affected",
+  "display_name": "Relationships been affected because sleepy",
   "description": "",
   "type": "choices",
   "domain": "fosq_relation",
   "forms": [
-    "fosq"
+    "functional_outcomes_of_sleep_questionnaire"
   ]
 }

@@ -1,10 +1,10 @@
 {
   "id": "fconcrt",
-  "display_name": "FOSQ: Difficulty enjoying concert",
+  "display_name": "Difficulty enjoying concerts because sleepy",
   "description": "",
   "type": "choices",
   "domain": "fosq_main",
   "forms": [
-    "fosq"
+    "functional_outcomes_of_sleep_questionnaire"
   ]
 }

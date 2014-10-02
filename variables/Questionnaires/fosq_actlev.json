@@ -1,10 +1,10 @@
 {
   "id": "fosq_actlev",
-  "display_name": "FOSQ Activity Level",
+  "display_name": "functional_outcomes_of_sleep_questionnaire Activity Level",
   "description": "",
   "type": "numeric",
   "units": "",
   "forms": [
-    "fosq"
+    "functional_outcomes_of_sleep_questionnaire"
   ]
 }

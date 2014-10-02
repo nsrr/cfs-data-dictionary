@@ -1,9 +1,9 @@
 {
   "id": "howafct3",
-  "display_name": "FOSQ: How relationships affected 3",
+  "display_name": "How has relationships been affected",
   "description": "",
   "type": "text",
   "forms": [
-    "fosq"
+    "functional_outcomes_of_sleep_questionnaire"
   ]
 }

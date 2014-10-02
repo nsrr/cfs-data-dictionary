@@ -1,10 +1,10 @@
 {
   "id": "fshdrv",
-  "display_name": "FOSQ: Difficulty driving short distances",
+  "display_name": "Difficulty driving short distances due to sleepy",
   "description": "",
   "type": "choices",
   "domain": "fosq_main",
   "forms": [
-    "fosq"
+    "functional_outcomes_of_sleep_questionnaire"
   ]
 }

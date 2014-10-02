@@ -1,10 +1,10 @@
 {
   "id": "fosq_vigiln",
-  "display_name": "FOSQ Vigilance",
+  "display_name": "functional_outcomes_of_sleep_questionnaire Vigilance",
   "description": "",
   "type": "numeric",
   "units": "",
   "forms": [
-    "fosq"
+    "functional_outcomes_of_sleep_questionnaire"
   ]
 }

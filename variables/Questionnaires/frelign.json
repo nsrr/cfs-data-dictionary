@@ -1,10 +1,10 @@
 {
   "id": "frelign",
-  "display_name": "FOSQ: Difficulty in religious services",
+  "display_name": "Difficulty with religious services because sleepy",
   "description": "",
   "type": "choices",
   "domain": "fosq_main",
   "forms": [
-    "fosq"
+    "functional_outcomes_of_sleep_questionnaire"
   ]
 }

@@ -1,10 +1,10 @@
 {
   "id": "fmeal",
-  "display_name": "FOSQ: Difficulty furnishing a meal",
+  "display_name": "Difficulty finishing meals because sleepy",
   "description": "",
   "type": "choices",
   "domain": "fosq_main",
   "forms": [
-    "fosq"
+    "functional_outcomes_of_sleep_questionnaire"
   ]
 }

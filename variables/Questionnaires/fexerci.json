@@ -1,10 +1,10 @@
 {
   "id": "fexerci",
-  "display_name": "FOSQ: Difficulty exercising",
+  "display_name": "Difficulty with exercising because sleepy",
   "description": "",
   "type": "choices",
   "domain": "fosq_main",
   "forms": [
-    "fosq"
+    "functional_outcomes_of_sleep_questionnaire"
   ]
 }

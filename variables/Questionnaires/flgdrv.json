@@ -1,10 +1,10 @@
 {
   "id": "flgdrv",
-  "display_name": "FOSQ: Difficulty driving long distances",
+  "display_name": "Difficulty driving long distances due to sleepy",
   "description": "",
   "type": "choices",
   "domain": "fosq_main",
   "forms": [
-    "fosq"
+    "functional_outcomes_of_sleep_questionnaire"
   ]
 }
