@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "slpquality",
   "forms": [
-    "postsleep"
+    "post_sleep_diary"
   ]
 }

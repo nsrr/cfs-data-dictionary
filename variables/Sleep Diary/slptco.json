@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "longsameshort",
   "forms": [
-    "postsleep"
+    "post_sleep_diary"
   ]
 }
