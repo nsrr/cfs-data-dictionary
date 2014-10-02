@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "illness",
   "forms": [
-    "presleep"
+    "pre_sleep_diary"
   ]
 }

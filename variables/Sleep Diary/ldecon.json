@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "noyes01",
   "forms": [
-    "presleep"
+    "pre_sleep_diary"
   ]
 }
