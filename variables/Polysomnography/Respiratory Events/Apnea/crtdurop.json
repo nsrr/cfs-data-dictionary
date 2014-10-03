@@ -1,6 +1,6 @@
 {
   "id":"crtdurop",
-  "display_name": "Total Cent. Apnea Length (REM, Other)",
+  "display_name": "Total Central Apnea Length (REM, Other)",
   "description": "",
   "type": "numeric",
   "units": "minutes"

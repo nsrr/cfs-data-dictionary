@@ -1,6 +1,6 @@
 {
   "id":"cntdur",
-  "display_name": "Total Cent. Apnea Length (NREM)",
+  "display_name": "Total Central Apnea Length (NREM)",
   "description": "",
   "type": "numeric",
   "units": "minutes"
