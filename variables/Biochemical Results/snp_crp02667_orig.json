@@ -3,5 +3,5 @@
   "display_name": "C-reactive protein nucleotide polymorphism 02667 levels",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "domain": "snpmorph"
 }

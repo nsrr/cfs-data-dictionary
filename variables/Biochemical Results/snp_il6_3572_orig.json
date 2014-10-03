@@ -3,5 +3,5 @@
   "display_name": "Interleukin-6 nucleotide polymorphism 3572 levels",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "domain": "snpmorph"
 }
