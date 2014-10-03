@@ -1,6 +1,6 @@
 {
   "id": "choke",
-  "display_name": "8 choke while asleep (A)",
+  "display_name": "choke while asleep (A)",
   "description": "",
   "type": "choices",
   "domain": "freq",

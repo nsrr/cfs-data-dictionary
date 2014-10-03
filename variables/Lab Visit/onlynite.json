@@ -1,6 +1,6 @@
 {
   "id": "onlynite",
-  "display_name": "62g wheeze only during nights (AC)",
+  "display_name": "wheeze only during nights (AC)",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

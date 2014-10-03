@@ -1,6 +1,6 @@
 {
   "id": "dustfume",
-  "display_name": "62e wheeze when exposed to dust/fume (AC)",
+  "display_name": "wheeze when exposed to dust/fume (AC)",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

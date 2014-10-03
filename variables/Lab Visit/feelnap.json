@@ -1,6 +1,6 @@
 {
   "id": "feelnap",
-  "display_name": "42c how often do you feel refreshed after nap (A)",
+  "display_name": "how often do you feel refreshed after nap (A)",
   "description": "",
   "type": "choices",
   "domain": "freq",

@@ -1,6 +1,6 @@
 {
   "id": "pastmon",
-  "display_name": "62h wheeze during past month",
+  "display_name": "wheeze during past month",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

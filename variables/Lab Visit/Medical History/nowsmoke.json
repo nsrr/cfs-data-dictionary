@@ -1,6 +1,6 @@
 {
   "id": "nowsmoke",
-  "display_name": "84d cigarettes currently smoke/day (A)",
+  "display_name": "cigarettes currently smoke/day (A)",
   "description": "",
   "type": "numeric",
   "units": "cigarettes",

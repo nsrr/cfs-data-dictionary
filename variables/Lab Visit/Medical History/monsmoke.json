@@ -1,6 +1,6 @@
 {
   "id": "monsmoke",
-  "display_name": "84c past month, smoke greater than 1 cigarettes per day (A)",
+  "display_name": "past month, smoke greater than 1 cigarettes per day (A)",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

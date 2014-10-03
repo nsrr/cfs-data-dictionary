@@ -1,6 +1,6 @@
 {
   "id": "hsincome",
-  "display_name": "110 What is your household income?",
+  "display_name": "What is your household income?",
   "description": "",
   "type": "choices",
   "domain": "hsincome",

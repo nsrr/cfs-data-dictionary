@@ -1,6 +1,6 @@
 {
   "id": "employ",
-  "display_name": "102 employment status (A)",
+  "display_name": "employment status (A)",
   "description": "",
   "type": "choices",
   "domain": "employment",
