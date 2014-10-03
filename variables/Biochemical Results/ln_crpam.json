@@ -1,7 +1,0 @@
-{
-  "id": "ln_crpam",
-  "display_name": "Log value: C-reactive protein levels - AM reading",
-  "description": "",
-  "type": "numeric",
-  "units": "micrograms per milliliter"
-}
