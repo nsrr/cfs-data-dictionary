@@ -1,7 +1,7 @@
 {
   "id": "oxldl",
   "display_name": "Oxidized low density lipoprotein levels",
-  "description": "",
+  "description": "1 value was inserted by using the ceiling and floor reference values",
   "type": "numeric",
   "units": "units per liter"
 }
