@@ -1,7 +1,7 @@
 {
   "id": "rbp4",
   "display_name": "Retinol binding protein-4 levels",
-  "description": "",
+  "description": "2 values were inserted by using the ceiling and floor reference values",
   "type": "numeric",
   "units": "milligrams per deciliter"
 }
