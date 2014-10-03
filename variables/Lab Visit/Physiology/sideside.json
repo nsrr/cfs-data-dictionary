@@ -3,6 +3,7 @@
   "display_name": "Head Measurement - side to side",
   "description": "",
   "type": "numeric",
+  "units": "centimeters",
   "forms": [
     "inlab_physio"
   ]
