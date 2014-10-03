@@ -1,6 +1,6 @@
 {
-  "id": "ftheatr",
-  "display_name": "Difficulty enjoying the theater because sleepy",
+  "id": "fvolwrk",
+  "display_name": "Do you have difficulty performing employed or volunteer work because you are sleepy or tired?",
   "description": "",
   "type": "choices",
   "domain": "fosq_main",

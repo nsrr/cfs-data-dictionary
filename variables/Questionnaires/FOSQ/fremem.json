@@ -1,6 +1,6 @@
 {
-  "id": "fhobby",
-  "display_name": "Difficulty working on hobbies because sleepy",
+  "id": "fremem",
+  "display_name": "Do you generally have difficulty remembering things because you are sleepy or tired?",
   "description": "",
   "type": "choices",
   "domain": "fosq_main",

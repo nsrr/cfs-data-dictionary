@@ -1,0 +1,10 @@
+{
+  "id": "factive",
+  "display_name": "For Question 26 only, answer using the scale below. How would you rate your general level of activity? 1 = Very low; 2 = Low 3 = Medium 4 = High",
+  "description": "",
+  "type": "choices",
+  "domain": "fosq_lowhigh",
+  "forms": [
+    "functional_outcomes_of_sleep_questionnaire"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "fshdrv",
+  "display_name": "Do you have difficulty operating a motor vehicle for short distances (less than 100 miles) because you become sleepy or tired?",
+  "description": "",
+  "type": "choices",
+  "domain": "fosq_main",
+  "forms": [
+    "functional_outcomes_of_sleep_questionnaire"
+  ]
+}

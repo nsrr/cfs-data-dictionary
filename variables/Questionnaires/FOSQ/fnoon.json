@@ -1,6 +1,6 @@
 {
   "id": "fnoon",
-  "display_name": "Difficulty with afternoon activities because sleepy",
+  "display_name": "Do you have difficulty being as active as you want to be in the afternoon because you are sleepy or tired?",
   "description": "",
   "type": "choices",
   "domain": "fosq_main",

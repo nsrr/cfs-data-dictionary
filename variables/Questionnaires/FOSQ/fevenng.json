@@ -1,6 +1,6 @@
 {
   "id": "fevenng",
-  "display_name": "Difficulty with evening activities because sleepy",
+  "display_name": "Do you have difficulty being as active as you want to be in the evening because you are sleepy or tired?",
   "description": "",
   "type": "choices",
   "domain": "fosq_main",

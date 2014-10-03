@@ -1,6 +1,6 @@
 {
-  "id": "fmeal",
-  "display_name": "Difficulty finishing meals because sleepy",
+  "id": "fdesire",
+  "display_name": "Has your desire for intimacy or sex been affected because you are sleepy or tired?",
   "description": "",
   "type": "choices",
   "domain": "fosq_main",

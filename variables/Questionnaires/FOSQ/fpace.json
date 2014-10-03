@@ -1,6 +1,6 @@
 {
-  "id": "fhvisit",
-  "display_name": "Difficulty with visitors because sleepy",
+  "id": "fpace",
+  "display_name": "Do you have difficulty keeping pace with others your own age because you are sleepy or tired?",
   "description": "",
   "type": "choices",
   "domain": "fosq_main",

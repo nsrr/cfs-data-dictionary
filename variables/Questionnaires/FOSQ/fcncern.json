@@ -1,0 +1,10 @@
+{
+  "id": "fcncern",
+  "display_name": "Do you generally have difficulty concentrating on the things you do because you are sleepy or tired?",
+  "description": "",
+  "type": "choices",
+  "domain": "fosq_main",
+  "forms": [
+    "functional_outcomes_of_sleep_questionnaire"
+  ]
+}

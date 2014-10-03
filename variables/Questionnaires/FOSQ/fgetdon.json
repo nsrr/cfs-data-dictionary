@@ -1,6 +1,6 @@
 {
   "id": "fgetdon",
-  "display_name": "Difficulty getting things done because sleepy",
+  "display_name": "Do you have difficulty getting things done because you are too sleepy or tired to drive or take public transportation?",
   "description": "",
   "type": "choices",
   "domain": "fosq_main",

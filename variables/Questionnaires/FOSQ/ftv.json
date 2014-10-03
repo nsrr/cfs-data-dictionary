@@ -1,6 +1,6 @@
 {
-  "id": "fpace",
-  "display_name": "Difficulty keeping pace because sleepy",
+  "id": "ftv",
+  "display_name": "Do you have difficulty watching television because you are sleepy or tired?",
   "description": "",
   "type": "choices",
   "domain": "fosq_main",

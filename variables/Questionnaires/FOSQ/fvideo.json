@@ -1,6 +1,6 @@
 {
-  "id": "fremem",
-  "display_name": "Difficulty remembering because sleep",
+  "id": "fvideo",
+  "display_name": "Do you have difficulty watching a movie or videotape because you become sleepy or tired?",
   "description": "",
   "type": "choices",
   "domain": "fosq_main",

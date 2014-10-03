@@ -1,6 +1,6 @@
 {
-  "id": "fphone",
-  "display_name": "Difficulty on the phone because sleepy",
+  "id": "forgasm",
+  "display_name": "Has your ability to have an orgasm been affected because you are sleepy or tired?",
   "description": "",
   "type": "choices",
   "domain": "fosq_main",

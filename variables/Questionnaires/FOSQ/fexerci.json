@@ -1,6 +1,6 @@
 {
   "id": "fexerci",
-  "display_name": "Difficulty with exercising because sleepy",
+  "display_name": "Do you have difficulty exercising or participating in a sport activity because you are too sleepy or tired?",
   "description": "",
   "type": "choices",
   "domain": "fosq_main",

@@ -1,6 +1,6 @@
 {
-  "id": "fvolwrk",
-  "display_name": "Difficulty performing work because sleepy",
+  "id": "fphone",
+  "display_name": "Do you have difficulty maintaining a telephone conversation because you become sleepy or tired?",
   "description": "",
   "type": "choices",
   "domain": "fosq_main",
