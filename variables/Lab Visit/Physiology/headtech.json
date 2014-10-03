@@ -1,9 +1,0 @@
-{
-  "id": "headtech",
-  "display_name": "Head Measurement - Technician",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "inlab_physio"
-  ]
-}
