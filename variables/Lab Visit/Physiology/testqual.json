@@ -3,7 +3,7 @@
   "display_name": "Sleep Study: test quality",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
+  "domain": "poorgood",
   "forms": [
     "physio_report"
   ]
