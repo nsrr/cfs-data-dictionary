@@ -1,8 +1,8 @@
 {
   "id": "motherid",
-  "display_name": "PersionID of Mother of Subject",
+  "display_name": "Obfuscated PersionID of Mother of Subject",
   "description": "",
-  "type": "numeric",
+  "type": "identifier",
   "forms": [
     "nunames"
   ]

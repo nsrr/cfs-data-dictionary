@@ -2,7 +2,7 @@
   "id": "familyi",
   "display_name": "Family ID",
   "description": "Family ID",
-  "type": "numeric",
+  "type": "identifier",
   "forms": [
     "nunames"
   ]
