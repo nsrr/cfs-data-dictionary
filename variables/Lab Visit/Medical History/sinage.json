@@ -1,6 +1,6 @@
 {
   "id": "sinage",
-  "display_name": "Age Diagnosed Sinus",
+  "display_name": "Age Diagnosed with Sinus Disease",
   "description": "",
   "type": "numeric",
   "units": "years",

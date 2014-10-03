@@ -1,7 +1,7 @@
 {
   "id": "kids",
-  "display_name": "Has any children **rectype2 specifies since last visit",
-  "description": "",
+  "display_name": "Have you had any children since your last visit*?",
+  "description": "*RECTYPE2 specifies since last visit",
   "type": "choices",
   "domain": "noyes01",
   "forms": [
