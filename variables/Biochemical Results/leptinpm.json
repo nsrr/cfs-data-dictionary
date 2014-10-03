@@ -1,7 +1,7 @@
 {
   "id": "leptinpm",
   "display_name": "Leptin levels - PM reading",
-  "description": "",
+  "description": "44 values were inserted by using the ceiling and floor reference values",
   "type": "numeric",
   "units": "nanograms per milliliter"
 }
