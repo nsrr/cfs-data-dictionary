@@ -1,7 +1,7 @@
 {
   "id": "rectype",
-  "display_name": "Rectype",
-  "description": "Rectype",
+  "display_name": "Visit",
+  "description": "",
   "type": "choices",
   "domain": "rectype",
   "forms": [
