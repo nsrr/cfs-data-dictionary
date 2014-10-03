@@ -2,7 +2,8 @@
   "id": "perstart",
   "display_name": "At what age did your menstrual periods begin?",
   "description": "",
-  "type": "perage",
+  "type": "choices",
+  "domain": "perstart",
   "forms": [
     "lab_adult1"
   ]
