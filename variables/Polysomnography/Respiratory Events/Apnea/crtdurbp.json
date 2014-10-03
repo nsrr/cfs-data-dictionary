@@ -1,6 +1,6 @@
 {
   "id":"crtdurbp",
-  "display_name": "Total Cent. Apnea Length (REM, Back) (minutes)",
+  "display_name": "Total Cent. Apnea Length (REM, Back)",
   "description": "",
   "type": "numeric",
   "units": "minutes"
