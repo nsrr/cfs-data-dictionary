@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "noyesdk-2",
   "forms": [
-    "inlab_physio"
+    "lab_physio"
   ]
 }
