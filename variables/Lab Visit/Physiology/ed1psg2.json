@@ -1,9 +1,9 @@
 {
   "id": "ed1psg2",
-  "display_name": "Sleep Study: edentec (1) o psg (2) study",
+  "display_name": "Sleep Study: Edentec or PSG study",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
+  "domain": "studytype",
   "forms": [
     "physio_report"
   ]
