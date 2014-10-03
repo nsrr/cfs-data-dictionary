@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "marriage",
   "forms": [
-    "chq_pr"
+    "child_health_questionnaire"
   ]
 }

@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "schooling",
   "forms": [
-    "chq_pr"
+    "child_health_questionnaire"
   ]
 }

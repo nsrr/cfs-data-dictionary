@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "gender12",
   "forms": [
-    "chq_pr"
+    "child_health_questionnaire"
   ]
 }

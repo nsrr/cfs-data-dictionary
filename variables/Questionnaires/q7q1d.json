@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "chq_sat",
   "forms": [
-    "chq_pr"
+    "child_health_questionnaire"
   ]
 }
