@@ -2,7 +2,8 @@
   "id": "cholyrs",
   "display_name": "If yes, Number of years used",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "cholyrs",
   "forms": [
     "lab_adult1"
   ]
