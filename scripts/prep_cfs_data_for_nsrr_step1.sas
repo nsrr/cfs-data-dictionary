@@ -512,7 +512,9 @@ run;
 %let other_reason_droplist = /*Always equal to -1*/ lcafbv3q lcafbv3t lcafbv2q lcafbv2t pacemage
                             /*Always equal to 0*/ avgdbslp maxdbslp nobrslp nodb4slp nodb5slp nordb2 nordb3 nordb4 nordb5 nordball notca notcc notch notco pdb5slp plmardelta plmarrem
                               plmarstg1 plmcardelta prdb5slp nobrap nobrc
-                            /*No observed values - likely all were negative and scrubbed in a previous step*/ agediasi;
+                            /*No observed values - likely all were negative and scrubbed in a previous step*/ agediasi
+                            /* Unsure what numeric codes translate too - variables useless without translation*/ house household
+                            ;
 
 *** Because of excessive missingness and multiple problematic variables, Family Medical History variables are being dropped (release candidate 2) for further exploration;
 %let family_medical_history_vars = addsbage adsibage baddno basthmno bbpno bbypasno bcancrno bchfno bdepreno bdiabeno bemphyno blegsno bmdno bmino bnarcno bnmsno bosano bothmdno breacanc
