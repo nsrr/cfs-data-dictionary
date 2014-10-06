@@ -503,11 +503,27 @@ run;
                             /* Variable dropped until more information can be found based on domain options */indexf monitor
                             ;
 
-*** NOTE: In future iterations of CFS, where additional visits are included besides RECTYPE5, the following variables should be rechecked for meaningful data;
+*** NOTE: In future iterations of CFS, where additional visits are included besides RECTYPE5, the following variables should be rechecked for meaningful data ***;
 %let other_reason_droplist = /*Always equal to -1*/ lcafbv3q lcafbv3t lcafbv2q lcafbv2t pacemage
                             /*Always equal to 0*/ avgdbslp maxdbslp nobrslp nodb4slp nodb5slp nordb2 nordb3 nordb4 nordb5 nordball notca notcc notch notco pdb5slp plmardelta plmarrem
                               plmarstg1 plmcardelta prdb5slp nobrap nobrc
                             /*No observed values - likely all were negative and scrubbed in a previous step*/ agediasi;
+
+*** Because of excessive missingness and multiple problematic variables, Family Medical History variables are being dropped (release candidate 2) for further exploration;
+%let family_medical_history_vars = addsbage adsibage baddno basthmno bbpno bbypasno bcancrno bchfno bdepreno bdiabeno bemphyno blegsno bmdno bmino bnarcno bnmsno bosano bothmdno breacanc
+                                    broage broaged1 broaged2 broaged3 brolive brosis bsicklno bsidsno bslpno bsnorno bstrokno btoureno colocanc dadadd dadage dadasthm dadbipas dadbp dadcancr
+                                    dadcaus dadchf daddepre daddiabe daddied dadlegs dadlive dadmd dadmi dadnarc dadosa dadothsi dadsickl dadslp dadsnor dadstrok dadtoure dageadd dageasth
+                                    dagebp dagebypa dagecanc dagechf dagedepr dagediab dageleg dagemd dagemi dagenarc dageosa dageoths dagesick dageslp dagesnor dagestro dagetour dauadd
+                                    dauage dauaged1 dauaged2 dauaged3 dauasthm daubp daubypas daucancr dauchf daudepre daudiabe dauemphy daulegs daulive daumd daumi daunarc daunms dauosa
+                                    dauothmd dausickl dausids dauslp dausnor daustrok dautoure dbreaage kidadd kidasthm kidbp kidbypas kidcancr kidchf kiddepre kiddiabe kidemphy kidlegs kidmd
+                                    kidmi kidnarc kidnms kidosa kids kidsickl kidsids kidsigmd kidslp kidsnor kidstrok kidtoure mageadd mageasth magebp magebypa magecanc magechf magedepr
+                                    magediab mageleg magemd magemi magenarc mageosa mageoths magesick mageslp magesnor magestro magetour mbreaage momadd momage momasthm mombp mombypas
+                                    momcancr momcaus momchf momdepre momdiabe momdied momlegs momlive mommd mommi momnarc momosa momothsi momsickl momslp momsmoke momsnor momstrok momtoure
+                                    movarage nobro nodaugh nosis nosons omeloage ovarcanc panccanr pcoloage pglauage pmeloage ppancage saddno sasthmno sbpno sbreaage sbypasno scancrno schfno
+                                    sdepreno sdiabeno semphyno sglauage sibadd sibasthm sibbp sibbypas sibcancr sibchf sibcolag sibdepre sibdiabe sibemphy siblegs sibmd sibmi sibnarc sibnms
+                                    sibosa sibsickl sibsids sibsigmd sibslp sibsnor sibstrok sibtoure sisage sisaged1 sisaged2 sisaged3 sislive slegsno smdno smeloage smino snarcno snmsno
+                                    sonadd sonage sonaged1 sonaged2 sonaged3 sonasthm sonbp sonbypas soncancr sonchf sondepre sondiabe sonemphy sonlegs sonlive sonmd sonmi sonnarc sonnms sonosa
+                                    sonothmd sonsickl sonsids sonslp sonsnor sonstrok sontoure sosano sothmdno soverage spancage ssicklno ssidsno sslpno ssnorno sstrokno stoureno;
 
 *drop variables that were excluded from the json data dictionary because of redundancy or a lack of relevance/importance;
 data alldata_obfclean_all_final;
@@ -527,7 +543,7 @@ data alldata_obfclean_all_final;
 
   if race > 2 then race = 3;
 
-  drop &manual_json_droplist &other_reason_droplist;
+  drop &manual_json_droplist &other_reason_droplist &family_medical_history_vars;
 run;
 
 
