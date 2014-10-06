@@ -384,6 +384,7 @@ quit;
 			shbrmon sibadd sibasthm sibbp sibbypas sibcancr sibchf sibdepre sibdiabe sibemphy siblegs sibmd sibmi sibnarc sibnms sibosa sibsickl sibsids sibsigmd sibslp sibsnor sibstrok
 			sibtoure simple skintst slppl3dy solotron somnoply stdynite stim3dy stimulan stresstb surbext surgery swimexer tenexer theragmm theragrm thyrm3dy tondiag tonpres tranq3dy unicap unicapm unicapsr
 			uppp utergone vagestro vaginal vimin75 whecold wheexer wompowpk workslp youvitir vigexer zbec foldosdy longicu longo2 ovaries tkphnno workacc nonaps
+      alcohol caffeine lastmens
 ;
 
 data alldata_obf_all_systclean;
