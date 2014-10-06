@@ -85,6 +85,10 @@ quit;
 
 %put &known_rec5vars_inneedof_NULLing;
 
+*add variables to NULL that were not captured in above step;
+%let additional_variables_to_NULL = brolive acetaday oindex prelmrdi momdied daddied
+;
+
 *sort by personi and rectype;
 proc sort data=combined_rectypes;
   by PERSONI RECTYPE;
@@ -93,7 +97,7 @@ run;
 data combined_rectypes_NULL_err0;
   set combined_rectypes;
 
-  array set0negs_tonull[*] &known_rec5vars_inneedof_NULLing;
+  array set0negs_tonull[*] &known_rec5vars_inneedof_NULLing &additional_variables_to_NULL;
 
   do i = 1 to dim(set0negs_tonull);
     if set0negs_tonull[i] le 0 then set0negs_tonull[i] = .;
