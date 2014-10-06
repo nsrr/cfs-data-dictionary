@@ -1,6 +1,6 @@
 {
   "id": "slapndia",
-  "display_name": "Sleep Apnea",
+  "display_name": "Physician-diagnosed Sleep Apnea",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",
