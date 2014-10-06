@@ -2,6 +2,6 @@
   "id": "snp_il6_07592_orig",
   "display_name": "Interleukin-6 nucleotide polymorphism 07592 levels",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
   "domain": "snpmorph"
 }
