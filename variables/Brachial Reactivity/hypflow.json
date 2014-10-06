@@ -3,6 +3,7 @@
   "display_name": "Hyperemia flow volume",
   "description": "",
   "type": "numeric",
+  "units": "milliliters",
   "forms": [
     "brachial_art_vasact"
   ]
