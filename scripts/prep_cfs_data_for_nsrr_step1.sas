@@ -503,10 +503,11 @@ run;
                             /* Variable dropped until more information can be found based on domain options */indexf monitor
                             ;
 
+*** NOTE: In future iterations of CFS, where additional visits are included besides RECTYPE5, the following variables should be rechecked for meaningful data;
 %let other_reason_droplist = /*Always equal to -1*/ lcafbv3q lcafbv3t lcafbv2q lcafbv2t
                             /*Always equal to 0*/ avgdbslp maxdbslp nobrslp nodb4slp nodb5slp nordb2 nordb3 nordb4 nordb5 nordball notca notcc notch notco pdb5slp plmardelta plmarrem
                               plmarstg1 plmcardelta prdb5slp nobrap nobrc
-                            ;
+                            /*No observed values - likely all were negative and scrubbed in a previous step*/ agediasi;
 
 *drop variables that were excluded from the json data dictionary because of redundancy or a lack of relevance/importance;
 data alldata_obfclean_all_final;
