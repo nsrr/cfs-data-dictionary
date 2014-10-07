@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "ethnicity01",
   "forms": [
-    "lab_dataset"
+    
   ],
   "commonly_used": true
 }

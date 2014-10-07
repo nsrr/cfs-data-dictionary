@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "poorgood",
   "forms": [
-    "physio_report"
+    
   ]
 }

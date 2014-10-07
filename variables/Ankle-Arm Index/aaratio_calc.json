@@ -5,6 +5,6 @@
   "type": "numeric",
   "calculation": "( armmean / ankmean )",
   "forms": [
-    "ankle_arm_index"
+    
   ]
 }

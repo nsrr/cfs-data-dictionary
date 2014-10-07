@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "rhinoqs",
   "forms": [
-    "rhinometry_report"
+    
   ]
 }

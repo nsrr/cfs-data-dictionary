@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "sleepwell",
   "forms": [
-    "sleep_diary"
+    
   ]
 }

@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "yesnon",
   "forms": [
-    "lab_dataset"
+    
   ]
 }

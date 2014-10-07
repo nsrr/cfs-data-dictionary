@@ -4,6 +4,6 @@
   "description": "Date entered in Epi-Info",
   "type": "date",
   "forms": [
-    "nunames"
+    
   ]
 }

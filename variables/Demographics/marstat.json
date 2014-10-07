@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "marstat",
   "forms": [
-    "nunames", "baseline_lab_questionnaire"
+     "baseline_lab_questionnaire"
   ]
 }

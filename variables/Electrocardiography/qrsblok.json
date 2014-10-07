@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "qrsblock",
   "forms": [
-    "ecg"
+    
   ]
 }
