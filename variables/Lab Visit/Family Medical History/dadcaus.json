@@ -1,9 +1,0 @@
-{
-  "id": "dadcaus",
-  "display_name": "Cause of death for dad (A)",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "lab_adult2"
-  ]
-}

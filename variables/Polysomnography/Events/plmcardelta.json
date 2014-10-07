@@ -1,7 +1,0 @@
-{
-  "id": "plmcardelta",
-  "display_name": "Number of PLM clusters with arousal and respiratory event (delta sleep)",
-  "description": "Total PLM clusters with arousal and  respiratory events in delta sleep",
-  "type": "numeric",
-  "units": "limb movements"
-}

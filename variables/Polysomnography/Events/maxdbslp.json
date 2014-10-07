@@ -1,7 +1,0 @@
-{
-  "id": "maxdbslp",
-  "display_name": "Maximum snore level during sleep",
-  "description": "Maximum snore level during sleep",
-  "type": "numeric",
-  "units": "decibels"
-}

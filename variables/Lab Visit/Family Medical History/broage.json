@@ -1,9 +1,0 @@
-{
-  "id": "broage",
-  "display_name": "Ages of living brothers",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "lab_adult2"
-  ]
-}

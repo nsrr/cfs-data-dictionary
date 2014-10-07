@@ -1,9 +1,0 @@
-{
-  "id": "dauasthm",
-  "display_name": "Number of daughters with Asthma",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_adult2"
-  ]
-}

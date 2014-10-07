@@ -1,7 +1,0 @@
-{
-  "id": "nordb3",
-  "display_name": "Number of snore in REM (dB level 3)",
-  "description": "Number of snore in REM (dB level 3)",
-  "type": "numeric",
-  "units": "decibels"
-}

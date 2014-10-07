@@ -1,9 +1,0 @@
-{
-  "id": "house",
-  "display_name": "Household # at last visit",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "nunames"
-  ]
-}
