@@ -384,7 +384,7 @@ quit;
 			hdforwpl healtpac hormones hosphrt hrtpl3dy jogexer kidadd kidasthm kidbp kidbypas kidcancr kidchf kiddepre kiddiabe kidemphy kidlegs kidmd kidmi kidnarc kidnms kidosa kidsickl
 			kidsids kidsigmd kidslp kidsnor kidstrok kidtoure labothmd lanti lanymed lazertx lbron ldecon legexer levchest lowexer lseds lsplpil lstim mensnow microniz moncigs mondist monpipe monsmoke
 			n1ovrem n2ovrem nasaldil nasdc3dy natsurno natural noobser nosesur nuskinpk obslp ocuvite ocuvitpl ogen oneadaye oneadaym oneadayw onedayap onlynite othermed othestro othexer othhpill
-			othprog pastmon patchest perstop phl3 pollens posttx premarin premphas premprob premprop procycmp prog3dy protegra radchemo regbas rotnite runexer samhse sedative shaklee sharbed
+			othprog pastmon patchest perstart perstop phl3 pollens posttx premarin premphas premprob premprop procycmp prog3dy protegra radchemo regbas rotnite runexer samhse sedative shaklee sharbed
 			shbrmon sibadd sibasthm sibbp sibbypas sibcancr sibchf sibdepre sibdiabe sibemphy siblegs sibmd sibmi sibnarc sibnms sibosa sibsickl sibsids sibsigmd sibslp sibsnor sibstrok
 			sibtoure simple skintst slppl3dy solotron somnoply stdynite stim3dy stimulan stresstb surbext surgery swimexer tenexer theragmm theragrm thyrm3dy tondiag tonpres tranq3dy unicap unicapm unicapsr
 			uppp utergone vagestro vaginal vimin75 whecold wheexer wompowpk workslp youvitir vigexer zbec foldosdy longicu longo2 ovaries tkphnno workacc nonaps
