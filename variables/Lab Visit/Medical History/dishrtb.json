@@ -1,10 +1,10 @@
 {
   "id": "dishrtb",
-  "display_name": "Heartburn during normal sleep time (A)",
+  "display_name": "Heartburn during your sleep time",
   "description": "",
   "type": "choices",
   "domain": "freq",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

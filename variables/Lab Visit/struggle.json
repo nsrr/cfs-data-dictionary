@@ -1,10 +1,10 @@
 {
   "id": "struggle",
-  "display_name": "Struggle for breath while asleep (A)",
+  "display_name": "Struggle for breath",
   "description": "",
   "type": "choices",
   "domain": "freq",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

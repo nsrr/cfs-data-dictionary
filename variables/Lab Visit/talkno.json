@@ -1,10 +1,10 @@
 {
   "id": "talkno",
-  "display_name": "Number of times fell asleep talking (A)",
+  "display_name": "If yes, had this occurred",
   "description": "",
   "type": "choices",
   "domain": "morethan100",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "min10chest",
   "forms": [
-    "lab_adult2"
+    "baseline_lab_questionnaire"
   ]
 }

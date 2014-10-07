@@ -1,10 +1,10 @@
 {
   "id": "snort",
-  "display_name": "Snort or gasp while asleep (AC)",
+  "display_name": "Snort or gasp",
   "description": "",
   "type": "choices",
   "domain": "freq",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

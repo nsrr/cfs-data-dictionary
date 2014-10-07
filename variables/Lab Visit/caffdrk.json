@@ -1,10 +1,10 @@
 {
   "id": "caffdrk",
-  "display_name": "Use caffeine drinks to stay awake (A)",
+  "display_name": "Use coffee, tea, or other caffeine drinks to stay awake during your normal waking time",
   "description": "",
   "type": "choices",
   "domain": "freq",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

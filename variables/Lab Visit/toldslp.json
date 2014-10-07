@@ -1,10 +1,10 @@
 {
   "id": "toldslp",
-  "display_name": "Told too sleepy by relative or friend (A)",
+  "display_name": "Were told by a relative or friend that you were too sleepy",
   "description": "",
   "type": "choices",
   "domain": "freq",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

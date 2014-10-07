@@ -1,6 +1,6 @@
 {
   "id": "mnhrbp4",
-  "display_name": "minimum Hypopnea length (REM, Back, 4% oxygen desaturation)",
+  "display_name": "Minimum Hypopnea length (REM, Back, 4% oxygen desaturation)",
   "description": "",
   "type": "numeric",
   "units": "seconds",

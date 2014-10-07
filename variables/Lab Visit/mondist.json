@@ -1,10 +1,10 @@
 {
   "id": "mondist",
-  "display_name": "Snoring disturbs others, past month (AC)",
+  "display_name": "Over the last month, had your snoring disturbed others?",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

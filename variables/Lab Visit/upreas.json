@@ -1,9 +1,9 @@
 {
   "id": "upreas",
-  "display_name": "Reason wake at night (A)",
+  "display_name": "Reason wake at night",
   "description": "",
   "type": "text",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

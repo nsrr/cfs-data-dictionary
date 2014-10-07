@@ -1,10 +1,10 @@
 {
   "id": "brstops",
-  "display_name": "7 stop breathing while asleep (AC)",
+  "display_name": "Stop breathing",
   "description": "",
   "type": "choices",
   "domain": "freq",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

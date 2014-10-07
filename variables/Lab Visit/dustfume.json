@@ -1,10 +1,10 @@
 {
   "id": "dustfume",
-  "display_name": "wheeze when exposed to dust/fume (AC)",
+  "display_name": "Wheeze when exposed to dust/fume (AC)",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

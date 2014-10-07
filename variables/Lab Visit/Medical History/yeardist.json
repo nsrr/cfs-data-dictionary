@@ -1,9 +1,9 @@
 {
   "id": "yeardist",
-  "display_name": "Years snoring disturbed others (AC)",
+  "display_name": "Based on what others have told you, how many years do you think your snoring has been that loud (loud enough to disturb others)?",
   "description": "",
   "type": "numeric",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

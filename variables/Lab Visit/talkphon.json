@@ -1,10 +1,10 @@
 {
   "id": "talkphon",
-  "display_name": "Ever fallen asleep while on phone (A)",
+  "display_name": "During the past month, have you fallen asleep while takling on the telephone",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

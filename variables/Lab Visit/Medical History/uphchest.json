@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "noyesnever",
   "forms": [
-    "lab_adult2"
+    "baseline_lab_questionnaire"
   ]
 }

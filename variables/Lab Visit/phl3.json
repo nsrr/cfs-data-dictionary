@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "noyesdk-2",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

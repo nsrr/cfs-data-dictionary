@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "walkspeed",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

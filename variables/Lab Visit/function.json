@@ -1,10 +1,10 @@
 {
   "id": "function",
-  "display_name": "What time of day that you function best (A)",
+  "display_name": "Do you function best in the",
   "description": "",
   "type": "choices",
   "domain": "fxn_best",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

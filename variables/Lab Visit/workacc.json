@@ -1,10 +1,10 @@
 {
   "id": "workacc",
-  "display_name": "Number on the job accidents needing medical assistance (A)",
+  "display_name": "Have you ever been involved in an accident at work that has required you to see a nurse or doctor?",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

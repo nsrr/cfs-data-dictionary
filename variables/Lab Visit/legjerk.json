@@ -1,10 +1,10 @@
 {
   "id": "legjerk",
-  "display_name": "Jerky legs while asleep (AC)",
+  "display_name": "Jumpy or jerky legs",
   "description": "",
   "type": "choices",
   "domain": "freq",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

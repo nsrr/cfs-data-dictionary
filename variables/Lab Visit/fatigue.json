@@ -1,10 +1,10 @@
 {
   "id": "fatigue",
-  "display_name": "Fatigued after sleeping",
+  "display_name": "Feeling tired or fatigued after you sleep",
   "description": "",
   "type": "choices",
   "domain": "freq",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

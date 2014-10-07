@@ -1,10 +1,10 @@
 {
   "id": "workslp",
-  "display_name": "Fallen asleep on the job (A)",
+  "display_name": "Have you ever fallen alseep on the job",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

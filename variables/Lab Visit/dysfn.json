@@ -1,10 +1,10 @@
 {
   "id": "dysfn",
-  "display_name": "What time of day do you function worst (A)",
+  "display_name": "Do you function worst in the",
   "description": "",
   "type": "choices",
   "domain": "fxn_bad",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

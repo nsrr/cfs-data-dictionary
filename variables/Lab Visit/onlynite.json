@@ -1,10 +1,10 @@
 {
   "id": "onlynite",
-  "display_name": "wheeze only during nights (AC)",
+  "display_name": "Wheeze only during nights (AC)",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

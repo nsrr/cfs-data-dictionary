@@ -1,10 +1,10 @@
 {
   "id": "apacold",
-  "display_name": "wheeze apart from a cold (AC)",
+  "display_name": "Wheeze apart from a cold (AC)",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

@@ -1,10 +1,10 @@
 {
   "id": "going",
-  "display_name": "Amount of time to get going after sleeping (A)",
+  "display_name": "During the past month, how long did it usually take you to 'get going' (become fully alert and functional) after your usual sleep time",
   "description": "",
   "type": "choices",
   "domain": "functioning",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

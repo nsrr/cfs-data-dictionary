@@ -1,10 +1,10 @@
 {
   "id": "samesnor",
-  "display_name": "Variation in snores in last month (A)",
+  "display_name": "Over the last one month, when you have snored, has the snoring sounded",
   "description": "",
   "type": "choices",
   "domain": "regsnor",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

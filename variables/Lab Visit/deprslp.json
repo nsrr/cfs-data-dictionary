@@ -1,10 +1,10 @@
 {
   "id": "deprslp",
-  "display_name": "Lie awake feeling depressed, etc. (A)",
+  "display_name": "Lying awake during your sleep time feeling worried, depressed, or sad",
   "description": "",
   "type": "choices",
   "domain": "freq",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

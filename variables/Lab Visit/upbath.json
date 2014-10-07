@@ -1,10 +1,10 @@
 {
   "id": "upbath",
-  "display_name": "Wake up to use toilet greater than 2 times (A)",
+  "display_name": "Needed to wake up from sleep to use the toilet 2 or more times",
   "description": "",
   "type": "choices",
   "domain": "freq",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

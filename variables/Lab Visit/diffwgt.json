@@ -1,9 +1,9 @@
 {
   "id": "diffwgt",
-  "display_name": "What is max weight difference over past 5 years (L)",
+  "display_name": "During the past 5 years, what is the difference between your highest and lowest weight (excluding illness)",
   "description": "",
   "type": "numeric",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

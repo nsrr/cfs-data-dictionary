@@ -1,10 +1,10 @@
 {
   "id": "phlegm",
-  "display_name": "Phlegm from chest",
+  "display_name": "Did you usually bring up phlegm from your chest",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

@@ -1,9 +1,9 @@
 {
   "id": "workslno",
-  "display_name": "Number of times slept on job (A)",
+  "display_name": "If yes, has this occurred",
   "description": "",
   "type": "numeric",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

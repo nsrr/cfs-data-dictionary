@@ -1,10 +1,10 @@
 {
   "id": "longnaps",
-  "display_name": "Length of naps (A)",
+  "display_name": "On average, how long are your naps (in minutes)",
   "description": "",
   "type": "numeric",
   "units": "minutes",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

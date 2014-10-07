@@ -5,6 +5,6 @@
   "type": "numeric",
   "units": "years",
   "forms": [
-    "lab_adult2"
+    "baseline_lab_questionnaire"
   ]
 }

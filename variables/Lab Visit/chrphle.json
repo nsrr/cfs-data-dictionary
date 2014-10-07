@@ -1,10 +1,10 @@
 {
   "id": "chrphle",
-  "display_name": "Bring up phlegm as much as twice a day",
+  "display_name": "Did you usually bring up phlegm like this as much as twice a day",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

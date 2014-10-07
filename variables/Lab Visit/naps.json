@@ -1,10 +1,10 @@
 {
   "id": "naps",
-  "display_name": "Needed daytime naps >= 5 min. (A)",
+  "display_name": "During the past month, have you had to take daytime naps of 5 minutes or longer",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

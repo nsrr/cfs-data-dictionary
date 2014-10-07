@@ -1,10 +1,10 @@
 {
   "id": "monsnor",
-  "display_name": "Loudness of snoring in last month (AC)",
+  "display_name": "Over the last one month, has your snoring usually been",
   "description": "",
   "type": "choices",
   "domain": "snorvol",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

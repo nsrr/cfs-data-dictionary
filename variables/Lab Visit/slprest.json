@@ -1,10 +1,10 @@
 {
   "id": "slprest",
-  "display_name": "Do not wake up feeling rested (A)",
+  "display_name": "No matter how much sleep you had, you didn't wake up feeling rested",
   "description": "",
   "type": "choices",
   "domain": "freq",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

@@ -1,10 +1,10 @@
 {
   "id": "loudsnor",
-  "display_name": "snores (AC)",
+  "display_name": "Snore",
   "description": "",
   "type": "choices",
-  "domain": "freq",
+  "domain": "freq", 
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

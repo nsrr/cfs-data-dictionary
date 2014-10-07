@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "caffbehdaily",
   "forms": [
-    "lab_adult2"
+    "baseline_lab_questionnaire"
   ]
 }

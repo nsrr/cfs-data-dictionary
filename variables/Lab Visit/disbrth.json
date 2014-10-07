@@ -1,10 +1,10 @@
 {
   "id": "disbrth",
-  "display_name": "Difficulty breathing while sleeping (A)",
+  "display_name": "Breathing difficulty",
   "description": "",
   "type": "choices",
   "domain": "freq",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

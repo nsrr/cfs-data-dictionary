@@ -1,10 +1,10 @@
 {
   "id": "freqawk",
-  "display_name": "Frequent awakenings (AC)",
+  "display_name": "Frequent awakenings after falling asleep",
   "description": "",
   "type": "choices",
   "domain": "freq",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

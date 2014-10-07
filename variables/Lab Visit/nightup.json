@@ -1,10 +1,10 @@
 {
   "id": "nightup",
-  "display_name": "Number of times woken up per night (A)",
+  "display_name": "During the past month, how many times per night do you wake up",
   "description": "",
   "type": "choices",
   "domain": "nightup",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

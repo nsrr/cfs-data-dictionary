@@ -1,10 +1,10 @@
 {
   "id": "bornpre",
-  "display_name": "Born prematurely",
+  "display_name": "Were you born prematurely",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

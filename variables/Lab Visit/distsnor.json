@@ -1,10 +1,10 @@
 {
   "id": "distsnor",
-  "display_name": "Snoring disturbs others (AC)",
+  "display_name": "Has your snoring ever been so loud that it has disturbed others?",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

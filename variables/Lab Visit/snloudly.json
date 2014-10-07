@@ -1,10 +1,10 @@
 {
   "id": "snloudly",
-  "display_name": "Loud Snoring, loud enough to wake others (L)",
+  "display_name": "Loud Snoring - loud enough to wake others",
   "description": "",
   "type": "choices",
   "domain": "freq",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

@@ -1,10 +1,10 @@
 {
   "id": "anysnore",
-  "display_name": "Ever told you snore (AC)",
+  "display_name": "Have you ever been told that you snore?",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

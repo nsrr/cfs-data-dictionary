@@ -1,10 +1,10 @@
 {
   "id": "carslpy",
-  "display_name": "Number of car accidents due to sleepiness (A)",
+  "display_name": "How many car accidents occurred because you felt sleepy or fell asleep behind the wheel of a car",
   "description": "",
   "type": "numeric",
   "units": "accidents",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }

@@ -1,10 +1,10 @@
 {
   "id": "work",
-  "display_name": "Have you ever worked outside home (A)",
+  "display_name": "Have you ever worked outside the home",
   "description": "",
   "type": "choices",
   "domain": "noyes01",
   "forms": [
-    "lab_adult1"
+    "baseline_lab_questionnaire"
   ]
 }
