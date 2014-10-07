@@ -5,5 +5,6 @@
   "type": "numeric",
   "forms": [
     "child_health_questionnaire"
-  ]
+  ],
+  "commonly_used": true
 }

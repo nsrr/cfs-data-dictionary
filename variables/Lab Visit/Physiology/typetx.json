@@ -6,5 +6,6 @@
   "domain": "treattype",
   "forms": [
     "lab_physio"
-  ]
+  ],
+  "commonly_used": true
 }

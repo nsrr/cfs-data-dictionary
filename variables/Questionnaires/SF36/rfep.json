@@ -5,5 +5,6 @@
   "type": "numeric",
   "forms": [
     "sf36"
-  ]
+  ],
+  "commonly_used": true
 }

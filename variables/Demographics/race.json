@@ -6,5 +6,6 @@
   "domain": "race123",
   "forms": [
     "nunames"
-  ]
+  ],
+  "commonly_used": true
 }

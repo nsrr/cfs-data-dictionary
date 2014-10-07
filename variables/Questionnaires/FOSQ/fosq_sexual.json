@@ -1,10 +1,11 @@
 {
   "id": "fosq_sexual",
-  "display_name": "functional_outcomes_of_sleep_questionnaire Sexual Activity",
+  "display_name": "FOSQ Sexual Activity",
   "description": "",
   "type": "numeric",
   "units": "",
   "forms": [
     "functional_outcomes_of_sleep_questionnaire"
-  ]
+  ],
+  "commonly_used": true
 }

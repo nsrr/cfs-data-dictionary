@@ -6,5 +6,6 @@
   "domain": "gender01",
   "forms": [
     "nunames"
-  ]
+  ],
+  "commonly_used": true
 }

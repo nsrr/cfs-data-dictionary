@@ -1,10 +1,11 @@
 {
   "id": "fosq_genprd",
-  "display_name": "functional_outcomes_of_sleep_questionnaire General Productivity",
+  "display_name": "FOSQ General Productivity",
   "description": "",
   "type": "numeric",
   "units": "",
   "forms": [
     "functional_outcomes_of_sleep_questionnaire"
-  ]
+  ],
+  "commonly_used": true
 }

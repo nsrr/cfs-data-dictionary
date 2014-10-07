@@ -6,5 +6,6 @@
   "units": "millimeters of mercury",
   "forms": [
     "lab_dataset"
-  ]
+  ],
+  "commonly_used": true
 }

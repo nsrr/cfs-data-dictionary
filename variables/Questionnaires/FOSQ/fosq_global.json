@@ -1,10 +1,11 @@
 {
   "id": "fosq_global",
-  "display_name": "functional_outcomes_of_sleep_questionnaire Global Score",
+  "display_name": "FOSQ Global Score",
   "description": "",
   "type": "numeric",
   "units": "",
   "forms": [
     "functional_outcomes_of_sleep_questionnaire"
-  ]
+  ],
+  "commonly_used": true
 }

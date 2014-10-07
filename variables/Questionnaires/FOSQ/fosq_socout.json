@@ -1,10 +1,11 @@
 {
   "id": "fosq_socout",
-  "display_name": "functional_outcomes_of_sleep_questionnaire Social Outcome",
+  "display_name": "FOSQ Social Outcome",
   "description": "",
   "type": "numeric",
   "units": "",
   "forms": [
     "functional_outcomes_of_sleep_questionnaire"
-  ]
+  ],
+  "commonly_used": true
 }

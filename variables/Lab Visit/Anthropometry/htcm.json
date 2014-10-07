@@ -6,5 +6,6 @@
   "units": "centimeters",
   "forms": [
     "lab_dataset"
-  ]
+  ],
+  "commonly_used": true
 }

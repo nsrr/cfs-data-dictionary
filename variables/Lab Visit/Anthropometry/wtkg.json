@@ -6,5 +6,6 @@
   "units": "kilograms",
   "forms": [
     "lab_dataset"
-  ]
+  ],
+  "commonly_used": true
 }
