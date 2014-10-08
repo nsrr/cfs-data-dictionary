@@ -3,7 +3,7 @@
     "value": "1",
     "display_name": "Currently Menstruating",
     "description": ""
-  }
+  },
   {
     "value": "2",
     "display_name": "One week ago",
@@ -23,12 +23,12 @@
     "value": "5",
     "display_name": "One month ago",
     "description": ""
-  }
+  },
   {
     "value": "6",
     "display_name": "More than one month, less than 6 months ago",
     "description": ""
-  }
+  },
   {
     "value": "7",
     "display_name": "More than 6 months ago",
