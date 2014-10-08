@@ -3,7 +3,7 @@
   "display_name": "When was your last period?",
   "description": "",
   "type": "choices",
-  "domain": "menstr_17"
+  "domain": "menstr_17",
   "forms": [
     "baseline_lab_questionnaire"
   ]
