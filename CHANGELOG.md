@@ -11,6 +11,7 @@
 - Missing values have been stripped from the dataset
 - Family medical history variables have been removed from this release, pending a more in depth cleaning
 - PHI and identifiable variables have either been obfuscated or removed from the dataset
+- Variables sourced from the `baseline_lab_questionnaire` form have been updated to match exact questionnaire wording
 - The CSV datasets generated from a SAS export is located here:
   - `\\rfa01\bwh-sleepepi-home\projects\cohorts\Family\nsrr-prep\_releases\0.1.0.rc2\`
     - `cfs-rectype5-dataset-0.1.0.rc2.csv`
