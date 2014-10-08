@@ -33,5 +33,10 @@
     "value": "7",
     "display_name": "More than 6 months ago",
     "description": ""
+  },
+  {
+    "value": "-2",
+    "display_name": "Don't know",
+    "description": ""
   }
 ]
