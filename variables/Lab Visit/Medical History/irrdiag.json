@@ -1,6 +1,6 @@
 {
   "id": "irrdiag",
-  "display_name": "Irregular Heart Beat",
+  "display_name": "Physician-diagnosed Irregular Heart Beat",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

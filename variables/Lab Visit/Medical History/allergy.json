@@ -1,6 +1,6 @@
 {
   "id": "allergy",
-  "display_name": "Are you allergic to dust/mold/pollen",
+  "display_name": "Are you allergic to dust, mold, grass, or pollen",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

@@ -1,6 +1,6 @@
 {
   "id": "reasrem",
-  "display_name": "Reason tonsils/adenoids removed (A)",
+  "display_name": "Reason tonsils/adenoids removed",
   "description": "",
   "type": "choices",
   "domain": "reasonforremoval",

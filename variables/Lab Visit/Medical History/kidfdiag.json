@@ -1,6 +1,6 @@
 {
   "id": "kidfdiag",
-  "display_name": "Kidney Failure",
+  "display_name": "Physician-diagnosed Kidney Failure",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

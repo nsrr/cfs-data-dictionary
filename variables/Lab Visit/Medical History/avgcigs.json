@@ -3,6 +3,7 @@
   "display_name": "How many cigars on average",
   "description": "",
   "type": "numeric",
+  "units": "cigars per day",
   "forms": [
     "baseline_lab_questionnaire"
   ]

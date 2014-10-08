@@ -1,6 +1,6 @@
 {
   "id": "tranq3dy",
-  "display_name": "Tranquilizers in last 3 days (L)",
+  "display_name": "Tranquilizers in last 3 days",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

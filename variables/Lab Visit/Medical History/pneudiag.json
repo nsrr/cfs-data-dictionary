@@ -1,6 +1,6 @@
 {
   "id": "pneudiag",
-  "display_name": "Pneumonia",
+  "display_name": "Physician-diagnosed Pneumonia",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

@@ -1,8 +1,9 @@
 {
   "id": "avgsmok",
-  "display_name": "average number of cigarettes smoke per day (A)",
+  "display_name": "Average number of cigarettes smoke per day",
   "description": "",
   "type": "numeric",
+  "units": "cigarettes per day",
   "forms": [
     "baseline_lab_questionnaire"
   ]

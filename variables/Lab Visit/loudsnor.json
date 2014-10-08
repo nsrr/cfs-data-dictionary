@@ -1,9 +1,9 @@
 {
   "id": "loudsnor",
-  "display_name": "Snore",
+  "display_name": "During the last month, have you had, or have been told you do the following while asleep or trying to sleep: snore",
   "description": "",
   "type": "choices",
-  "domain": "freq", 
+  "domain": "freq",
   "forms": [
     "baseline_lab_questionnaire"
   ]

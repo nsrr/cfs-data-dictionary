@@ -1,6 +1,6 @@
 {
   "id": "bpdiag",
-  "display_name": "High Blood Pressure",
+  "display_name": "Physician-diagnosed High Blood Pressure",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

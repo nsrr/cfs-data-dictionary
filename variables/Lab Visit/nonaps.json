@@ -1,6 +1,6 @@
 {
   "id": "nonaps",
-  "display_name": "If yes, has this occurred",
+  "display_name": "If yes, how often have you had to take daytime naps of 5 minutes or longer?",
   "description": "",
   "type": "choices",
   "domain": "morethan100",

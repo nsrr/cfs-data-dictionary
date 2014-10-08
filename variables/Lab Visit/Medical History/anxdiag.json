@@ -1,6 +1,6 @@
 {
   "id": "anxdiag",
-  "display_name": "Anxiety",
+  "display_name": "Physician-diagnosed Anxiety",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

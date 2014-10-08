@@ -1,10 +1,10 @@
 {
   "id": "wgtlost",
-  "display_name": "Lost weight (L)",
+  "display_name": "In the past 5 years, have you lost weight?",
   "description": "",
   "type": "choices",
   "domain": "noyes01",
   "forms": [
-    
+    "baseline_lab_questionnaire"
   ]
 }

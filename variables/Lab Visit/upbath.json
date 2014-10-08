@@ -1,6 +1,6 @@
 {
   "id": "upbath",
-  "display_name": "Needed to wake up from sleep to use the toilet 2 or more times",
+  "display_name": "Over the last month, have you experienced: needed to wake up from sleep to use the toilet 2 or more times",
   "description": "",
   "type": "choices",
   "domain": "freq",

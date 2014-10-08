@@ -1,6 +1,6 @@
 {
   "id": "sindiag",
-  "display_name": "Diagnosed with Sinus Disease?",
+  "display_name": "Physician-diagnosed Diagnosed with Sinus Disease?",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

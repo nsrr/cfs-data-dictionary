@@ -1,6 +1,6 @@
 {
   "id": "slpcrash",
-  "display_name": "Almost had/been in a car accident because of sleepiness",
+  "display_name": "Over the last month, have you experienced: almost had/been in a car accident because of sleepiness",
   "description": "",
   "type": "choices",
   "domain": "freq",

@@ -1,6 +1,6 @@
 {
   "id": "dishead",
-  "display_name": "Headaches during sleep time",
+  "display_name": "Over the last month, have you experienced: headaches during sleep time",
   "description": "",
   "type": "choices",
   "domain": "freq",

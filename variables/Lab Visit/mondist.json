@@ -1,6 +1,6 @@
 {
   "id": "mondist",
-  "display_name": "Over the last month, had your snoring disturbed others?",
+  "display_name": "Over the last month, has your snoring disturbed others?",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

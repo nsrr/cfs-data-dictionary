@@ -1,6 +1,6 @@
 {
   "id": "anemdiag",
-  "display_name": "Anemia",
+  "display_name": "Physician-diagnosed Anemia",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

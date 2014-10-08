@@ -1,6 +1,6 @@
 {
   "id": "snloudly",
-  "display_name": "Loud Snoring - loud enough to wake others",
+  "display_name": "Over the last month, have you experienced: loud Snoring - loud enough to wake others",
   "description": "",
   "type": "choices",
   "domain": "freq",

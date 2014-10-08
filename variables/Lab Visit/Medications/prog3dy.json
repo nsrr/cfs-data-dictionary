@@ -1,6 +1,6 @@
 {
   "id": "prog3dy",
-  "display_name": "Progesterone in last 3 days (L)",
+  "display_name": "Progesterone in last 3 days",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

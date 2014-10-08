@@ -1,6 +1,6 @@
 {
   "id": "alcage",
-  "display_name": "Age when alcoholism noted (A)",
+  "display_name": "Age when alcoholism noted",
   "description": "",
   "type": "numeric",
   "units": "years",

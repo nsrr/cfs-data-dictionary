@@ -1,8 +1,9 @@
 {
   "id": "wkaccno",
-  "display_name": "If yes, has this occurred",
+  "display_name": "If yes, how have you had an accident at work that required you to see a doctor or nurse",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "morethan100",
   "forms": [
     "baseline_lab_questionnaire"
   ]

@@ -1,6 +1,6 @@
 {
   "id": "workslp",
-  "display_name": "Have you ever fallen alseep on the job",
+  "display_name": "Have you ever fallen asleep on the job",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

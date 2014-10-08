@@ -1,6 +1,6 @@
 {
   "id": "mscldiag",
-  "display_name": "Multiple Sclerosis",
+  "display_name": "Physician-diagnosed Multiple Sclerosis",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

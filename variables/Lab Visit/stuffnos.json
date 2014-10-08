@@ -1,6 +1,6 @@
 {
   "id": "stuffnos",
-  "display_name": "Stuffy nose",
+  "display_name": "During the last month, have you had, or have been told you do the following while asleep or trying to sleep: stuffy nose",
   "description": "",
   "type": "choices",
   "domain": "freq",

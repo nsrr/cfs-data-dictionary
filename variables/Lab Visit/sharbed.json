@@ -1,6 +1,6 @@
 {
   "id": "sharbed",
-  "display_name": "Does someone share a bedroom with you",
+  "display_name": "Is the person who helped you complete the questionnaire someone you share a bed with?",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

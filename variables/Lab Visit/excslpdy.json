@@ -1,6 +1,6 @@
 {
   "id": "excslpdy",
-  "display_name": "Excessive (too much) sleepiness during the day",
+  "display_name": "Over the last month, have you experienced: excessive (too much) sleepiness during the day",
   "description": "",
   "type": "choices",
   "domain": "freq",

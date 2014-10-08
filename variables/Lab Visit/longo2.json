@@ -1,6 +1,6 @@
 {
   "id": "longo2",
-  "display_name": "How long did you require oxygen",
+  "display_name": "How long did you require oxygen after birth?",
   "description": "",
   "type": "choices",
   "domain": "earlymeds",

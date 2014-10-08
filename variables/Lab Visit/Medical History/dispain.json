@@ -1,6 +1,6 @@
 {
   "id": "dispain",
-  "display_name": "Pain or physical discomfort ",
+  "display_name": "Over the last month, have you experienced: pain or physical discomfort",
   "description": "",
   "type": "choices",
   "domain": "freq",

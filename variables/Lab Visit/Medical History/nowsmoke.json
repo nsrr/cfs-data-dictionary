@@ -1,9 +1,9 @@
 {
   "id": "nowsmoke",
-  "display_name": "cigarettes currently smoke/day (A)",
+  "display_name": "How many cigarettes do you currently smoke each day?",
   "description": "",
   "type": "numeric",
-  "units": "cigarettes",
+  "units": "cigarettes per day",
   "forms": [
     "baseline_lab_questionnaire"
   ]

@@ -1,6 +1,6 @@
 {
   "id": "strodiag",
-  "display_name": "Stroke (CVA)",
+  "display_name": "Physician-diagnosed Stroke (CVA)",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

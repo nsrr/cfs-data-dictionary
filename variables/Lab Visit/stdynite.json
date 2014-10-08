@@ -1,6 +1,6 @@
 {
   "id": "stdynite",
-  "display_name": "steady night shift work (A)",
+  "display_name": "Do you do steady night shift work?",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

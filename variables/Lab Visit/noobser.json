@@ -1,6 +1,6 @@
 {
   "id": "noobser",
-  "display_name": "lives elsewhere - has not observed sleep",
+  "display_name": "Is the person who helped you complete the questionnaire someone who lives elsewhere and has not observed your sleep",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

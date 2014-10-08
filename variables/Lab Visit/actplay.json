@@ -1,6 +1,6 @@
 {
   "id": "actplay",
-  "display_name": "How often fall asleep active with friends?",
+  "display_name": "How often do you fall asleep while active with friends?",
   "description": "",
   "type": "choices",
   "domain": "freq",

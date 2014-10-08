@@ -1,6 +1,6 @@
 {
   "id": "daybed",
-  "display_name": "Bedtime on weekdays (A)",
+  "display_name": "Bedtime on weekdays",
   "description": "",
   "type": "numeric",
   "forms": [

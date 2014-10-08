@@ -2,8 +2,8 @@
   "id": "ibuprday",
   "display_name": "How many days per week do you take ibuprofen?",
   "description": "",
-  "type": "numeric",
-  "units": "days per week",
+  "type": "choices",
+  "domain": "daysperweek",
   "forms": [
     "baseline_lab_questionnaire"
   ]

@@ -1,9 +1,10 @@
 {
   "id": "nodvrslp",
-  "display_name": "Times fallen asleep driving (A)",
+  "display_name": "Times fallen asleep driving",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "morethan100",
   "forms": [
-    
+    "baseline_lab_questionnaire"
   ]
 }

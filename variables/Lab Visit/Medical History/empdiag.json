@@ -1,6 +1,6 @@
 {
   "id": "empdiag",
-  "display_name": "Emphysema",
+  "display_name": "Physician-diagnosed Emphysema",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

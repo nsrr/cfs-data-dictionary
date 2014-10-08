@@ -1,6 +1,6 @@
 {
   "id": "angdiag",
-  "display_name": "Angina pectoris or Chest Pain from a heart condition",
+  "display_name": "Physician-diagnosed Angina pectoris or Chest Pain from a heart condition",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

@@ -1,6 +1,6 @@
 {
   "id": "diffslp",
-  "display_name": "Difficulty falling asleep",
+  "display_name": "Over the last month, have you experienced: difficulty falling asleep",
   "description": "",
   "type": "choices",
   "domain": "freq",

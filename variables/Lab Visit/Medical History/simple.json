@@ -1,6 +1,6 @@
 {
   "id": "simple",
-  "display_name": "Have had a simple tonsillectomy",
+  "display_name": "Have had or been recommended a simple tonsillectomy",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

@@ -1,6 +1,6 @@
 {
   "id": "chescold",
-  "display_name": "If you had any colds this year did they go to your chest?(L)",
+  "display_name": "If you had any colds this year did they go to your chest?",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

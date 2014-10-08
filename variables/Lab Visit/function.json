@@ -1,6 +1,6 @@
 {
   "id": "function",
-  "display_name": "Do you function best in the",
+  "display_name": "During which time of day do you function best?",
   "description": "",
   "type": "choices",
   "domain": "fxn_best",

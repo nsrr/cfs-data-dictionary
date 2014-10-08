@@ -1,6 +1,6 @@
 {
   "id": "tondiag",
-  "display_name": "Enlarged tonsils diagnosed by doctor (A)",
+  "display_name": "Enlarged tonsils diagnosed by doctor",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

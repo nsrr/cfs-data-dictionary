@@ -1,6 +1,6 @@
 {
   "id": "lastmens",
-  "display_name": "Sleep Diary: time of last menstrual cycle (A)",
+  "display_name": "Sleep Diary: time of last menstrual cycle",
   "description": "",
   "type": "choices",
   "domain": "menstr_07",

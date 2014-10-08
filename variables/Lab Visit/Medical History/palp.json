@@ -1,6 +1,6 @@
 {
   "id": "palp",
-  "display_name": "Palpitations or heart racing",
+  "display_name": "During the last month, have you had, or have been told you do the following while asleep or trying to sleep: palpitations or heart racing",
   "description": "",
   "type": "choices",
   "domain": "freq",

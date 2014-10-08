@@ -1,8 +1,9 @@
 {
   "id": "stopsmok",
-  "display_name": "age stopped smoking cigarettes (A)",
+  "display_name": "Age stopped smoking cigarettes",
   "description": "",
   "type": "numeric",
+  "units": "years",
   "forms": [
     "baseline_lab_questionnaire"
   ]

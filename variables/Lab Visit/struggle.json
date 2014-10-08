@@ -1,6 +1,6 @@
 {
   "id": "struggle",
-  "display_name": "Struggle for breath",
+  "display_name": "During the last month, have you had, or have been told you do the following while asleep or trying to sleep: struggle for breath",
   "description": "",
   "type": "choices",
   "domain": "freq",

@@ -1,6 +1,6 @@
 {
   "id": "freqawk",
-  "display_name": "Frequent awakenings after falling asleep",
+  "display_name": "Over the last month, have you experienced: frequent awakenings after falling asleep",
   "description": "",
   "type": "choices",
   "domain": "freq",

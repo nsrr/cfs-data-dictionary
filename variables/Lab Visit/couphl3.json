@@ -1,6 +1,6 @@
 {
   "id": "couphl3",
-  "display_name": "Cough + phlegm last more than 3 weeks",
+  "display_name": "Have you had periods or episodes of increased cough and phlegm lasting three weeks or more?",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

@@ -1,6 +1,6 @@
 {
   "id": "smoke5yr",
-  "display_name": "Did mom smoke during the first five years of your life? (L)",
+  "display_name": "Did your mom smoke during the first five years of your life?",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

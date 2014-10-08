@@ -1,6 +1,6 @@
 {
   "id": "snort",
-  "display_name": "Snort or gasp",
+  "display_name": "During the last month, have you had, or have been told you do the following while asleep or trying to sleep: snort or gasp",
   "description": "",
   "type": "choices",
   "domain": "freq",

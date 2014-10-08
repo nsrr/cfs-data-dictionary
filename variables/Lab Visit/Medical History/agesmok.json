@@ -1,6 +1,6 @@
 {
   "id": "agesmok",
-  "display_name": "age when first smoked cigarettes (A)",
+  "display_name": "age when first smoked cigarettes",
   "description": "",
   "type": "numeric",
   "units": "years",

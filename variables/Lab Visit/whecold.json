@@ -1,6 +1,6 @@
 {
   "id": "whecold",
-  "display_name": "Do you wheeze when have a cold (AC)",
+  "display_name": "Do you wheeze when have a cold?",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

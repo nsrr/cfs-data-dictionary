@@ -1,6 +1,6 @@
 {
   "id": "toss",
-  "display_name": "Toss, turn or thrash frequently over the night",
+  "display_name": "During the last month, have you had, or have been told you do the following while asleep or trying to sleep: toss, turn or thrash frequently over the night",
   "description": "",
   "type": "choices",
   "domain": "freq",

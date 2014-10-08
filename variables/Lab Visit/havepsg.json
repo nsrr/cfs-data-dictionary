@@ -1,6 +1,6 @@
 {
   "id": "havepsg",
-  "display_name": "subj had a previous sleep study",
+  "display_name": "Have you ever had a an overnight sleep study in a hospital?",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

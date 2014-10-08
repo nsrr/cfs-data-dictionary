@@ -1,6 +1,6 @@
 {
   "id": "depdiag",
-  "display_name": "Depression",
+  "display_name": "Physician-diagnosed Depression",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

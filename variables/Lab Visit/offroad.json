@@ -1,6 +1,6 @@
 {
   "id": "offroad",
-  "display_name": "Had to pull off road while driving or almost had been in a car accident due to sleepiness",
+  "display_name": "Over the last month, have you experienced: had to pull off road while driving or almost had been in a car accident due to sleepiness",
   "description": "",
   "type": "choices",
   "domain": "freq",

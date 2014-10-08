@@ -1,6 +1,6 @@
 {
   "id": "coldair",
-  "display_name": "Wheeze when breathing cold air (A)",
+  "display_name": "Wheeze when breathing cold air?",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

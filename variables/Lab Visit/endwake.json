@@ -1,6 +1,6 @@
 {
   "id": "endwake",
-  "display_name": "Wake up time on weekends (A)",
+  "display_name": "What time do you wake up from your usual sleep on weekends",
   "description": "",
   "type": "numeric",
   "forms": [

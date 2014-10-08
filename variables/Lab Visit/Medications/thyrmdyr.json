@@ -1,6 +1,6 @@
 {
   "id": "thyrmdyr",
-  "display_name": "Thyroid medicines in last yr (L)",
+  "display_name": "Thyroid medicines in last yr",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

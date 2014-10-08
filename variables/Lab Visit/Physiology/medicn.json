@@ -1,6 +1,6 @@
 {
   "id": "medicn",
-  "display_name": "Sleep Diary: took medications on day of study (AC)",
+  "display_name": "Sleep Diary: took medications on day of study",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

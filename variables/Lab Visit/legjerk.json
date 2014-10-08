@@ -1,6 +1,6 @@
 {
   "id": "legjerk",
-  "display_name": "Jumpy or jerky legs",
+  "display_name": "During the last month, have you had, or have been told you do the following while asleep or trying to sleep: jumpy or jerky legs",
   "description": "",
   "type": "choices",
   "domain": "freq",

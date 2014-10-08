@@ -1,6 +1,6 @@
 {
   "id": "uppp",
-  "display_name": "Had UPPP surgery",
+  "display_name": "UPPP surgery recommended or undergone",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

@@ -1,6 +1,6 @@
 {
   "id": "diasnor",
-  "display_name": "Loud/Disruptive Snoring",
+  "display_name": "Physician-diagnosed Loud or Disruptive Snoring",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

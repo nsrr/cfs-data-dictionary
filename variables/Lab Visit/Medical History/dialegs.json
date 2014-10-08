@@ -1,6 +1,6 @@
 {
   "id": "dialegs",
-  "display_name": "Restless Legs or PLMs",
+  "display_name": "Physician-diagnosed Restless Legs or PLMs",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

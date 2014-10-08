@@ -1,6 +1,6 @@
 {
   "id": "stimyr",
-  "display_name": "Stimulant in last yr (L)",
+  "display_name": "Stimulant in last yr",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

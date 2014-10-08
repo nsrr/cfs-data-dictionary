@@ -1,6 +1,6 @@
 {
   "id": "dysfn",
-  "display_name": "Do you function worst in the",
+  "display_name": "During which time of day do you function worst?",
   "description": "",
   "type": "choices",
   "domain": "fxn_bad",

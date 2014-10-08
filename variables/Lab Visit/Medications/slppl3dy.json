@@ -1,6 +1,6 @@
 {
   "id": "slppl3dy",
-  "display_name": "Sleep pills in last 3 days (L)",
+  "display_name": "Sleep pills in last 3 days",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

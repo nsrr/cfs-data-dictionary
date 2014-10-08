@@ -1,6 +1,6 @@
 {
   "id": "thyrm3dy",
-  "display_name": "Thyroid meds in last 3 days (L)",
+  "display_name": "Thyroid medications in last 3 days",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

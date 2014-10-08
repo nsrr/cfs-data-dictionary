@@ -1,8 +1,9 @@
 {
   "id": "weekpre",
-  "display_name": "How many weeks early",
+  "display_name": "How many weeks early were you born?",
   "description": "",
   "type": "numeric",
+  "units": "weeks",
   "forms": [
     "baseline_lab_questionnaire"
   ]

@@ -1,6 +1,6 @@
 {
   "id": "agerem",
-  "display_name": "Age tonsils/adenoids removed (A)",
+  "display_name": "Age tonsils/adenoids removed",
   "description": "",
   "type": "numeric",
   "units": "years",

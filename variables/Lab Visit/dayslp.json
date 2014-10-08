@@ -1,6 +1,6 @@
 {
   "id": "dayslp",
-  "display_name": "Time asleep on weekdays (A)",
+  "display_name": "Time asleep on weekdays",
   "description": "",
   "type": "numeric",
   "forms": [

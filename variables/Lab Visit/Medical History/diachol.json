@@ -1,6 +1,6 @@
 {
   "id": "diachol",
-  "display_name": "Elevated Cholesterol",
+  "display_name": "Physician-diagnosed Elevated Cholesterol",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

@@ -1,6 +1,6 @@
 {
   "id": "chstpain",
-  "display_name": "Chest pain while in bed",
+  "display_name": "During the last month, have you had, or have been told you do the following while asleep or trying to sleep: chest pain while in bed",
   "description": "",
   "type": "choices",
   "domain": "freq",

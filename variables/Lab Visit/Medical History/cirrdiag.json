@@ -1,6 +1,6 @@
 {
   "id": "cirrdiag",
-  "display_name": "Cirrhosis of the Liver",
+  "display_name": "Physician-diagnosed Cirrhosis of the Liver",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

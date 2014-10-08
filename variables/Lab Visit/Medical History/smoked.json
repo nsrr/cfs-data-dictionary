@@ -1,7 +1,7 @@
 {
   "id": "smoked",
-  "display_name": "Ever smoked cigarettes (A)",
-  "description": "",
+  "display_name": "Have you ever smoked cigarettes",
+  "description": "'No' means less than 20 packs in a lifetime or less than 1 cigarette for 1 year",
   "type": "choices",
   "domain": "noyes01",
   "forms": [

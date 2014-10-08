@@ -1,6 +1,6 @@
 {
   "id": "mdysdiag",
-  "display_name": "Muscular Dystrophy",
+  "display_name": "Physician-diagnosed Muscular Dystrophy",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

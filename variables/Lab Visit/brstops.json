@@ -1,6 +1,6 @@
 {
   "id": "brstops",
-  "display_name": "Stop breathing",
+  "display_name": "During the last month, have you had, or have been told you do the following while asleep or trying to sleep: stop breathing",
   "description": "",
   "type": "choices",
   "domain": "freq",

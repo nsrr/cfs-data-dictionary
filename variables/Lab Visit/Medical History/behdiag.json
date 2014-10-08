@@ -1,6 +1,6 @@
 {
   "id": "behdiag",
-  "display_name": "Behavior Disorder",
+  "display_name": "Physician-diagnosed Behavior Disorder",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

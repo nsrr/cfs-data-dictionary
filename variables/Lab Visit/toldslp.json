@@ -1,6 +1,6 @@
 {
   "id": "toldslp",
-  "display_name": "Were told by a relative or friend that you were too sleepy",
+  "display_name": "Over the last month, have you experienced: were told by a relative or friend that you were too sleepy",
   "description": "",
   "type": "choices",
   "domain": "freq",

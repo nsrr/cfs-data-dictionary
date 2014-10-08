@@ -1,6 +1,6 @@
 {
   "id": "bpmed3dy",
-  "display_name": "Blood pressure meds in last 3 days (L)",
+  "display_name": "Blood pressure medications in last 3 days",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

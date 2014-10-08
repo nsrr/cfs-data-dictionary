@@ -1,6 +1,6 @@
 {
   "id": "monsmoke",
-  "display_name": "past month, smoke greater than 1 cigarettes per day (A)",
+  "display_name": "In the past month, did you smoke more than 1 cigarettes per day?",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

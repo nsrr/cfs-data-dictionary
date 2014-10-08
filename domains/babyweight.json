@@ -1,0 +1,42 @@
+[
+  {
+    "value": "1",
+    "display_name": "Less than 2 pounds",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "2 - 3.9 pounds",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "4 - 4.9 pounds",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "5 - 5.9 pounds",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "6 - 6.9 pounds",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "7 - 8.9 pounds",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "More than 9 pounds",
+    "description": ""
+  },
+  {
+    "value": "-2",
+    "display_name": "Don't know",
+    "description": ""
+  }
+]

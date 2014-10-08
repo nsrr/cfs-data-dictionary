@@ -1,6 +1,6 @@
 {
   "id": "tourdiag",
-  "display_name": "Tourettes Syndrome",
+  "display_name": "Physician-diagnosed Tourettes Syndrome",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

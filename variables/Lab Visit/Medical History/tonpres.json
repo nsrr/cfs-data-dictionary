@@ -1,6 +1,6 @@
 {
   "id": "tonpres",
-  "display_name": "Enlarged tonsils still present (A)",
+  "display_name": "Enlarged tonsils still present",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

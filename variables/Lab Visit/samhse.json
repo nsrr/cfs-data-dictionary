@@ -1,6 +1,6 @@
 {
   "id": "samhse",
-  "display_name": "live in same house but different bedroom",
+  "display_name": "Is the person who helped you complete the questionnaire someone who lives in same house but different bedroom",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

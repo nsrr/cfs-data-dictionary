@@ -1,6 +1,6 @@
 {
   "id": "legexer",
-  "display_name": "Past year time spent weight training legs(L)",
+  "display_name": "Past year time spent weight training legs",
   "description": "",
   "type": "choices",
   "domain": "exercise_time",

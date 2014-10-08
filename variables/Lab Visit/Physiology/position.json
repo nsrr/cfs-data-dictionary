@@ -1,6 +1,6 @@
 {
   "id": "position",
-  "display_name": "Sleep Diary: position slept in most during study (AC)",
+  "display_name": "Sleep Diary: position slept in most during study",
   "description": "",
   "type": "choices",
   "domain": "postsleeppson",

@@ -1,10 +1,10 @@
 {
   "id": "wgtgain",
-  "display_name": "Past 5 years, what is weight change (L)",
+  "display_name": "In the past 5 years, have you gained weight?",
   "description": "",
   "type": "choices",
   "domain": "noyes01",
   "forms": [
-    
+    "baseline_lab_questionnaire"
   ]
 }

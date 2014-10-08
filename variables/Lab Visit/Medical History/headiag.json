@@ -1,6 +1,6 @@
 {
   "id": "headiag",
-  "display_name": "Other Heart Disease",
+  "display_name": "Physician-diagnosed Other Heart Disease",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

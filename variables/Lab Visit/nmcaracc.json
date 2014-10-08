@@ -3,7 +3,7 @@
   "display_name": "How many 'near miss' car accidents have you had due to sleepiness",
   "description": "",
   "type": "numeric",
-  "units": "accidents",
+  "units": "events",
   "forms": [
     "baseline_lab_questionnaire"
   ]

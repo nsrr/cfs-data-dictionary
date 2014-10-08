@@ -1,6 +1,6 @@
 {
   "id": "endbed",
-  "display_name": "Bedtime on weekends (A)",
+  "display_name": "Bedtime on weekends",
   "description": "",
   "type": "numeric",
   "forms": [

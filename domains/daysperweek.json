@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": "Every now and then (not regularly)",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "2-3 days per week",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "4-5 days per week",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "6-7 days per week",
+    "description": ""
+  }
+]

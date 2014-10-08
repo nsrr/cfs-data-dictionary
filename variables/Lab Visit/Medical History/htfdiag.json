@@ -1,6 +1,6 @@
 {
   "id": "htfdiag",
-  "display_name": "Congestive Heart Failure",
+  "display_name": "Physician-diagnosed Congestive Heart Failure",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

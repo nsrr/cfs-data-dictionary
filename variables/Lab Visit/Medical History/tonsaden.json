@@ -1,6 +1,6 @@
 {
   "id": "tonsaden",
-  "display_name": "Tonsils/adenoids removed (A)",
+  "display_name": "Tonsils/adenoids removed",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

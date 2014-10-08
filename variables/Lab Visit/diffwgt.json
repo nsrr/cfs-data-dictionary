@@ -3,6 +3,7 @@
   "display_name": "During the past 5 years, what is the difference between your highest and lowest weight (excluding illness)",
   "description": "",
   "type": "numeric",
+  "units": "pounds",
   "forms": [
     "baseline_lab_questionnaire"
   ]

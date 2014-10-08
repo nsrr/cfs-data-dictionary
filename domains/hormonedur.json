@@ -1,0 +1,32 @@
+[
+  {
+    "value": "0",
+    "display_name": "None",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "1 - 4 months",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "5 - 9 months",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "10 - 14 months",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "15 - 19 months",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "20 - 24 months",
+    "description": ""
+  }
+]

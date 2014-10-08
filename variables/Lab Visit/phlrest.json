@@ -1,6 +1,6 @@
 {
   "id": "phlrest",
-  "display_name": "Phlegm during day and night",
+  "display_name": "Did you bring up phlegm at all during the rest of the day or night?",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

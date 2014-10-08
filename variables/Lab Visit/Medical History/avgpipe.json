@@ -1,8 +1,9 @@
 {
   "id": "avgpipe",
-  "display_name": "How many pipes on average",
+  "display_name": "How many pipes (bowls) on average",
   "description": "",
   "type": "numeric",
+  "units": "pipes",
   "forms": [
     "baseline_lab_questionnaire"
   ]

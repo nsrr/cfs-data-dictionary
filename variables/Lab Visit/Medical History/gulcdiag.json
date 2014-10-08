@@ -1,6 +1,6 @@
 {
   "id": "gulcdiag",
-  "display_name": "Gastric of Duodenal Ulcer",
+  "display_name": "Physician-diagnosed Gastric of Duodenal Ulcer",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

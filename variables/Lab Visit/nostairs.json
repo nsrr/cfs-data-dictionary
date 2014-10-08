@@ -1,8 +1,9 @@
 {
   "id": "nostairs",
-  "display_name": "How many flights of stairs do you climb daily?(L)",
+  "display_name": "How many flights of stairs do you climb daily?",
   "description": "",
-  "type": "numeric",
+  "type": "choices",
+  "domain": "stairs",
   "forms": [
     "baseline_lab_questionnaire"
   ]

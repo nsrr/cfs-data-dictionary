@@ -1,6 +1,6 @@
 {
   "id": "dendev",
-  "display_name": "Received or prescribed dental device as a treatment",
+  "display_name": "Recommended or prescribed dental device as a treatment",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

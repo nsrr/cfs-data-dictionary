@@ -1,6 +1,6 @@
 {
   "id": "nosesur",
-  "display_name": "Have nose surgery",
+  "display_name": "Have had or been recommended for nose surgery",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

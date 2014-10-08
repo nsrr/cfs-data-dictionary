@@ -1,6 +1,6 @@
 {
   "id": "goutdiag",
-  "display_name": "Gout",
+  "display_name": "Physician-diagnosed Gout",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

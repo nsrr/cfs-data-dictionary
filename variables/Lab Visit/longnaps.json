@@ -1,6 +1,6 @@
 {
   "id": "longnaps",
-  "display_name": "On average, how long are your naps (in minutes)",
+  "display_name": "On average, how long are your naps?",
   "description": "",
   "type": "numeric",
   "units": "minutes",

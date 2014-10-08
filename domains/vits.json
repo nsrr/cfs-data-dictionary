@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": "2 or less multivitamins",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "3 - 5 multivitamins",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "6 - 9 multivitamins",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "10 or more multivitamins",
+    "description": ""
+  }
+]

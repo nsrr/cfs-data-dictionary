@@ -1,6 +1,6 @@
 {
   "id": "apacold",
-  "display_name": "Wheeze apart from a cold (AC)",
+  "display_name": "Do you wheeze apart from a cold?",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

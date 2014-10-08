@@ -1,6 +1,6 @@
 {
   "id": "curpreg",
-  "display_name": "Currently pregnant (A)",
+  "display_name": "Currently pregnant",
   "description": "",
   "type": "choices",
   "domain": "noyesdk-2",

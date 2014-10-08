@@ -1,6 +1,6 @@
 {
   "id": "fatigue",
-  "display_name": "Feeling tired or fatigued after you sleep",
+  "display_name": "Over the last month, have you experienced: feeling tired or fatigued after you sleep",
   "description": "",
   "type": "choices",
   "domain": "freq",
