@@ -1,0 +1,42 @@
+[
+  {
+    "value": "0",
+    "display_name": "Currently Menstruating",
+    "description": ""
+  }
+  {
+    "value": "1",
+    "display_name": "One week ago",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Two weeks ago",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Three weeks ago",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "One month ago",
+    "description": ""
+  }
+  {
+    "value": "5",
+    "display_name": "More than one month, less than 6 months ago",
+    "description": ""
+  }
+    {
+    "value": "6",
+    "display_name": "More than 6 months ago",
+    "description": ""
+  }
+    {
+    "value": "-2",
+    "display_name": "Not Applicable",
+    "description": ""
+  }
+]
