@@ -2,8 +2,8 @@
   "id": "alcohday",
   "display_name": "On average last year how many alcoholic beverages did you drink per week?",
   "description": "",
-  "type": "numeric",
-  "units": "days per week",
+  "type": "choices",
+  "domain": "drinks",
   "forms": [
     "baseline_lab_questionnaire"
   ]
