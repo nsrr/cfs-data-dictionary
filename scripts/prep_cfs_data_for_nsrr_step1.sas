@@ -378,7 +378,7 @@ quit;
 %put &null_negative_chars;
 
 *for "choices" variables, "-2" sometimes = "Don't Know", but -1 is missing so set to NULL;
-%let negative1_null_list = nodrinks car actplay dochest farouse fdesire feelnap forgasm minslpco monsnor offroad read reasrem samesnor slpcrash slptco soonches stilches timesnor totawco typetx uphchest wakmanco wellslp wkschool
+%let negative1_null_list = nodrinks actplay dochest farouse fdesire feelnap forgasm minslpco monsnor offroad read reasrem samesnor slpcrash slptco soonches stilches timesnor totawco typetx uphchest wakmanco wellslp wkschool
       alcpres allbeec antihist_sd apacold apnctr apnobst armexer astpl3dy astsp3dy bedalcl bicexer bpmed3dy bronchio calit600 centralv centsent centsilv centvits cenvitpl
 			chrphle coldair combipat cpap curpreg cvsdaily cvsmegml cvsminer cvsprovi daynite dendev difbak distsnor docpain drvrslp dustfume estrace estrate femhrt fornu100 h2opl3dy
 			hdforwpl healtpac hormones hosphrt hrtpl3dy jogexer kidadd kidasthm kidbp kidbypas kidcancr kidchf kiddepre kiddiabe kidemphy kidlegs kidmd kidmi kidnarc kidnms kidosa kidsickl
