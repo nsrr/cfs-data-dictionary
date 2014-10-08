@@ -18,5 +18,10 @@
     "value": "4",
     "display_name": "10 or more multivitamins",
     "description": ""
+  },
+  {
+    "value": "-2",
+    "display_name": "Don't know",
+    "description": ""
   }
 ]
