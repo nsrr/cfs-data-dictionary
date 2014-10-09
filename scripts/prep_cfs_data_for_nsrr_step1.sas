@@ -464,6 +464,9 @@ data alldata_obf_all_moreclean;
   *Hard-code spirometry values that were found to be entered incorrectly;
   if obf_pptid = 801780 then pef = 6.52;
   if obf_pptid = 801780 then pefppk = 106.5;
+  if obf_pptid = 801732 then babyaday = .;
+  if obf_pptid = 802201 then babyaday = .;
+  if obf_pptid = 801222 then babyaday = .;
 
   *NULL cases where "maximum inflation" is less than observed value;
   if ankarmil < ankardsp then ankarmil = .;
