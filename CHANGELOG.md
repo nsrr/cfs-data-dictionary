@@ -1,4 +1,4 @@
-## 0.1.0
+## 0.1.0 (October 10, 2014)
 
 ### Changes
 - Initial import from `family3dd.xls`
@@ -13,8 +13,8 @@
 - PHI and identifiable variables have either been obfuscated or removed from the dataset
 - Variables sourced from the `baseline_lab_questionnaire` form have been updated to match exact questionnaire wording
 - The CSV datasets generated from a SAS export is located here:
-  - `\\rfa01\bwh-sleepepi-home\projects\cohorts\Family\nsrr-prep\_releases\0.1.0.rc3\`
-    - `cfs-rectype5-dataset-0.1.0.rc3.csv`
+  - `\\rfa01\bwh-sleepepi-home\projects\cohorts\Family\nsrr-prep\_releases\0.1.0\`
+    - `cfs-rectype5-dataset-0.1.0.csv`
 - **Gem Changes**
   - Updated to spout 0.9.0
   - Use of Ruby 2.1.3 is now recommended
