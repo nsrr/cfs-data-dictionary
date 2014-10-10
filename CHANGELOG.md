@@ -16,5 +16,5 @@
   - `\\rfa01\bwh-sleepepi-home\projects\cohorts\Family\nsrr-prep\_releases\0.1.0.rc3\`
     - `cfs-rectype5-dataset-0.1.0.rc3.csv`
 - **Gem Changes**
-  - Updated to spout 0.9.0.rc
+  - Updated to spout 0.9.0
   - Use of Ruby 2.1.3 is now recommended
