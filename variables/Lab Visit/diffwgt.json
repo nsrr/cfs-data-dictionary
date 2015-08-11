@@ -5,6 +5,6 @@
   "type": "numeric",
   "units": "pounds",
   "forms": [
-    "baseline_lab_questionnaire"
+    "baseline_lab_adult_child_questionnaire"
   ]
 }
