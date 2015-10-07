@@ -15,7 +15,7 @@ libname nsrrdata "&newfamilypath\nsrr-prep\_datasets";
 
 libname obf "&newfamilypath\nsrr-prep\_ids";
 
-%let release = 0.2.0.beta1;
+%let release = 0.2.0.rc;
 
 ********************************************************;
 * Import CFS data

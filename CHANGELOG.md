@@ -5,11 +5,12 @@
 - Fixed values that were being nulled for `ethnicity` variable
 - Corrected filenames for many of the linked forms
 - Renamed core dataset to `visit5` (from `rectype5`)
+- Remove `houshold` variable that was improperly referenced in SAS script
 - The CSV datasets generated from a SAS export is located here:
-  - `\\rfa01\bwh-sleepepi-home\projects\cohorts\Family\nsrr-prep\_releases\0.2.0.beta1\`
-    - `cfs-visit5-dataset-0.2.0.beta1.csv`
-    - `cfs-visit5-eeg-spectral-summary-0.2.0.beta1.csv`
-    - `cfs-visit5-eeg-band-summary-0.2.0.beta1.csv`
+  - `\\rfa01\bwh-sleepepi-home\projects\cohorts\Family\nsrr-prep\_releases\0.2.0.rc\`
+    - `cfs-visit5-dataset-0.2.0.rc.csv`
+    - `cfs-visit5-eeg-spectral-summary-0.2.0.rc.csv`
+    - `cfs-visit5-eeg-band-summary-0.2.0.rc.csv`
 
 ## 0.1.1
 
