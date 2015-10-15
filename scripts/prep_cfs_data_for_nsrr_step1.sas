@@ -15,7 +15,7 @@ libname nsrrdata "&newfamilypath\nsrr-prep\_datasets";
 
 libname obf "&newfamilypath\nsrr-prep\_ids";
 
-%let release = 0.1.0;
+%let release = 0.2.0;
 
 ********************************************************;
 * Import CFS data
@@ -74,7 +74,7 @@ quit;
 proc sql noprint;
   select name into :known_rec5vars_inneedof_NULLing separated by ' '
   from rectype5vars
-  where (600 le varnum le 607) or (640 le varnum le 642) or (1010 le varnum le 1012) or (varnum in(363,1014,1015,1018,1019,1020,1023,1024)) or (1130 le varnum le 1137)
+  where (600 le varnum le 607) or (640 le varnum le 642) or (varnum in(363,1014,1015,1018,1019,1020,1023,1024)) or (1130 le varnum le 1137)
           or (varnum in(1139,1141,1142,1143,1858,1859)) or (1928 le varnum le 1956) or (1989 le varnum le 2020) or (varnum in(1983,1984)) or (2330 le varnum le 2335)
           or (2350 le varnum le 2358) or (2070 le varnum le 2078) or (2080 le varnum le 2082) or (2087 le varnum le 2093) or (2095 le varnum le 2097) or (2099 le varnum le 2101)
           or (2107 le varnum le 2109) or (2113 le varnum le 2135 and varnum not in(2122,2126)) or (2140 le varnum le 2145) or (2147 le varnum le 2155) or (2157 le varnum le 2159)
@@ -519,7 +519,7 @@ run;
                             /*Always equal to 0*/ avgdbslp maxdbslp nobrslp nodb4slp nodb5slp nordb2 nordb3 nordb4 nordb5 nordball notca notcc notch notco pdb5slp plmardelta plmarrem
                               plmarstg1 plmcardelta prdb5slp nobrap nobrc
                             /*No observed values - likely all were negative and scrubbed in a previous step*/ agediasi
-                            /* Unsure what numeric codes translate too - variables useless without translation*/ house household
+                            /* Unsure what numeric codes translate too - variables useless without translation*/ house houshold
                             ;
 
 *** Because of excessive missingness and multiple problematic variables, Family Medical History variables are being dropped (release candidate 2) for further exploration;
@@ -560,5 +560,5 @@ data alldata_obfclean_all_final;
 run;
 
 
-proc export data=alldata_obfclean_all_final outfile="\\rfa01\bwh-sleepepi-home\projects\cohorts\Family\nsrr-prep\_releases\&release\cfs-rectype5-dataset-&release..csv" dbms=csv replace;
+proc export data=alldata_obfclean_all_final outfile="\\rfa01\bwh-sleepepi-home\projects\cohorts\Family\nsrr-prep\_releases\&release\cfs-visit5-dataset-&release..csv" dbms=csv replace;
 run;

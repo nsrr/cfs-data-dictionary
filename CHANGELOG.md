@@ -1,3 +1,25 @@
+## 0.2.0 (October 13, 2015)
+
+### Changes
+- Added two new EEG spectral analysis datasets
+- Fixed values that were being nulled for `ethnicity` variable
+- Corrected filenames for many of the linked forms
+- Renamed core dataset to `visit5` (from `rectype5`)
+- Remove `houshold` variable that was improperly referenced in SAS script
+- The CSV datasets generated from a SAS export is located here:
+  - `\\rfa01\bwh-sleepepi-home\projects\cohorts\Family\nsrr-prep\_releases\0.2.0\`
+    - `cfs-visit5-dataset-0.2.0.csv`
+    - `cfs-visit5-eeg-spectral-summary-0.2.0.csv`
+    - `cfs-visit5-eeg-band-summary-0.2.0.csv`
+
+## 0.1.1
+
+### Changes
+- The SF-36 questionnaire has been updated to ensure that variable properly map to it on sleepdata.org
+- **Gem Changes**
+  - Updated to spout 0.10.1
+  - Use of Ruby 2.1.5 is now recommended
+
 ## 0.1.0 (October 10, 2014)
 
 ### Changes
