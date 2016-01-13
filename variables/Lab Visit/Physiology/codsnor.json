@@ -3,8 +3,8 @@
   "display_name": "Sleep Study: coded snoring on sleep study",
   "description": "",
   "type": "choices",
-  "domain": "noyesdk-2",
+  "domain": "noyesdk_2",
   "forms": [
-    
+
   ]
 }

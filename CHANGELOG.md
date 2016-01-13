@@ -1,5 +1,6 @@
 ## 0.2.1
 
+- Fixed domain name for noyesdk_2
 - **Gem Changes**
   - Updated to ruby 2.3.0
   - Updated to spout 0.11.0.beta1

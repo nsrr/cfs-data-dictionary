@@ -3,7 +3,7 @@
   "display_name": "Are you allergic to dust, mold, grass, or pollen",
   "description": "",
   "type": "choices",
-  "domain": "noyesdk-2",
+  "domain": "noyesdk_2",
   "forms": [
     "baseline_lab_adult_child_questionnaire"
   ]

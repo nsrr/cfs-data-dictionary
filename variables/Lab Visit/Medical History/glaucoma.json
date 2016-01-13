@@ -3,8 +3,8 @@
   "display_name": "Any biological relatives had Glaucoma",
   "description": "",
   "type": "choices",
-  "domain": "noyesdk-2",
+  "domain": "noyesdk_2",
   "forms": [
-    
+
   ]
 }

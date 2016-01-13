@@ -3,7 +3,7 @@
   "display_name": "During the past year, has your chest ever made whistling noises or sounded wheezy",
   "description": "",
   "type": "choices",
-  "domain": "noyesdk-2",
+  "domain": "noyesdk_2",
   "forms": [
     "baseline_lab_adult_child_questionnaire"
   ]

@@ -3,7 +3,7 @@
   "display_name": "Attack of wheezing past year that made you feel short of breath?",
   "description": "",
   "type": "choices",
-  "domain": "noyesdk-2",
+  "domain": "noyesdk_2",
   "forms": [
     "baseline_lab_adult_child_questionnaire"
   ]

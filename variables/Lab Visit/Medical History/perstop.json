@@ -3,7 +3,7 @@
   "display_name": "Have your periods stopped permanently?",
   "description": "Yes includes participants who have post-menopausal periods induced by hormones",
   "type": "choices",
-  "domain": "noyesdk-2",
+  "domain": "noyesdk_2",
   "forms": [
     "baseline_lab_adult_child_questionnaire"
   ]
