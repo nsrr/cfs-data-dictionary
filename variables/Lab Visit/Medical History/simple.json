@@ -3,7 +3,7 @@
   "display_name": "Have had or been recommended a simple tonsillectomy",
   "description": "",
   "type": "choices",
-  "domain": "noyesdk-2",
+  "domain": "noyesdk_2",
   "forms": [
     "baseline_lab_questionnaire"
   ]

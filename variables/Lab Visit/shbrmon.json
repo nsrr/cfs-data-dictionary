@@ -3,7 +3,7 @@
   "display_name": "Shortness of breath past month while hurrying on level ground or walking up a slight hill",
   "description": "",
   "type": "choices",
-  "domain": "noyesdk-2",
+  "domain": "noyesdk_2",
   "forms": [
     "baseline_lab_questionnaire"
   ]

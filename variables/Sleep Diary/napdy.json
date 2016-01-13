@@ -3,7 +3,7 @@
   "display_name": "Have you taken any naps today?",
   "description": "",
   "type": "choices",
-  "domain": "noyesdk-2",
+  "domain": "noyesdk_2",
   "forms": [
     "pre_sleep_diary"
   ]

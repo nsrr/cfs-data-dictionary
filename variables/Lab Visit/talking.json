@@ -3,7 +3,7 @@
   "display_name": "During the past month, have you fallen asleep while talking face to face with someone",
   "description": "",
   "type": "choices",
-  "domain": "noyesdk-2",
+  "domain": "noyesdk_2",
   "forms": [
     "baseline_lab_questionnaire"
   ]

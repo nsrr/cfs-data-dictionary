@@ -3,7 +3,7 @@
   "display_name": "Physician-diagnosed Other Significant Medical Condition",
   "description": "",
   "type": "choices",
-  "domain": "noyesdk-2",
+  "domain": "noyesdk_2",
   "forms": [
     "baseline_lab_questionnaire"
   ]

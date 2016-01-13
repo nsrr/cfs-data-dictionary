@@ -3,8 +3,8 @@
   "display_name": "Use recreational drugs",
   "description": "",
   "type": "choices",
-  "domain": "noyesdk-2",
+  "domain": "noyesdk_2",
   "forms": [
-    
+
   ]
 }

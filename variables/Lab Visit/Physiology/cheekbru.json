@@ -3,7 +3,7 @@
   "display_name": "Cheek brushing performed",
   "description": "",
   "type": "choices",
-  "domain": "noyesdk-2",
+  "domain": "noyesdk_2",
   "forms": [
     "lab_physio"
   ]
