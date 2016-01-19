@@ -1,4 +1,4 @@
-## 0.2.1
+## 0.2.1 (January 19, 2016)
 
 - Fixed domain name for noyesdk_2
 - **Gem Changes**
