@@ -1,6 +1,7 @@
 ## 0.3.0
 
 - Fixed misspellings and typos in variable labels
+- Remove `whtkg` variable (duplicate of `wtkg`)
 
 ## 0.2.1 (January 19, 2016)
 

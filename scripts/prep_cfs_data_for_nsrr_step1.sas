@@ -8,14 +8,14 @@
 * Establish CFS options and libraries
 ********************************************************;
 
-%include "\\rfa01\bwh-sleepepi-home\projects\cohorts\Family\SAS\Family options and libnames.sas";
+%include "\\rfa01\bwh-sleepepi-cfs\SAS\Family options and libnames.sas";
 %include "&newfamilypath\nsrr-prep\sleepepi-sas-macros.sas";
 
 libname nsrrdata "&newfamilypath\nsrr-prep\_datasets";
 
 libname obf "&newfamilypath\nsrr-prep\_ids";
 
-%let release = 0.2.0;
+%let release = 0.3.0.pre;
 
 ********************************************************;
 * Import CFS data
@@ -356,7 +356,7 @@ data alldata_obf_all /*nsrrdata.rectype5_pass1_obfphi*/;
   drop &additional_droplist;
 run;
 
-proc import datafile = "\\rfa01\bwh-sleepepi-home\projects\cohorts\Family\nsrr-prep\cfs_systematic_cleaning_variables.csv" dbms = csv out = systematic_cleaning replace;
+proc import datafile = "\\rfa01\bwh-sleepepi-cfs\nsrr-prep\cfs_systematic_cleaning_variables.csv" dbms = csv out = systematic_cleaning replace;
 guessingrows = 500;
 run;
 
@@ -520,6 +520,7 @@ run;
                               plmarstg1 plmcardelta prdb5slp nobrap nobrc
                             /*No observed values - likely all were negative and scrubbed in a previous step*/ agediasi
                             /* Unsure what numeric codes translate too - variables useless without translation*/ house houshold
+                            /* duplicated by `wtkg` */ whtkg
                             ;
 
 *** Because of excessive missingness and multiple problematic variables, Family Medical History variables are being dropped (release candidate 2) for further exploration;
@@ -560,5 +561,5 @@ data alldata_obfclean_all_final;
 run;
 
 
-proc export data=alldata_obfclean_all_final outfile="\\rfa01\bwh-sleepepi-home\projects\cohorts\Family\nsrr-prep\_releases\&release\cfs-visit5-dataset-&release..csv" dbms=csv replace;
+proc export data=alldata_obfclean_all_final outfile="\\rfa01\bwh-sleepepi-cfs\nsrr-prep\_releases\&release\cfs-visit5-dataset-&release..csv" dbms=csv replace;
 run;

@@ -1,9 +1,0 @@
-{
-  "id": "whtkg",
-  "display_name": "Weight (kg)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_physio"
-  ]
-}
