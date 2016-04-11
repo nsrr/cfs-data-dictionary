@@ -1,5 +1,6 @@
 ## 0.3.0
 
+- Added ICSD3 AHI variables (e.g. `ahi_a0h3`)
 - Fixed misspellings and typos in variable labels
 - Remove `whtkg` variable (duplicate of `wtkg`)
 
