@@ -1,10 +1,10 @@
 {
   "id": "period",
-  "display_name": "Sleep Study: subj had periodicity",
+  "display_name": "Sleep Study: subject had periodicity",
   "description": "",
   "type": "choices",
   "domain": "yesnon",
   "forms": [
-    
+
   ]
 }

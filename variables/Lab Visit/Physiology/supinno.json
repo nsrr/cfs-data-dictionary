@@ -1,9 +1,9 @@
 {
   "id": "supinno",
-  "display_name": "Sleep Study: # of 10 min. intervals in supine posit.",
+  "display_name": "Sleep Study: # of 10 minute intervals in supine position",
   "description": "",
   "type": "numeric",
   "forms": [
-    
+
   ]
 }
