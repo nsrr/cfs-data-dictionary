@@ -539,6 +539,17 @@ run;
                                     sonadd sonage sonaged1 sonaged2 sonaged3 sonasthm sonbp sonbypas soncancr sonchf sondepre sondiabe sonemphy sonlegs sonlive sonmd sonmi sonnarc sonnms sonosa
                                     sonothmd sonsickl sonsids sonslp sonsnor sonstrok sontoure sosano sothmdno soverage spancage ssicklno ssidsno sslpno ssnorno sstrokno stoureno;
 
+* macro to create time variables from 24-hour times collected as integers;
+%macro fixtimes(varin,varout);
+        if &varin >=0 then do;
+                 &varin.c = trim(left(put(&varin, 8. )));
+                 &varout = input(substr(trim(left(reverse(substr(trim(left(reverse(&varin.c)!! '0000' )), 1 , 4 )))), 1 , 2 )
+                                   !! ':' !! substr(trim(left(reverse(substr(trim(left(reverse(&varin.c)!! '0000' )), 1 , 4 )))), 3 , 2 ), time5. );
+        end;
+        format &varout time5. ;
+        drop &varin.c;
+%mend ;
+
 *drop variables that were excluded from the json data dictionary because of redundancy or a lack of relevance/importance;
 data alldata_obfclean_all_final;
   set alldata_obf_all_moreclean;
@@ -577,9 +588,105 @@ data alldata_obfclean_all_final;
   cent_obs_ratio = (carbp + carop + canbp + canop) / (oarbp + oarop + oanbp + oanop);
   cent_obs_ratioa = (carba + caroa + canba + canoa) / (oarba + oaroa + oanba + oanoa);
 
+  *recode self-reported sleep duration variables across weekdays and weekends;
+  * FIX SELF-REPORTED BED AND WAKE TIMES (WEEKDAYS);
+  %fixtimes(DAYSLP ,DAYSLP_time);
+  %fixtimes(DAYWAKE ,DAYWAKE_time);
+
+  * if slptime before midnight and waketime after midnight set date as previous day;
+  if hour(DAYSLP_time) > 12 and hour(DAYWAKE_time) <=12 then DAYSLP_time2 = dhms(date()- 1 ,hour(DAYSLP_time),minute(DAYSLP_time), 0 );
+  * if both slptime  and waketime before midnight then use current day;
+  else if hour(DAYSLP_time) > 12 and hour(DAYWAKE_time) >12 then DAYSLP_time2 = dhms(date() ,hour(DAYSLP_time),minute(DAYSLP_time), 0 );
+  * otherwise use current day;
+  else DAYSLP_time2 = dhms(date(),hour(DAYSLP_time),minute(DAYSLP_time), 0 );
+
+  * if   waketime at midnight then waketime use next day;
+  if  hour(DAYWAKE_time) =0 then DAYSLP_time2 = dhms(date()+1 ,hour(DAYSLP_time),minute(DAYSLP_time), 0 );
+  * otherwise use current day for waketime;
+  else DAYWAKE_time2 = dhms(date(),hour(DAYWAKE_time),minute(DAYWAKE_time), 0 );
+
+  * calculate midpoint of bed and wake times;
+  DAYMID_time2 = DAYSLP_time2 + (DAYWAKE_time2 - DAYSLP_time2)/2;
+  DAYMID_time = timepart(DAYMID_time2);
+
+  format daymid_time time5. DAYSLP_time2 DAYWAKE_time2 DAYMID_time2 datetime16.;
+
+  * calculate time in bed as difference between wake and bed time (accounting for change in midnight);
+  DAYSLP_dur_mn  = (DAYWAKE_time2 - DAYSLP_time2)/ 60;
+  DAYSLP_dur_hr  = (DAYWAKE_time2 - DAYSLP_time2)/ 3600;
+  label    DAYSLP_dur_mn  ='calculated sleep duration (minutes) during weekday-by DAYWAKE -DAYSLP '
+          DAYSLP_dur_hr  ='calculated sleep duration (hours) during weekday -by DAYWAKE -DAYSLP ';
+
+  drop daywake_time2 dayslp_time2 daymid_time2;
+
+  * FIX SELF-REPORTED BED AND WAKE TIMES (WEEKENDS);
+  %fixtimes(ENDSLP ,ENDSLP_time);
+  %fixtimes(ENDWAKE ,ENDWAKE_time);
+
+  * if slptime before midnight and waketime after midnight, set date as previous day;
+  if hour(ENDSLP_time) > 12 and hour(ENDWAKE_time) <=12 then ENDSLP_time2 = dhms(date()- 1 ,hour(ENDSLP_time),minute(ENDSLP_time), 0 );
+  * if both slptime  and waketime before midnight then use current day;
+  else if hour(ENDSLP_time) > 12 and hour(ENDWAKE_time) >12 then ENDSLP_time2 = dhms(date() ,hour(ENDSLP_time),minute(ENDSLP_time), 0 );
+  * otherwise use current day;
+  else ENDSLP_time2 = dhms(date(),hour(ENDSLP_time),minute(ENDSLP_time), 0 );
+
+  * if waketime at midnight then waketime use next day;
+  if  hour(ENDWAKE_time) =0 then ENDWAKE_time2 = dhms(date()+1,hour(ENDWAKE_time),minute(ENDWAKE_time), 0 );
+  * otherwise use current day for  wake time;
+  else ENDWAKE_time2 = dhms(date(),hour(ENDWAKE_time),minute(ENDWAKE_time), 0 );
+
+  * calculate midpoint of bed and wake times;
+  ENDMID_time2 = ENDSLP_time2 + (ENDWAKE_time2 - ENDSLP_time2)/2;
+  ENDMID_time = timepart(ENDMID_time2);
+
+  format ENDmid_time time5. ENDSLP_time2 ENDWAKE_time2 ENDMID_time2 datetime16.;
+
+  * calculate time in bed as difference between wake and bed time (accounting for change in midnight);
+  ENDSLP_dur_mn  = (ENDWAKE_time2 - ENDSLP_time2)/ 60;
+  ENDSLP_dur_hr  = (ENDWAKE_time2 - ENDSLP_time2)/ 3600;
+  label    ENDSLP_dur_mn  ='calculated sleep duration (minutes) during weekend -by ENDWAKE  - ENDSLP '
+          ENDSLP_dur_hr  ='calculated sleep duration (hours) during weekend-by ENDWAKE  - ENDSLP ';
+
+  drop endwake_time2 endslp_time2 endmid_time2 END_dur_mn END_dur_hr;
+
+  *make manual adjustments to any self-reported sleep duration values that turn out implausible;
+
+  *DAYSLP = DAYWAKE, use DAYBED in calculation instead;
+  if obf_pptid = 800557 then do; 
+    DAYSLP_dur_hr = 2;
+    DAYSLP_dur_mn = 120;
+  end;
+
+  *DAYSLP = DAYWAKE, use DAYBED in calculation instead;
+  if obf_pptid = 801080 then do;
+    DAYSLP_dur_hr = 2;
+    DAYSLP_dur_mn = 120;
+  end;
+
+  *ENDSLP = ENDWAKE, use ENDBED in calculation instead;
+  if obf_pptid = 800557 then do;
+    ENDSLP_dur_hr = 4;
+    ENDSLP_dur_mn = 240;
+  end;
+
+  *if missing DAYSLP, set duration variables to missing;
+  if dayslp = . then do;
+    dayslp_dur_hr2 = .;
+    dayslp_dur_mn2 = .;
+  end;
+
+  *if missing ENDSLP, set ENDSLP duration variables to missing;
+  if endslp = . then do;
+    ENDSLP_dur_hr = .;
+    ENDSLP_dur_mn = .;
+  end;
+
   drop &manual_json_droplist &other_reason_droplist &family_medical_history_vars;
 run;
 
-
-proc export data=alldata_obfclean_all_final outfile="\\rfa01\bwh-sleepepi-cfs\nsrr-prep\_releases\&release\cfs-visit5-dataset-&release..csv" dbms=csv replace;
+*export final dataset;
+proc export data=alldata_obfclean_all_final 
+  outfile="\\rfa01\bwh-sleepepi-cfs\nsrr-prep\_releases\&release\cfs-visit5-dataset-&release..csv" 
+  dbms=csv 
+  replace;
 run;
