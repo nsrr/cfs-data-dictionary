@@ -1,6 +1,6 @@
 {
   "id": "tenexer",
-  "display_name": "Past year time spent tennis, squash, racquetball?",
+  "display_name": "Average time per week spent playing tennis, squash, racquetball",
   "description": "",
   "type": "choices",
   "domain": "exercise_time",

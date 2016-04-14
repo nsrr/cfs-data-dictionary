@@ -1,6 +1,6 @@
 {
   "id": "wkaccno",
-  "display_name": "If yes, how have you had an accident at work that required you to see a doctor or nurse",
+  "display_name": "Frequency of involvement in accidents at work that required doctor",
   "description": "",
   "type": "choices",
   "domain": "morethan100",

@@ -1,6 +1,6 @@
 {
   "id": "angioage",
-  "display_name": "Age Diagnose Coronary Angioplasty",
+  "display_name": "Age Diagnosed Coronary Angioplasty",
   "description": "",
   "type": "numeric",
   "units": "years",

@@ -1,6 +1,6 @@
 {
   "id": "paralyze",
-  "display_name": "Over the last month, have you experienced: awake feeling paralyzed, unable to move for short periods",
+  "display_name": "Over the last month, have you experienced: Awake feeling paralyzed, unable to move for short periods",
   "description": "",
   "type": "choices",
   "domain": "freq",

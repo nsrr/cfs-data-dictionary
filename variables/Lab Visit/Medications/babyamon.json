@@ -1,6 +1,6 @@
 {
   "id": "babyamon",
-  "display_name": "Last month have you baby aspirin",
+  "display_name": "Taken baby aspirin over last month",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

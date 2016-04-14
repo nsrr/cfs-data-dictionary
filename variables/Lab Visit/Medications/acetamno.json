@@ -1,6 +1,6 @@
 {
   "id": "acetamno",
-  "display_name": "On average, how many tablets acetaminophen",
+  "display_name": "Average tablets of acetaminophen",
   "description": "",
   "type": "numeric",
   "forms": [

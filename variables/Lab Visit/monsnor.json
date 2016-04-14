@@ -1,6 +1,6 @@
 {
   "id": "monsnor",
-  "display_name": "Over the last one month, has your snoring usually been",
+  "display_name": "Over the last one month, snoring has usually been",
   "description": "",
   "type": "choices",
   "domain": "snorvol",

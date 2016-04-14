@@ -1,6 +1,6 @@
 {
   "id": "workslno",
-  "display_name": "If yes, has this occurred",
+  "display_name": "Frequency of falling asleep on the job",
   "description": "",
   "type": "numeric",
   "forms": [

@@ -1,6 +1,6 @@
 {
   "id": "levchest",
-  "display_name": "Chest discomfort when walk at an ordinary pace",
+  "display_name": "Chest discomfort when walking at an ordinary pace",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

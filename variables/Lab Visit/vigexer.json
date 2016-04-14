@@ -1,6 +1,6 @@
 {
   "id": "vigexer",
-  "display_name": "Past year time spent other vigorous activities",
+  "display_name": "Average time per week spent in other vigorous activities",
   "description": "",
   "type": "choices",
   "domain": "exercise_time",

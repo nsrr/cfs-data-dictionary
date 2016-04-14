@@ -1,6 +1,6 @@
 {
   "id": "nouse",
-  "display_name": "Why not using prescribed CPAP",
+  "display_name": "Reason why participant is not using prescribed CPAP",
   "description": "",
   "type": "text",
   "forms": [

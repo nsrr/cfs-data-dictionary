@@ -1,6 +1,6 @@
 {
   "id": "whereqst",
-  "display_name": "Where was the questionnaire was completed",
+  "display_name": "Location where questionnaire was completed",
   "description": "",
   "type": "choices",
   "domain": "location",
