@@ -1,10 +1,10 @@
 {
   "id": "apnobst",
-  "display_name": "Sleep Study: subj had predominantly obstructive apnea",
+  "display_name": "Sleep Study: subject had predominantly obstructive apneas",
   "description": "",
   "type": "choices",
   "domain": "noyes01",
   "forms": [
-    
+
   ]
 }

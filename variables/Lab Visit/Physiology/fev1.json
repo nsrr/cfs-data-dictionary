@@ -1,9 +1,9 @@
 {
   "id": "fev1",
-  "display_name": "Spirometry:  forced exp vol, 1st sec",
+  "display_name": "Spirometry: forced expiratory volume (FEV), 1st second",
   "description": "",
   "type": "numeric",
   "forms": [
-    
+
   ]
 }
