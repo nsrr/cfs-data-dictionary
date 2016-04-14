@@ -3,7 +3,7 @@
   "display_name": "During the past 4 weeks, how much did pain interfere with your normal work (including both work outside the home and housework)?",
   "description": "",
   "type": "choices",
-  "domain": "sf36",
+  "domain": "sf36_interfered",
   "forms": [
     "sf36"
   ]

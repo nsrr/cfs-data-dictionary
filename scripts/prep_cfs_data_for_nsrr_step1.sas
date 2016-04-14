@@ -671,8 +671,8 @@ data alldata_obfclean_all_final;
 
   *if missing DAYSLP, set duration variables to missing;
   if dayslp = . then do;
-    dayslp_dur_hr2 = .;
-    dayslp_dur_mn2 = .;
+    dayslp_dur_hr = .;
+    dayslp_dur_mn = .;
   end;
 
   *if missing ENDSLP, set ENDSLP duration variables to missing;
@@ -680,6 +680,9 @@ data alldata_obfclean_all_final;
     ENDSLP_dur_hr = .;
     ENDSLP_dur_mn = .;
   end;
+
+  *remove impossible value on SF36 item;
+  if mosq4a = 3 then mosq4a = .;
 
   drop &manual_json_droplist &other_reason_droplist &family_medical_history_vars;
 run;

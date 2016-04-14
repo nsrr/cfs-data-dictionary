@@ -3,7 +3,7 @@
   "display_name": "Cut down on the amount of time you spent on work or other activities",
   "description": "",
   "type": "choices",
-  "domain": "sf36",
+  "domain": "sf36_yesno",
   "forms": [
     "sf36"
   ]

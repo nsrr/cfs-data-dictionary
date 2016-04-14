@@ -3,7 +3,7 @@
   "display_name": "Climbing one flight of stairs",
   "description": "",
   "type": "choices",
-  "domain": "sf36",
+  "domain": "sf36_limited",
   "forms": [
     "sf36"
   ]

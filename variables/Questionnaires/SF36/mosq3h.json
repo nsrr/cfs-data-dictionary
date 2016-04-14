@@ -3,7 +3,7 @@
   "display_name": "Walking half a kilometer",
   "description": "",
   "type": "choices",
-  "domain": "sf36",
+  "domain": "sf36_limited",
   "forms": [
     "sf36"
   ]

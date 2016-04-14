@@ -3,7 +3,7 @@
   "display_name": "Compared to one year ago, how would you rate your health in general now?",
   "description": "",
   "type": "choices",
-  "domain": "sf36",
+  "domain": "sf36_yearago",
   "forms": [
     "sf36"
   ]
