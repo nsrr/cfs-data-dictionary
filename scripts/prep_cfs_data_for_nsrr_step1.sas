@@ -15,7 +15,7 @@ libname nsrrdata "&newfamilypath\nsrr-prep\_datasets";
 
 libname obf "&newfamilypath\nsrr-prep\_ids";
 
-%let release = 0.3.0.pre;
+%let release = 0.3.0.rc;
 
 ********************************************************;
 * Import CFS data
@@ -652,7 +652,7 @@ data alldata_obfclean_all_final;
   *make manual adjustments to any self-reported sleep duration values that turn out implausible;
 
   *DAYSLP = DAYWAKE, use DAYBED in calculation instead;
-  if obf_pptid = 800557 then do; 
+  if obf_pptid = 800557 then do;
     DAYSLP_dur_hr = 2;
     DAYSLP_dur_mn = 120;
   end;
@@ -688,8 +688,8 @@ data alldata_obfclean_all_final;
 run;
 
 *export final dataset;
-proc export data=alldata_obfclean_all_final 
-  outfile="\\rfa01\bwh-sleepepi-cfs\nsrr-prep\_releases\&release\cfs-visit5-dataset-&release..csv" 
-  dbms=csv 
+proc export data=alldata_obfclean_all_final
+  outfile="\\rfa01\bwh-sleepepi-cfs\nsrr-prep\_releases\&release\cfs-visit5-dataset-&release..csv"
+  dbms=csv
   replace;
 run;
