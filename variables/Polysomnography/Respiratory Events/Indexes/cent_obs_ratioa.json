@@ -4,5 +4,8 @@
   "description": "",
   "type": "numeric",
   "units": "",
-  "calculation": "(carba + caroa + canba + canoa) / (oarba + oaroa + oanba + oanoa)"
+  "calculation": "(carba + caroa + canba + canoa) / (oarba + oaroa + oanba + oanoa)",
+  "labels": [
+    "icsd"
+  ]
 }
