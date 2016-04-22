@@ -1,14 +1,14 @@
-## 0.3.0
+## 0.3.0 (April 22, 2016)
 
 - Update self-reported sleep duration variables (e.g. `dayslp_dur_mn`)
 - Added ICSD3 AHI variables (e.g. `ahi_a0h3`)
 - Fixed misspellings and typos in variable labels
 - Remove `whtkg` variable (duplicate of `wtkg`)
 - The CSV datasets generated from a SAS export is located here:
-  - `\\rfa01\bwh-sleepepi-home\projects\cohorts\Family\nsrr-prep\_releases\0.3.0.rc\`
-    - `cfs-visit5-dataset-0.3.0.rc.csv`
-    - `cfs-visit5-eeg-band-summary-dataset-0.3.0.rc.csv`
-    - `cfs-visit5-eeg-spectral-summary-dataset-0.3.0.rc.csv`
+  - `\\rfa01\bwh-sleepepi-home\projects\cohorts\Family\nsrr-prep\_releases\0.3.0\`
+    - `cfs-visit5-dataset-0.3.0.csv`
+    - `cfs-visit5-eeg-band-summary-dataset-0.3.0.csv`
+    - `cfs-visit5-eeg-spectral-summary-dataset-0.3.0.csv`
 
 ## 0.2.1 (January 19, 2016)
 
