@@ -1,3 +1,5 @@
+## 0.4.0
+
 ## 0.3.0 (April 22, 2016)
 
 - Update self-reported sleep duration variables (e.g. `dayslp_dur_mn`)
