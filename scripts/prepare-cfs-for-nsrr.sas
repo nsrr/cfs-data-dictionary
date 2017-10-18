@@ -1,7 +1,7 @@
 *******************************************************************************;
 * Program           : prepare-cfs-for-nsrr.sas
 * Project           : National Sleep Research Resource (sleepdata.org)
-* Author            : Michael Cailler 
+* Author            : Michael Cailler
 * Date Created      : 20140715
 * Purpose           : Prepare Sleep Heart Health Study data for deposition on
 *                       sleepdata.org.
@@ -14,7 +14,7 @@
   %include "&newfamilypath\nsrr-prep\sleepepi-sas-macros.sas";
   libname nsrrdata "&newfamilypath\nsrr-prep\_datasets";
   libname obf "&newfamilypath\nsrr-prep\_ids";
-  %let release = 0.4.0.pre;
+  %let release = 0.4.0.beta1;
 
 ********************************************************;
 * Import CFS data

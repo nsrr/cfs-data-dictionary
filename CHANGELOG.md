@@ -2,6 +2,8 @@
 - Change primary identifier variable name, `obf_pptid` -> `nsrrid`
 - Update display names and calculations for ICSD AHI variables
 - Remove strange symbols from variable display names
+- The CSV datasets generated from a SAS export is located here:
+  - `\\rfawin\bwh-sleepepi-cfs\nsrr-prep\_releases\0.4.0.beta1\`
 - **Gem Changes**
   - Updated to spout 0.12.1
 
