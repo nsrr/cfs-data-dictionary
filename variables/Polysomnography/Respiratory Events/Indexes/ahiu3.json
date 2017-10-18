@@ -1,7 +1,7 @@
 {
   "id": "ahiu3",
-  "display_name": "RDI – Apnea/Hypopnea/AASM Hypopneas (Unsure Compumedics label) with >= 3% desaturation",
-  "description": "RDI – Number of Apnea/Hypopnea/AASM Hypopneas associated with >= 3% desaturation",
+  "display_name": "RDI - Apnea/Hypopnea/AASM Hypopneas (Unsure Compumedics label) with >= 3% desaturation",
+  "description": "",
   "type": "numeric",
   "units": "events per hour",
   "commonly_used": true
