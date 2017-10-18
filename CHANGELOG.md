@@ -1,4 +1,5 @@
 ## 0.4.0
+- Update display names and calculations for ICSD AHI variables
 - Remove strange symbols from variable display names
 - **Gem Changes**
   - Updated to spout 0.12.1
