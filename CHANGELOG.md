@@ -1,4 +1,5 @@
 ## 0.4.0
+- Change primary identifier variable name, `obf_pptid` -> `nsrrid`
 - Update display names and calculations for ICSD AHI variables
 - Remove strange symbols from variable display names
 - **Gem Changes**
