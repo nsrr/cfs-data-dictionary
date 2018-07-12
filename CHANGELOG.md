@@ -1,6 +1,10 @@
 ## 0.4.1
 
+### Changes
+
 ## 0.4.0 (October 24, 2017)
+
+### Changes
 - Change primary identifier variable name, `obf_pptid` -> `nsrrid`
 - Update display names and calculations for ICSD AHI variables
 - Remove strange symbols from variable display names
@@ -11,6 +15,7 @@
 
 ## 0.3.0 (April 22, 2016)
 
+### Changes
 - Update self-reported sleep duration variables (e.g. `dayslp_dur_mn`)
 - Added ICSD3 AHI variables (e.g. `ahi_a0h3`)
 - Fixed misspellings and typos in variable labels
@@ -23,6 +28,7 @@
 
 ## 0.2.1 (January 19, 2016)
 
+### Changes
 - Fixed domain name for noyesdk_2
 - **Gem Changes**
   - Updated to ruby 2.3.0
