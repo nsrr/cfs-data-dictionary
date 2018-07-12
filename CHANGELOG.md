@@ -1,3 +1,5 @@
+## 0.4.1
+
 ## 0.4.0 (October 24, 2017)
 - Change primary identifier variable name, `obf_pptid` -> `nsrrid`
 - Update display names and calculations for ICSD AHI variables
