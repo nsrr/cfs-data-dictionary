@@ -2,8 +2,5 @@
   "id": "globalgh",
   "display_name": "CHQ-PF50 single item global behavior",
   "description": "",
-  "type": "numeric",
-  "forms": [
-    "child_health_questionnaire"
-  ]
+  "type": "numeric"
 }

@@ -3,8 +3,5 @@
   "display_name": "During the past 4 weeks, how often has your child had bodily pain or discomfort?",
   "description": "",
   "type": "choices",
-  "domain": "chq_freq1",
-  "forms": [
-    "child_health_questionnaire"
-  ]
+  "domain": "chq_freq1"
 }

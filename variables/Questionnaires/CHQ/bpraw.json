@@ -2,8 +2,5 @@
   "id": "bpraw",
   "display_name": "CHQ-PF50 raw bodily pain",
   "description": "",
-  "type": "numeric",
-  "forms": [
-    "child_health_questionnaire"
-  ]
+  "type": "numeric"
 }

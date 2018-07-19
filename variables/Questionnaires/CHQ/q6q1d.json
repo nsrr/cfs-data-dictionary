@@ -3,8 +3,5 @@
   "display_name": "During the past 4 weeks, how much of the time do you think your child acted bothered or upset",
   "description": "",
   "type": "choices",
-  "domain": "chq_freq3",
-  "forms": [
-    "child_health_questionnaire"
-  ]
+  "domain": "chq_freq3"
 }

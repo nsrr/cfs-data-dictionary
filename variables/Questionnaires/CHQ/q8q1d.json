@@ -3,8 +3,5 @@
   "display_name": "I expect my child will have a very healthy life",
   "description": "",
   "type": "choices",
-  "domain": "chq_truth",
-  "forms": [
-    "child_health_questionnaire"
-  ]
+  "domain": "chq_truth"
 }

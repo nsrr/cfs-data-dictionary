@@ -3,8 +3,5 @@
   "display_name": "How often during the past 4 weeks did your child have difficulty concentrating or paying attention",
   "description": "",
   "type": "choices",
-  "domain": "chq_freq2",
-  "forms": [
-    "child_health_questionnaire"
-  ]
+  "domain": "chq_freq2"
 }

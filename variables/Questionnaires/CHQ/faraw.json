@@ -2,8 +2,5 @@
   "id": "faraw",
   "display_name": "CHQ-PF50 raw family activities",
   "description": "",
-  "type": "numeric",
-  "forms": [
-    "child_health_questionnaire"
-  ]
+  "type": "numeric"
 }

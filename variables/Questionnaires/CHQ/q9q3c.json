@@ -3,8 +3,5 @@
   "display_name": "During the past 4 weeks, how often has your child's health or behavior limited your ability as a family to 'pick up and go' on a moments notice",
   "description": "",
   "type": "choices",
-  "domain": "chq_freq2",
-  "forms": [
-    "child_health_questionnaire"
-  ]
+  "domain": "chq_freq2"
 }

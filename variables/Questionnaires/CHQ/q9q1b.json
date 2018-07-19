@@ -3,8 +3,5 @@
   "display_name": "During the past 4 weeks, how much emotional worry or concern did your child's emotional well-being or behavior cause you?",
   "description": "",
   "type": "choices",
-  "domain": "chq_freq4",
-  "forms": [
-    "child_health_questionnaire"
-  ]
+  "domain": "chq_freq4"
 }

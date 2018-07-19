@@ -3,8 +3,5 @@
   "display_name": "My child has never been seriously ill",
   "description": "",
   "type": "choices",
-  "domain": "chq_truth",
-  "forms": [
-    "child_health_questionnaire"
-  ]
+  "domain": "chq_truth"
 }

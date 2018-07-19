@@ -3,8 +3,5 @@
   "display_name": "Was this your first child (natural or adopted)?",
   "description": "",
   "type": "choices",
-  "domain": "yesno12",
-  "forms": [
-    "child_health_questionnaire"
-  ]
+  "domain": "yesno12"
 }

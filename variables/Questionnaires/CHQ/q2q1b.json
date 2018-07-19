@@ -3,8 +3,5 @@
   "display_name": "During the past 4 weeks, has your child been limited in any of the following activities due to health problems? Doing things that take some energy, such as riding a bike or skating? ",
   "description": "",
   "type": "choices",
-  "domain": "chq_limits",
-  "forms": [
-    "child_health_questionnaire"
-  ]
+  "domain": "chq_limits"
 }

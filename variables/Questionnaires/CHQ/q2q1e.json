@@ -3,8 +3,5 @@
   "display_name": "During the past 4 weeks, has your child been limited in any of the following activities due to health problems? Bending, lifting or stooping",
   "description": "",
   "type": "choices",
-  "domain": "chq_limits",
-  "forms": [
-    "child_health_questionnaire"
-  ]
+  "domain": "chq_limits"
 }

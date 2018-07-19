@@ -3,8 +3,5 @@
   "display_name": "During the past 4 weeks, has your child's school work or activities with friends been limited in any of the following ways due to problems with his/her physical health in the kind of schoolwork or activities with friends he/she could do",
   "description": "",
   "type": "choices",
-  "domain": "chq_limits",
-  "forms": [
-    "child_health_questionnaire"
-  ]
+  "domain": "chq_limits"
 }

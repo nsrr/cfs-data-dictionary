@@ -3,8 +3,5 @@
   "display_name": "CHQ-PF50 Parent Time Impact (0-100)",
   "description": "",
   "type": "numeric",
-  "forms": [
-    "child_health_questionnaire"
-  ],
   "commonly_used": true
 }

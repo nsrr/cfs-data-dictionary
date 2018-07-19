@@ -3,8 +3,5 @@
   "display_name": "When there is something going around my child usually catches it",
   "description": "",
   "type": "choices",
-  "domain": "chq_truth",
-  "forms": [
-    "child_health_questionnaire"
-  ]
+  "domain": "chq_truth"
 }

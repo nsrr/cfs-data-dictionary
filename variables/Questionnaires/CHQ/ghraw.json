@@ -2,8 +2,5 @@
   "id": "ghraw",
   "display_name": "CHQ-PF50 raw general health",
   "description": "",
-  "type": "numeric",
-  "forms": [
-    "child_health_questionnaire"
-  ]
+  "type": "numeric"
 }

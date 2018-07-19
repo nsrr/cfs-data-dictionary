@@ -3,8 +3,5 @@
   "display_name": "CHQ-PF50 Mental Health (0-100)",
   "description": "",
   "type": "numeric",
-  "forms": [
-    "child_health_questionnaire"
-  ],
   "commonly_used": true
 }

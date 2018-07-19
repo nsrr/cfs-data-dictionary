@@ -2,8 +2,5 @@
   "id": "pfraw",
   "display_name": "CHQ-PF50 raw physical functioning",
   "description": "",
-  "type": "numeric",
-  "forms": [
-    "child_health_questionnaire"
-  ]
+  "type": "numeric"
 }

@@ -3,8 +3,5 @@
   "display_name": "Your date of birth",
   "description": "",
   "type": "numeric",
-  "units": "days from index date",
-  "forms": [
-    "child_health_questionnaire"
-  ]
+  "units": "days from index date"
 }

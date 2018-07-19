@@ -2,8 +2,5 @@
   "id": "peraw",
   "display_name": "CHQ-PF50 raw parental impact-emotional",
   "description": "",
-  "type": "numeric",
-  "forms": [
-    "child_health_questionnaire"
-  ]
+  "type": "numeric"
 }

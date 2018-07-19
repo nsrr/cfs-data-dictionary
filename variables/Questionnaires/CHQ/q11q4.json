@@ -3,8 +3,5 @@
   "display_name": "What is your relationship to your child?",
   "description": "",
   "type": "choices",
-  "domain": "chq_relation",
-  "forms": [
-    "child_health_questionnaire"
-  ]
+  "domain": "chq_relation"
 }

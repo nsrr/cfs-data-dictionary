@@ -3,8 +3,5 @@
   "display_name": "My child seems to be less healthy than other children I know",
   "description": "",
   "type": "choices",
-  "domain": "chq_truth",
-  "forms": [
-    "child_health_questionnaire"
-  ]
+  "domain": "chq_truth"
 }

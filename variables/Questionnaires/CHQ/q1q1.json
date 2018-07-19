@@ -3,8 +3,5 @@
   "display_name": "In general, would you say your child's health is",
   "description": "",
   "type": "choices",
-  "domain": "chq_excel",
-  "forms": [
-    "child_health_questionnaire"
-  ]
+  "domain": "chq_excel"
 }

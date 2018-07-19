@@ -3,8 +3,5 @@
   "display_name": "During the past 4 weeks, how much bodily pain or discomfort has your child had?",
   "description": "",
   "type": "choices",
-  "domain": "chq_severity",
-  "forms": [
-    "child_health_questionnaire"
-  ]
+  "domain": "chq_severity"
 }

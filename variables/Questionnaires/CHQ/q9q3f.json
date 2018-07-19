@@ -3,8 +3,5 @@
   "display_name": "During the past 4 weeks, how often has your child's health or behavior caused you to cancel or change plans (personal or work) at the last minute",
   "description": "",
   "type": "choices",
-  "domain": "chq_freq2",
-  "forms": [
-    "child_health_questionnaire"
-  ]
+  "domain": "chq_freq2"
 }

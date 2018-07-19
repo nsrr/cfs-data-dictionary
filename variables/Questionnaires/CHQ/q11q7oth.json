@@ -2,8 +2,5 @@
   "id": "q11q7oth",
   "display_name": "Please explain your racial background",
   "description": "",
-  "type": "text",
-  "forms": [
-    "child_health_questionnaire"
-  ]
+  "type": "text"
 }
