@@ -14,7 +14,7 @@
   %include "&newfamilypath\nsrr-prep\sleepepi-sas-macros.sas";
   libname nsrrdata "&newfamilypath\nsrr-prep\_datasets";
   libname obf "&newfamilypath\nsrr-prep\_ids";
-  %let release = 0.5.0.pre;
+  %let release = 0.5.0;
 
 ********************************************************;
 * Import CFS data

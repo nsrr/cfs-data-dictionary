@@ -1,6 +1,8 @@
 ## 0.5.0
 
 - Remove EEG spectral summary variables
+- The CSV datasets generated from a SAS export is located here:
+  - `\\rfawin\bwh-sleepepi-cfs\nsrr-prep\_releases\0.5.0\`
 
 ## 0.4.1 (July 19, 2018)
 
