@@ -1,5 +1,7 @@
 ## 0.5.0
 
+- Remove EEG spectral summary variables
+
 ## 0.4.1 (July 19, 2018)
 
 - Remove form references to Child Health Questionnaire (copyrighted)
