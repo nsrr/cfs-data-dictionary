@@ -698,10 +698,10 @@ data cfs_visit5_harmonized;
  	nsrr_age = age;
 
 *age_gt89;
-*use age;
-	format nsrr_age_gt89; 
-	if age gt 89 then nsrr_age_gt89=1;
-	else if age le 89 then nsrr_age_gt89=0;
+*use age $100;
+	format nsrr_age_gt89 $10.; 
+	if age gt 89 then nsrr_age_gt89= 'yes';
+	else if age le 89 then nsrr_age_gt89= 'no';
 
 *sex;
 *use male;
@@ -747,15 +747,15 @@ data cfs_visit5_harmonized;
 *use monsmoke and nowsmoke;
 	format nsrr_current_smoker $100.;
 *if monsmoke=1 and nowsmoke>0 then nsrr_current_smoker = yes;
-	if monsmoke = 1 && nowsmoke gt 0 then nsrr_current_smoker = 'true';
+	if monsmoke = 1 && nowsmoke gt 0 then nsrr_current_smoker = 'yes';
 *if nowsmoke is missing or <0 use monsmoke to determine nsrr_current_smoker;
-	if monsmoke = 1 && nowsmoke = '.' then nsrr_current_smoker = 'true';
-	if monsmoke = 1 && nowsmoke le 0 then nsrr_current_smoker = 'true';
-	if monsmoke = 0 && nowsmoke = '.' then nsrr_current_smoker = 'false';
-	if monsmoke = 0 && nowsmoke le 0 then nsrr_current_smoker = 'false';
+	if monsmoke = 1 && nowsmoke = '.' then nsrr_current_smoker = 'yes';
+	if monsmoke = 1 && nowsmoke le 0 then nsrr_current_smoker = 'yes';
+	if monsmoke = 0 && nowsmoke = '.' then nsrr_current_smoker = 'no';
+	if monsmoke = 0 && nowsmoke le 0 then nsrr_current_smoker = 'no';
 *if monsoke missing, then use nowsmoke to determine nsrr_current_smoker;
-	if monsmoke = '.' && nowsmoke gt 0 then nsrr_current_smoker = 'true';
-	if monsmoke = '.' && nowsmoke le 0 then nsrr_current_smoker = 'false';
+	if monsmoke = '.' && nowsmoke gt 0 then nsrr_current_smoker = 'yes';
+	if monsmoke = '.' && nowsmoke le 0 then nsrr_current_smoker = 'no';
 *if monsmoke and nowsmoke both missing then nsrr_current_smoker = not reported;
 	if nowsmoke = '.' && monsmoke = '.' then nsrr_current_smoker = 'not reported';
 
@@ -764,8 +764,8 @@ data cfs_visit5_harmonized;
 *ever_smoker;
 *use smoked; 
 	format nsrr_ever_smoker $100.;
-	if smoked = 1 then nsrr_ever_smoker = 'true';
-	else if smoked = 0 then nsrr_ever_smoker = 'false';
+	if smoked = 1 then nsrr_ever_smoker = 'yes';
+	else if smoked = 0 then nsrr_ever_smoker = 'no';
 	else if smoked = . then nsrr_ever_smoker = 'not reported';
 
 	keep 
