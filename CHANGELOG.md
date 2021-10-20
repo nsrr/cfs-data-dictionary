@@ -1,3 +1,7 @@
+## 0.6.0
+
+- Harmonize variables
+
 ## 0.5.0
 
 - Remove EEG spectral summary variables
