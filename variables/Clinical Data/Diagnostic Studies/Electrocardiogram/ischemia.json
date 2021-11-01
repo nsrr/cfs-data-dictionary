@@ -1,0 +1,7 @@
+{
+  "id": "ischemia",
+  "display_name": "Ischemia pattern",
+  "description": "",
+  "type": "choices",
+  "domain": "ischemiapatterns"
+}

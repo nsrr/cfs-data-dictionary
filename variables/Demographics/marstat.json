@@ -1,10 +1,10 @@
 {
   "id": "marstat",
-  "display_name": "Marital Status",
+  "display_name": "Participant's marital status",
   "description": "",
   "type": "choices",
   "domain": "marstat",
   "forms": [
-     "baseline_lab_adult_child_questionnaire"
+    "baseline_lab_adult_child_questionnaire"
   ]
 }

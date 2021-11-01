@@ -1,0 +1,15 @@
+{
+  "id": "snloudly",
+  "display_name": "Over the last month, have you experienced: loud Snoring - loud enough to wake others",
+  "description": "",
+  "type": "choices",
+  "domain": "freq",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire",
+    "sdb",
+    "snore"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "id": "iqa",
+  "display_name": "Lead I: Absolute amplitude of the Q-wave",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters"
+}

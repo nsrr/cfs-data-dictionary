@@ -1,0 +1,13 @@
+{
+  "id": "samhse",
+  "display_name": "Is the person who helped you complete the questionnaire someone who lives in same house but different bedroom",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

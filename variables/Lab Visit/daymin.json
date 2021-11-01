@@ -1,9 +1,0 @@
-{
-  "id": "daymin",
-  "display_name": "Number of minutes of sleep during the weekdays",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "baseline_lab_adult_child_questionnaire"
-  ]
-}

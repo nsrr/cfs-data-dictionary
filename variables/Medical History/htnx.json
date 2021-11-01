@@ -1,0 +1,10 @@
+{
+  "id": "htnx",
+  "display_name": "Self-report of a physician diagnosis of hypertension or abnormal blood pressure reading",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ]
+}

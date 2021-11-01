@@ -1,0 +1,9 @@
+{
+  "id": "lnbmi",
+  "display_name": "Log(BMI)",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ]
+}

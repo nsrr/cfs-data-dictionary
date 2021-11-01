@@ -1,9 +1,0 @@
-{
-  "id": "sf36_rawre",
-  "display_name": "SF-36 RAW ROLE-EMOTIONAL",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "sf36"
-  ]
-}

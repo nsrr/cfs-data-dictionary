@@ -1,0 +1,14 @@
+{
+  "id": "eat",
+  "display_name": "How often fall asleep eating?",
+  "description": "",
+  "type": "choices",
+  "domain": "freq",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire",
+    "subjective_sleepiness"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

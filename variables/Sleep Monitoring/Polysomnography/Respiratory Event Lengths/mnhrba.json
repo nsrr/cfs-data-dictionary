@@ -1,0 +1,10 @@
+{
+  "id": "mnhrba",
+  "display_name": "Minimum duration of hypopnea in REM sleep in supine position: Hypopneas with > 30% flow reduction and with no oxygen desaturation threshold used and with arousal only from type I polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "mindurhp_srpb_hp3x0o_f1t1"
+  ]
+}

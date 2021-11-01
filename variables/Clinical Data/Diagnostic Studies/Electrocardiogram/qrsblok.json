@@ -1,0 +1,7 @@
+{
+  "id": "qrsblok",
+  "display_name": "QRS Conduction Block",
+  "description": "",
+  "type": "choices",
+  "domain": "qrsblock"
+}

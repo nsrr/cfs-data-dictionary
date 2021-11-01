@@ -1,0 +1,10 @@
+{
+  "id": "psychmeds",
+  "display_name": "Anti-depressant or anti-anxiety medication usage in the past 3 days",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ]
+}

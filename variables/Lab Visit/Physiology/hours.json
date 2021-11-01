@@ -1,9 +1,0 @@
-{
-  "id": "hours",
-  "display_name": "Sleep Study: hours of sleep",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    
-  ]
-}

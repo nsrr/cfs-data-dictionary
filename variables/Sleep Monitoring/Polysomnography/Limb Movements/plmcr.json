@@ -1,0 +1,10 @@
+{
+  "id": "plmcr",
+  "display_name": "Total number of periodic limb movement clusters with respiratory event from type I polysomnography",
+  "description": "Total PLM clusters with respiratory events",
+  "type": "numeric",
+  "units": "limb movements",
+  "labels": [
+    "ttlnumpc_st_f1t1"
+  ]
+}

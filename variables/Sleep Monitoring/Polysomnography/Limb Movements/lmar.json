@@ -1,0 +1,11 @@
+{
+  "id": "lmar",
+  "display_name": "Total number of limb movements with arousal and respiratory event from type I polysomnography",
+  "description": "Total limb movements with arousal and  respiratory events",
+  "type": "numeric",
+  "units": "limb movements",
+  "labels": [
+    "ttlnumlm_stso_f1t1"
+  ],
+  "commonly_used": true
+}

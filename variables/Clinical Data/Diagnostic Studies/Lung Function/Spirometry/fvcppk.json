@@ -1,0 +1,7 @@
+{
+  "id": "fvcppk",
+  "display_name": "Percent of Knudson predictor: FVC (including race correlation)",
+  "description": "",
+  "type": "numeric",
+  "units": "percent"
+}

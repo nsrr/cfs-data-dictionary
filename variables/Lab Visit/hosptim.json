@@ -1,9 +1,0 @@
-{
-  "id": "hosptim",
-  "display_name": "Times hospitalized since last visit",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "baseline_lab_adult_child_questionnaire"
-  ]
-}

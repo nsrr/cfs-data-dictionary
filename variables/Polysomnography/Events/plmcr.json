@@ -1,7 +1,0 @@
-{
-  "id": "plmcr",
-  "display_name": "Number of PLM clusters with respiratory events",
-  "description": "Total PLM clusters with respiratory events",
-  "type": "numeric",
-  "units": "limb movements"
-}

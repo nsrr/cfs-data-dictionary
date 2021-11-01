@@ -1,0 +1,10 @@
+{
+  "id": "aavbroh",
+  "display_name": "Average heart rate with arousal in REM sleep in non-supine position with oxygen desaturation > 0% from type I polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute",
+  "labels": [
+    "avglvlhr_srsopo_dsgt0_f1t1"
+  ]
+}

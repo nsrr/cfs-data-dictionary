@@ -1,9 +1,0 @@
-{
-  "id": "sf36_pcs",
-  "display_name": "SF-36 STANDARDIZED PHYSICAL COMPONENT SCALE-00",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "sf36"
-  ]
-}

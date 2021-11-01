@@ -1,0 +1,9 @@
+{
+  "id": "yrssmoke",
+  "display_name": "Years smoked",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ]
+}

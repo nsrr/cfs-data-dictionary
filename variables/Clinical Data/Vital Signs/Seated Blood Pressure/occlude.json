@@ -1,0 +1,7 @@
+{
+  "id": "occlude",
+  "display_name": "Did the patient occlude?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

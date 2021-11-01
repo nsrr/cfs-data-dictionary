@@ -1,0 +1,7 @@
+{
+  "id": "ispa",
+  "display_name": "Lead I: Amplitude of the secondary S-wave",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters"
+}

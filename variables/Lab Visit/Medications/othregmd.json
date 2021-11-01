@@ -1,9 +1,0 @@
-{
-  "id": "othregmd",
-  "display_name": "Specify other medication in the last three days",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "baseline_lab_adult_child_questionnaire"
-  ]
-}

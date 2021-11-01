@@ -1,0 +1,6 @@
+{
+  "id": "smoker",
+  "display_name": "Smoker status",
+  "description": "",
+  "type": "text"
+}

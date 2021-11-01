@@ -1,0 +1,11 @@
+{
+  "id": "longap",
+  "display_name": "Maximum duration of apnea from type I polysomnography",
+  "description": "Longest apnea (entire recording)",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "maxdurap_sc_f1t1"
+  ],
+  "commonly_used": true
+}

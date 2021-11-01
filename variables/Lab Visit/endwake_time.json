@@ -1,9 +1,0 @@
-{
-  "id": "endwake_time",
-  "display_name": "Weekend wake time",
-  "description": "Self-reported normal wake time on weekends",
-  "type": "time",
-  "forms": [
-    
-  ]
-}

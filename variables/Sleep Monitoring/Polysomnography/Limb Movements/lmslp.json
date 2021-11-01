@@ -1,0 +1,10 @@
+{
+  "id": "lmslp",
+  "display_name": "Total number of limb movements in sleep from type I polysomnography",
+  "description": "Total limb movements in all sleep",
+  "type": "numeric",
+  "units": "limb movements",
+  "labels": [
+    "ttlnumlm_su_f1t1"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "id": "avlpa",
+  "display_name": "aVL Lead: Minimum amplitude of the P-wave",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters"
+}

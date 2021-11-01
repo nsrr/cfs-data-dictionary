@@ -1,9 +1,0 @@
-{
-  "id": "naisonc",
-  "display_name": "Head Measurement - naison to chin",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_physio"
-  ]
-}

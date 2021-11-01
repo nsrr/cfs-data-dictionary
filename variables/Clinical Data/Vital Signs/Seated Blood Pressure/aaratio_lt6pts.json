@@ -1,0 +1,7 @@
+{
+  "id": "aaratio_lt6pts",
+  "display_name": "Less than 6 measurements in calculations",
+  "description": "",
+  "type": "choices",
+  "domain": "flag"
+}

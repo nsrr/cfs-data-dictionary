@@ -1,0 +1,10 @@
+{
+  "id": "pctsa90hge5",
+  "display_name": "Percentage duration of sleep with oxygen saturation < 90% is greater than 5% from type I polysomnography",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "pctdursp_salt90_ge5_f1t1"
+  ]
+}

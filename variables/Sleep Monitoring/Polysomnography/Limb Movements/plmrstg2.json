@@ -1,0 +1,10 @@
+{
+  "id": "plmrstg2",
+  "display_name": "Total number of periodic limb movements in stage 2 sleep with respiratory event from type I polysomnography",
+  "description": "Total PLMs with respiratory events stage 2 sleep",
+  "type": "numeric",
+  "units": "limb movements",
+  "labels": [
+    "ttlnumpl_s2st_f1t1"
+  ]
+}

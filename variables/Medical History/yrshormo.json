@@ -1,0 +1,13 @@
+{
+  "id": "yrshormo",
+  "display_name": "How many months did you use prescription female hormones during the last 2 years",
+  "description": "",
+  "type": "choices",
+  "domain": "hormonedur",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "apnctr",
+  "display_name": "Sleep Study: subject had predominantly central apneas",
+  "description": "A subset of participants had home sleep test (Edentec) as well as in-lab polysomnography at visit 5.",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "cfs_lab_physiology_questionnaire"
+  ]
+}

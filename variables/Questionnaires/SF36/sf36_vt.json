@@ -1,9 +1,0 @@
-{
-  "id": "sf36_vt",
-  "display_name": "SF-36 VITALITY (0-100)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "sf36"
-  ]
-}

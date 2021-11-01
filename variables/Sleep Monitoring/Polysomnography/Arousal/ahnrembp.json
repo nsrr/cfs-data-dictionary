@@ -1,0 +1,10 @@
+{
+  "id": "ahnrembp",
+  "display_name": "Number of arousal per hour in NREM sleep in supine position with oxygen desaturation > 0% from type I polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "phrnumar_snpb_dsgt0_f1t1"
+  ]
+}

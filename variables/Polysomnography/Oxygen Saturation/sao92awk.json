@@ -1,7 +1,0 @@
-{
-  "id": "sao92awk",
-  "display_name": "Total time oxygen saturation > 92 in awake",
-  "description": "Total time oxygen saturation above 92% during wake, in minutes",
-  "type": "numeric",
-  "units": "minutes"
-}

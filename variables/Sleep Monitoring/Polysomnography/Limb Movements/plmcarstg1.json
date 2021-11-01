@@ -1,0 +1,10 @@
+{
+  "id": "plmcarstg1",
+  "display_name": "Total number of periodic limb movement clusters in stage 1 sleep with arousal and respiratory event from type I polysomnography",
+  "description": "Total PLM clusters with arousal and  respiratory events stage 1 sleep",
+  "type": "numeric",
+  "units": "limb movements",
+  "labels": [
+    "ttlnumpc_s1sost_f1t1"
+  ]
+}

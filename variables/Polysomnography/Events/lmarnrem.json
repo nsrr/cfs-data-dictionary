@@ -1,7 +1,0 @@
-{
-  "id": "lmarnrem",
-  "display_name": "Number of limb movements with arousal and respiratory event (NREM)",
-  "description": "Total limb movements with arousal and  respiratory events in NREM sleep",
-  "type": "numeric",
-  "units": "limb movements"
-}

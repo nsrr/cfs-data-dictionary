@@ -1,0 +1,13 @@
+{
+  "id": "alcohday",
+  "display_name": "In a typical week during the past year, on how many days did you consume an alcoholic beverage of any type",
+  "description": "",
+  "type": "numeric",
+  "units": "days per week",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

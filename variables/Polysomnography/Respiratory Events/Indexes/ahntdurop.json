@@ -1,7 +1,0 @@
-{
-  "id": "ahntdurop",
-  "display_name": "Total apnea and hypopnea length (NREM, Other)",
-  "description": "Total duration of apnea and hypopnea in NREM sleep with non-supine body position",
-  "type": "numeric",
-  "units": "minutes"
-}

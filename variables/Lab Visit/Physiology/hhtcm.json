@@ -1,9 +1,0 @@
-{
-  "id": "hhtcm",
-  "display_name": "Height (cm)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_physio"
-  ]
-}

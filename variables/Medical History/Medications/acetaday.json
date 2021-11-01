@@ -1,0 +1,13 @@
+{
+  "id": "acetaday",
+  "display_name": "How many days per week do you take acetaminophen",
+  "description": "",
+  "type": "choices",
+  "domain": "daysperweek",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

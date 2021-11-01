@@ -1,0 +1,12 @@
+{
+  "id": "nsupinep",
+  "display_name": "Percentage duration of sleep in non-supine position from type I polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "calculation": "100 * ( remepop + nremepop ) / slpprdp",
+  "labels": [
+    "pctdursp_po_f1t1"
+  ],
+  "commonly_used": true
+}

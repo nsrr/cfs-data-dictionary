@@ -1,0 +1,14 @@
+{
+  "id": "diachol",
+  "display_name": "Physician-diagnosed Elevated Cholesterol",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesdk_2",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "commonly_used": true,
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

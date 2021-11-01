@@ -1,0 +1,7 @@
+{
+  "id": "isd",
+  "display_name": "Lead I: Duration of the S-wave",
+  "description": "",
+  "type": "numeric",
+  "units": "milliseconds"
+}

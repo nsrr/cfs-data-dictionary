@@ -1,9 +1,0 @@
-{
-  "id": "endbed",
-  "display_name": "Bedtime on weekends",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "baseline_lab_adult_child_questionnaire"
-  ]
-}

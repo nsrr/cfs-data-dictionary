@@ -1,7 +1,0 @@
-{
-  "id":"cntdurop",
-  "display_name": "Total Central Apnea Length (NREM, Other)",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes"
-}

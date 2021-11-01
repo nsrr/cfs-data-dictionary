@@ -1,0 +1,15 @@
+{
+  "id": "timesnor",
+  "display_name": "During the entire time you have snored, has your snoring usually been",
+  "description": "",
+  "type": "choices",
+  "domain": "snorvol",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire",
+    "sdb",
+    "snore"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

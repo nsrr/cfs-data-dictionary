@@ -1,9 +1,0 @@
-{
-  "id": "yourvita",
-  "display_name": "Multivitamin: specify",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "baseline_lab_adult_child_questionnaire"
-  ]
-}

@@ -1,0 +1,13 @@
+{
+  "id": "avgsmok",
+  "display_name": "Average number of cigarettes smoke per day",
+  "description": "",
+  "type": "numeric",
+  "units": "cigarettes per day",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

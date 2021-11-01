@@ -1,0 +1,7 @@
+{
+  "id": "iqd",
+  "display_name": "Lead I: Duration of the Q-wave",
+  "description": "",
+  "type": "numeric",
+  "units": "milliseconds"
+}

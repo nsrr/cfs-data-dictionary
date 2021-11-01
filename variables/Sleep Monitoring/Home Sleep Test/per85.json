@@ -1,0 +1,9 @@
+{
+  "id": "per85",
+  "display_name": "Sleep Study: % time O2 saturation < 85%",
+  "description": "A subset of participants had home sleep test (Edentec) as well as in-lab polysomnography at visit 5.",
+  "type": "numeric",
+  "labels": [
+    "cfs_lab_physiology_questionnaire"
+  ]
+}

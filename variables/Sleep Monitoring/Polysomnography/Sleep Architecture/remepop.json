@@ -1,0 +1,10 @@
+{
+  "id": "remepop",
+  "display_name": "Total duration of sleep in REM sleep in non-supine position from type I polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "ttldursp_srpo_f1t1"
+  ]
+}

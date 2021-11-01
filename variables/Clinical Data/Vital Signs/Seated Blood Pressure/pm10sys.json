@@ -1,0 +1,7 @@
+{
+  "id": "pm10sys",
+  "display_name": "10 PM Systolic",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters of mercury"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "lastmens",
+  "display_name": "Sleep Diary: time of last menstrual cycle",
+  "description": "",
+  "type": "choices",
+  "domain": "menstr_07",
+  "labels": [
+    "cfs_lab_physiology_questionnaire"
+  ]
+}

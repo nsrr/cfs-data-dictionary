@@ -1,0 +1,10 @@
+{
+  "id": "plmcrdelta",
+  "display_name": "Total number of periodic limb movement clusters in stage 3/4 sleep with respiratory event from type I polysomnography",
+  "description": "Total PLM clusters with respiratory events in delta sleep",
+  "type": "numeric",
+  "units": "limb movements",
+  "labels": [
+    "ttlnumpc_s3st_f1t1"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "id": "waistc2",
+  "display_name": "waist circumference 2",
+  "description": "",
+  "type": "numeric",
+  "units": "centimeters"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "walkexer",
+  "display_name": "Past year time spent walking for exercise or walking to work?",
+  "description": "",
+  "type": "choices",
+  "domain": "exercise_time",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "q9q3a",
+  "display_name": "Child Health Questionnaire Parent Form 50 Questions: During the past 4 weeks, how often has your child's health or behavior limited the types of activities you could do as a family?",
+  "description": "Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",
+  "type": "choices",
+  "domain": "chq_freq2",
+  "labels": [
+    "chqpf50",
+    "chqpf50_44activitytype"
+  ]
+}

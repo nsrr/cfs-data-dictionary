@@ -1,9 +1,0 @@
-{
-  "id": "mhr",
-  "display_name": "SF-36 Raw Mental Health Index (rawmh)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "sf36"
-  ]
-}

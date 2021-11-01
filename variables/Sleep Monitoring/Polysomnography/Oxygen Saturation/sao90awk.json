@@ -1,0 +1,10 @@
+{
+  "id": "sao90awk",
+  "display_name": "Total duration of sleep during wake with oxygen saturation < 90% from type I polysomnography",
+  "description": "Total time oxygen saturation above 90% during wake, in minutes",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "ttldursp_sw_salt90_f1t1"
+  ]
+}

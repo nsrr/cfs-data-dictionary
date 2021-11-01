@@ -1,0 +1,13 @@
+{
+  "id": "livearra",
+  "display_name": "What are your living arrangements?",
+  "description": "",
+  "type": "choices",
+  "domain": "roommates",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

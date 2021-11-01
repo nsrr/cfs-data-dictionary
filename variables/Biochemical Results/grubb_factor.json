@@ -1,7 +1,0 @@
-{
-  "id": "grubb_factor",
-  "display_name": "Grubb factor",
-  "description": "Male = 1, Female = 0.823",
-  "type": "numeric",
-  "units": ""
-}

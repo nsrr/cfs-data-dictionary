@@ -1,9 +1,0 @@
-{
-  "id": "bizgotc",
-  "display_name": "Head Measurement - eye socket",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_physio"
-  ]
-}

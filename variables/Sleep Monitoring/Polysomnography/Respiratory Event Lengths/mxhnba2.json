@@ -1,0 +1,10 @@
+{
+  "id": "mxhnba2",
+  "display_name": "Maximum duration of hypopnea in NREM sleep in supine position: Hypopneas with > 30% flow reduction and with >= 2% oxygen desaturation or with arousal from type I polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "maxdurhp_snpb_hp3x2r_f1t1"
+  ]
+}

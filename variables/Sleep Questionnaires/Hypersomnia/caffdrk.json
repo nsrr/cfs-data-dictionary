@@ -1,0 +1,14 @@
+{
+  "id": "caffdrk",
+  "display_name": "Over the last month, have you experienced: used coffee, tea, or other caffeine drinks to stay awake during your normal waking time",
+  "description": "",
+  "type": "choices",
+  "domain": "freq",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire",
+    "subjective_sleepiness"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

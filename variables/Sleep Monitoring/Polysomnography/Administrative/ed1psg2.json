@@ -1,0 +1,10 @@
+{
+  "id": "ed1psg2",
+  "display_name": "Sleep Study: Edentec or PSG study",
+  "description": "",
+  "type": "choices",
+  "domain": "studytype",
+  "labels": [
+    "cfs_lab_physiology_questionnaire"
+  ]
+}

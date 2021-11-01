@@ -1,0 +1,13 @@
+{
+  "id": "hormones",
+  "display_name": "Have you ever used prescription female hormones?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

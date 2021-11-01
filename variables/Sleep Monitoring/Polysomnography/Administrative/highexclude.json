@@ -1,0 +1,7 @@
+{
+  "id": "highexclude",
+  "display_name": "Apnea-Propensity Index to be excluded for being above threshold - potential artifact",
+  "description": "The Apnea Propensity Index (API) is a novel measure of breathing variability based on the abdominal effort channel and optimized around the first sleep onset. ",
+  "type": "choices",
+  "domain": "noyes01"
+}

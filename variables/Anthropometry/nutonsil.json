@@ -1,0 +1,13 @@
+{
+  "id": "nutonsil",
+  "display_name": "Tonsillar size, Dr. Rosen scale",
+  "description": "",
+  "type": "choices",
+  "domain": "rosenscale",
+  "labels": [
+    "cfs_lab_physiology_questionnaire"
+  ],
+  "forms": [
+    "lab_physio"
+  ]
+}

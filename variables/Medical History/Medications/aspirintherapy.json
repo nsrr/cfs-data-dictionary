@@ -1,0 +1,10 @@
+{
+  "id": "aspirintherapy",
+  "display_name": "Aspirin use 4-7 days per week",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ]
+}

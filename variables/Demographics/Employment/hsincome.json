@@ -1,0 +1,13 @@
+{
+  "id": "hsincome",
+  "display_name": "What is your household income?",
+  "description": "",
+  "type": "choices",
+  "domain": "hsincome",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

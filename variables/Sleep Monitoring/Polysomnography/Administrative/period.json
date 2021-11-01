@@ -1,0 +1,10 @@
+{
+  "id": "period",
+  "display_name": "Sleep Study: subject had periodicity",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnon",
+  "labels": [
+    "cfs_lab_physiology_questionnaire"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "havgdur",
+  "display_name": "Average duration of hypopnea from type I polysomnography",
+  "description": "Average duration of hypopnea (entire recording)",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "avgdurhp_sc_f1t1"
+  ],
+  "commonly_used": true
+}

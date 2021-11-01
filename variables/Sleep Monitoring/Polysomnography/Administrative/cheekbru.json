@@ -1,0 +1,13 @@
+{
+  "id": "cheekbru",
+  "display_name": "Cheek brushing performed",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesdk_2",
+  "labels": [
+    "cfs_lab_physiology_questionnaire"
+  ],
+  "forms": [
+    "lab_physio"
+  ]
+}

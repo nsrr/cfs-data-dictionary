@@ -1,0 +1,9 @@
+{
+  "id": "stloutp",
+  "display_name": "Beginning(start) point time for bed (in-bed) from type I polysomnography",
+  "description": "",
+  "type": "time",
+  "labels": [
+    "begtimbd_f1t1"
+  ]
+}

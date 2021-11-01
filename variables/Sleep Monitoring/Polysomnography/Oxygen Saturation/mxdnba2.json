@@ -1,0 +1,10 @@
+{
+  "id": "mxdnba2",
+  "display_name": "Maximum oxygen saturation with arousal in NREM sleep in supine position with oxygen desaturation >= 2% from type I polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "maxlvlsa_snsopb_dsge2_f1t1"
+  ]
+}

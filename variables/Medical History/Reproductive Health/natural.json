@@ -1,0 +1,10 @@
+{
+  "id": "natural",
+  "display_name": " natural periods stop",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ]
+}

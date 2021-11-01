@@ -1,0 +1,14 @@
+{
+  "id": "concent",
+  "display_name": "Over the last month, have you experienced: sleepiness that interferes with your concentration",
+  "description": "",
+  "type": "choices",
+  "domain": "freq",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire",
+    "subjective_sleepiness"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

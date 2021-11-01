@@ -1,0 +1,7 @@
+{
+  "id": "tricep2",
+  "display_name": "tricep skinfold 2",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters"
+}

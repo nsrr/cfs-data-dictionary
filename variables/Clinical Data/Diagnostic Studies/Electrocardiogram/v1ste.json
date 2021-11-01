@@ -1,0 +1,7 @@
+{
+  "id": "v1ste",
+  "display_name": "V1: Amplitude of the S-T wave at the endpoint",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters"
+}

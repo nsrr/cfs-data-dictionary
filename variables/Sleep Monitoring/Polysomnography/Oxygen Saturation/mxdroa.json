@@ -1,0 +1,10 @@
+{
+  "id": "mxdroa",
+  "display_name": "Maximum oxygen saturation with arousal in REM sleep in non-supine position with oxygen desaturation > 0% from type I polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "maxlvlsa_srsopo_dsgt0_f1t1"
+  ]
+}

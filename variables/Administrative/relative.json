@@ -1,0 +1,7 @@
+{
+  "id": "relative",
+  "display_name": "Relationship to index",
+  "description": "",
+  "type": "choices",
+  "domain": "relative"
+}

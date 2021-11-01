@@ -1,7 +1,0 @@
-{
-  "id": "avgsaominnr",
-  "display_name": "Average oxygen saturation minimum (NREM)",
-  "description": "Average oxygen saturation minimum in non-REM sleep",
-  "type": "numeric",
-  "units": "percentage of oxygen saturation"
-}

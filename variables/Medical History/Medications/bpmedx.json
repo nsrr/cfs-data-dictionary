@@ -1,0 +1,10 @@
+{
+  "id": "bpmedx",
+  "display_name": "Self-report of blood pressure medication usage, or on a specified medication",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ]
+}

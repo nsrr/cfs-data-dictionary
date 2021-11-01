@@ -1,0 +1,13 @@
+{
+  "id": "gulcage",
+  "display_name": "Age Diagnose Duodenal Ulcer",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "id": "qrsduran",
+  "display_name": "QRS Duration",
+  "description": "",
+  "type": "numeric",
+  "units": "milliseconds"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "v4sd",
+  "display_name": "V4: Duration of the S-wave",
+  "description": "",
+  "type": "numeric",
+  "units": "milliseconds"
+}

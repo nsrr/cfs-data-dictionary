@@ -1,0 +1,10 @@
+{
+  "id": "lowsaoslp",
+  "display_name": "Minimum oxygen saturation from type I polysomnography",
+  "description": "Lowest oxygen saturation during sleep",
+  "type": "numeric",
+  "units": "percentage of oxygen saturation",
+  "labels": [
+    "minlvlsa_su_f1t1"
+  ]
+}

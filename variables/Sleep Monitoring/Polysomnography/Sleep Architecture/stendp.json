@@ -1,0 +1,9 @@
+{
+  "id": "stendp",
+  "display_name": "End point time for recording from type I polysomnography",
+  "description": "",
+  "type": "time",
+  "labels": [
+    "endtimrd_f1t1"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "id": "sf36_rawsf",
-  "display_name": "SF-36 RAW SOCIAL FUNCTIONING",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "sf36"
-  ]
-}

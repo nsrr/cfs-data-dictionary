@@ -1,0 +1,13 @@
+{
+  "id": "xenical",
+  "display_name": "Xenical in the last three days",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

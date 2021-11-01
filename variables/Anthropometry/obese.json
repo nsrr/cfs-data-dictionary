@@ -1,0 +1,10 @@
+{
+  "id": "obese",
+  "display_name": "Obese (BMI greater than 30)?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ]
+}

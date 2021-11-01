@@ -1,0 +1,14 @@
+{
+  "id": "dysfn",
+  "display_name": "During which time of day do you function worst?",
+  "description": "",
+  "type": "choices",
+  "domain": "fxn_bad",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire",
+    "chronotype"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

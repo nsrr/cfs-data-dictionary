@@ -1,9 +1,0 @@
-{
-  "id": "sf36_bp",
-  "display_name": "SF-36 PAIN INDEX (0-100)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "sf36"
-  ]
-}

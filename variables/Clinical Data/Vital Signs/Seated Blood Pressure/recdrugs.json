@@ -1,0 +1,10 @@
+{
+  "id": "recdrugs",
+  "display_name": "Use recreational drugs",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesdk_2",
+  "labels": [
+    "cfs_nurse_notes"
+  ]
+}

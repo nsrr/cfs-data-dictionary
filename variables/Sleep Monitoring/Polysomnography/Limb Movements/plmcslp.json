@@ -1,0 +1,10 @@
+{
+  "id": "plmcslp",
+  "display_name": "Total number of periodic limb movement clusters in sleep from type I polysomnography",
+  "description": "Total PLM clusters in all sleep",
+  "type": "numeric",
+  "units": "limb movements",
+  "labels": [
+    "ttlnumpc_su_f1t1"
+  ]
+}

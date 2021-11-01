@@ -1,0 +1,13 @@
+{
+  "id": "workslno",
+  "display_name": "Frequency of falling asleep on the job",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire",
+    "subjective_sleepiness"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

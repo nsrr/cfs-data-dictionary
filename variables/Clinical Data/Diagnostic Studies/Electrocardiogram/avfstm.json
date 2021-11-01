@@ -1,0 +1,7 @@
+{
+  "id": "avfstm",
+  "display_name": "aVF Lead: Amplitude of the S-T wave at the midpoint",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "monsmoke",
+  "display_name": "Smoked at least 1 cigarette per day in last month",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

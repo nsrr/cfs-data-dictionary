@@ -1,11 +1,8 @@
 {
   "id": "race",
-  "display_name": "Race",
+  "display_name": "Participant's race",
   "description": "'Asian', 'Hispanic', 'Other', and 'More than one race' were condensed into 'Other' to match other NSRR datasets",
   "type": "choices",
   "domain": "race123",
-  "forms": [
-    
-  ],
   "commonly_used": true
 }

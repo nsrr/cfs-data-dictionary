@@ -1,0 +1,13 @@
+{
+  "id": "discramp",
+  "display_name": "During the last month, have you had, or have been told you do the following while asleep or trying to sleep: leg cramps",
+  "description": "",
+  "type": "choices",
+  "domain": "freq",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

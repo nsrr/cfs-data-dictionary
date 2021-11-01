@@ -1,0 +1,10 @@
+{
+  "id": "lma",
+  "display_name": "Total number of limb movements with arousal from type I polysomnography",
+  "description": "Total limb movements with arousal",
+  "type": "numeric",
+  "units": "limb movements",
+  "labels": [
+    "ttlnumlm_suso_f1t1"
+  ]
+}

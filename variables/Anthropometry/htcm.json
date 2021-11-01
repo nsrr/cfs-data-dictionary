@@ -1,0 +1,8 @@
+{
+  "id": "htcm",
+  "display_name": "Participant's height",
+  "description": "",
+  "type": "numeric",
+  "units": "centimeters",
+  "commonly_used": true
+}

@@ -1,0 +1,10 @@
+{
+  "id": "saoslp",
+  "display_name": "Average oxygen saturation in sleep from type I polysomnography",
+  "description": "Mean oxygen saturation during sleep",
+  "type": "numeric",
+  "units": "percentage of oxygen saturation",
+  "labels": [
+    "avglvlsa_su_f1t1"
+  ]
+}

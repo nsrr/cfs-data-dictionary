@@ -1,0 +1,14 @@
+{
+  "id": "paralyze",
+  "display_name": "Over the last month, have you experienced: Awake feeling paralyzed, unable to move for short periods",
+  "description": "",
+  "type": "choices",
+  "domain": "freq",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire",
+    "sleep_paralysis"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

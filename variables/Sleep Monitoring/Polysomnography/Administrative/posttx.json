@@ -1,0 +1,13 @@
+{
+  "id": "posttx",
+  "display_name": "Subject studied post-treatment",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "cfs_lab_physiology_questionnaire"
+  ],
+  "forms": [
+    "lab_physio"
+  ]
+}

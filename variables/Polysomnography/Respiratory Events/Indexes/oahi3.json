@@ -1,8 +1,0 @@
-{
-  "id": "oahi3",
-  "display_name": "Obstructive apnea (all desaturations) hypopnea (3% desaturation) index",
-  "description": "Obstructive apnea hypopnea index  {[(total number of obstructive apneas) + (total number of hypopneas associated with >= 3% desaturation)] / (hours of sleep)}",
-  "type": "numeric",
-  "units": "events per hour",
-  "calculations": "60*(hrembp3 +hrop3 + hnrbp3 + hnrop3 + oarbp +oarop + oanbp +oanop ) / slpprdp"
-}

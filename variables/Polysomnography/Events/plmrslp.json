@@ -1,7 +1,0 @@
-{
-  "id": "plmrslp",
-  "display_name": "Number of PLMs with respiratory events (sleep)",
-  "description": "Total PLMs with respiratory events in all sleep",
-  "type": "numeric",
-  "units": "limb movements"
-}

@@ -1,0 +1,13 @@
+{
+  "id": "pastmon",
+  "display_name": "Wheeze during past month",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesdk_2",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

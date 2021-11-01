@@ -1,0 +1,10 @@
+{
+  "id": "cntdurbp",
+  "display_name": "Total duration of central apnea in NREM sleep in supine position from type I polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "ttldurca_snpb_f1t1"
+  ]
+}

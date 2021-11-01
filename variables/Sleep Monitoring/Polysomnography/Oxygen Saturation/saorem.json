@@ -1,0 +1,10 @@
+{
+  "id": "saorem",
+  "display_name": "Average oxygen saturation in REM sleep from type I polysomnography",
+  "description": "Mean oxygen saturation during REM sleep",
+  "type": "numeric",
+  "units": "percentage of oxygen saturation",
+  "labels": [
+    "avglvlsa_sr_f1t1"
+  ]
+}

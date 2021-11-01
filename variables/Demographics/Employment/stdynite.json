@@ -1,0 +1,14 @@
+{
+  "id": "stdynite",
+  "display_name": "Do you do steady night shift work?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire",
+    "night_shift"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

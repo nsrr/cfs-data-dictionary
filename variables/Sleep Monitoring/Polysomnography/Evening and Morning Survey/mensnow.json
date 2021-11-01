@@ -1,0 +1,10 @@
+{
+  "id": "mensnow",
+  "display_name": "Menstruating at time of lab visit",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "cfs_nurse_notes"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "monsnor",
+  "display_name": "Over the last one month, snoring has usually been",
+  "description": "",
+  "type": "choices",
+  "domain": "snorvol",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire",
+    "sdb",
+    "snore"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

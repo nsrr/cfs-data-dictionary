@@ -1,0 +1,7 @@
+{
+  "id": "hypflow",
+  "display_name": "Hyperemia flow volume",
+  "description": "",
+  "type": "numeric",
+  "units": "milliliters"
+}

@@ -1,9 +1,0 @@
-{
-  "id": "rfer",
-  "display_name": "SF-36 Raw Role-Emotional (rawre)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "sf36"
-  ]
-}

@@ -1,0 +1,7 @@
+{
+  "id": "labavgsys",
+  "display_name": "Mean lab Systolic Blood Pressure",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters of mercury"
+}

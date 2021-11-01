@@ -1,0 +1,10 @@
+{
+  "id": "edema",
+  "display_name": "Has edema",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "cfs_nurse_notes"
+  ]
+}

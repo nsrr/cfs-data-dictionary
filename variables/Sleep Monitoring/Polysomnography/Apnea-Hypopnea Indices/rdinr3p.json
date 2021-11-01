@@ -1,0 +1,12 @@
+{
+  "id": "rdinr3p",
+  "display_name": "Apnea-Hypopnea Index (NREM): (Apneas with no oxygen desaturation threshold used and with or without arousal and hypopneas with > 30% flow reduction and with >= 3% oxygen desaturation and with or without arousal)/ hours of NREM sleep from type I polysomnography",
+  "description": "Calculated - Summary metric of sleep disordered breathing events during NREM sleep",
+  "type": "numeric",
+  "units": "events per hour",
+  "calculation": "60 * ( hnrbp3 + hnrop3 + canbp3 + canop3 + oanbp3 + oanop3 ) / ( slpprdp - minremp )",
+  "labels": [
+    "ahi_sn_ap0uhp3x3u_f1t1"
+  ],
+  "commonly_used": true
+}

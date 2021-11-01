@@ -1,0 +1,13 @@
+{
+  "id": "chestwhe",
+  "display_name": "How often do you wheeze or whistle from your chest?",
+  "description": "",
+  "type": "choices",
+  "domain": "freq",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

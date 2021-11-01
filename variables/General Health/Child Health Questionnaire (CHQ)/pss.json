@@ -1,0 +1,10 @@
+{
+  "id": "pss",
+  "display_name": "Child Health Questionnaire Parent Form 50 Questions: Psychosocial Summary Health Score",
+  "description": "The summary score is based on 10 subscores from the Child Health Questionnaire Parent Form 50 Questions. [Asmussen L et al., 2000 (PubMed ID: 11029320)](https://www.ncbi.nlm.nih.gov/pubmed/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",
+  "type": "numeric",
+  "labels": [
+    "chqpf50"
+  ],
+  "commonly_used": true
+}

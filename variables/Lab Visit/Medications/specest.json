@@ -1,9 +1,0 @@
-{
-  "id": "specest",
-  "display_name": "Ever use Specify hormone",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "baseline_lab_adult_child_questionnaire"
-  ]
-}

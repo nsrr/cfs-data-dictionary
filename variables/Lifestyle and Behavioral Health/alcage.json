@@ -1,0 +1,13 @@
+{
+  "id": "alcage",
+  "display_name": "Age when alcoholism noted",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

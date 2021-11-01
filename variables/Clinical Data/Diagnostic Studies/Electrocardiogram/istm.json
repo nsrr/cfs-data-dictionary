@@ -1,0 +1,7 @@
+{
+  "id": "istm",
+  "display_name": "Lead I: Amplitude of the S-T wave at the midpoint",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters"
+}

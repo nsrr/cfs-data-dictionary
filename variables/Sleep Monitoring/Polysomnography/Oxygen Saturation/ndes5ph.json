@@ -1,0 +1,10 @@
+{
+  "id": "ndes5ph",
+  "display_name": "Total number of oxygen desaturation with oxygen desaturation >= 5% from type I polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "oxygen desaturation events",
+  "labels": [
+    "ttlnumds_dsge5_f1t1"
+  ]
+}

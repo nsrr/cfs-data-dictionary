@@ -1,0 +1,10 @@
+{
+  "id": "hroa",
+  "display_name": "Total number of hypopnea in REM sleep in non-supine position : hypopneas with > 30% flow reduction and with no oxygen desaturation threshold used and with arousal only from type I polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "hypopnea events",
+  "labels": [
+    "ttlnumhp_srpo_hp3x0o_f1t1"
+  ]
+}

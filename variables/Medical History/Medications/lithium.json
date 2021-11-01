@@ -1,0 +1,10 @@
+{
+  "id": "lithium",
+  "display_name": "Lithium usage",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ]
+}

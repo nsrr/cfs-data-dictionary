@@ -1,0 +1,10 @@
+{
+  "id": "plmctot",
+  "display_name": "Total number of periodic limb movement clusters from type I polysomnography",
+  "description": "Total PLM clusters",
+  "type": "numeric",
+  "units": "limb movements",
+  "labels": [
+    "ttlnumpc_f1t1"
+  ]
+}

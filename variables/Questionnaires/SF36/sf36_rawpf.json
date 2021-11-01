@@ -1,9 +1,0 @@
-{
-  "id": "sf36_rawpf",
-  "display_name": "SF-36 RAW PHYSICAL FUNCTIONING",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "sf36"
-  ]
-}

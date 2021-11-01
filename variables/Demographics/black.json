@@ -1,11 +1,7 @@
 {
   "id": "black",
-  "display_name": "Race - Black",
-  "domain": "noyes01",
+  "display_name": "Participant's race - Black",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
-  "forms": [
-    
-  ]
+  "domain": "noyes01"
 }

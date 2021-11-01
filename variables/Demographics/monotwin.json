@@ -1,10 +1,7 @@
 {
   "id": "monotwin",
-  "display_name": "Has Identical twin",
+  "display_name": "Participant has Identical twin",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
-  "forms": [
-    
-  ]
+  "domain": "noyes01"
 }

@@ -1,7 +1,0 @@
-{
-  "id": "saonrem",
-  "display_name": "Average oxygen saturation (NREM)",
-  "description": "Mean oxygen saturation during nonREM sleep",
-  "type": "numeric",
-  "units": "percentage of oxygen saturation"
-}

@@ -1,0 +1,15 @@
+{
+  "id": "loudsnor",
+  "display_name": "During the last month, have you had, or have been told you do the following while asleep or trying to sleep: snore",
+  "description": "",
+  "type": "choices",
+  "domain": "freq",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire",
+    "sdb",
+    "snore"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

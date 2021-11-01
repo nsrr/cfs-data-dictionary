@@ -1,0 +1,7 @@
+{
+  "id": "iipa",
+  "display_name": "Lead II: Minimum amplitude of the P-wave",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters"
+}

@@ -1,9 +1,0 @@
-{
-  "id": "upreas",
-  "display_name": "Reason for waking up at night",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "baseline_lab_adult_child_questionnaire"
-  ]
-}

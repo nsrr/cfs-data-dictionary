@@ -1,0 +1,8 @@
+{
+  "id": "wtkg",
+  "display_name": "Participant's weight",
+  "description": "",
+  "type": "numeric",
+  "units": "kilograms",
+  "commonly_used": true
+}

@@ -1,0 +1,10 @@
+{
+  "id": "ovaries",
+  "display_name": "If surgery, were ovaries removed?",
+  "description": "",
+  "type": "choices",
+  "domain": "ovaries",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "melonoma",
+  "display_name": "Any biological relatives had Melanoma",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesdk_2",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ]
+}

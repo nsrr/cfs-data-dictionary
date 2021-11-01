@@ -1,0 +1,7 @@
+{
+  "id": "v1qd",
+  "display_name": "V1: Duration of the Q-wave",
+  "description": "",
+  "type": "numeric",
+  "units": "milliseconds"
+}

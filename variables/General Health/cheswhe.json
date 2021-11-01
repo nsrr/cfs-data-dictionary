@@ -1,0 +1,13 @@
+{
+  "id": "cheswhe",
+  "display_name": "During the past year, has your chest ever made whistling noises or sounded wheezy",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesdk_2",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

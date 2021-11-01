@@ -1,0 +1,10 @@
+{
+  "id": "mxdrba5",
+  "display_name": "Maximum oxygen saturation with arousal in REM sleep in supine position with oxygen desaturation >= 5% from type I polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "maxlvlsa_srsopb_dsge5_f1t1"
+  ]
+}

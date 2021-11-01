@@ -1,0 +1,7 @@
+{
+  "id": "smokerx",
+  "display_name": "Smoking status",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesdontknow"
+}

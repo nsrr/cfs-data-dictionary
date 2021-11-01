@@ -1,0 +1,13 @@
+{
+  "id": "birthwgt",
+  "display_name": "How much did you weigh at birth?",
+  "description": "",
+  "type": "choices",
+  "domain": "babyweight",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

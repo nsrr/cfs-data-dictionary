@@ -1,0 +1,9 @@
+{
+  "id": "hours",
+  "display_name": "Sleep Study: hours of sleep",
+  "description": "A subset of participants had home sleep test (Edentec) as well as in-lab polysomnography at visit 5.",
+  "type": "numeric",
+  "labels": [
+    "cfs_lab_physiology_questionnaire"
+  ]
+}

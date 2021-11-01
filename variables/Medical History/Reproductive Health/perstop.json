@@ -1,0 +1,13 @@
+{
+  "id": "perstop",
+  "display_name": "Have your periods stopped permanently?",
+  "description": "Yes includes participants who have post-menopausal periods induced by hormones",
+  "type": "choices",
+  "domain": "noyesdk_2",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

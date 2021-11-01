@@ -1,0 +1,7 @@
+{
+  "id": "bcmperwt",
+  "display_name": "Cell mass as a percentage of total body weight",
+  "description": "",
+  "type": "numeric",
+  "units": "percent"
+}

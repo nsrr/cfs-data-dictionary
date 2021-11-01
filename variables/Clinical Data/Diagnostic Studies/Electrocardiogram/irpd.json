@@ -1,0 +1,7 @@
+{
+  "id": "irpd",
+  "display_name": "Lead I: Duration of the secondary R-wave",
+  "description": "",
+  "type": "numeric",
+  "units": "milliseconds"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "kidnage",
+  "display_name": "Age Diagnosed Kidney Stones",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

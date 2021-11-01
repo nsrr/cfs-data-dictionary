@@ -1,7 +1,0 @@
-{
-  "id": "plmcarstg2",
-  "display_name": "Number of PLM clusters with arousal and respiratory event (stage 2 sleep)",
-  "description": "Total PLM clusters with arousal and  respiratory events stage 2 sleep",
-  "type": "numeric",
-  "units": "limb movements"
-}

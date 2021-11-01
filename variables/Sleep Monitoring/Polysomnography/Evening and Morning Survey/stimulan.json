@@ -1,0 +1,10 @@
+{
+  "id": "stimulan",
+  "display_name": "Sleep Diary: took stimulants on day of study",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "cfs_lab_physiology_questionnaire"
+  ]
+}

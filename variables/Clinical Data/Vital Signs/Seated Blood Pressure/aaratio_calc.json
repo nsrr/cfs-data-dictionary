@@ -1,0 +1,7 @@
+{
+  "id": "aaratio_calc",
+  "display_name": "Ratio of arm to ankle pressure",
+  "description": "",
+  "type": "numeric",
+  "calculation": "( armmean / ankmean )"
+}

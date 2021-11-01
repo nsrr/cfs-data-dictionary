@@ -1,0 +1,10 @@
+{
+  "id": "am7dia3",
+  "display_name": "7 AM - Diastolic 3",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters of mercury",
+  "labels": [
+    "cfs_nurse_notes"
+  ]
+}

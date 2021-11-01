@@ -1,0 +1,13 @@
+{
+  "id": "swimexer",
+  "display_name": "Past year time spent lap swimming?",
+  "description": "",
+  "type": "choices",
+  "domain": "exercise_time",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

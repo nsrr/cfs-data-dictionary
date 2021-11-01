@@ -1,0 +1,7 @@
+{
+  "id": "v2qa",
+  "display_name": "V2: Absolute amplitude of the Q-wave",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters"
+}

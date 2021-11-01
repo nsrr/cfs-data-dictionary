@@ -1,0 +1,12 @@
+{
+  "id": "bizgotc",
+  "display_name": "Head Measurement - eye socket",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "cfs_lab_physiology_questionnaire"
+  ],
+  "forms": [
+    "lab_physio"
+  ]
+}

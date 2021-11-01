@@ -1,0 +1,15 @@
+{
+  "id": "workacc",
+  "display_name": "Have you ever been involved in an accident at work that has required you to see a nurse or doctor?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesdk_2",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire",
+    "subjective_sleepiness",
+    "sleep_related_impairment"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

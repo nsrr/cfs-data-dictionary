@@ -1,0 +1,6 @@
+{
+  "id": "visitdat",
+  "display_name": "Date of visit",
+  "description": "",
+  "type": "date"
+}

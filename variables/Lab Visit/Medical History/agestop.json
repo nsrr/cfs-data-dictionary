@@ -1,9 +1,0 @@
-{
-  "id": "agestop",
-  "display_name": "At what age did your natural periods cease?",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "baseline_lab_adult_child_questionnaire"
-  ]
-}

@@ -1,0 +1,7 @@
+{
+  "id": "hypfmvd",
+  "display_name": "FMV Arterial Diameter Result",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters"
+}

@@ -1,9 +1,0 @@
-{
-  "id": "phr",
-  "display_name": "SF-36 Raw Physical Functioning (rawpf)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "sf36"
-  ]
-}

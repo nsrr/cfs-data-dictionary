@@ -1,7 +1,0 @@
-{
-  "id": "dsrem4",
-  "display_name": "Number of desaturations per hour (REM, >= 4%)",
-  "description": "Number of desaturations >= 4% per hour in REM sleep",
-  "type": "numeric",
-  "units": "events per hour"
-}

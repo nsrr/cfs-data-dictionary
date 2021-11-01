@@ -1,0 +1,7 @@
+{
+  "id": "resistance",
+  "display_name": "Bioimpedance analysis resistance",
+  "description": "",
+  "type": "numeric",
+  "units": "ohms"
+}

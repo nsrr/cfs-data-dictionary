@@ -1,0 +1,7 @@
+{
+  "id": "bcmwt",
+  "display_name": "Weight of body cells",
+  "description": "",
+  "type": "numeric",
+  "units": "kilograms"
+}

@@ -1,7 +1,0 @@
-{
-  "id": "plmrstg1",
-  "display_name": "Number of PLMs with respiratory events (stage 1 sleep)",
-  "description": "Total PLMs with respiratory events stage 1 sleep",
-  "type": "numeric",
-  "units": "limb movements"
-}

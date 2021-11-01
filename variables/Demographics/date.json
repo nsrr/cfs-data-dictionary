@@ -1,9 +1,0 @@
-{
-  "id": "date",
-  "display_name": "Date entered in Epi-Info",
-  "description": "Date entered in Epi-Info",
-  "type": "date",
-  "forms": [
-    
-  ]
-}

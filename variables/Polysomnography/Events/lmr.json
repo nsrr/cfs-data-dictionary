@@ -1,7 +1,0 @@
-{
-  "id": "lmr",
-  "display_name": "Number of limb movements with respiratory events",
-  "description": "Total limb movements with respiratory events",
-  "type": "numeric",
-  "units": "limb movements"
-}

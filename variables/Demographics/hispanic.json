@@ -3,8 +3,5 @@
   "display_name": "Hispanic",
   "description": "",
   "type": "choices",
-  "domain": "hispanic",
-  "forms": [
-    
-  ]
+  "domain": "hispanic"
 }

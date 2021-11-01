@@ -1,9 +1,0 @@
-{
-  "id": "sf36_rawbp",
-  "display_name": "SF-36 RAW PAIN INDEX",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "sf36"
-  ]
-}

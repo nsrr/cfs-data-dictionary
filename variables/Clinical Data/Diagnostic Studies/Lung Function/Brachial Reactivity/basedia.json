@@ -1,0 +1,7 @@
+{
+  "id": "basedia",
+  "display_name": "Baseline 2D Image BP diastolic",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters of mercury"
+}

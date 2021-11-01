@@ -1,0 +1,11 @@
+{
+  "id": "q5q2",
+  "display_name": "Child Health Questionnaire Parent Form 50 Questions: Compared to other children your child's age, in general would you say his/her behavior is?",
+  "description": "Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",
+  "type": "choices",
+  "domain": "chq_excel",
+  "labels": [
+    "chqpf50",
+    "chqpf50_20behavior"
+  ]
+}

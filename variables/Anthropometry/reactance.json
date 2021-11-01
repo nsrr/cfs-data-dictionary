@@ -1,0 +1,7 @@
+{
+  "id": "reactance",
+  "display_name": "Bioimpedance analysis reactance",
+  "description": "",
+  "type": "numeric",
+  "units": "ohms"
+}

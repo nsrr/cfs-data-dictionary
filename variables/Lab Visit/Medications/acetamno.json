@@ -1,9 +1,0 @@
-{
-  "id": "acetamno",
-  "display_name": "Average tablets of acetaminophen",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "baseline_lab_adult_child_questionnaire"
-  ]
-}

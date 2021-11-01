@@ -1,0 +1,13 @@
+{
+  "id": "diffwgt",
+  "display_name": "During the past 5 years, what is the difference between your highest and lowest weight (excluding illness)",
+  "description": "",
+  "type": "numeric",
+  "units": "pounds",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

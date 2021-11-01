@@ -1,0 +1,13 @@
+{
+  "id": "kidndiag",
+  "display_name": "Kidney Stones",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesdk_2",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

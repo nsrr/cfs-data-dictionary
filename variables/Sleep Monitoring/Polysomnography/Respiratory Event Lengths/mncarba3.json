@@ -1,0 +1,10 @@
+{
+  "id": "mncarba3",
+  "display_name": "Minimum duration of central apnea in REM sleep in supine position : central apneas with >= 3% oxygen desaturation or with arousal from type I polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "mindurca_srpb_ca3r_f1t1"
+  ]
+}

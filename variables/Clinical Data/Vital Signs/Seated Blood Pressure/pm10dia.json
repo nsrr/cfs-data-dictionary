@@ -1,0 +1,7 @@
+{
+  "id": "pm10dia",
+  "display_name": "10 PM Diastolic",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters of mercury"
+}

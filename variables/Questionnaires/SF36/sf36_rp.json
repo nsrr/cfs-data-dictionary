@@ -1,9 +1,0 @@
-{
-  "id": "sf36_rp",
-  "display_name": "SF-36 ROLE-PHYSICAL (0-100)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "sf36"
-  ]
-}

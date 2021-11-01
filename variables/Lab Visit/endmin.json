@@ -1,9 +1,0 @@
-{
-  "id": "endmin",
-  "display_name": "How many minutes of sleep on a weekend day",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "baseline_lab_adult_child_questionnaire"
-  ]
-}

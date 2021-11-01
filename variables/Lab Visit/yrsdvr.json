@@ -1,9 +1,0 @@
-{
-  "id": "yrsdvr",
-  "display_name": "How many years have you been driving",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "baseline_lab_adult_child_questionnaire"
-  ]
-}

@@ -1,0 +1,13 @@
+{
+  "id": "nowpipe",
+  "display_name": "How many Pipes (bowls) per day now?",
+  "description": "",
+  "type": "numeric",
+  "units": "bowls",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

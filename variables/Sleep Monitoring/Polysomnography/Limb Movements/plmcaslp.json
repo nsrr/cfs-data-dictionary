@@ -1,0 +1,10 @@
+{
+  "id": "plmcaslp",
+  "display_name": "Total number of periodic limb movement clusters with arousal from type I polysomnography",
+  "description": "Total PLM clusters with arousal  in all sleep",
+  "type": "numeric",
+  "units": "limb movements",
+  "labels": [
+    "ttlnumpc_suso_f1t1"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "irrage",
+  "display_name": "Age Diagnosed Irregular Heart Beat",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "id": "babyasno",
-  "display_name": "On average how many baby aspirin",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "baseline_lab_adult_child_questionnaire"
-  ]
-}

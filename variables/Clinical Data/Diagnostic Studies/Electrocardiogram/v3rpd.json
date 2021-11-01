@@ -1,0 +1,7 @@
+{
+  "id": "v3rpd",
+  "display_name": "V3: Duration of the secondary R-wave",
+  "description": "",
+  "type": "numeric",
+  "units": "milliseconds"
+}

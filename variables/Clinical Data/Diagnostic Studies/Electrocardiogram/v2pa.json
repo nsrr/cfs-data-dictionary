@@ -1,0 +1,7 @@
+{
+  "id": "v2pa",
+  "display_name": "V2: Minimum amplitude of the P-wave",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters"
+}

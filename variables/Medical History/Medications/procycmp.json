@@ -1,0 +1,13 @@
+{
+  "id": "procycmp",
+  "display_name": "Ever use Provera/Cycrin/MPA",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "id": "sf36_ht",
-  "display_name": "SF-36 RAW HEALTH TRANSITION ITEM",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "sf36"
-  ]
-}

@@ -1,0 +1,10 @@
+{
+  "id": "am7drk",
+  "display_name": "7 AM - how long since last caffeinated drink",
+  "description": "",
+  "type": "numeric",
+  "units": "days",
+  "labels": [
+    "cfs_nurse_notes"
+  ]
+}

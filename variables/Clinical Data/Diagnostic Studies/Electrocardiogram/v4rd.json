@@ -1,0 +1,7 @@
+{
+  "id": "v4rd",
+  "display_name": "V4: Duration of the R-wave",
+  "description": "",
+  "type": "numeric",
+  "units": "milliseconds"
+}

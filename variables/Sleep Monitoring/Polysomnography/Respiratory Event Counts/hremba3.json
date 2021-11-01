@@ -1,0 +1,10 @@
+{
+  "id": "hremba3",
+  "display_name": "Total number of hypopnea in REM sleep in supine position : hypopneas with > 30% flow reduction and with >= 3% oxygen desaturation or with arousal from type I polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "hypopnea events",
+  "labels": [
+    "ttlnumhp_srpb_hp3x3r_f1t1"
+  ]
+}

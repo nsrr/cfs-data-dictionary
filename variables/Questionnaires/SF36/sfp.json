@@ -1,9 +1,0 @@
-{
-  "id": "sfp",
-  "display_name": "SF-36 Social Functioning (0-100) (sf)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "sf36"
-  ]
-}

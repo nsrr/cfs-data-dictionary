@@ -1,0 +1,10 @@
+{
+  "id": "hrtdurop",
+  "display_name": "Total duration of hypopnea in REM sleep in non-supine position from type I polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "ttldurhp_srpo_f1t1"
+  ]
+}

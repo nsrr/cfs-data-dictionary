@@ -1,0 +1,13 @@
+{
+  "id": "whenpsg",
+  "display_name": "When subject had previous sleep study",
+  "description": "",
+  "type": "numeric",
+  "units": "years from index date",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

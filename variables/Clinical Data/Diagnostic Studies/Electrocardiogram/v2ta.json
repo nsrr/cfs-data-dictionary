@@ -1,0 +1,7 @@
+{
+  "id": "v2ta",
+  "display_name": "V2: Minimum amplitude of the T-wave",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters"
+}

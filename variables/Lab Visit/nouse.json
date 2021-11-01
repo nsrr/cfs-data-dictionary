@@ -1,9 +1,0 @@
-{
-  "id": "nouse",
-  "display_name": "Reason why participant is not using prescribed CPAP",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "baseline_lab_adult_child_questionnaire"
-  ]
-}

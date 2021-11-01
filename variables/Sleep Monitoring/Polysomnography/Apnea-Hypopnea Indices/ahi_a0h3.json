@@ -1,0 +1,14 @@
+{
+  "id": "ahi_a0h3",
+  "display_name": "Apnea-Hypopnea Index : (Apneas with no oxygen desaturation threshold used and with or without arousal+ hypopneas with > 30% flow reduction and >= 3% oxygen desaturation and with or without arousal) / hour of sleep from type I polysomnography",
+  "description": "Calculated - Summary metric of sleep disordered breathing events.",
+  "type": "numeric",
+  "units": "events per hour",
+  "calculation": "60 * (hrembp3 + hrop3 + hnrbp3 + hnrop3 + carbp + carop + canbp + canop + oarbp + oarop + oanbp + oanop + urbp3 + urop3 + unrbp3 + unrop3) / slpprdp",
+  "labels": [
+    "ahi3",
+    "ahiu3",
+    "ahi_ap0uhp3x3u_f1t1"
+  ],
+  "commonly_used": true
+}

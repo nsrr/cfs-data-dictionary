@@ -1,0 +1,10 @@
+{
+  "id": "plmcastg1",
+  "display_name": "Total number of periodic limb movement clusters in stage 1 sleep with arousal from type I polysomnography",
+  "description": "Total PLM clusters with arousal  stage 1 sleep",
+  "type": "numeric",
+  "units": "limb movements",
+  "labels": [
+    "ttlnumpc_s1so_f1t1"
+  ]
+}

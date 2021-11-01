@@ -1,0 +1,13 @@
+{
+  "id": "extissue",
+  "display_name": "Excessive tissue observed by tester",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "cfs_lab_physiology_questionnaire"
+  ],
+  "forms": [
+    "lab_physio"
+  ]
+}

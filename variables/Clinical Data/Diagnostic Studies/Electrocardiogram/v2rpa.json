@@ -1,0 +1,7 @@
+{
+  "id": "v2rpa",
+  "display_name": "V2: Amplitude of the secondary R-wave",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters"
+}

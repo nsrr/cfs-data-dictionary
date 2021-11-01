@@ -1,0 +1,9 @@
+{
+  "id": "alcohol",
+  "display_name": "Sleep Diary: amount of alcohol on day of study",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "cfs_lab_physiology_questionnaire"
+  ]
+}

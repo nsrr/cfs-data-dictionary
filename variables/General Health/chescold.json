@@ -1,0 +1,13 @@
+{
+  "id": "chescold",
+  "display_name": "If you had any colds this year did they go to your chest?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesdk_2",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

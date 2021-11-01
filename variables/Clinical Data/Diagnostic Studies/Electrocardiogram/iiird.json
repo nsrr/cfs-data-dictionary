@@ -1,0 +1,7 @@
+{
+  "id": "iiird",
+  "display_name": "Lead III: Duration of the R-wave",
+  "description": "",
+  "type": "numeric",
+  "units": "milliseconds"
+}

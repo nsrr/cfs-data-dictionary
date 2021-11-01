@@ -1,0 +1,10 @@
+{
+  "id": "plmcar",
+  "display_name": "Total number of periodic limb movement clusters with arousal and respiratory event from type I polysomnography",
+  "description": "Total PLM clusters with arousal and  respiratory events",
+  "type": "numeric",
+  "units": "limb movements",
+  "labels": [
+    "ttlnumpc_sost_f1t1"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "id": "ecmwt",
+  "display_name": "Weight of extracellular mass",
+  "description": "",
+  "type": "numeric",
+  "units": "kilograms"
+}

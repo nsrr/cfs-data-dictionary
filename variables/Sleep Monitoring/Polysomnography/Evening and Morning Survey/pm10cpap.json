@@ -1,0 +1,10 @@
+{
+  "id": "pm10cpap",
+  "display_name": "10 PM - how long since last use of CPAP",
+  "description": "",
+  "type": "numeric",
+  "units": "days",
+  "labels": [
+    "cfs_nurse_notes"
+  ]
+}

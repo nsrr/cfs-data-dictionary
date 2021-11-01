@@ -1,0 +1,7 @@
+{
+  "id": "avfra",
+  "display_name": "aVF Lead: Absolute amplitude of the R-wave",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters"
+}

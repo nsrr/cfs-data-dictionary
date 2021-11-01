@@ -1,11 +1,7 @@
 {
   "id": "white",
-  "display_name": "Race - Caucasian",
-  "domain": "noyes01",
+  "display_name": "Participant's race - Caucasian",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
-  "forms": [
-    
-  ]
+  "domain": "noyes01"
 }

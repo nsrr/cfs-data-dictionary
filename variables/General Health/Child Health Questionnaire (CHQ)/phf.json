@@ -1,0 +1,11 @@
+{
+  "id": "phf",
+  "display_name": "Child Health Questionnaire Parent Form 50 Questions: Physical functioning subscore (0-100)",
+  "description": "The subscale score is based on 6 items from the Child Health Questionnaire Parent Form 50 Questions. A high score suggests better physical functioning. [Asmussen L et al., 2000 (PubMed ID: 11029320)](https://www.ncbi.nlm.nih.gov/pubmed/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",
+  "type": "numeric",
+  "labels": [
+    "chqpf50",
+    "chqpf50_pfscore"
+  ],
+  "commonly_used": true
+}

@@ -1,9 +1,0 @@
-{
-  "id": "efr",
-  "display_name": "SF-36 Raw Vitality (rawvt)",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "sf36"
-  ]
-}

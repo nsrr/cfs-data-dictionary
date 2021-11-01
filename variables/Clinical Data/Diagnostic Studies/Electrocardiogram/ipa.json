@@ -1,0 +1,7 @@
+{
+  "id": "ipa",
+  "display_name": "Lead I: Minimum amplitude of the P-wave",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters"
+}

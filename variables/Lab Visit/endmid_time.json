@@ -1,9 +1,0 @@
-{
-  "id": "endmid_time",
-  "display_name": "Calculated mid-point of sleep period during weekends",
-  "description": "",
-  "type": "time",
-  "forms": [
-    
-  ]
-}

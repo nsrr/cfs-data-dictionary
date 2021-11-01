@@ -1,0 +1,10 @@
+{
+  "id": "pmp",
+  "display_name": "Post-menopausal",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesdontknowna",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "am930cig",
+  "display_name": "9:30 AM - how long since last cigarette",
+  "description": "",
+  "type": "numeric",
+  "units": "days",
+  "labels": [
+    "cfs_nurse_notes"
+  ]
+}

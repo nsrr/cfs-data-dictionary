@@ -1,0 +1,10 @@
+{
+  "id": "am10sys2",
+  "display_name": "10 AM - Systolic 2",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters of mercury",
+  "labels": [
+    "cfs_nurse_notes"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "rebraw",
+  "display_name": "Child Health Questionnaire Parent Form 50 Questions: Role/Social functioning due to emotional/behavioral problems subscore (raw)",
+  "description": "The subscale score is based on 3 items from the Child Health Questionnaire Parent Form 50 Questions. A high score suggests less limitations in role/social functioninig due to emotional/behavioral problems. [Asmussen L et al., 2000 (PubMed ID: 11029320)](https://www.ncbi.nlm.nih.gov/pubmed/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",
+  "type": "numeric",
+  "labels": [
+    "chqpf50",
+    "chqpf50_rsfepscoreraw"
+  ]
+}

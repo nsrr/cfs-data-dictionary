@@ -1,0 +1,9 @@
+{
+  "id": "edemcomm",
+  "display_name": "Edema comments",
+  "description": "",
+  "type": "text",
+  "labels": [
+    "cfs_nurse_notes"
+  ]
+}

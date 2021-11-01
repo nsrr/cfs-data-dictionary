@@ -1,0 +1,13 @@
+{
+  "id": "thyrm3dy",
+  "display_name": "Thyroid medications in last 3 days",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

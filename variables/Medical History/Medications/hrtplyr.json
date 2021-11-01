@@ -1,0 +1,13 @@
+{
+  "id": "hrtplyr",
+  "display_name": "Heart pills in last year",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

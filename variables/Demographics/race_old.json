@@ -1,0 +1,10 @@
+{
+  "id": "race_old",
+  "display_name": "Race",
+  "description": "",
+  "type": "choices",
+  "domain": "race123456",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "id": "daywake_time",
-  "display_name": "Weekday wake time",
-  "description": "Self-reported normal wake time on weekdays",
-  "type": "time",
-  "forms": [
-    
-  ]
-}

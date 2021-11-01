@@ -1,0 +1,13 @@
+{
+  "id": "times34p",
+  "display_name": "Percentage duration of sleep in stage 3/4 sleep from type I polysomnography",
+  "description": "Percent of sleep time in stage 3-4",
+  "type": "numeric",
+  "units": "percent",
+  "calculation": "tmstg34p",
+  "labels": [
+    "tmstg34p",
+    "pctdursp_s3_f1t1"
+  ],
+  "commonly_used": true
+}

@@ -1,0 +1,13 @@
+{
+  "id": "slapndia",
+  "display_name": "Physician-diagnosed Sleep Apnea",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesdk_2",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

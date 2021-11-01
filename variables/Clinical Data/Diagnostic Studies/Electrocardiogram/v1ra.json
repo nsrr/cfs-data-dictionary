@@ -1,0 +1,7 @@
+{
+  "id": "v1ra",
+  "display_name": "V1: Absolute amplitude of the R-wave",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters"
+}

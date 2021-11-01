@@ -1,0 +1,10 @@
+{
+  "id": "pm10hr1",
+  "display_name": "10 PM - Heart Rate 1",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute",
+  "labels": [
+    "cfs_nurse_notes"
+  ]
+}

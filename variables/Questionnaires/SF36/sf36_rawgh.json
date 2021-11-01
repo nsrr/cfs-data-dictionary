@@ -1,9 +1,0 @@
-{
-  "id": "sf36_rawgh",
-  "display_name": "SF-36 RAW GENERAL HEALTH PERCEPTIONS",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "sf36"
-  ]
-}

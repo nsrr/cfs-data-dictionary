@@ -1,7 +1,0 @@
-{
-  "id": "lmrdelta",
-  "display_name": "Number of limb movements with respiratory events (delta sleep)",
-  "description": "Total limb movements with respiratory events in delta sleep",
-  "type": "numeric",
-  "units": "limb movements"
-}

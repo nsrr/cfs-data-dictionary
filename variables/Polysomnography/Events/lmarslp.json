@@ -1,7 +1,0 @@
-{
-  "id": "lmarslp",
-  "display_name": "Number of limb movements with arousal and respiratory event (sleep)",
-  "description": "Total limb aovements with arousal and respiratory events in all sleep",
-  "type": "numeric",
-  "units": "limb movements"
-}

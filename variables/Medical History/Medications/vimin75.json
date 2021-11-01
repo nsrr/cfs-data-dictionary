@@ -1,0 +1,13 @@
+{
+  "id": "vimin75",
+  "display_name": "Multivitamin: VI-MIN 75",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "mondist",
+  "display_name": "Over the last month, has your snoring disturbed others?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesdk_2",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire",
+    "sdb",
+    "snore"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

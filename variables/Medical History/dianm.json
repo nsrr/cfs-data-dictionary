@@ -1,0 +1,13 @@
+{
+  "id": "dianm",
+  "display_name": "Physician-diagnosed Near Miss SIDS, ALTE",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesdk_2",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

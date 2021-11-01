@@ -1,9 +1,0 @@
-{
-  "id": "oindex",
-  "display_name": "CPT: overall index",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "lab_physio"
-  ]
-}

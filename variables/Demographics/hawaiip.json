@@ -1,11 +1,7 @@
 {
   "id": "hawaiip",
-  "display_name": "Race - Hawaiian or Pacific Islander",
-  "domain": "noyes01",
+  "display_name": "Participant's race - Hawaiian or Pacific Islander",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
-  "forms": [
-    
-  ]
+  "domain": "noyes01"
 }

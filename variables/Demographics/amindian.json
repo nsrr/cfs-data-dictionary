@@ -1,11 +1,7 @@
 {
   "id": "amindian",
-  "display_name": "Race - Native American",
-  "domain": "noyes01",
+  "display_name": "Participant's race - Native American",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
-  "forms": [
-    
-  ]
+  "domain": "noyes01"
 }

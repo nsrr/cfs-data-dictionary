@@ -1,6 +1,6 @@
 {
   "id": "age_category",
-  "display_name": "Age at time of visit",
+  "display_name": "Participant's age (category)",
   "description": "",
   "type": "choices",
   "domain": "agecat",

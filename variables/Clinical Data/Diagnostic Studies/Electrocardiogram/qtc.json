@@ -1,0 +1,7 @@
+{
+  "id": "qtc",
+  "display_name": "Q-Tc Interval",
+  "description": "",
+  "type": "numeric",
+  "units": "milliseconds"
+}

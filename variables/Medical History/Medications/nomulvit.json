@@ -1,0 +1,13 @@
+{
+  "id": "nomulvit",
+  "display_name": "How many multivitamin do you take per week?",
+  "description": "",
+  "type": "choices",
+  "domain": "vits",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

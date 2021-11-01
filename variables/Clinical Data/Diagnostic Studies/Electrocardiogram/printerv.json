@@ -1,0 +1,7 @@
+{
+  "id": "printerv",
+  "display_name": "PR Interval",
+  "description": "",
+  "type": "numeric",
+  "units": "milliseconds"
+}

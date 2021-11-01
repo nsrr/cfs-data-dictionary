@@ -1,0 +1,9 @@
+{
+  "id": "drugtype",
+  "display_name": "Type of recreational drugs",
+  "description": "",
+  "type": "text",
+  "labels": [
+    "cfs_nurse_notes"
+  ]
+}

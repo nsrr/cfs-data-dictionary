@@ -1,7 +1,0 @@
-{
-  "id": "npplms",
-  "display_name":"PLMs >10% of sleep time",
-  "description": "",
-  "type": "choices",
-  "domain": "yesnon"
-}

@@ -1,0 +1,12 @@
+{
+  "id": "avsao2nh",
+  "display_name": "Average oxygen saturation in NREM sleep from type I polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "saonrem",
+    "sao2nrem",
+    "avglvlsa_sn_f1t1"
+  ]
+}

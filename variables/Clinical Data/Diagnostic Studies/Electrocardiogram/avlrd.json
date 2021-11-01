@@ -1,0 +1,7 @@
+{
+  "id": "avlrd",
+  "display_name": "aVL Lead: Duration of the R-wave",
+  "description": "",
+  "type": "numeric",
+  "units": "milliseconds"
+}

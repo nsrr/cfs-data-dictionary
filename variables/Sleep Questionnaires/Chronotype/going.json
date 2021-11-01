@@ -1,0 +1,14 @@
+{
+  "id": "going",
+  "display_name": "During the past month, how long did it usually take you to 'get going' (become fully alert and functional) after your usual sleep time",
+  "description": "",
+  "type": "choices",
+  "domain": "functioning",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire",
+    "chronotype"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

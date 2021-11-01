@@ -1,0 +1,7 @@
+{
+  "id": "ventrate",
+  "display_name": "Ventricular heart rate",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute"
+}

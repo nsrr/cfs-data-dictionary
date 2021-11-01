@@ -1,9 +1,0 @@
-{
-  "id": "sf36_rawvt",
-  "display_name": "SF-36 RAW VITALITY",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "sf36"
-  ]
-}

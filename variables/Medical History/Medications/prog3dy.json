@@ -1,0 +1,13 @@
+{
+  "id": "prog3dy",
+  "display_name": "Progesterone in last 3 days",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesdk_2",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

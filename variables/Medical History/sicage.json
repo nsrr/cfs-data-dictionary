@@ -1,0 +1,13 @@
+{
+  "id": "sicage",
+  "display_name": "Age Diagnose Sickle Cell Disease",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

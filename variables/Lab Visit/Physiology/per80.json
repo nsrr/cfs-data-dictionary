@@ -1,9 +1,0 @@
-{
-  "id": "per80",
-  "display_name": "Sleep Study: % time O2 saturation < 80%",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    
-  ]
-}

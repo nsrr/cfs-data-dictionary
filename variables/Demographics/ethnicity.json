@@ -1,11 +1,8 @@
 {
   "id": "ethnicity",
-  "display_name": "Subject ethnicity",
+  "display_name": "Participant's ethnicity",
   "description": "",
   "type": "choices",
   "domain": "ethnicity01",
-  "forms": [
-    
-  ],
   "commonly_used": true
 }

@@ -1,0 +1,10 @@
+{
+  "id": "plmcarnrem",
+  "display_name": "Total number of periodic limb movement clusters in NREM sleep with arousal and respiratory event from type I polysomnography",
+  "description": "Total PLM clusters with arousal and  respiratory events in NREM sleep",
+  "type": "numeric",
+  "units": "limb movements",
+  "labels": [
+    "ttlnumpc_snsost_f1t1"
+  ]
+}

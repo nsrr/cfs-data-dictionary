@@ -1,9 +1,0 @@
-{
-  "id": "endhrs",
-  "display_name": "How many hours of sleep on weekend days",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "baseline_lab_adult_child_questionnaire"
-  ]
-}

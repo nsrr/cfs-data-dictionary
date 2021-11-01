@@ -1,7 +1,0 @@
-{
-  "id": "plmca",
-  "display_name": "Number of PLM clusters with arousal",
-  "description": "Total PLM clusters with arousal",
-  "type": "numeric",
-  "units": "limb movements"
-}

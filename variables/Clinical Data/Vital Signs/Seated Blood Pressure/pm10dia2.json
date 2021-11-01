@@ -1,0 +1,10 @@
+{
+  "id": "pm10dia2",
+  "display_name": "10 PM - Diastolic 2",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters of mercury",
+  "labels": [
+    "cfs_nurse_notes"
+  ]
+}

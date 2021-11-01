@@ -1,0 +1,10 @@
+{
+  "id": "lmardelta",
+  "display_name": "Total number of limb movements with arousal and respiratory event in stage 3/4 sleep with arousal from type I polysomnography",
+  "description": "Total limb movements with arousal and  respiratory events in delta sleep",
+  "type": "numeric",
+  "units": "limb movements",
+  "labels": [
+    "ttlnumlm_s3sost_f1t1"
+  ]
+}

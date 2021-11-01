@@ -1,9 +1,6 @@
 {
   "id": "age",
-  "display_name": "Age at time of visit",
+  "display_name": "Participant's age",
   "description": "",
-  "type": "numeric",
-  "forms": [
-    
-  ]
+  "type": "numeric"
 }

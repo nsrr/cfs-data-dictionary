@@ -1,0 +1,7 @@
+{
+  "id": "armmean",
+  "display_name": "Mean of arm blood pressure measurements",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters of mercury"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "baseartd",
+  "display_name": "Arterial Diameter Result",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters"
+}

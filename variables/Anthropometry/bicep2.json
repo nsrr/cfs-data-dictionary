@@ -1,0 +1,7 @@
+{
+  "id": "bicep2",
+  "display_name": "bicep skinfold 2",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters"
+}

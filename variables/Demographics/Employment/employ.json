@@ -1,0 +1,13 @@
+{
+  "id": "employ",
+  "display_name": "What is your current employment status?",
+  "description": "",
+  "type": "choices",
+  "domain": "employment",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

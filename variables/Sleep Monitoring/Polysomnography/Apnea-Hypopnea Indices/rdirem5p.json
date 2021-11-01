@@ -1,0 +1,11 @@
+{
+  "id": "rdirem5p",
+  "display_name": "Apnea-Hypopnea Index (REM): (Apneas with >= 5% oxygen desaturation and with or without arousal+ hypopneas with > 30% flow reduction and >= 5% oxygen desaturation and with or without arousal) / hour of REM sleep from type I polysomnography",
+  "description": "Calculated - Summary metric of sleep disordered breathing events. ",
+  "type": "numeric",
+  "units": "events per hour",
+  "calculation": "60 * ( hrembp5 + hrop5 + carbp5 + carop5 + oarbp5 + oarop5 ) / minremp",
+  "labels": [
+    "ahi_sr_ap5uhp3x5u_f1t1"
+  ]
+}

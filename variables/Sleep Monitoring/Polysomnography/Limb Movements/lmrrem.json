@@ -1,0 +1,10 @@
+{
+  "id": "lmrrem",
+  "display_name": "Total number of limb movements in REM sleep with respiratory event from type I polysomnography",
+  "description": "Total limb movements with respiratory events in REM sleep",
+  "type": "numeric",
+  "units": "limb movements",
+  "labels": [
+    "ttlnumlm_srst_f1t1"
+  ]
+}

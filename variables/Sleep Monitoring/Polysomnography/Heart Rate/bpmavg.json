@@ -1,0 +1,11 @@
+{
+  "id": "bpmavg",
+  "display_name": "Average heart rate from type I polysomnography",
+  "description": "Average heart rate (entire recording)",
+  "type": "numeric",
+  "units": "beats per minute",
+  "labels": [
+    "avglvlhr_f1t1"
+  ],
+  "commonly_used": true
+}

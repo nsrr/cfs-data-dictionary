@@ -1,0 +1,15 @@
+{
+  "id": "distsnor",
+  "display_name": "Has your snoring ever been so loud that it has disturbed others?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesdk_2",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire",
+    "sdb",
+    "snore"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

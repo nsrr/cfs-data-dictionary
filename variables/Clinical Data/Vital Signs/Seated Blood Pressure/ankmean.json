@@ -1,0 +1,7 @@
+{
+  "id": "ankmean",
+  "display_name": "Mean of ankle blood pressure measurements",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters of mercury"
+}

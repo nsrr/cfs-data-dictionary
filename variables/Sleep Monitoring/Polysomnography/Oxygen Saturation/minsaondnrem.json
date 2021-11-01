@@ -1,0 +1,10 @@
+{
+  "id": "minsaondnrem",
+  "display_name": "Minimum nadirs in NREM sleep from type I polysomnography",
+  "description": "Lowest oxygen saturation nadir in nonREM sleep",
+  "type": "numeric",
+  "units": "percentage of oxygen saturation",
+  "labels": [
+    "minlvlnd_sn_f1t1"
+  ]
+}

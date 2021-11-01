@@ -1,8 +1,0 @@
-{
-  "id": "bpmmin",
-  "display_name": "Lowest heart rate",
-  "description": "Lowest heart rate (entire recording)",
-  "type": "numeric",
-  "units": "beats per minute",
-  "commonly_used": true
-}

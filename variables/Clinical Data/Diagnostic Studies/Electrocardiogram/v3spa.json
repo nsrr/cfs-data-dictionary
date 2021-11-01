@@ -1,0 +1,7 @@
+{
+  "id": "v3spa",
+  "display_name": "V3: Amplitude of the secondary S-wave",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters"
+}

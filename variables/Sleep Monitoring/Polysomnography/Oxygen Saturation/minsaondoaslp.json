@@ -1,0 +1,10 @@
+{
+  "id": "minsaondoaslp",
+  "display_name": "Minimum nadirs: Obstructive apneas with no oxygen desaturation threshold used and with or without arousal from type I polysomnography",
+  "description": "Lowest oxygen saturation nadir associated with obstructive apnea in sleep",
+  "type": "numeric",
+  "units": "percentage of oxygen saturation",
+  "labels": [
+    "minlvlnd_oa0u_f1t1"
+  ]
+}

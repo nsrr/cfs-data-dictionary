@@ -1,0 +1,7 @@
+{
+  "id": "ippa",
+  "display_name": "Lead I: Maximum amplitude of the P-wave",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters"
+}

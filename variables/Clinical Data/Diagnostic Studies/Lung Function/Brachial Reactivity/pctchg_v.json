@@ -1,0 +1,7 @@
+{
+  "id": "pctchg_v",
+  "display_name": "Percent Change velocity",
+  "description": "",
+  "type": "numeric",
+  "units": "percent"
+}

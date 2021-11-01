@@ -1,0 +1,12 @@
+{
+  "id": "cancesp",
+  "display_name": "Specify other cancer",
+  "description": "",
+  "type": "text",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

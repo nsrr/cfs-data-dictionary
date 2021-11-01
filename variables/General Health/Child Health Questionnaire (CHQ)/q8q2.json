@@ -1,0 +1,11 @@
+{
+  "id": "q8q2",
+  "display_name": "Child Health Questionnaire Parent Form 50 Questions: Compared to one year age, how would you rate your child's health now?",
+  "description": "Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",
+  "type": "choices",
+  "domain": "chq_change",
+  "labels": [
+    "chqpf50",
+    "chqpf50_37healthnow"
+  ]
+}

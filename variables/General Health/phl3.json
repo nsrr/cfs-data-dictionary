@@ -1,0 +1,13 @@
+{
+  "id": "phl3",
+  "display_name": "Did you usually bring up phlegm like this for three consecutive months or more during the year?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesdk_2",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "id": "dayslp_time",
-  "display_name": "Weekday bedtime",
-  "description": "Self-reported normal bedtime on weekdays",
-  "type": "time",
-  "forms": [
-    
-  ]
-}

@@ -1,0 +1,10 @@
+{
+  "id": "saondcaslp",
+  "display_name": "Average nadirs: Central apneas with no oxygen desaturation threshold used and with or without arousal from type I polysomnography",
+  "description": "Mean oxygen saturation nadir associated with central apnea in sleep",
+  "type": "numeric",
+  "units": "percentage of oxygen saturation",
+  "labels": [
+    "avglvlnd_ca0u_f1t1"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "apavgdur",
+  "display_name": "Average duration of apnea from type I polysomnography",
+  "description": "Average duration of apnea (entire recording)",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "avgdurap_sc_f1t1"
+  ]
+}

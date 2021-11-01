@@ -1,7 +1,0 @@
-{
-  "id": "highexclude",
-  "display_name": "Apnea-Propensity Index to be excluded for being above threshold - potential artifact",
-  "description": "",
-  "type": "choices",
-  "domain": "noyes01"
-}

@@ -1,9 +1,0 @@
-{
-  "id": "sf36_rawrp",
-  "display_name": "SF-36 RAW ROLE-PHYSICAL",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "sf36"
-  ]
-}

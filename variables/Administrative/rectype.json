@@ -1,0 +1,7 @@
+{
+  "id": "rectype",
+  "display_name": "Visit",
+  "description": "",
+  "type": "choices",
+  "domain": "rectype"
+}

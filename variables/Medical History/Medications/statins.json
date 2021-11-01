@@ -1,0 +1,10 @@
+{
+  "id": "statins",
+  "display_name": "Use of cholesterol lowering drugs",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ]
+}

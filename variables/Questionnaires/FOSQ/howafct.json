@@ -1,9 +1,0 @@
-{
-  "id": "howafct",
-  "display_name": "How has relationships been affected",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "functional_outcomes_of_sleep_questionnaire"
-  ]
-}

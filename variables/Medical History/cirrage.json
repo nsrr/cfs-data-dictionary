@@ -1,0 +1,13 @@
+{
+  "id": "cirrage",
+  "display_name": "Age Diagnosed Cirrhosis of the Liver",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

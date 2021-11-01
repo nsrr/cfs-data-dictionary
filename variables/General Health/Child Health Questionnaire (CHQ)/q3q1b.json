@@ -1,0 +1,11 @@
+{
+  "id": "q3q1b",
+  "display_name": "Child Health Questionnaire Parent Form 50 Questions: During the past 4 weeks, has your child's school work or activities with friends been limited in any of the following ways days to emotional difficulties or problems with his/her behavior? Limited in the AMOUNT of time he/she could spend on school-work or activities with friends.",
+  "description": "Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",
+  "type": "choices",
+  "domain": "chq_limits",
+  "labels": [
+    "chqpf50",
+    "chqpf50_09emoamount"
+  ]
+}

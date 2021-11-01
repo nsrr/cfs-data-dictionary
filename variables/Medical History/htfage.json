@@ -1,0 +1,13 @@
+{
+  "id": "htfage",
+  "display_name": "Age Diagnosed Congestive Heart Failure",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

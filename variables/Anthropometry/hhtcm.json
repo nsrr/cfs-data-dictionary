@@ -1,0 +1,12 @@
+{
+  "id": "hhtcm",
+  "display_name": "Height (cm)",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "cfs_lab_physiology_questionnaire"
+  ],
+  "forms": [
+    "lab_physio"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "docpain",
+  "display_name": "See a doctor because of this pain (or discomfort)?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

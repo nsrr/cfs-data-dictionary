@@ -1,0 +1,13 @@
+{
+  "id": "car",
+  "display_name": "How many car accidents have you ever had while driving a car",
+  "description": "",
+  "type": "numeric",
+  "units": "accidents",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

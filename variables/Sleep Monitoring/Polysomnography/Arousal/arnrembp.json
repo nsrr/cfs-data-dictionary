@@ -1,0 +1,10 @@
+{
+  "id": "arnrembp",
+  "display_name": "Total number of arousal in NREM sleep in supine position with oxygen desaturation > 0% from type I polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "arousals",
+  "labels": [
+    "ttlnumar_snpb_dsgt0_f1t1"
+  ]
+}
