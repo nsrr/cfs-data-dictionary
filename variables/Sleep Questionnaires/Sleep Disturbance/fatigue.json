@@ -1,0 +1,14 @@
+{
+  "id": "fatigue",
+  "display_name": "Over the last month, have you experienced: feeling tired or fatigued after you sleep",
+  "description": "",
+  "type": "choices",
+  "domain": "freq",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire",
+    "sleep_related_impairment"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

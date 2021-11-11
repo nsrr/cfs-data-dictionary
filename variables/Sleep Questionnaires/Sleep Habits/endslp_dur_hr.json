@@ -1,0 +1,11 @@
+{
+  "id": "endslp_dur_hr",
+  "display_name": "Calculated sleep duration on weekends",
+  "description": "The difference between ENDSLP (self-reported sleep time) and ENDWAKE (self-reported wake time).",
+  "type": "numeric",
+  "units": "hours",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire",
+    "sleep_duration"
+  ]
+}

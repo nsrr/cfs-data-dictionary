@@ -1,0 +1,14 @@
+{
+  "id": "tothrslp",
+  "display_name": "How many total hours of actual sleep do you get in a 24-hour period (including naps)",
+  "description": "",
+  "type": "choices",
+  "domain": "hourssleep",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire",
+    "sleep_duration"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

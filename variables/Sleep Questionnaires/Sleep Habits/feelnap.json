@@ -1,0 +1,15 @@
+{
+  "id": "feelnap",
+  "display_name": "How often do you feel refreshed after napping",
+  "description": "",
+  "type": "choices",
+  "domain": "freq",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire",
+    "sleep_hygiene",
+    "sleep_satisfaction"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "nightup",
+  "display_name": "During the past month, how many times per night did you wake up",
+  "description": "",
+  "type": "choices",
+  "domain": "nightup",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire",
+    "insomnia"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

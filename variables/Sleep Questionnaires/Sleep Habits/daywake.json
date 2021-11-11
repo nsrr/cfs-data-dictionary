@@ -1,0 +1,13 @@
+{
+  "id": "daywake",
+  "display_name": "What time do you wake up from your usual sleep on weekdays",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire",
+    "sleep_timing"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "ftheatr",
+  "display_name": "Functional Outcomes of Sleep: Difficulty enjoying theater or lecture",
+  "description": "Item from Functional Outcomes of Sleep Questionnaire. [Weaver et. al, 1997 (Pubmed ID: 9415942)](https://www.ncbi.nlm.nih.gov/pubmed/9415942)<br><br> [Search for all Functional Outcomes of Sleep variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=fosq)<br><br>Original question: *Do you have difficulty enjoying the theater or a lecture because you become sleepy or tired?*",
+  "type": "choices",
+  "domain": "fosq_main",
+  "labels": [
+    "fosq",
+    "fosq_18lecture"
+  ],
+  "forms": [
+    "functional_outcomes_of_sleep_questionnaire"
+  ]
+}

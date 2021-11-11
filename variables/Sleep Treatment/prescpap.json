@@ -1,0 +1,10 @@
+{
+  "id": "prescpap",
+  "display_name": "Ever prescribed CPAP",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ]
+}

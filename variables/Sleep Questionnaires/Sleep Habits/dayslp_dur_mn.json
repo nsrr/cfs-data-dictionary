@@ -1,0 +1,11 @@
+{
+  "id": "dayslp_dur_mn",
+  "display_name": "Calculated sleep duration on weekdays",
+  "description": "The difference between DAYSLP (self-reported sleep time) and DAYWAKE (self-reported wake time).",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire",
+    "sleep_duration"
+  ]
+}

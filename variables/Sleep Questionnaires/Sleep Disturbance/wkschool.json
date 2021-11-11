@@ -1,0 +1,14 @@
+{
+  "id": "wkschool",
+  "display_name": "How often do you fall asleep at work or school?",
+  "description": "",
+  "type": "choices",
+  "domain": "freq",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire",
+    "subjective_sleepiness"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

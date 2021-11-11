@@ -1,0 +1,14 @@
+{
+  "id": "nonaps",
+  "display_name": "If yes, how often have you had to take daytime naps of 5 minutes or longer?",
+  "description": "",
+  "type": "choices",
+  "domain": "morethan100",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire",
+    "sleep_hygiene"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

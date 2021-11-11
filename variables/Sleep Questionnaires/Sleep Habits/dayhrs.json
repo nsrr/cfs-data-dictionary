@@ -1,0 +1,13 @@
+{
+  "id": "dayhrs",
+  "display_name": "Number of hours of sleep during the weekdays",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire",
+    "sleep_duration"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

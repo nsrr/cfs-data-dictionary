@@ -1,0 +1,14 @@
+{
+  "id": "slprest",
+  "display_name": "Over the last month, have you experienced: no matter how much sleep you had, you didn't wake up feeling rested",
+  "description": "",
+  "type": "choices",
+  "domain": "freq",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire",
+    "sleep_quality"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

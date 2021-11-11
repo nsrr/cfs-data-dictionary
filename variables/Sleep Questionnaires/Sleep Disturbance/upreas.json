@@ -1,0 +1,13 @@
+{
+  "id": "upreas",
+  "display_name": "Reason for waking up at night",
+  "description": "",
+  "type": "text",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire",
+    "insomnia"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

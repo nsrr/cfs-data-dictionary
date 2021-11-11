@@ -1,0 +1,14 @@
+{
+  "id": "longnaps",
+  "display_name": "On average, how long are your naps?",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire",
+    "sleep_hygiene"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "cpapuse",
+  "display_name": "Used CPAP during the sleep study or use CPAP regularly",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire"
+  ]
+}

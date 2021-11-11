@@ -1,0 +1,14 @@
+{
+  "id": "deprslp",
+  "display_name": "Over the last month, have you experienced: lying awake during your sleep time feeling worried, depressed, or sad",
+  "description": "",
+  "type": "choices",
+  "domain": "freq",
+  "labels": [
+    "cfs_lab_adult_child_questionnaire",
+    "insomnia"
+  ],
+  "forms": [
+    "baseline_lab_adult_child_questionnaire"
+  ]
+}

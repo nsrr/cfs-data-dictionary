@@ -1,0 +1,14 @@
+{
+  "id": "forgasm",
+  "display_name": "Functional Outcomes of Sleep: Effect on ability to have an orgasm",
+  "description": "Item from Functional Outcomes of Sleep Questionnaire. [Weaver et. al, 1997 (Pubmed ID: 9415942)](https://www.ncbi.nlm.nih.gov/pubmed/9415942)<br><br> [Search for all Functional Outcomes of Sleep variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=fosq)<br><br>Original question: *Has your ability to have an orgasm been affected because you are sleepy or tired?*",
+  "type": "choices",
+  "domain": "fosq_main",
+  "labels": [
+    "fosq",
+    "fosq_30orgasm"
+  ],
+  "forms": [
+    "functional_outcomes_of_sleep_questionnaire"
+  ]
+}
