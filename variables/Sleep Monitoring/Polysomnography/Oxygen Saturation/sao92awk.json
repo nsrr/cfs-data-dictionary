@@ -1,6 +1,6 @@
 {
   "id": "sao92awk",
-  "display_name": "Total duration of sleep during wake with oxygen saturation > 92% from type I polysomnography",
+  "display_name": "Total duration of wake time during sleep period with oxygen saturation > 92% from type I polysomnography",
   "description": "Total time oxygen saturation above 92% during wake, in minutes",
   "type": "numeric",
   "units": "minutes",
