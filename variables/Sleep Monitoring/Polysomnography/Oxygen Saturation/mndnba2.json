@@ -1,10 +1,10 @@
 {
   "id": "mndnba2",
-  "display_name": "Minimum oxygen saturation in NREM sleep with arousal in supine position with oxygen desaturation >= 2% from type I polysomnography",
+  "display_name": "Minimum oxygen saturation in NREM sleep with arousal in supine position with oxygen desaturation >= 2% from type III polysomnography",
   "description": "",
   "type": "numeric",
   "units": "percent",
   "labels": [
-    "minlvlsa_snsopb_dsge2_f1t1"
+    "minlvlsa_snpb_ap2rhp3x2r_f1t1"
   ]
 }

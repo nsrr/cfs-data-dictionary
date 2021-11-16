@@ -1,7 +1,7 @@
 {
   "id": "phsegmin",
-  "display_name": "Na",
-  "description": "NA",
+  "display_name": "Minimum segment limit",
+  "description": "",
   "type": "numeric",
   "units": "centimeters"
 }

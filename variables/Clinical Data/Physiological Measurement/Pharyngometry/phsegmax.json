@@ -1,7 +1,7 @@
 {
   "id": "phsegmax",
-  "display_name": "Na",
-  "description": "NA",
+  "display_name": "Maximum segment limit",
+  "description": "",
   "type": "numeric",
   "units": "centimeters"
 }

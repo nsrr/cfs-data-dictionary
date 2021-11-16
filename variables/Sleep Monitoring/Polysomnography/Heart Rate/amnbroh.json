@@ -1,10 +1,10 @@
 {
   "id": "amnbroh",
-  "display_name": "Minimum heart rate with arousal in REM sleep in non-supine position with oxygen desaturation > 0% from type I polysomnography",
+  "display_name": "Minimum heart rate with arousal in REM sleep in non-supine position from type I polysomnography",
   "description": "",
   "type": "numeric",
   "units": "beats per minute",
   "labels": [
-    "minlvlhr_snsopb_dsgt0_f1t1"
+    "minlvlhr_snsopb_f1t1"
   ]
 }

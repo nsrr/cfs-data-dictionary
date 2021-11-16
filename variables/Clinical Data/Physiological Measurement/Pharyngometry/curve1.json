@@ -1,7 +1,7 @@
 {
   "id": "curve1",
-  "display_name": "Na",
-  "description": "NA",
+  "display_name": "Score for first curve",
+  "description": "",
   "type": "choices",
   "domain": "pharynqs"
 }
