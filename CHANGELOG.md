@@ -1,8 +1,10 @@
 ## 0.6.0
 
-- Harmonize variables
+- Create 'harmonized' dataset with key variables
+- The CSV datasets generated from a SAS export is located here:
+  - `\\rfawin\bwh-sleepepi-cfs\nsrr-prep\_releases\0.6.0.pre\`
 
-## 0.5.0
+## 0.5.0 (November 18, 2019)
 
 - Remove EEG spectral summary variables
 - The CSV datasets generated from a SAS export is located here:

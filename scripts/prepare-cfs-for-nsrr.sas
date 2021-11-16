@@ -14,7 +14,7 @@
   %include "&newfamilypath\nsrr-prep\sleepepi-sas-macros.sas";
   libname nsrrdata "&newfamilypath\nsrr-prep\_datasets";
   libname obf "&newfamilypath\nsrr-prep\_ids";
-  %let release = 0.6.pre;
+  %let release = 0.6.0.pre;
 
 ********************************************************;
 * Import CFS data
@@ -509,6 +509,20 @@ run;
                             preddone psydiayr rhediayr rhindone rhintech shqdone sicdiayr sindiayr skindone skintech snakdone spirdone spirtech ssedone strodiyr surdiayr svdone
                             thydiayr tiadiayr tondiayr toudiayr vigldone vigltech visitnfs yrdiagn index_date q10q4 psgid headtech ln_crppm ln_crpam agedianm
                             /* Variable dropped until more information can be found based on domain options */indexf monitor
+                            /* begin 11-2021 removal, psg variable cleanup */
+                            ahi3 ahiu3 avgdsresp avgsaominnr avgsaominr avgsaominrpt avgsaominslp avunrbp avunrbp2 avunrbp3 avunrbp4 avunrbp5 avunrbpa avunrbpa2 avunrbpa3 avunrbpa4 
+                            avunrbpa5 avunrop avunrop2 avunrop3 avunrop4 avunrop5 avunropa avunropa2 avunropa3 avunropa4 avunropa5 avurbp avurbp2 avurbp3 avurbp4 avurbp5 avurbpa 
+                            avurbpa2 avurbpa3 avurbpa4 avurbpa5 avurop avurop2 avurop3 avurop4 avurop5 avuropa avuropa2 avuropa3 avuropa4 avuropa5 hunrbp hunrbp2 hunrbp3 hunrbp4 
+                            hunrbp5 hunrbpa hunrbpa2 hunrbpa3 hunrbpa4 hunrbpa5 hunrop hunrop2 hunrop3 hunrop4 hunrop5 hunropa hunropa2 hunropa3 hunropa4 hunropa5 hurbp hurbp2 hurbp3 
+                            hurbp4 hurbp5 hurbpa hurbpa2 hurbpa3 hurbpa4 hurbpa5 hurop hurop2 hurop3 hurop4 hurop5 huropa huropa2 huropa3 huropa4 huropa5 lunrbp lunrbp2 lunrbp3 
+                            lunrbp4 lunrbp5 lunrbpa lunrbpa2 lunrbpa3 lunrbpa4 lunrbpa5 lunrop lunrop2 lunrop3 lunrop4 lunrop5 lunropa lunropa2 lunropa3 lunropa4 lunropa5 lurbp 
+                            lurbp2 lurbp3 lurbp4 lurbp5 lurbpa lurbpa2 lurbpa3 lurbpa4 lurbpa5 lurop lurop2 lurop3 lurop4 lurop5 luropa luropa2 luropa3 luropa4 luropa5 oahi oahi3 
+                            pctlt75 pctlt80 pctlt85 pctlt90 rdi3p rdi3pa rdi4p rdi4pa rdicat rem_lat1 slp_eff slp_lat slp_rdi slp_time sunrbp sunrbp2 sunrbp3 sunrbp4 sunrbp5 sunrbpa 
+                            sunrbpa2 sunrbpa3 sunrbpa4 sunrbpa5 sunrop sunrop2 sunrop3 sunrop4 sunrop5 sunropa sunropa2 sunropa3 sunropa4 sunropa5 surbp surbp2 surbp3 surbp4 surbp5 
+                            surbpa surbpa2 surbpa3 surbpa4 surbpa5 surop surop2 surop3 surop4 surop5 suropa suropa2 suropa3 suropa4 suropa5 time_bed tmremp tmstg1p tmstg2p tmstg34p 
+                            unrbp unrbp2 unrbp3 unrbp4 unrbp5 unrbpa unrbpa2 unrbpa3 unrbpa4 unrbpa5 unrop unrop2 unrop3 unrop4 unrop5 unropa unropa2 unropa3 unropa4 unropa5 urbp 
+                            urbp2 urbp3 urbp4 urbp5 urbpa urbpa2 urbpa3 urbpa4 urbpa5 urop urop2 urop3 urop4 urop5 uropa uropa2 uropa3 uropa4 uropa5 
+                            /* end 11-2021 removal */
                             ;
 
 *** NOTE: In future iterations of CFS, where additional visits are included besides RECTYPE5, the following variables should be rechecked for meaningful data ***;
@@ -688,27 +702,27 @@ run;
 * create harmonized datasets ;
 *******************************************************************************;
 data cfs_visit5_harmonized;
-	set alldata_obfclean_all_final;
-	*create rectype variable for Spout to use for graph generation;
+  set alldata_obfclean_all_final;
+  *create rectype variable for Spout to use for graph generation;
     rectype = 5;
 *demographics
 *age;
 *use age;
-	format nsrr_age 8.2;
- 	nsrr_age = age;
+  format nsrr_age 8.2;
+  nsrr_age = age;
 
 *age_gt89;
 *use age $100;
-	format nsrr_age_gt89 $10.; 
-	if age gt 89 then nsrr_age_gt89= 'yes';
-	else if age le 89 then nsrr_age_gt89= 'no';
+  format nsrr_age_gt89 $10.; 
+  if age gt 89 then nsrr_age_gt89= 'yes';
+  else if age le 89 then nsrr_age_gt89= 'no';
 
 *sex;
 *use male;
-	format nsrr_sex $10.;
-	if male = '01' then nsrr_sex = 'male';
-	else if male = '00' then nsrr_sex = 'female';
-	else if male = '.' then nsrr_sex = 'not reported';
+  format nsrr_sex $10.;
+  if male = '01' then nsrr_sex = 'male';
+  else if male = '00' then nsrr_sex = 'female';
+  else if male = '.' then nsrr_sex = 'not reported';
 
 *race;
 *use race;
@@ -716,72 +730,72 @@ data cfs_visit5_harmonized;
     if race = '01' then nsrr_race = 'white';
     else if race = '02' then nsrr_race = 'black or african american';
     else if race = '03' then nsrr_race = 'other';
-	else if race = '.' then nsrr_race = 'not reported';
+  else if race = '.' then nsrr_race = 'not reported';
 
 *ethnicity;
 *use ethnicity;
-	format nsrr_ethnicity $100.;
+  format nsrr_ethnicity $100.;
     if ethnicity = '01' then nsrr_ethnicity = 'hispanic or latino';
     else if ethnicity = '00' then nsrr_ethnicity = 'not hispanic or latino';
-	else if ethnicity = '.' then nsrr_ethnicity = 'not reported';
+  else if ethnicity = '.' then nsrr_ethnicity = 'not reported';
 
 *anthropometry
 *bmi;
 *use bmi;
-	format nsrr_bmi 10.9;
- 	nsrr_bmi = bmi;
+  format nsrr_bmi 10.9;
+  nsrr_bmi = bmi;
 
 *clinical data/vital signs
 *bp_systolic;
 *use sbp;
-	format nsrr_bp_systolic 8.2;
-	nsrr_bp_systolic = sbp;
+  format nsrr_bp_systolic 8.2;
+  nsrr_bp_systolic = sbp;
 
 *bp_diastolic;
 *use dbp;
-	format nsrr_bp_diastolic 8.2;
- 	nsrr_bp_diastolic = dbp;
+  format nsrr_bp_diastolic 8.2;
+  nsrr_bp_diastolic = dbp;
 
 *lifestyle and behavioral health
 *current_smoker;
 *use monsmoke and nowsmoke;
-	format nsrr_current_smoker $100.;
+  format nsrr_current_smoker $100.;
 *if monsmoke=1 and nowsmoke>0 then nsrr_current_smoker = yes;
-	if monsmoke = 1 && nowsmoke gt 0 then nsrr_current_smoker = 'yes';
+  if monsmoke = 1 && nowsmoke gt 0 then nsrr_current_smoker = 'yes';
 *if nowsmoke is missing or <0 use monsmoke to determine nsrr_current_smoker;
-	if monsmoke = 1 && nowsmoke = '.' then nsrr_current_smoker = 'yes';
-	if monsmoke = 1 && nowsmoke le 0 then nsrr_current_smoker = 'yes';
-	if monsmoke = 0 && nowsmoke = '.' then nsrr_current_smoker = 'no';
-	if monsmoke = 0 && nowsmoke le 0 then nsrr_current_smoker = 'no';
+  if monsmoke = 1 && nowsmoke = '.' then nsrr_current_smoker = 'yes';
+  if monsmoke = 1 && nowsmoke le 0 then nsrr_current_smoker = 'yes';
+  if monsmoke = 0 && nowsmoke = '.' then nsrr_current_smoker = 'no';
+  if monsmoke = 0 && nowsmoke le 0 then nsrr_current_smoker = 'no';
 *if monsoke missing, then use nowsmoke to determine nsrr_current_smoker;
-	if monsmoke = '.' && nowsmoke gt 0 then nsrr_current_smoker = 'yes';
-	if monsmoke = '.' && nowsmoke le 0 then nsrr_current_smoker = 'no';
+  if monsmoke = '.' && nowsmoke gt 0 then nsrr_current_smoker = 'yes';
+  if monsmoke = '.' && nowsmoke le 0 then nsrr_current_smoker = 'no';
 *if monsmoke and nowsmoke both missing then nsrr_current_smoker = not reported;
-	if nowsmoke = '.' && monsmoke = '.' then nsrr_current_smoker = 'not reported';
+  if nowsmoke = '.' && monsmoke = '.' then nsrr_current_smoker = 'not reported';
 
 
 
 *ever_smoker;
 *use smoked; 
-	format nsrr_ever_smoker $100.;
-	if smoked = 1 then nsrr_ever_smoker = 'yes';
-	else if smoked = 0 then nsrr_ever_smoker = 'no';
-	else if smoked = . then nsrr_ever_smoker = 'not reported';
+  format nsrr_ever_smoker $100.;
+  if smoked = 1 then nsrr_ever_smoker = 'yes';
+  else if smoked = 0 then nsrr_ever_smoker = 'no';
+  else if smoked = . then nsrr_ever_smoker = 'not reported';
 
-	keep 
-		nsrrid
-		rectype
-		nsrr_age
-		nsrr_age_gt89
-		nsrr_sex
-		nsrr_race
-		nsrr_ethnicity
-		nsrr_bmi
-		nsrr_bp_systolic
-		nsrr_bp_diastolic
-		nsrr_current_smoker
-		nsrr_ever_smoker
-		;
+  keep 
+    nsrrid
+    rectype
+    nsrr_age
+    nsrr_age_gt89
+    nsrr_sex
+    nsrr_race
+    nsrr_ethnicity
+    nsrr_bmi
+    nsrr_bp_systolic
+    nsrr_bp_diastolic
+    nsrr_current_smoker
+    nsrr_ever_smoker
+    ;
 run;
 
 *******************************************************************************;
@@ -791,37 +805,37 @@ run;
 /* Checking for extreme values for continuous variables */
 
 proc means data=cfs_visit5_harmonized;
-VAR 	nsrr_age
-		nsrr_bmi
-		nsrr_bp_systolic
-		nsrr_bp_diastolic;
+VAR   nsrr_age
+    nsrr_bmi
+    nsrr_bp_systolic
+    nsrr_bp_diastolic;
 run;
 
 
 proc univariate data=cfs_visit5_harmonized;
    var nsrr_age
-		nsrr_bmi
-		nsrr_bp_systolic
-		nsrr_bp_diastolic;
+    nsrr_bmi
+    nsrr_bp_systolic
+    nsrr_bp_diastolic;
    histogram;
 run;
 
 /* Checking categorical variables */
 
 proc freq data=cfs_visit5_harmonized;
-table 	nsrr_age_gt89
-		nsrr_sex
-		nsrr_race
-		nsrr_ethnicity
-		nsrr_current_smoker
-		nsrr_ever_smoker;
+table   nsrr_age_gt89
+    nsrr_sex
+    nsrr_race
+    nsrr_ethnicity
+    nsrr_current_smoker
+    nsrr_ever_smoker;
 run;
 
 proc freq data=alldata_obfclean_all_final;
 table nowsmoke
       monsmoke
-	  smoked
-	  male;
+    smoked
+    male;
       
 run;
 
