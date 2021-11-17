@@ -1,6 +1,6 @@
 {
   "id": "alcism",
-  "display_name": "Have you ever had a problem with alcohol abuse or alcoholism?",
+  "display_name": "Have you ever had a problem with alcohol abuse or alcoholism",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

@@ -1,6 +1,6 @@
 {
   "id": "heaage",
-  "display_name": "Age Diagnosed Other Heart Disease",
+  "display_name": "Age diagnosed: Other heart disease",
   "description": "",
   "type": "numeric",
   "units": "years",

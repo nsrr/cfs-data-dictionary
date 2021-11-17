@@ -1,6 +1,6 @@
 {
   "id": "wgtlost",
-  "display_name": "In the past 5 years, have you lost weight?",
+  "display_name": "In the past 5 years, have you lost weight",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

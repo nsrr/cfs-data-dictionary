@@ -1,6 +1,6 @@
 {
   "id": "pai1am_flag",
-  "display_name": "Plasminogen Activation Inhibitor-1 levels - AM reading, test for normal values",
+  "display_name": "Plasminogen activation inhibitor-1 levels - AM reading, test for normal values",
   "description": "",
   "type": "choices",
   "domain": "bloodflag"

@@ -1,6 +1,6 @@
 {
   "id": "agediana",
-  "display_name": "Age Diagnosed Narcolepsy",
+  "display_name": "Age diagnosed: Narcolepsy",
   "description": "",
   "type": "numeric",
   "units": "years",

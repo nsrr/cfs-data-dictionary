@@ -1,6 +1,6 @@
 {
   "id": "pctchg_d",
-  "display_name": "Percent Change diameter",
+  "display_name": "Percent change diameter",
   "description": "",
   "type": "numeric",
   "units": "percent"

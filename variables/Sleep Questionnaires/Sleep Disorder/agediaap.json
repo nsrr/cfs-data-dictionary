@@ -1,6 +1,6 @@
 {
   "id": "agediaap",
-  "display_name": "Age Diagnosed Sleep Apnea",
+  "display_name": "Age diagnosed: Sleep apnea",
   "description": "",
   "type": "numeric",
   "units": "years",

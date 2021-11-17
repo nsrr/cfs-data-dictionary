@@ -1,6 +1,6 @@
 {
   "id": "hypfmvv",
-  "display_name": "FMV Arterial Diameter Doppler Velocity",
+  "display_name": "FMV arterial diameter doppler velocity",
   "description": "",
   "type": "numeric",
   "units": "meters per second"

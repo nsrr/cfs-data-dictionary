@@ -1,6 +1,6 @@
 {
   "id": "birthwgt",
-  "display_name": "How much did you weigh at birth?",
+  "display_name": "How much did you weigh at birth",
   "description": "",
   "type": "choices",
   "domain": "babyweight",

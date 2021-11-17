@@ -1,6 +1,6 @@
 {
   "id": "kidfage",
-  "display_name": "Age Diagnosed Kidney Failure",
+  "display_name": "Age diagnosed: Kidney failure",
   "description": "",
   "type": "numeric",
   "units": "years",

@@ -1,6 +1,6 @@
 {
   "id": "ostage",
-  "display_name": "Age Diagnose Osteoporosis",
+  "display_name": "Age diagnosed: Osteoporosis",
   "description": "",
   "type": "numeric",
   "units": "years",

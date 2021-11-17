@@ -1,6 +1,6 @@
 {
   "id": "tiadiag",
-  "display_name": "Physician-diagnosed TIA (Transient Ischemic Attack)",
+  "display_name": "Physician-diagnosed: TIA (transient ischemic attack)",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

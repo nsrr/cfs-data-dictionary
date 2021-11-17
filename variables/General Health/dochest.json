@@ -1,6 +1,6 @@
 {
   "id": "dochest",
-  "display_name": "What do you do when you get chest discomfort while walking?",
+  "display_name": "What do you do when you get chest discomfort while walking",
   "description": "",
   "type": "choices",
   "domain": "chestpain",

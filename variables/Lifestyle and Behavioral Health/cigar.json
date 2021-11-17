@@ -1,6 +1,6 @@
 {
   "id": "cigar",
-  "display_name": "Have you ever smoked cigars/cigarillos?",
+  "display_name": "Have you ever smoked cigars/cigarillos",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

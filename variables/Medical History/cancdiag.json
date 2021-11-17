@@ -1,6 +1,6 @@
 {
   "id": "cancdiag",
-  "display_name": "Physician-diagnosed Cancer",
+  "display_name": "Physician-diagnosed cancer",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

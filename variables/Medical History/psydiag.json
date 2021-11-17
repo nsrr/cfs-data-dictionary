@@ -1,6 +1,6 @@
 {
   "id": "psydiag",
-  "display_name": "Physician-diagnosed Other Psychiatric Disease",
+  "display_name": "Physician-diagnosed: Other psychiatric disease",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

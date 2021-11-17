@@ -1,6 +1,6 @@
 {
   "id": "othantid",
-  "display_name": " Other antidepressants in the last three days",
+  "display_name": "Other antidepressants in the last three days",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

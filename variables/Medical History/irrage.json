@@ -1,6 +1,6 @@
 {
   "id": "irrage",
-  "display_name": "Age Diagnosed Irregular Heart Beat",
+  "display_name": "Age diagnosed: Irregular heartbeat",
   "description": "",
   "type": "numeric",
   "units": "years",

@@ -1,103 +1,103 @@
 folder,id,display_name,description,type,units,domain,labels,calculation,commonly_used,forms
-Administrative,nsrrid,NSRR Subject ID,This subject identifier was created by the National Sleep Research Resource (NSRR) team to more easily match with file downloads.,identifier,,,,,TRUE,
+Administrative,nsrrid,NSRR subject ID,This subject identifier was created by the National Sleep Research Resource (NSRR) team to more easily match with file downloads.,identifier,,,,,TRUE,
 Administrative,askqst,Subject had help completing questionnaire,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Administrative,whenpsg,When subject had previous sleep study,,numeric,years from index date,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Administrative,whereqst,Location where questionnaire was completed,,choices,,location,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Administrative,date,Date entered in Epi-Info,Date entered in Epi-Info,date,,,,,,
 Administrative,familyi,Family ID,Family ID,identifier,,,,,,
-Administrative,fatherid,Obfuscated PersonID of Father of Subject,,identifier,,,,,,
-Administrative,motherid,Obfuscated PersonID of Mother of Subject,,identifier,,,,,,
+Administrative,fatherid,Obfuscated PersonID of father of subject,,identifier,,,,,,
+Administrative,motherid,Obfuscated PersonID of mother of subject,,identifier,,,,,,
 Administrative,rectype,Visit,,choices,,rectype,,,,
 Administrative,relative,Relationship to index,,choices,,relative,,,,
 Administrative,visitdat,Date of visit,,date,,,,,,
 Anthropometry,bmi,Participant's body mass index (BMI),,numeric,kilograms per meter squared,,,,TRUE,
 Anthropometry,htcm,Participant's height,,numeric,centimeters,,,,TRUE,
 Anthropometry,wtkg,Participant's weight,,numeric,kilograms,,,,TRUE,
-Anthropometry,backfrnt,Head Measurement - back to front,,numeric,,,cfs_lab_physiology_questionnaire,,,lab_physio
-Anthropometry,bizgotc,Head Measurement - eye socket,,numeric,,,cfs_lab_physiology_questionnaire,,,lab_physio
+Anthropometry,backfrnt,Head measurement - back to front,,numeric,,,cfs_lab_physiology_questionnaire,,,lab_physio
+Anthropometry,bizgotc,Head measurement - eye socket,,numeric,,,cfs_lab_physiology_questionnaire,,,lab_physio
 Anthropometry,hhtcm,Height (cm),,numeric,,,cfs_lab_physiology_questionnaire,,,lab_physio
-Anthropometry,naisonc,Head Measurement - naison to chin,,numeric,,,cfs_lab_physiology_questionnaire,,,lab_physio
+Anthropometry,naisonc,Head measurement - naison to chin,,numeric,,,cfs_lab_physiology_questionnaire,,,lab_physio
 Anthropometry,nutonsil,"Tonsillar size, Dr. Rosen scale",,choices,,rosenscale,cfs_lab_physiology_questionnaire,,,lab_physio
-Anthropometry,sideside,Head Measurement - side to side,,numeric,centimeters,,cfs_lab_physiology_questionnaire,,,lab_physio
-Anthropometry,abdom1,abdominal 1,,numeric,millimeters,,,,,
-Anthropometry,abdom2,abdominal 2,,numeric,millimeters,,,,,
-Anthropometry,abdomc1,abdominal circumference 1,,numeric,centimeters,,,,,
-Anthropometry,abdomc2,abdominal circumference 2,,numeric,centimeters,,,,,
+Anthropometry,sideside,Head measurement - side to side,,numeric,centimeters,,cfs_lab_physiology_questionnaire,,,lab_physio
+Anthropometry,abdom1,Abdominal skinfold 1,,numeric,millimeters,,,,,
+Anthropometry,abdom2,Abdominal skinfold 2,,numeric,millimeters,,,,,
+Anthropometry,abdomc1,Abdominal circumference 1,,numeric,centimeters,,,,,
+Anthropometry,abdomc2,Abdominal circumference 2,,numeric,centimeters,,,,,
 Anthropometry,bcmperwt,Cell mass as a percentage of total body weight,,numeric,percent,,,,,
 Anthropometry,bcmwt,Weight of body cells,,numeric,kilograms,,,,,
-Anthropometry,bicep1,bicep skinfold 1,,numeric,millimeters,,,,,
-Anthropometry,bicep2,bicep skinfold 2,,numeric,millimeters,,,,,
-Anthropometry,bmige30,BMI greater than 30?,,choices,,noyes01,,,,
+Anthropometry,bicep1,Bicep skinfold 1,,numeric,millimeters,,,,,
+Anthropometry,bicep2,Bicep skinfold 2,,numeric,millimeters,,,,,
+Anthropometry,bmige30,BMI greater than 30,,choices,,noyes01,,,,
 Anthropometry,bmiround,BMI (rounded to 3 decimal places),,numeric,kilograms per meter squared,,,,,
-Anthropometry,calf1,calf skinfold 1,,numeric,millimeters,,,,,
-Anthropometry,calf2,calf skinfold 2,,numeric,millimeters,,,,,
-Anthropometry,calfc1,calf circumference 1,,numeric,centimeters,,,,,
-Anthropometry,calfc2,calf circumference 2,,numeric,centimeters,,,,,
+Anthropometry,calf1,Calf skinfold 1,,numeric,millimeters,,,,,
+Anthropometry,calf2,Calf skinfold 2,,numeric,millimeters,,,,,
+Anthropometry,calfc1,Calf circumference 1,,numeric,centimeters,,,,,
+Anthropometry,calfc2,Calf circumference 2,,numeric,centimeters,,,,,
 Anthropometry,ecmperwt,Percentage of body weight due to extracellular mass,,numeric,percent,,,,,
 Anthropometry,ecmwt,Weight of extracellular mass,,numeric,kilograms,,,,,
 Anthropometry,ecwliters,Volume of extracellular water,,numeric,liters,,,,,
-Anthropometry,ecwperwt,Percent of body water attributed to extracellular water,,numeric,percent,,,,,
+Anthropometry,ecwperwt,Percentage of body water attributed to extracellular water,,numeric,percent,,,,,
 Anthropometry,fatperwt,Percentage of body weight due to body fat,,numeric,percent,,,,,
 Anthropometry,fatwt,Weight of body fat,,numeric,kilograms,,,,,
 Anthropometry,ffmperwt,Percentage of body weight due to fat-free mass,,numeric,percent,,,,,
 Anthropometry,ffmwt,Weight of fat free mass,,numeric,kilograms,,,,,
-Anthropometry,hipc1,hip circumference 1,,numeric,centimeters,,,,,
-Anthropometry,hipc2,hip circumference 2,,numeric,centimeters,,,,,
+Anthropometry,hipc1,Hip circumference 1,,numeric,centimeters,,,,,
+Anthropometry,hipc2,Hip circumference 2,,numeric,centimeters,,,,,
 Anthropometry,hipcm,Mean hip circumference,,numeric,centimeters,,,,,
 Anthropometry,icwliters,Volume of intracellular water,,numeric,liters,,,,,
 Anthropometry,icwperwt,Percentage of body water due to intracellular water,,numeric,percent,,,,,
 Anthropometry,lnbmi,Log(BMI),,numeric,,,cfs_lab_adult_child_questionnaire,,,
-Anthropometry,mchest1,chest (male only) 1,,numeric,millimeters,,,,,
-Anthropometry,mchest2,chest (male only) 2,,numeric,millimeters,,,,,
-Anthropometry,midaxil1,midaxillary 1,,numeric,millimeters,,,,,
-Anthropometry,midaxil2,midaxillary 1,,numeric,millimeters,,,,,
-Anthropometry,neckc1,neck circumference 1,,numeric,centimeters,,,,,
-Anthropometry,neckc2,neck circumference 2,,numeric,centimeters,,,,,
+Anthropometry,mchest1,Chest (male only) 1,,numeric,millimeters,,,,,
+Anthropometry,mchest2,Chest (male only) 2,,numeric,millimeters,,,,,
+Anthropometry,midaxil1,Midaxillary 1,,numeric,millimeters,,,,,
+Anthropometry,midaxil2,Midaxillary 1,,numeric,millimeters,,,,,
+Anthropometry,neckc1,Neck circumference 1,,numeric,centimeters,,,,,
+Anthropometry,neckc2,Neck circumference 2,,numeric,centimeters,,,,,
 Anthropometry,neckcm,Mean neck circumference,,numeric,centimeters,,,,,
-Anthropometry,obese,Obese (BMI greater than 30)?,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,
+Anthropometry,obese,Obese (BMI greater than 30),,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,
 Anthropometry,reactance,Bioimpedance analysis reactance,,numeric,ohms,,,,,
 Anthropometry,resistance,Bioimpedance analysis resistance,,numeric,ohms,,,,,
-Anthropometry,subscap1,subscapular 1,,numeric,millimeters,,,,,
-Anthropometry,subscap2,subscapular 2,,numeric,millimeters,,,,,
-Anthropometry,suprail1,suprailiac 1,,numeric,millimeters,,,,,
-Anthropometry,suprail2,suprailiac 2,,numeric,millimeters,,,,,
+Anthropometry,subscap1,Subscapular skinfold 1,,numeric,millimeters,,,,,
+Anthropometry,subscap2,Subscapular skinfold 2,,numeric,millimeters,,,,,
+Anthropometry,suprail1,Suprailiac skinfold 1,,numeric,millimeters,,,,,
+Anthropometry,suprail2,Suprailiac skinfold 2,,numeric,millimeters,,,,,
 Anthropometry,tbwliters,Total volume of body water,,numeric,liters,,,,,
 Anthropometry,tbwperwt,Total percentage of body weight due to water,,numeric,percent,,,,,
-Anthropometry,thigh1,thigh skinfold 1,,numeric,millimeters,,,,,
-Anthropometry,thigh2,thigh skinfold 2,,numeric,millimeters,,,,,
-Anthropometry,thighc1,thigh circumference 1,,numeric,centimeters,,,,,
-Anthropometry,thighc2,thigh circumference 2,,numeric,centimeters,,,,,
-Anthropometry,tricep1,tricep skinfold 1,,numeric,millimeters,,,,,
-Anthropometry,tricep2,tricep skinfold 2,,numeric,millimeters,,,,,
-Anthropometry,uparm1,mid upper arm circumference 1,,numeric,centimeters,,,,,
-Anthropometry,uparm2,mid upper arm circumference 2,,numeric,centimeters,,,,,
-Anthropometry,waistc1,waist circumference 1,,numeric,centimeters,,,,,
-Anthropometry,waistc2,waist circumference 2,,numeric,centimeters,,,,,
+Anthropometry,thigh1,Thigh skinfold 1,,numeric,millimeters,,,,,
+Anthropometry,thigh2,Thigh skinfold 2,,numeric,millimeters,,,,,
+Anthropometry,thighc1,Thigh circumference 1,,numeric,centimeters,,,,,
+Anthropometry,thighc2,Thigh circumference 2,,numeric,centimeters,,,,,
+Anthropometry,tricep1,Tricep skinfold 1,,numeric,millimeters,,,,,
+Anthropometry,tricep2,Tricep skinfold 2,,numeric,millimeters,,,,,
+Anthropometry,uparm1,Mid upper arm circumference 1,,numeric,centimeters,,,,,
+Anthropometry,uparm2,Mid upper arm circumference 2,,numeric,centimeters,,,,,
+Anthropometry,waistc1,Waist circumference 1,,numeric,centimeters,,,,,
+Anthropometry,waistc2,Waist circumference 2,,numeric,centimeters,,,,,
 Anthropometry,waistcm,Mean waist circumference,,numeric,centimeters,,,,,
-Anthropometry,wrist1,wrist circumference 1,,numeric,centimeters,,,,,
-Anthropometry,wrist2,wrist circumference 2,,numeric,centimeters,,,,,
+Anthropometry,wrist1,Wrist circumference 1,,numeric,centimeters,,,,,
+Anthropometry,wrist2,Wrist circumference 2,,numeric,centimeters,,,,,
 Clinical Data/Body Composition,biar1,BIA Total body resistance 1 R,,numeric,ohms,,,,,
 Clinical Data/Body Composition,biar2,BIA Total body resistance 2 R,,numeric,ohms,,,,,
 Clinical Data/Body Composition,biaxc1,BIA Total body reactant 1 Xc,,numeric,ohms,,,,,
 Clinical Data/Body Composition,biaxc2,BIA Total body reactant 1 Xc,,numeric,ohms,,,,,
-Clinical Data/Diagnostic Studies/Electrocardiogram,atriaenl,Atrial Enlargement,,choices,,atrialenl,,,,
-Clinical Data/Diagnostic Studies/Electrocardiogram,avcondis,Atrioventricular Conduction Disturbance,,choices,,avblock,,,,
+Clinical Data/Diagnostic Studies/Electrocardiogram,atriaenl,Atrial enlargement,,choices,,atrialenl,,,,
+Clinical Data/Diagnostic Studies/Electrocardiogram,avcondis,Atrioventricular conduction disturbance,,choices,,avblock,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,avfpa,aVF Lead: Minimum amplitude of the P-wave,,numeric,millimeters,,,,,
-Clinical Data/Diagnostic Studies/Electrocardiogram,avfppa,aVF Lead: maximum P wave amplitude,,numeric,millimeters,,,,,
+Clinical Data/Diagnostic Studies/Electrocardiogram,avfppa,aVF Lead: Maximum P wave amplitude,,numeric,millimeters,,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,avfqa,aVF Lead: Absolute amplitude of the Q-wave,,numeric,millimeters,,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,avfqd,aVF Lead: Duration of the Q-wave,,numeric,milliseconds,,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,avfra,aVF Lead: Absolute amplitude of the R-wave,,numeric,millimeters,,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,avfrd,aVF Lead: Duration of the R-wave,,numeric,milliseconds,,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,avfrpa,aVF Lead: Amplitude of the secondary R-wave,,numeric,millimeters,,,,,
-Clinical Data/Diagnostic Studies/Electrocardiogram,avfrpd,aVF lead: duration of the secondary R wave,,numeric,milliseconds,,,,,
+Clinical Data/Diagnostic Studies/Electrocardiogram,avfrpd,aVF lead: Duration of the secondary R wave,,numeric,milliseconds,,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,avfsa,aVF Lead: Absolute amplitude of the S-wave,,numeric,millimeters,,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,avfsd,aVF Lead: Duration of the S-wave,,numeric,milliseconds,,,,,
-Clinical Data/Diagnostic Studies/Electrocardiogram,avfspa,aVF Lead: amplitude of the secondary S wave,,numeric,,,,,,
+Clinical Data/Diagnostic Studies/Electrocardiogram,avfspa,aVF Lead: Amplitude of the secondary S wave,,numeric,,,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,avfste,aVF Lead: Amplitude of the S-T wave at the endpoint,,numeric,millimeters,,,,,
-Clinical Data/Diagnostic Studies/Electrocardiogram,avfstj,AVF: Amplitude of the S-T wave at the J-point,,numeric,,,,,,
+Clinical Data/Diagnostic Studies/Electrocardiogram,avfstj,aVF Lead: Amplitude of the S-T wave at the J-point,,numeric,,,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,avfstm,aVF Lead: Amplitude of the S-T wave at the midpoint,,numeric,millimeters,,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,avfta,aVF Lead: Minimum amplitude of the T-wave,,numeric,millimeters,,,,,
-Clinical Data/Diagnostic Studies/Electrocardiogram,avftpa,aVF lead: Maximum amplitude of the T wave,,numeric,millimeters,,,,,
+Clinical Data/Diagnostic Studies/Electrocardiogram,avftpa,aVF Lead: Maximum amplitude of the T wave,,numeric,millimeters,,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,avlpa,aVL Lead: Minimum amplitude of the P-wave,,numeric,millimeters,,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,avlppa,aVL Lead: Maximum amplitude of the P-wave,,numeric,millimeters,,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,avlqa,aVL Lead: Absolute amplitude of the Q-wave,,numeric,millimeters,,,,,
@@ -106,15 +106,15 @@ Clinical Data/Diagnostic Studies/Electrocardiogram,avlra,aVL Lead: Absolute ampl
 Clinical Data/Diagnostic Studies/Electrocardiogram,avlrd,aVL Lead: Duration of the R-wave,,numeric,milliseconds,,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,avlrpa,aVL Lead: Amplitude of the secondary R-wave,,numeric,millimeters,,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,avlrpd,aVL Lead: Duration of the secondary R wave,,numeric,milliseconds,,,,,
-Clinical Data/Diagnostic Studies/Electrocardiogram,avlsa,aVL: Absolute amplitude of the S wave (Left arm),,numeric,millimeters,,,,,
-Clinical Data/Diagnostic Studies/Electrocardiogram,avlsd,aVL lead: Duration of the S wave (Left arm),,numeric,milliseconds,,,,,
+Clinical Data/Diagnostic Studies/Electrocardiogram,avlsa,aVL Lead: Absolute amplitude of the S wave (Left arm),,numeric,millimeters,,,,,
+Clinical Data/Diagnostic Studies/Electrocardiogram,avlsd,aVL Lead: Duration of the S wave (Left arm),,numeric,milliseconds,,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,avlspa,aVL Lead: Amplitude of the secondary S wave (Left Arm),,numeric,millimeters,,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,avlste,aVL Lead: Amplitude of the S-T wave at the end point of the S wave,,numeric,millimeters,,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,avlstj,aVL Lead: Amplitude of the S-T wave at the J-point,,numeric,millimeters,,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,avlstm,aVL Lead: Amplitude of the S-T wave at the midpoint,,numeric,millimeters,,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,avlta,aVL Lead: Minimum amplitude of the T-wave,,numeric,millimeters,,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,avltpa,aVL Lead: Maximum amplitude of the T-wave,,numeric,millimeters,,,,,
-Clinical Data/Diagnostic Studies/Electrocardiogram,earlyrep,Early Repolarization,,choices,,earlyrepo,,,,
+Clinical Data/Diagnostic Studies/Electrocardiogram,earlyrep,Early repolarization,,choices,,earlyrepo,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,ecgcomm1,Comments 1,,text,,,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,ecgcomm2,Comments 2,,text,,,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,ecgcomm3,Comments 3,,text,,,,,,
@@ -172,17 +172,17 @@ Clinical Data/Diagnostic Studies/Electrocardiogram,istm,Lead I: Amplitude of the
 Clinical Data/Diagnostic Studies/Electrocardiogram,ita,Lead I: Minimum amplitude of the T-wave,,numeric,millimeters,,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,itpa,Lead I: Maximum amplitude of the T-wave,,numeric,millimeters,,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,oldinfar,Old infarct,,choices,,oldinfarct,,,,
-Clinical Data/Diagnostic Studies/Electrocardiogram,printerv,PR Interval,,numeric,milliseconds,,,,,
+Clinical Data/Diagnostic Studies/Electrocardiogram,printerv,PR interval,,numeric,milliseconds,,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,prtaxes1,P-R-T axis 1,,numeric,millimeters,,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,prtaxes2,P-R-T axis 2,,numeric,millimeters,,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,prtaxes3,P-R-T axis 3,,numeric,millimeters,,,,,
-Clinical Data/Diagnostic Studies/Electrocardiogram,qrsblok,QRS Conduction Block,,choices,,qrsblock,,,,
-Clinical Data/Diagnostic Studies/Electrocardiogram,qrsduran,QRS Duration,,numeric,milliseconds,,,,,
+Clinical Data/Diagnostic Studies/Electrocardiogram,qrsblok,QRS conduction block,,choices,,qrsblock,,,,
+Clinical Data/Diagnostic Studies/Electrocardiogram,qrsduran,QRS duration,,numeric,milliseconds,,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,qt,Q-T interval,,numeric,milliseconds,,,,,
-Clinical Data/Diagnostic Studies/Electrocardiogram,qtc,Q-Tc Interval,,numeric,milliseconds,,,,,
+Clinical Data/Diagnostic Studies/Electrocardiogram,qtc,Q-Tc interval,,numeric,milliseconds,,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,rhythm,Rhythm,,choices,,rhythm,,,,
-Clinical Data/Diagnostic Studies/Electrocardiogram,stsegabn,ST Segment Abnormality,,choices,,stsegabn,,,,
-Clinical Data/Diagnostic Studies/Electrocardiogram,sugische,Suggesting Ischemia,,choices,,ischemia,,,,
+Clinical Data/Diagnostic Studies/Electrocardiogram,stsegabn,ST segment abnormality,,choices,,stsegabn,,,,
+Clinical Data/Diagnostic Studies/Electrocardiogram,sugische,Suggesting ischemia,,choices,,ischemia,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,v1pa,V1: Minimum amplitude of the P-wave,,numeric,millimeters,,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,v1ppa,V1: Maximum amplitude of the P-wave,,numeric,millimeters,,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,v1qa,V1: Absolute amplitude of the Q-wave,,numeric,millimeters,,,,,
@@ -281,46 +281,46 @@ Clinical Data/Diagnostic Studies/Electrocardiogram,v6ta,V6: Minimum amplitude of
 Clinical Data/Diagnostic Studies/Electrocardiogram,v6tpa,V6: Maximum amplitude of the T-wave,,numeric,millimeters,,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,ventrate,Ventricular heart rate,,numeric,beats per minute,,,,,
 Clinical Data/Diagnostic Studies/Electrocardiogram,visitecg,Date of visit,,date,,,,,,
-Clinical Data/Diagnostic Studies/Lung Function/Brachial Reactivity,baseartd,Arterial Diameter Result,,numeric,millimeters,,,,,
-Clinical Data/Diagnostic Studies/Lung Function/Brachial Reactivity,baseartv,Arterial Diameter Doppler Velocity,,numeric,meters per second,,,,,
+Clinical Data/Diagnostic Studies/Lung Function/Brachial Reactivity,baseartd,Arterial diameter result,,numeric,millimeters,,,,,
+Clinical Data/Diagnostic Studies/Lung Function/Brachial Reactivity,baseartv,Arterial diameter doppler velocity,,numeric,meters per second,,,,,
 Clinical Data/Diagnostic Studies/Lung Function/Brachial Reactivity,basedia,Baseline 2D Image BP diastolic,,numeric,millimeters of mercury,,,,,
 Clinical Data/Diagnostic Studies/Lung Function/Brachial Reactivity,baseflow,Baseline flow volume,,numeric,,,,,,
-Clinical Data/Diagnostic Studies/Lung Function/Brachial Reactivity,basehr2d,Baseline 2D Image HR,,numeric,beats per minute,,,,,
-Clinical Data/Diagnostic Studies/Lung Function/Brachial Reactivity,basesys,Baseline 2D Image BP systolic,,numeric,millimeters of mercury,,,,,
-Clinical Data/Diagnostic Studies/Lung Function/Brachial Reactivity,brcomm,comments 1,,text,,,,,,
-Clinical Data/Diagnostic Studies/Lung Function/Brachial Reactivity,brcomm3,comments 3,,text,,,,,,
-Clinical Data/Diagnostic Studies/Lung Function/Brachial Reactivity,brlstcig,Last Cigarette,,choices,,cigarette,,,,
-Clinical Data/Diagnostic Studies/Lung Function/Brachial Reactivity,btcomm2,comments 2,,text,,,,,,
-Clinical Data/Diagnostic Studies/Lung Function/Brachial Reactivity,hypbpdia,Hyperemia/FMV One minute Cuff Release 2D Image BP diastolic,,numeric,millimeters of mercury,,,,,
-Clinical Data/Diagnostic Studies/Lung Function/Brachial Reactivity,hypbpsys,Hyperemia/FMV One minute Cuff Release 2D Image BP systolic,,numeric,millimeters of mercury,,,,,
+Clinical Data/Diagnostic Studies/Lung Function/Brachial Reactivity,basehr2d,Baseline 2D image HR,,numeric,beats per minute,,,,,
+Clinical Data/Diagnostic Studies/Lung Function/Brachial Reactivity,basesys,Baseline 2D image BP systolic,,numeric,millimeters of mercury,,,,,
+Clinical Data/Diagnostic Studies/Lung Function/Brachial Reactivity,brcomm,Comments 1,,text,,,,,,
+Clinical Data/Diagnostic Studies/Lung Function/Brachial Reactivity,brcomm3,Comments 3,,text,,,,,,
+Clinical Data/Diagnostic Studies/Lung Function/Brachial Reactivity,brlstcig,Last cigarette,,choices,,cigarette,,,,
+Clinical Data/Diagnostic Studies/Lung Function/Brachial Reactivity,btcomm2,Comments 2,,text,,,,,,
+Clinical Data/Diagnostic Studies/Lung Function/Brachial Reactivity,hypbpdia,Hyperemia/FMV one minute cuff release 2D image BP diastolic,,numeric,millimeters of mercury,,,,,
+Clinical Data/Diagnostic Studies/Lung Function/Brachial Reactivity,hypbpsys,Hyperemia/FMV one minute cuff release 2D image BP systolic,,numeric,millimeters of mercury,,,,,
 Clinical Data/Diagnostic Studies/Lung Function/Brachial Reactivity,hypflow,Hyperemia flow volume,,numeric,milliliters,,,,,
-Clinical Data/Diagnostic Studies/Lung Function/Brachial Reactivity,hypfmvd,FMV Arterial Diameter Result,,numeric,millimeters,,,,,
-Clinical Data/Diagnostic Studies/Lung Function/Brachial Reactivity,hypfmvv,FMV Arterial Diameter Doppler Velocity,,numeric,meters per second,,,,,
-Clinical Data/Diagnostic Studies/Lung Function/Brachial Reactivity,hyphr,Hyperemia/FMV One minute Cuff Release 2D Image HR,,numeric,beats per minute,,,,,
-Clinical Data/Diagnostic Studies/Lung Function/Brachial Reactivity,pctchg_d,Percent Change diameter,,numeric,percent,,,,,
-Clinical Data/Diagnostic Studies/Lung Function/Brachial Reactivity,pctchg_flow,Percent Change in flow volume,,numeric,percent,,,,,
-Clinical Data/Diagnostic Studies/Lung Function/Brachial Reactivity,pctchg_v,Percent Change velocity,,numeric,percent,,,,,
+Clinical Data/Diagnostic Studies/Lung Function/Brachial Reactivity,hypfmvd,FMV arterial diameter result,,numeric,millimeters,,,,,
+Clinical Data/Diagnostic Studies/Lung Function/Brachial Reactivity,hypfmvv,FMV arterial diameter doppler velocity,,numeric,meters per second,,,,,
+Clinical Data/Diagnostic Studies/Lung Function/Brachial Reactivity,hyphr,Hyperemia/FMV one minute cuff release 2D image HR,,numeric,beats per minute,,,,,
+Clinical Data/Diagnostic Studies/Lung Function/Brachial Reactivity,pctchg_d,Percent change diameter,,numeric,percent,,,,,
+Clinical Data/Diagnostic Studies/Lung Function/Brachial Reactivity,pctchg_flow,Percent change in flow volume,,numeric,percent,,,,,
+Clinical Data/Diagnostic Studies/Lung Function/Brachial Reactivity,pctchg_v,Percent change velocity,,numeric,percent,,,,,
 Clinical Data/Diagnostic Studies/Lung Function/Brachial Reactivity,visitbr,Date of visit,,date,,,,,,
-Clinical Data/Diagnostic Studies/Lung Function/Nitric Oxide Analysis,eno,Expired Nitric Oxide,,numeric,ppm,,,,,
-Clinical Data/Diagnostic Studies/Lung Function/Nitric Oxide Analysis,noambair,Ambient Air,,numeric,ppm,,,,,
-Clinical Data/Diagnostic Studies/Lung Function/Nitric Oxide Analysis,noavgdev,Nitric Oxide Percent Average Standard Deviation,,numeric,percent,,,,,
+Clinical Data/Diagnostic Studies/Lung Function/Nitric Oxide Analysis,eno,Expired nitric oxide,,numeric,ppm,,,,,
+Clinical Data/Diagnostic Studies/Lung Function/Nitric Oxide Analysis,noambair,Ambient air,,numeric,ppm,,,,,
+Clinical Data/Diagnostic Studies/Lung Function/Nitric Oxide Analysis,noavgdev,Nitric oxide percentage average standard deviation,,numeric,percent,,,,,
 Clinical Data/Diagnostic Studies/Lung Function/Nitric Oxide Analysis,plateau1,Plateau 1,,numeric,ppm,,,,,
 Clinical Data/Diagnostic Studies/Lung Function/Nitric Oxide Analysis,plateau2,Plateau 2,,numeric,ppm,,,,,
 Clinical Data/Diagnostic Studies/Lung Function/Nitric Oxide Analysis,plateau3,Plateau 3,,numeric,ppm,,,,,
-Clinical Data/Diagnostic Studies/Lung Function/Spirometry,expsaw,Spirometry:  expiratory sawtooth pattern,,choices,,noyes01,,,,
+Clinical Data/Diagnostic Studies/Lung Function/Spirometry,expsaw,Spirometry: Expiratory sawtooth pattern,,choices,,noyes01,,,,
 Clinical Data/Diagnostic Studies/Lung Function/Spirometry,f2575ppk,Percent of Knudson predictor: FEF 25%-75% (including race correlation),,numeric,percent,,,,,
-Clinical Data/Diagnostic Studies/Lung Function/Spirometry,fef25,Spirometry:  forced expiratory flow at 25,,numeric,,,,,,
+Clinical Data/Diagnostic Studies/Lung Function/Spirometry,fef25,Spirometry: Forced expiratory flow at 25,,numeric,,,,,,
 Clinical Data/Diagnostic Studies/Lung Function/Spirometry,fef2575,Spirometry: Forced expiratory flow (FEF) 25-75% range,,numeric,,,,,,
 Clinical Data/Diagnostic Studies/Lung Function/Spirometry,fef25ppk,Percent of Knudson predictor: FEF 25% (including race correlation),,numeric,percent,,,,,
-Clinical Data/Diagnostic Studies/Lung Function/Spirometry,fef50,Spirometry:  forced expiratory flow at 50,,numeric,,,,,,
+Clinical Data/Diagnostic Studies/Lung Function/Spirometry,fef50,Spirometry: Forced expiratory flow at 50,,numeric,,,,,,
 Clinical Data/Diagnostic Studies/Lung Function/Spirometry,fef50ppk,Percent of Knudson predictor: FEF 50% (including race correlation),,numeric,percent,,,,,
-Clinical Data/Diagnostic Studies/Lung Function/Spirometry,fef75,Spirometry:  forced expiratory flow at 75,,numeric,,,,,,
+Clinical Data/Diagnostic Studies/Lung Function/Spirometry,fef75,Spirometry: Forced expiratory flow at 75,,numeric,,,,,,
 Clinical Data/Diagnostic Studies/Lung Function/Spirometry,fef75ppk,Percent of Knudson predictor: FEF 75% (including race correlation),,numeric,percent,,,,,
-Clinical Data/Diagnostic Studies/Lung Function/Spirometry,fev1,"Spirometry: forced expiratory volume (FEV), 1st second",,numeric,,,,,,
+Clinical Data/Diagnostic Studies/Lung Function/Spirometry,fev1,"Spirometry:Forced expiratory volume (FEV), 1st second",,numeric,,,,,,
 Clinical Data/Diagnostic Studies/Lung Function/Spirometry,fev1ppk,Percent of Knudson predictor: FEV1 (including race correlation),,numeric,percent,,,,,
-Clinical Data/Diagnostic Studies/Lung Function/Spirometry,fvc,Spirometry:  forced vital capacity,,numeric,,,,,,
+Clinical Data/Diagnostic Studies/Lung Function/Spirometry,fvc,Spirometry: Forced vital capacity,,numeric,,,,,,
 Clinical Data/Diagnostic Studies/Lung Function/Spirometry,fvcppk,Percent of Knudson predictor: FVC (including race correlation),,numeric,percent,,,,,
-Clinical Data/Diagnostic Studies/Lung Function/Spirometry,pef,Spirometry:  peak expiratory flow,,numeric,,,,,,
+Clinical Data/Diagnostic Studies/Lung Function/Spirometry,pef,Spirometry: Peak expiratory flow,,numeric,,,,,,
 Clinical Data/Diagnostic Studies/Lung Function/Spirometry,pefppk,Percent of Knudson predictor: PEF (including race correlation),,numeric,percent,,,,,
 Clinical Data/Diagnostic Studies/Lung Function/Spirometry,pk2575,Standardized Knudson predictor: FEF 25-75%,,numeric,,,,,,
 Clinical Data/Diagnostic Studies/Lung Function/Spirometry,pkfef25,Standardized Knudson predictor: FEF 25%,,numeric,,,,,,
@@ -332,18 +332,18 @@ Clinical Data/Diagnostic Studies/Lung Function/Spirometry,pkpef,Standardized Knu
 Clinical Data/Incident Outcomes,hosp,Hospitalized since last visit,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Clinical Data/Incident Outcomes,hosphrt,Hospitalized for heart disease,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Clinical Data/Incident Outcomes,hosptim,Times hospitalized since last visit,,numeric,,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Clinical Data/Incident Outcomes,injury,Has been injuries or accidents in family,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Clinical Data/Incident Outcomes,injury,Has injuries or accidents in family,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Clinical Data/Incident Outcomes,dead,Patient died,,choices,,noyes01,mortality,,,
-Clinical Data/Incident Outcomes,icdcode1,Reason for death 1 (icd9code),,text,,,,,,
-Clinical Data/Incident Outcomes,icdcode2,Reason for death 2 (icd9code),,text,,,,,,
-Clinical Data/Incident Outcomes,icdcode3,Reason for death 3 (icd9code),,text,,,,,,
+Clinical Data/Incident Outcomes,icdcode1,Reason for death 1 (ICD-9 code),,text,,,,,,
+Clinical Data/Incident Outcomes,icdcode2,Reason for death 2 (ICD-9 code),,text,,,,,,
+Clinical Data/Incident Outcomes,icdcode3,Reason for death 3 (ICD-9 code),,text,,,,,,
 Clinical Data/Laboratory Tests,adiponectin,Adiponectin levels,,numeric,milligrams per decaliter,,,,,
 Clinical Data/Laboratory Tests,adiponectin_comment,Adiponectin levels,,text,,,,,,
 Clinical Data/Laboratory Tests,adiponectin_flag,"Adiponectin levels, test for normal levels",,choices,,bloodflag,,,,
 Clinical Data/Laboratory Tests,adiponectin_orig,Adiponectin levels,,numeric,picograms per milliliter,,,,,
 Clinical Data/Laboratory Tests,albumincat,Albumin excretion rate (race & sex adjusted) - categorical,,choices,,albumincat,,,,
-Clinical Data/Laboratory Tests,catecholamine_cbal,Catecholamine Assay: Core Biochemical Assay Lab ID Number,,identifier,,,,,,
-Clinical Data/Laboratory Tests,cbal,Core Biochemical Assay Lab ID Number,,identifier,,,,,,
+Clinical Data/Laboratory Tests,catecholamine_cbal,Catecholamine Assay: Core biochemical assay lab ID number,,identifier,,,,,,
+Clinical Data/Laboratory Tests,cbal,Core biochemical assay lab ID number,,identifier,,,,,,
 Clinical Data/Laboratory Tests,cholesterol,Total cholesterol levels,,numeric,milligrams per deciliter,,,,,
 Clinical Data/Laboratory Tests,cholesterol_flag,"Cholesterol levels, test for normal levels",,choices,,bloodflag,,,,
 Clinical Data/Laboratory Tests,cholesterol_orig,Cholesterol levels,,numeric,milligrams per deciliter,,,,,
@@ -371,9 +371,9 @@ Clinical Data/Laboratory Tests,ddimeram_orig,D-dimer protein levels - AM reading
 Clinical Data/Laboratory Tests,ddimerpm,D-Dimer levels - PM reading,,numeric,nanograms per milliliter,,,,,
 Clinical Data/Laboratory Tests,ddimerpm_flag,"D-dimer protein levels - PM reading, test for normal levels",,choices,,bloodflag,,,,
 Clinical Data/Laboratory Tests,ddimerpm_orig,D-dimer protein levels - PM reading,,numeric,nanograms per milliliter,,,,,
-Clinical Data/Laboratory Tests,ddimerstaram,D-Dimer levels - AM reading (Star reading),,numeric,nanograms per milliliter,,,,,
-Clinical Data/Laboratory Tests,ddimerstaram_flag,"D-dimer protein levels - AM reading, test for normal levels (Star reading)",,choices,,bloodflag,,,,
-Clinical Data/Laboratory Tests,ddimerstaram_orig,D-dimer protein levels - AM reading (star reading),,numeric,nanograms per milliliter,,,,,
+Clinical Data/Laboratory Tests,ddimerstaram,D-Dimer levels - AM reading (STAR reading),,numeric,nanograms per milliliter,,,,,
+Clinical Data/Laboratory Tests,ddimerstaram_flag,"D-dimer protein levels - AM reading, test for normal levels (STAR reading)",,choices,,bloodflag,,,,
+Clinical Data/Laboratory Tests,ddimerstaram_orig,D-dimer protein levels - AM reading (STAR reading),,numeric,nanograms per milliliter,,,,,
 Clinical Data/Laboratory Tests,dna,Has any active DNA sample,,choices,,noyes01,,,,
 Clinical Data/Laboratory Tests,dna_active,Is DNA sample active?,,choices,,dnayesno,,,,
 Clinical Data/Laboratory Tests,dna_ampbuccal,Has active amplified buccal DNA sample,,choices,,noyes01,,,,
@@ -389,7 +389,7 @@ Clinical Data/Laboratory Tests,epinephrine,Epinephrine levels,,numeric,microgram
 Clinical Data/Laboratory Tests,epinephrine_flag,"Epinephrine levels, test for normal levels",,choices,,bloodflag,,,,
 Clinical Data/Laboratory Tests,epinephrine_orig,Epinephrine levels,,numeric,micrograms per milliliter,,,,,
 Clinical Data/Laboratory Tests,fibrinogenam,Fibrinogen levels - AM reading,,numeric,milligrams per deciliter,,,,,
-Clinical Data/Laboratory Tests,fibrinogenam_cbal,Fibrinogen AM Assay: Core Biochemical Assay Lab ID Number,,identifier,,,,,,
+Clinical Data/Laboratory Tests,fibrinogenam_cbal,Fibrinogen AM Assay: Core biochemical assay lab ID number,,identifier,,,,,,
 Clinical Data/Laboratory Tests,fibrinogenam_comment,Fibrinogen levels - AM reading,,text,,,,,,
 Clinical Data/Laboratory Tests,fibrinogenam_flag,"Fibrinogen levels - AM reading, test for normal levels",,choices,,bloodflag,,,,
 Clinical Data/Laboratory Tests,fibrinogenam_orig,Fibrinogen levels - AM reading,,numeric,milligrams per deciliter,,,,,
@@ -408,28 +408,28 @@ Clinical Data/Laboratory Tests,glucose_ogtt,Oral glucose tolerance test,,numeric
 Clinical Data/Laboratory Tests,glucose_ogtt_flag,"Oral glucose tolerance test, test for normal levels",,choices,,bloodflag,,,,
 Clinical Data/Laboratory Tests,glucose_ogtt_orig,Oral glucose tolerance test,,numeric,milligrams per deciliter,,,,,
 Clinical Data/Laboratory Tests,grubb_factor,Grubb factor,,numeric,,,,,,
-Clinical Data/Laboratory Tests,hdl,High density lipoprotein levels,,numeric,milligrams per deciliter,,,,,
+Clinical Data/Laboratory Tests,hdl,High-density lipoprotein levels,,numeric,milligrams per deciliter,,,,,
 Clinical Data/Laboratory Tests,hdl_flag,"High-density lipoprotein levels, test for normal levels",,choices,,bloodflag,,,,
 Clinical Data/Laboratory Tests,hdl_orig,High-density lipoprotein levels,,numeric,milligrams per deciliter,,,,,
-Clinical Data/Laboratory Tests,homa,Homeostasis Model Assessment for insulin resistance,,numeric,,,,,,
+Clinical Data/Laboratory Tests,homa,Homeostasis model assessment for insulin resistance,,numeric,,,,,,
 Clinical Data/Laboratory Tests,icam,Intercellular Adhesion Molecule (ICAM) levels,,numeric,nanograms per milliliter,,,,,
 Clinical Data/Laboratory Tests,icam_comment,Intercellular Adhesion Molecule (ICAM) levels,,text,,,,,,
 Clinical Data/Laboratory Tests,icam_flag,"Intercellular Adhesion Molecule (ICAM) levels, test for normal levels",,choices,,bloodflag,,,,
 Clinical Data/Laboratory Tests,icam_orig,Intercellular Adhesion Molecule (ICAM) levels,,numeric,nanograms per milliliter,,,,,
-Clinical Data/Laboratory Tests,il10,Interleukin 10 levels,,numeric,picograms per milliliter,,,,,
-Clinical Data/Laboratory Tests,il10_comment,Interleukin 10 levels,,text,,,,,,
-Clinical Data/Laboratory Tests,il10_flag,"Interleukin 10 levels, test for normal levels",,choices,,bloodflag,,,,
-Clinical Data/Laboratory Tests,il10_orig,Interleukin 10 levels,,numeric,picograms per milliliter,,,,,
+Clinical Data/Laboratory Tests,il10,Interleukin-10 levels,,numeric,picograms per milliliter,,,,,
+Clinical Data/Laboratory Tests,il10_comment,Interleukin-10 levels,,text,,,,,,
+Clinical Data/Laboratory Tests,il10_flag,"Interleukin-10 levels, test for normal levels",,choices,,bloodflag,,,,
+Clinical Data/Laboratory Tests,il10_orig,Interleukin-10 levels,,numeric,picograms per milliliter,,,,,
 Clinical Data/Laboratory Tests,il1b,Interleukin 1-B levels,,numeric,picograms per milliliter,,,,,
 Clinical Data/Laboratory Tests,il1b_comment,Interleukin 1-B levels,,text,,,,,,
 Clinical Data/Laboratory Tests,il1b_flag,"Interleukin 1-B levels, test for normal levels",,choices,,bloodflag,,,,
 Clinical Data/Laboratory Tests,il1b_orig,Interleukin 1-B levels,,numeric,picograms per milliliter,,,,,
-Clinical Data/Laboratory Tests,il6am,Interleukin 6 levels - AM reading,26 values were inserted by using the ceiling and floor reference values,numeric,picograms per milliliter,,,,,
-Clinical Data/Laboratory Tests,il6am_flag,"Interleukin 6 levels - AM reading, test for normal levels",,choices,,bloodflag,,,,
-Clinical Data/Laboratory Tests,il6am_orig,Interleukin 6 levels - AM reading,,numeric,picograms per milliliter,,,,,
-Clinical Data/Laboratory Tests,il6pm,Interleukin 6 levels - PM reading,24 values were inserted by using the ceiling and floor reference values,numeric,picograms per milliliter,,,,,
-Clinical Data/Laboratory Tests,il6pm_flag,"Interleukin 6 levels - PM reading, test for normal levels",,choices,,bloodflag,,,,
-Clinical Data/Laboratory Tests,il6pm_orig,Interleukin 6 levels - PM reading,,numeric,picograms per milliliter,,,,,
+Clinical Data/Laboratory Tests,il6am,Interleukin-6 levels - AM reading,26 values were inserted by using the ceiling and floor reference values,numeric,picograms per milliliter,,,,,
+Clinical Data/Laboratory Tests,il6am_flag,"Interleukin-6 levels - AM reading, test for normal levels",,choices,,bloodflag,,,,
+Clinical Data/Laboratory Tests,il6am_orig,Interleukin-6 levels - AM reading,,numeric,picograms per milliliter,,,,,
+Clinical Data/Laboratory Tests,il6pm,Interleukin-6 levels - PM reading,24 values were inserted by using the ceiling and floor reference values,numeric,picograms per milliliter,,,,,
+Clinical Data/Laboratory Tests,il6pm_flag,"Interleukin-6 levels - PM reading, test for normal levels",,choices,,bloodflag,,,,
+Clinical Data/Laboratory Tests,il6pm_orig,Interleukin-6 levels - PM reading,,numeric,picograms per milliliter,,,,,
 Clinical Data/Laboratory Tests,insulin_fast,Fasting insulin levels,,numeric,milligrams per deciliter,,,,,
 Clinical Data/Laboratory Tests,insulin_fast_flag,"Fasting insulin levels, test for normal levels",,choices,,bloodflag,,,,
 Clinical Data/Laboratory Tests,insulin_fast_orig,Fasting insulin levels,,numeric,milligrams per deciliter,,,,,
@@ -447,10 +447,10 @@ Clinical Data/Laboratory Tests,leptinam_orig,Leptin levels - AM reading,,numeric
 Clinical Data/Laboratory Tests,leptinpm,Leptin levels - PM reading,44 values were inserted by using the ceiling and floor reference values,numeric,nanograms per milliliter,,,,,
 Clinical Data/Laboratory Tests,leptinpm_flag,"Leptin levels - PM reading, test for normal levels",,choices,,bloodflag,,,,
 Clinical Data/Laboratory Tests,leptinpm_orig,Leptin levels - PM reading,,numeric,nanograms per milliliter,,,,,
-Clinical Data/Laboratory Tests,ln_il10,Log value: Interleukin 10 levels,,numeric,,,,,,
+Clinical Data/Laboratory Tests,ln_il10,Log value: Interleukin-10 levels,,numeric,,,,,,
 Clinical Data/Laboratory Tests,ln_il1b,Log value: Interleukin 1-B levels,,numeric,,,,,,
-Clinical Data/Laboratory Tests,ln_il6am,Log value: Interleukin 6 levels - AM reading,,numeric,picograms per milliliter,,,,,
-Clinical Data/Laboratory Tests,ln_il6pm,Log value: Interleukin 6 levels - PM reading,,numeric,picograms per milliliter,,,,,
+Clinical Data/Laboratory Tests,ln_il6am,Log value: Interleukin-6 levels - AM reading,,numeric,picograms per milliliter,,,,,
+Clinical Data/Laboratory Tests,ln_il6pm,Log value: Interleukin-6 levels - PM reading,,numeric,picograms per milliliter,,,,,
 Clinical Data/Laboratory Tests,ln_tnfaam,Log value: Tumor necrosis factor-alpha levels - AM reading,,numeric,picograms per milliliter,,,,,
 Clinical Data/Laboratory Tests,ln_tnfapm,Log value: Tumor necrosis factor-alpha levels - PM reading,,numeric,picograms per milliliter,,,,,
 Clinical Data/Laboratory Tests,lncrp_diff,Log value: C-reactive protein levels - difference between AM and PM draw,,numeric,micrograms per milliliter,,,,,
@@ -462,12 +462,12 @@ Clinical Data/Laboratory Tests,lnddimerpm,Log value: D-Dimer levels - PM reading
 Clinical Data/Laboratory Tests,lnddimerstaram,Log value: D-Dimer levels - AM reading (star reading),,numeric,micrograms per milliliter,,,,,
 Clinical Data/Laboratory Tests,lnhoma,Log value: Homeostasis Model Assessment for insulin resistance,,numeric,,,,,,
 Clinical Data/Laboratory Tests,lnisi0120,Log value: Insulin sensitivity index,,numeric,,,,,,
-Clinical Data/Laboratory Tests,lnquicki,Log value: Quantitative Insulin Check Index,,numeric,,,,,,
-Clinical Data/Laboratory Tests,mcratio,Microalbumin-Creatinine ratio,,numeric,micrograms to milligrams,,,,,
-Clinical Data/Laboratory Tests,mcratio_flag,"Microalbumin-Creatinine ratio, test for normal values",,choices,,bloodflag,,,,
-Clinical Data/Laboratory Tests,mcratio_orig,Microalbumin-Creatinine ratio,,numeric,micrograms to milligrams,,,,,
+Clinical Data/Laboratory Tests,lnquicki,Log value: Quantitative insulin check index,,numeric,,,,,,
+Clinical Data/Laboratory Tests,mcratio,Microalbumin-creatinine ratio,,numeric,micrograms to milligrams,,,,,
+Clinical Data/Laboratory Tests,mcratio_flag,"Microalbumin-creatinine ratio, test for normal values",,choices,,bloodflag,,,,
+Clinical Data/Laboratory Tests,mcratio_orig,Microalbumin-creatinine ratio,,numeric,micrograms to milligrams,,,,,
 Clinical Data/Laboratory Tests,microalb,Microalbumin levels,,numeric,milligrams per deciliter,,,,,
-Clinical Data/Laboratory Tests,microalb_cbal,Microalbumin Assay: Core Biochemical Assay Lab ID Number,,identifier,,,,,,
+Clinical Data/Laboratory Tests,microalb_cbal,Microalbumin Assay: Core biochemical assay lab ID number,,identifier,,,,,,
 Clinical Data/Laboratory Tests,microalb_comment,Microalbumin levels,,text,,,,,,
 Clinical Data/Laboratory Tests,microalb_flag,"Microalbumin levels, test for normal values",,choices,,bloodflag,,,,
 Clinical Data/Laboratory Tests,microalb_mgl,Microalbumin levels,,numeric,milligrams per deciliter,,,,,
@@ -477,24 +477,24 @@ Clinical Data/Laboratory Tests,microcre_ratiok,Albumin excretion rate (race & se
 Clinical Data/Laboratory Tests,norepinephrine,Norepinephrine levels,,numeric,micrograms per milliliter,,,,,
 Clinical Data/Laboratory Tests,norepinephrine_flag,"Norepinephrine levels, test for normal values",,choices,,bloodflag,,,,
 Clinical Data/Laboratory Tests,norepinephrine_orig,Norepinephrine levels,,numeric,micrograms per milliliter,,,,,
-Clinical Data/Laboratory Tests,oxldl,Oxidized low density lipoprotein levels,1 value was inserted by using the ceiling and floor reference values,numeric,units per liter,,,,,
+Clinical Data/Laboratory Tests,oxldl,Oxidized low-density lipoprotein levels,1 value was inserted by using the ceiling and floor reference values,numeric,units per liter,,,,,
 Clinical Data/Laboratory Tests,oxldl_comment,Oxidized low-density lipoprotein levels,,text,,,,,,
 Clinical Data/Laboratory Tests,oxldl_flag,"Oxidized low-density lipoprotein levels, test for normal values",,choices,,bloodflag,,,,
 Clinical Data/Laboratory Tests,oxldl_orig,Oxidized low-density lipoprotein levels,,numeric,units per liter,,,,,
-Clinical Data/Laboratory Tests,pai1_comment,Plasminogen Activation Inhibitor-1 levels - AM reading,,text,,,,,,
+Clinical Data/Laboratory Tests,pai1_comment,Plasminogen activation inhibitor-1 levels - AM reading,,text,,,,,,
 Clinical Data/Laboratory Tests,pai1am,Plasminogen activator inhibitor-1 levels - AM reading,3 values were inserted by using the ceiling and floor reference values,numeric,nanograms per milliliter,,,,,
-Clinical Data/Laboratory Tests,pai1am_flag,"Plasminogen Activation Inhibitor-1 levels - AM reading, test for normal values",,choices,,bloodflag,,,,
-Clinical Data/Laboratory Tests,pai1am_orig,Plasminogen Activation Inhibitor-1 levels - AM reading,,numeric,nanograms per milliliter,,,,,
+Clinical Data/Laboratory Tests,pai1am_flag,"Plasminogen activation inhibitor-1 levels - AM reading, test for normal values",,choices,,bloodflag,,,,
+Clinical Data/Laboratory Tests,pai1am_orig,Plasminogen activation inhibitor-1 levels - AM reading,,numeric,nanograms per milliliter,,,,,
 Clinical Data/Laboratory Tests,pai1pm,Plasminogen activator inhibitor-1 levels - PM reading,27 values were inserted by using the ceiling and floor reference values,numeric,nanograms per milliliter,,,,,
-Clinical Data/Laboratory Tests,pai1pm_flag,"Plasminogen Activation Inhibitor-1 levels - PM reading, test for normal values",,choices,,bloodflag,,,,
-Clinical Data/Laboratory Tests,pai1pm_orig,Plasminogen Activation Inhibitor-1 levels - PM reading,,numeric,nanograms per milliliter,,,,,
-Clinical Data/Laboratory Tests,quicki,Quantitative Insulin Check Index,,numeric,,,,,,
+Clinical Data/Laboratory Tests,pai1pm_flag,"Plasminogen activation inhibitor-1 levels - PM reading, test for normal values",,choices,,bloodflag,,,,
+Clinical Data/Laboratory Tests,pai1pm_orig,Plasminogen activation inhibitor-1 levels - PM reading,,numeric,nanograms per milliliter,,,,,
+Clinical Data/Laboratory Tests,quicki,Quantitative insulin check index,,numeric,,,,,,
 Clinical Data/Laboratory Tests,rbp4,Retinol binding protein-4 levels,2 values were inserted by using the ceiling and floor reference values,numeric,milligrams per deciliter,,,,,
 Clinical Data/Laboratory Tests,rbp4_comment,Retinol binding protein-4 levels,,text,,,,,,
 Clinical Data/Laboratory Tests,rbp4_flag,"Retinol binding protein-4 levels, test for normal values",,choices,,bloodflag,,,,
 Clinical Data/Laboratory Tests,rbp4_orig,Retinol binding protein-4 levels,,numeric,milligrams per deciliter,,,,,
 Clinical Data/Laboratory Tests,resistin,Resistin levels,,numeric,micrograms per liter,,,,,
-Clinical Data/Laboratory Tests,resistin_cbal,Resistin Assay: Core Biochemical Assay Lab ID Number,,identifier,,,,,,
+Clinical Data/Laboratory Tests,resistin_cbal,Resistin Assay: Core biochemical assay lab ID number,,identifier,,,,,,
 Clinical Data/Laboratory Tests,resistin_comment,Resistin levels,,text,,,,,,
 Clinical Data/Laboratory Tests,resistin_flag,"Resistin levels, test for normal values",,choices,,bloodflag,,,,
 Clinical Data/Laboratory Tests,resistin_orig,Resistin levels,,numeric,picograms per milliliter,,,,,
@@ -528,12 +528,12 @@ Clinical Data/Laboratory Tests,snp_il6_3572_orig,Interleukin-6 nucleotide polymo
 Clinical Data/Laboratory Tests,snp_il6_6021,Interleukin-6 nucleotide polymorphism 6021 levels,,choices,,snpmorph,,,,
 Clinical Data/Laboratory Tests,snp_il6_6021_flag,"Interleukin-6 nucleotide polymorphism 6021 levels, test for normal values",,choices,,bloodflag,,,,
 Clinical Data/Laboratory Tests,snp_il6_6021_orig,Interleukin-6 nucleotide polymorphism 6021 levels,,choices,,snpmorph,,,,
-Clinical Data/Laboratory Tests,solil6am,Soluble Interleukin-6 levels - AM reading,,numeric,,,,,,
-Clinical Data/Laboratory Tests,solil6am_flag,"Soluble Interleukin-6 levels - AM reading, test for normal values",,choices,,bloodflag,,,,
-Clinical Data/Laboratory Tests,solil6am_orig,Soluble Interleukin-6 levels - AM reading,,numeric,,,,,,
-Clinical Data/Laboratory Tests,solil6pm,Soluble Interleukin-6 levels - PM reading,,numeric,,,,,,
-Clinical Data/Laboratory Tests,solil6pm_flag,"Soluble Interleukin-6 levels - PM reading, test for normal values",,choices,,bloodflag,,,,
-Clinical Data/Laboratory Tests,solil6pm_orig,Soluble Interleukin-6 levels - PM reading,,numeric,,,,,,
+Clinical Data/Laboratory Tests,solil6am,Soluble interleukin-6 levels - AM reading,,numeric,,,,,,
+Clinical Data/Laboratory Tests,solil6am_flag,"Soluble interleukin-6 levels - AM reading, test for normal values",,choices,,bloodflag,,,,
+Clinical Data/Laboratory Tests,solil6am_orig,Soluble interleukin-6 levels - AM reading,,numeric,,,,,,
+Clinical Data/Laboratory Tests,solil6pm,Soluble interleukin-6 levels - PM reading,,numeric,,,,,,
+Clinical Data/Laboratory Tests,solil6pm_flag,"Soluble interleukin-6 levels - PM reading, test for normal values",,choices,,bloodflag,,,,
+Clinical Data/Laboratory Tests,solil6pm_orig,Soluble interleukin-6 levels - PM reading,,numeric,,,,,,
 Clinical Data/Laboratory Tests,tigf,Circulating insulin growth factor levels,,numeric,nanograms per milliliter,,,,,
 Clinical Data/Laboratory Tests,tigf_flag,"Circulating insulin growth factor levels, test for normal values",,choices,,bloodflag,,,,
 Clinical Data/Laboratory Tests,tigf_orig,Circulating insulin growth factor levels,,numeric,nanograms per milliliter,,,,,
@@ -554,9 +554,9 @@ Clinical Data/Laboratory Tests,visfatin,Visfatin levels,,numeric,,,nicotinamide 
 Clinical Data/Laboratory Tests,visfatin_comments,Visfatin levels,,text,,,nicotinamide phosphoribosyltransferase;NAmPRTase;pre-B-cell colony-enhancing factor 1;PBEF1,,,
 Clinical Data/Laboratory Tests,visfatin_flag,"Visfatin levels, test for normal values",,choices,,bloodflag,nicotinamide phosphoribosyltransferase;NAmPRTase;pre-B-cell colony-enhancing factor 1;PBEF1,,,
 Clinical Data/Laboratory Tests,visfatin_orig,Visfatin levels,,numeric,,,nicotinamide phosphoribosyltransferase;NAmPRTase;pre-B-cell colony-enhancing factor 1;PBEF1,,,
-Clinical Data/Laboratory Tests,vtcryo1_remaining,Vermont Remaining Cryo 1,,numeric,microliters,,,,,
+Clinical Data/Laboratory Tests,vtcryo1_remaining,Vermont remaining cryo 1,,numeric,microliters,,,,,
 Clinical Data/Laboratory Tests,vtcryo2_volume,Vermont cryo 2 volume,,numeric,microliters,,,,,
-Clinical Data/Laboratory Tests,vtcryo3_remaining,Vermont Remaining Cryo 3,,numeric,microliters,,,,,
+Clinical Data/Laboratory Tests,vtcryo3_remaining,Vermont remaining cryo 3,,numeric,microliters,,,,,
 Clinical Data/Laboratory Tests,vtdna,Has Vermont DNA sample?,,choices,,noyes01,,,,
 Clinical Data/Laboratory Tests,vtdna_comments,Vermont DNA comments,,text,,,,,,
 Clinical Data/Laboratory Tests,vtdna_conc,Vermont DNA volume concentration,,numeric,micrograms per milliliter,,,,,
@@ -573,133 +573,133 @@ Clinical Data/Physiological Measurement/Rhinometry,rcurve3,Score for curve 3,,ch
 Clinical Data/Physiological Measurement/Rhinometry,rcurve4,Score for curve 4,,choices,,rhinoqs,,,,
 Clinical Data/Vital Signs/Seated Blood Pressure,dbp,Mean diastolic blood pressure,,numeric,millimeters of mercury,,,,TRUE,
 Clinical Data/Vital Signs/Seated Blood Pressure,sbp,Mean systolic blood pressure,,numeric,millimeters of mercury,,,,TRUE,
-Clinical Data/Vital Signs/Seated Blood Pressure,aaratio,Ankle Arm Ratio,,numeric,,,,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,aaratio,Ankle/arm Ratio,,numeric,,,,,,
 Clinical Data/Vital Signs/Seated Blood Pressure,aaratio_calc,Ratio of arm to ankle pressure,,numeric,,,,( armmean / ankmean ),,
 Clinical Data/Vital Signs/Seated Blood Pressure,aaratio_lt6pts,Less than 6 measurements in calculations,,choices,,flag,,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,am10dia,10 AM Diastolic,,numeric,millimeters of mercury,,,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,am10dia1,10 AM - Diastolic 1,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,am10dia2,10 AM - Diastolic 2,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,am10dia3,10 AM - Diastolic 3,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,am10hr1,10 AM - Heart Rate 1,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,am10hr2,10 AM - Heart Rate 2,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,am10hr3,10 AM - Heart Rate 3,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,am10sys,10 AM Systolic,,numeric,millimeters of mercury,,,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,am10sys1,10 AM - Systolic 1,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,am10sys2,10 AM - Systolic 2,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,am10sys3,10 AM - Systolic 3,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,am7dia,7 AM Diastolic,,numeric,millimeters of mercury,,,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,am7dia1,7 AM - Diastolic 1,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,am7dia2,7 AM - Diastolic 2,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,am7dia3,7 AM - Diastolic 3,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,am7hr1,7 AM - Heart Rate 1,,numeric,beats per minute,,cfs_nurse_notes,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,am7hr2,7 AM - Heart Rate 2,,numeric,beats per minute,,cfs_nurse_notes,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,am7hr3,7 AM - Heart Rate 3,,numeric,beats per minute,,cfs_nurse_notes,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,am7sys,7 AM Systolic,,numeric,millimeters of mercury,,,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,am7sys1,7 AM - Systolic 1,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,am7sys2,7 AM - Systolic 2,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,am7sys3,7 AM - Systolic 3,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,ankardsp,Doppler Systolic Pressure,,numeric,millimeters of mercury,,,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,ankarmil,Maximal Inflation Level,,numeric,millimeters of mercury,,,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,am10dia,10 AM: Diastolic,,numeric,millimeters of mercury,,,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,am10dia1,10 AM: Diastolic 1,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,am10dia2,10 AM: Diastolic 2,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,am10dia3,10 AM: Diastolic 3,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,am10hr1,10 AM: Heart Rate 1,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,am10hr2,10 AM: Heart Rate 2,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,am10hr3,10 AM: Heart Rate 3,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,am10sys,10 AM: Systolic,,numeric,millimeters of mercury,,,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,am10sys1,10 AM: Systolic 1,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,am10sys2,10 AM: Systolic 2,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,am10sys3,10 AM: Systolic 3,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,am7dia,7 AM: Diastolic,,numeric,millimeters of mercury,,,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,am7dia1,7 AM: Diastolic 1,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,am7dia2,7 AM: Diastolic 2,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,am7dia3,7 AM: Diastolic 3,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,am7hr1,7 AM: Heart Rate 1,,numeric,beats per minute,,cfs_nurse_notes,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,am7hr2,7 AM: Heart Rate 2,,numeric,beats per minute,,cfs_nurse_notes,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,am7hr3,7 AM: Heart Rate 3,,numeric,beats per minute,,cfs_nurse_notes,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,am7sys,7 AM: Systolic,,numeric,millimeters of mercury,,,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,am7sys1,7 AM: Systolic 1,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,am7sys2,7 AM: Systolic 2,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,am7sys3,7 AM: Systolic 3,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,ankardsp,Doppler systolic pressure,,numeric,millimeters of mercury,,,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,ankarmil,Maximal inflation level,,numeric,millimeters of mercury,,,,,
 Clinical Data/Vital Signs/Seated Blood Pressure,ankmean,Mean of ankle blood pressure measurements,,numeric,millimeters of mercury,,,,,
 Clinical Data/Vital Signs/Seated Blood Pressure,armmean,Mean of arm blood pressure measurements,,numeric,millimeters of mercury,,,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,labavgdia,Mean lab Diastolic Blood Pressure,,numeric,millimeters of mercury,,,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,labavghr,Mean lab Heart Rate,,numeric,beats per minute,,,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,labavgsys,Mean lab Systolic Blood Pressure,,numeric,millimeters of mercury,,,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,lankbp1,Left Ankle Systolic Blood Pressure 1,,numeric,millimeters of mercury,,,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,lankbp2,Left Ankle Systolic Blood Pressure 2,,numeric,millimeters of mercury,,,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,larmbp1,Left Arm Systolic Blood Pressure 1,,numeric,millimeters of mercury,,,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,larmbp2,Left Arm Systolic Blood Pressure 2,,numeric,millimeters of mercury,,,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,occlude,Did the patient occlude?,,choices,,noyes01,,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,pm10dia,10 PM Diastolic,,numeric,millimeters of mercury,,,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,pm10dia1,10 PM - Diastolic 1,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,pm10dia2,10 PM - Diastolic 2,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,pm10dia3,10 PM - Diastolic 3,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,pm10hr1,10 PM - Heart Rate 1,,numeric,beats per minute,,cfs_nurse_notes,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,pm10hr2,10 PM - Heart Rate 2,,numeric,beats per minute,,cfs_nurse_notes,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,pm10hr3,10 PM - Heart Rate 3,,numeric,beats per minute,,cfs_nurse_notes,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,pm10sys,10 PM Systolic,,numeric,millimeters of mercury,,,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,pm10sys1,10 PM - Systolic 1,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,pm10sys2,10 PM - Systolic 2,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,pm10sys3,10 PM - Systolic 3,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,rankbp1,Right Ankle Systolic Blood Pressure 1,,numeric,millimeters of mercury,,,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,rankbp2,Right Ankle Systolic Blood Pressure 2,,numeric,millimeters of mercury,,,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,rarmbp1,Right Arm Systolic Blood Pressure 1,,numeric,millimeters of mercury,,,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,rarmbp2,Right Arm Systolic Blood Pressure 2,,numeric,millimeters of mercury,,,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,labavgdia,Mean lab diastolic blood pressure,,numeric,millimeters of mercury,,,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,labavghr,Mean lab heart rate,,numeric,beats per minute,,,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,labavgsys,Mean lab systolic blood pressure,,numeric,millimeters of mercury,,,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,lankbp1,Left ankle systolic blood pressure 1,,numeric,millimeters of mercury,,,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,lankbp2,Left ankle systolic blood pressure 2,,numeric,millimeters of mercury,,,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,larmbp1,Left arm systolic blood pressure 1,,numeric,millimeters of mercury,,,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,larmbp2,Left arm systolic blood pressure 2,,numeric,millimeters of mercury,,,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,occlude,Did the patient occlude,,choices,,noyes01,,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,pm10dia,10 PM: Diastolic,,numeric,millimeters of mercury,,,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,pm10dia1,10 PM: Diastolic 1,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,pm10dia2,10 PM: Diastolic 2,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,pm10dia3,10 PM: Diastolic 3,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,pm10hr1,10 PM: Heart Rate 1,,numeric,beats per minute,,cfs_nurse_notes,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,pm10hr2,10 PM: Heart Rate 2,,numeric,beats per minute,,cfs_nurse_notes,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,pm10hr3,10 PM: Heart Rate 3,,numeric,beats per minute,,cfs_nurse_notes,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,pm10sys,10 PM: Systolic,,numeric,millimeters of mercury,,,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,pm10sys1,10 PM: Systolic 1,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,pm10sys2,10 PM: Systolic 2,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,pm10sys3,10 PM: Systolic 3,,numeric,millimeters of mercury,,cfs_nurse_notes,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,rankbp1,Right ankle systolic blood pressure 1,,numeric,millimeters of mercury,,,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,rankbp2,Right ankle systolic blood pressure 2,,numeric,millimeters of mercury,,,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,rarmbp1,Right arm systolic blood pressure 1,,numeric,millimeters of mercury,,,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,rarmbp2,Right arm systolic blood pressure 2,,numeric,millimeters of mercury,,,,,
 Clinical Data/Vital Signs/Seated Blood Pressure,recdrugs,Use recreational drugs,,choices,,noyesdk_2,cfs_nurse_notes,,,
-Clinical Data/Vital Signs/Seated Blood Pressure,visitaa,visit date,,date,,,,,,
+Clinical Data/Vital Signs/Seated Blood Pressure,visitaa,Visit date,,date,,,,,,
 Demographics,age_category,Participant's age (category),,choices,,agecat,,,TRUE,
 Demographics,ethnicity,Participant's ethnicity,,choices,,ethnicity01,,,TRUE,
 Demographics,race,Participant's race,"'Asian', 'Hispanic', 'Other', and 'More than one race' were condensed into 'Other' to match other NSRR datasets",choices,,race123,,,TRUE,
 Demographics,sex,Participant's sex,,choices,,gender01,,,TRUE,
 Demographics,marstat,Participant's marital status,,choices,,marstat,,,,baseline_lab_adult_child_questionnaire
 Demographics,age,Participant's age,,numeric,,,,,,
-Demographics,agege60,Age greater than or equal to 60?,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,
+Demographics,agege60,Age greater than or equal to 60,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,
 Demographics,amindian,Participant's race - Native American,,choices,,noyes01,,,,
 Demographics,asian,Participant's race - Asian,,choices,,noyes01,,,,
 Demographics,black,Participant's race - Black,,choices,,noyes01,,,,
 Demographics,hawaiip,Participant's race - Hawaiian or Pacific Islander,,choices,,noyes01,,,,
 Demographics,hispanic,Hispanic,,choices,,hispanic,,,,
 Demographics,male,Subject gender,,choices,,gender01,cfs_lab_adult_child_questionnaire,,,
-Demographics,monotwin,Participant has Identical twin,,choices,,noyes01,,,,
+Demographics,monotwin,Participant has identical twin,,choices,,noyes01,,,,
 Demographics,othrace,Subject race description,,text,,,cfs_lab_adult_child_questionnaire,,,
 Demographics,race_old,Race,,choices,,race123456,cfs_lab_adult_child_questionnaire,,,
 Demographics,white,Participant's race - Caucasian,,choices,,noyes01,,,,
-Demographics/Employment,employ,What is your current employment status?,,choices,,employment,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Demographics/Employment,hsincome,What is your household income?,,choices,,hsincome,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Demographics/Employment,rotnite,Do you do rotating night shift work?,,choices,,noyes01,cfs_lab_adult_child_questionnaire;night_shift,,,baseline_lab_adult_child_questionnaire
-Demographics/Employment,stdynite,Do you do steady night shift work?,,choices,,noyes01,cfs_lab_adult_child_questionnaire;night_shift,,,baseline_lab_adult_child_questionnaire
-Demographics/Employment,work,Have you ever worked outside the home,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Demographics/Household Makeup,livearra,What are your living arrangements?,,choices,,roommates,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Demographics/Employment,employ,Current employment status,What is your current employment status?,choices,,employment,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Demographics/Employment,hsincome,Household income,What is your household income?,choices,,hsincome,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Demographics/Employment,rotnite,Rotating night shift work,Do you do rotating night shift work?,choices,,noyes01,cfs_lab_adult_child_questionnaire;night_shift,,,baseline_lab_adult_child_questionnaire
+Demographics/Employment,stdynite,Steady night shift work,Do you do steady night shift work?,choices,,noyes01,cfs_lab_adult_child_questionnaire;night_shift,,,baseline_lab_adult_child_questionnaire
+Demographics/Employment,work,Ever worked outside the home,Have you ever worked outside the home,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Demographics/Household Makeup,livearra,Current living arrangements,What are your living arrangements?,choices,,roommates,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Demographics/Household Makeup,noobser,Is the person who helped you complete the questionnaire someone who lives elsewhere and has not observed your sleep,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Demographics/Household Makeup,obslp,"Is the person who helped you complete the questionnaire someone who lives in a different house, but observed your sleep",,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Demographics/Household Makeup,samhse,Is the person who helped you complete the questionnaire someone who lives in same house but different bedroom,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Demographics/Household Makeup,sharbed,Is the person who helped you complete the questionnaire someone you share a bed with?,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Demographics/Household Makeup,slphear,"Over the last 3 months, have you shared a room on a regular basis with someone who has been in a position to hear or observe you breathing while asleep?",,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Demographics/Household Makeup,sharbed,Is the person who helped you complete the questionnaire someone you share a bed with,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Demographics/Household Makeup,slphear,"Over the last 3 months, have you shared a room on a regular basis with someone who has been in a position to hear or observe you breathing while asleep",,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 General Health,allergy,"Are you allergic to dust, mold, grass, or pollen",,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-General Health,apacold,Do you wheeze apart from a cold?,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-General Health,chescold,If you had any colds this year did they go to your chest?,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-General Health,chestwhe,How often do you wheeze or whistle from your chest?,,choices,,freq,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+General Health,apacold,Do you wheeze apart from a cold,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+General Health,chescold,If you had any colds this year did they go to your chest,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+General Health,chestwhe,How often do you wheeze or whistle from your chest,,choices,,freq,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 General Health,cheswhe,"During the past year, has your chest ever made whistling noises or sounded wheezy",,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-General Health,chrcough,Did you usually cough on most days for three (3) consecutive months or more during the year?,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-General Health,chrphle,Did you usually bring up phlegm like this as much as twice a day?,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+General Health,chrcough,Did you usually cough on most days for three (3) consecutive months or more during the year,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+General Health,chrphle,Did you usually bring up phlegm like this as much as twice a day,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 General Health,chstpain,"During the last month, have you had, or have been told you do the following while asleep or trying to sleep: chest pain while in bed",,choices,,freq,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-General Health,coldair,Wheeze when breathing cold air?,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-General Health,cough,Did you usually have a cough?,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-General Health,couphl3,Have you had periods or episodes of increased cough and phlegm lasting three weeks or more?,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-General Health,daynite,Wheeze most days or nights?,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+General Health,coldair,Wheeze when breathing cold air,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+General Health,cough,Did you usually have a cough,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+General Health,couphl3,Have you had periods or episodes of increased cough and phlegm lasting three weeks or more,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+General Health,daynite,Wheeze most days or nights,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 General Health,diffwgt,"During the past 5 years, what is the difference between your highest and lowest weight (excluding illness)",,numeric,pounds,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 General Health,discramp,"During the last month, have you had, or have been told you do the following while asleep or trying to sleep: leg cramps",,choices,,freq,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 General Health,dishead,"Over the last month, have you experienced: headaches during sleep time",,choices,,freq,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 General Health,dishrtb,"Over the last month, have you experienced: heartburn during your sleep time",,choices,,freq,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 General Health,dispain,"Over the last month, have you experienced: pain or physical discomfort",,choices,,freq,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-General Health,dochest,What do you do when you get chest discomfort while walking?,,choices,,chestpain,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-General Health,docpain,See a doctor because of this pain (or discomfort)?,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-General Health,dustfume,Wheeze when exposed to dust or fumes?,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-General Health,ladder,Where would you place yourself on this ladder?,"Think of this ladder as representing where people stand in the United States. At the top of the ladder are the people who are the best off - those who have the most money, the most education, and the most respectable jobs. The bottom are the people who are the worst off - those who have the least money, least education, and the least respected jobs or no job",numeric,,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+General Health,dochest,What do you do when you get chest discomfort while walking,,choices,,chestpain,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+General Health,docpain,See a doctor because of this pain (or discomfort),,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+General Health,dustfume,Wheeze when exposed to dust or fumes,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+General Health,ladder,Where would you place yourself on this ladder,"Think of this ladder as representing where people stand in the United States. At the top of the ladder are the people who are the best off - those who have the most money, the most education, and the most respectable jobs. The bottom are the people who are the worst off - those who have the least money, least education, and the least respected jobs or no job",numeric,,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 General Health,levchest,Chest discomfort when walking at an ordinary pace,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 General Health,mornhead,"Over the last month, have you experienced: morning headaches",,choices,,freq,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 General Health,onlynite,Wheeze only during nights,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 General Health,palp,"During the last month, have you had, or have been told you do the following while asleep or trying to sleep: palpitations or heart racing",,choices,,freq,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 General Health,pastmon,Wheeze during past month,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-General Health,phl1st,Did you usually bring up phlegm at all on getting up or first thing in the morning?,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-General Health,phl3,Did you usually bring up phlegm like this for three consecutive months or more during the year?,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-General Health,phlegm,Did you usually bring up phlegm from your chest?,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-General Health,phlrest,Did you bring up phlegm at all during the rest of the day or night?,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+General Health,phl1st,Did you usually bring up phlegm at all on getting up or first thing in the morning,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+General Health,phl3,Did you usually bring up phlegm like this for three consecutive months or more during the year,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+General Health,phlegm,Did you usually bring up phlegm from your chest,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+General Health,phlrest,Did you bring up phlegm at all during the rest of the day or night,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 General Health,rmdusty,A dusty room gives you a stuffy of runny nose,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-General Health,rmsmoky,Smoky room gives you a stuffy or runny nose?,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+General Health,rmsmoky,Smoky room gives you a stuffy or runny nose,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 General Health,shbrmon,Shortness of breath past month while hurrying on level ground or walking up a slight hill,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 General Health,shbrwal,"During the past year, have you been troubled by shortness of breath when hurrying on level ground or walking up a slight hill",,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-General Health,soonches,How soon is chest discomfort relieved / not relieved?,,choices,,min10chest,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+General Health,soonches,How soon is chest discomfort relieved / not relieved,,choices,,min10chest,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 General Health,stilches,What happens to chest discomfort when standing still,,choices,,chstpainrelief,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-General Health,strnnos,Are you bothered by a stuffy or runny nose?,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-General Health,stufexer,Does exercise give you a stuffy or runny nose?,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+General Health,strnnos,Are you bothered by a stuffy or runny nose,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+General Health,stufexer,Does exercise give you a stuffy or runny nose,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 General Health,uphchest,Chest discomfort when you walk uphill or hurry,,choices,,noyesnever,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 General Health,weatcold,Cold weather gives you a stuffy or runny nose,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-General Health,wgtgain,"In the past 5 years, have you gained weight?",,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-General Health,wgtlost,"In the past 5 years, have you lost weight?",,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+General Health,wgtgain,"In the past 5 years, have you gained weight",,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+General Health,wgtlost,"In the past 5 years, have you lost weight",,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 General Health,wheattac,Had an attack of wheezing during past year,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-General Health,whecold,Do you wheeze when have a cold?,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-General Health,wheexer,Do you wheeze when exercising?,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+General Health,whecold,Do you wheeze when have a cold,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+General Health,wheexer,Do you wheeze when exercising,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 General Health/Child Health Questionnaire (CHQ),be,Child Health Questionnaire Parent Form 50 Questions: Behavior subscore (0-100),"The subscale score is based on 6 items from the Child Health Questionnaire Parent Form 50 Questions. A high score suggests fewer behavior problems. [Asmussen L et al., 2000 (PubMed ID: 11029320)](https://www.ncbi.nlm.nih.gov/pubmed/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",numeric,,,chqpf50;chqpf50_bescore,,TRUE,
 General Health/Child Health Questionnaire (CHQ),bp,Child Health Questionnaire Parent Form 50 Questions: Bodily pain subscore (0-100),"The subscale score is based on 2 items from the Child Health Questionnaire Parent Form 50 Questions. A high score suggests less bodily pain. [Asmussen L et al., 2000 (PubMed ID: 11029320)](https://www.ncbi.nlm.nih.gov/pubmed/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",numeric,,,chqpf50;chqpf50_bpscore,,TRUE,
 General Health/Child Health Questionnaire (CHQ),fa,Child Health Questionnaire Parent Form 50 Questions: Family activities subscore (0-100),"The subscale score is based on 6 items from the Child Health Questionnaire Parent Form 50 Questions. A high score suggests less limitations in family activities. [Asmussen L et al., 2000 (PubMed ID: 11029320)](https://www.ncbi.nlm.nih.gov/pubmed/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",numeric,,,chqpf50;chqpf50_fascore,,TRUE,
@@ -724,17 +724,17 @@ General Health/Child Health Questionnaire (CHQ),mhraw,Child Health Questionnaire
 General Health/Child Health Questionnaire (CHQ),peraw,Child Health Questionnaire Parent Form 50 Questions: Parental impact-emotional subscore (raw),"The subscale score is based on 3 items from the Child Health Questionnaire Parent Form 50 Questions. A high score suggests less impact on parent emotional well-being. [Asmussen L et al., 2000 (PubMed ID: 11029320)](https://www.ncbi.nlm.nih.gov/pubmed/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",numeric,,,chqpf50;chqpf50_piescoreraw,,,
 General Health/Child Health Questionnaire (CHQ),pfraw,Child Health Questionnaire Parent Form 50 Questions: Physical functioning subscore (raw),"The subscale score is based on 6 items from the Child Health Questionnaire Parent Form 50 Questions. A high score suggests better physical functioning. [Asmussen L et al., 2000 (PubMed ID: 11029320)](https://www.ncbi.nlm.nih.gov/pubmed/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",numeric,,,chqpf50;chqpf50_pfscoreraw,,,
 General Health/Child Health Questionnaire (CHQ),ptraw,Child Health Questionnaire Parent Form 50 Questions: Parental impact-time subscore (raw),"The subscale score is based on 3 items from the Child Health Questionnaire Parent Form 50 Questions. A high score suggests less impact on parent time. [Asmussen L et al., 2000 (PubMed ID: 11029320)](https://www.ncbi.nlm.nih.gov/pubmed/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",numeric,,,chqpf50;chqpf50_pitscoreraw,,,
-General Health/Child Health Questionnaire (CHQ),q10q1,What is your child's gender?,"Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,gender12,chqpf50;,,,
-General Health/Child Health Questionnaire (CHQ),q10q2,Was this your first child (natural or adopted)?,"Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,yesno12,chqpf50;,,,
+General Health/Child Health Questionnaire (CHQ),q10q1,What is your child's gender,"Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,gender12,chqpf50;,,,
+General Health/Child Health Questionnaire (CHQ),q10q2,Was this your first child (natural or adopted),"Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,yesno12,chqpf50;,,,
 General Health/Child Health Questionnaire (CHQ),q10q3,Child's date of birth,"Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",numeric,days from index date,,chqpf50;,,,
 General Health/Child Health Questionnaire (CHQ),q10q5a,"Have you ever been told by a teacher, school official, doctor, nurse or other health professional that your child has any anxiety problems","Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,yesno12,chqpf50;,,,
 General Health/Child Health Questionnaire (CHQ),q10q5b,"Have you ever been told by a teacher, school official, doctor, nurse or other health professional that your child has asthma","Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,yesno12,chqpf50;,,,
 General Health/Child Health Questionnaire (CHQ),q10q5c,"Have you ever been told by a teacher, school official, doctor, nurse or other health professional that your child has any attentional problems","Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,yesno12,chqpf50;,,,
 General Health/Child Health Questionnaire (CHQ),q10q5d,"Have you ever been told by a teacher, school official, doctor, nurse or other health professional that your child has any behavioral problems","Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,yesno12,chqpf50;,,,
-General Health/Child Health Questionnaire (CHQ),q10q5e,"Have you ever been told by a teacher, school official, doctor, nurse or other health professional that your child has chronic allergies or sinus troubles?","Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,yesno12,chqpf50;,,,
-General Health/Child Health Questionnaire (CHQ),q10q5f,"Have you ever been told by a teacher, school official, doctor, nurse or other health professional that your child has chronic orthopedic, bone, or joint problems?","Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,yesno12,chqpf50;,,,
+General Health/Child Health Questionnaire (CHQ),q10q5e,"Have you ever been told by a teacher, school official, doctor, nurse or other health professional that your child has chronic allergies or sinus troubles","Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,yesno12,chqpf50;,,,
+General Health/Child Health Questionnaire (CHQ),q10q5f,"Have you ever been told by a teacher, school official, doctor, nurse or other health professional that your child has chronic orthopedic, bone, or joint problems","Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,yesno12,chqpf50;,,,
 General Health/Child Health Questionnaire (CHQ),q10q5g,"Have you ever been told by a teacher, school official, doctor, nurse or other health professional that your child has chronic respiratory, lung, or breathing trouble (NOT ASTHMA)","Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,yesno12,chqpf50;,,,
-General Health/Child Health Questionnaire (CHQ),q10q5h,"Have you ever been told by a teacher, school official, doctor, nurse or other health professional that your child has chronic rheumatic disease?","Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,yesno12,chqpf50;,,,
+General Health/Child Health Questionnaire (CHQ),q10q5h,"Have you ever been told by a teacher, school official, doctor, nurse or other health professional that your child has chronic rheumatic disease","Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,yesno12,chqpf50;,,,
 General Health/Child Health Questionnaire (CHQ),q10q5i,"Have you ever been told by a teacher, school official, doctor, nurse or other health professional that your child has depression","Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,yesno12,chqpf50;,,,
 General Health/Child Health Questionnaire (CHQ),q10q5j,"Have you ever been told by a teacher, school official, doctor, nurse or other health professional that your child has a developmental delay or mental retardation","Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,yesno12,chqpf50;,,,
 General Health/Child Health Questionnaire (CHQ),q10q5k,"Have you ever been told by a teacher, school official, doctor, nurse or other health professional that your child has diabetes","Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,yesno12,chqpf50;,,,
@@ -745,20 +745,20 @@ General Health/Child Health Questionnaire (CHQ),q10q5o,"Have you ever been told 
 General Health/Child Health Questionnaire (CHQ),q10q5p,"Have you ever been told by a teacher, school official, doctor, nurse or other health professional that your child has any speech problems","Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,yesno12,chqpf50;,,,
 General Health/Child Health Questionnaire (CHQ),q10q5q,"Have you ever been told by a teacher, school official, doctor, nurse or other health professional that your child has any vision problems","Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,yesno12,chqpf50;,,,
 General Health/Child Health Questionnaire (CHQ),q10q5r,"Have you ever been told by a teacher, school official, doctor, nurse or other health professional that your child has any other chronic medical condition that is affecting what they do or how they feel?","Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,yesno12,chqpf50;,,,
-General Health/Child Health Questionnaire (CHQ),q11q1,What is your gender?,"Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,gender12,chqpf50;,,,
+General Health/Child Health Questionnaire (CHQ),q11q1,What is your gender,"Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,gender12,chqpf50;,,,
 General Health/Child Health Questionnaire (CHQ),q11q2,Your date of birth,"Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",numeric,days from index date,,chqpf50;,,,
 General Health/Child Health Questionnaire (CHQ),q11q3a,Which of the following best describes your current work status: Not working due to my child's health,"Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,noyes01,chqpf50;,,,
 General Health/Child Health Questionnaire (CHQ),q11q3b,Which of the following best describes your current work status: Not working for other reasons,"Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,noyes01,chqpf50;,,,
 General Health/Child Health Questionnaire (CHQ),q11q3c,Which of the following best describes your current work status: Looking for work outside the home,"Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,noyes01,chqpf50;,,,
 General Health/Child Health Questionnaire (CHQ),q11q3d,Which of the following best describes your current work status: Working either full or part time (either outside the home or at a home-based business),"Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,noyes01,chqpf50;,,,
 General Health/Child Health Questionnaire (CHQ),q11q3e,Which of the following best describes your current work status: Full time homemaker,"Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,noyes01,chqpf50;,,,
-General Health/Child Health Questionnaire (CHQ),q11q4,What is your relationship to your child?,"Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,chq_relation,chqpf50;,,,
+General Health/Child Health Questionnaire (CHQ),q11q4,What is your relationship to your child,"Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,chq_relation,chqpf50;,,,
 General Health/Child Health Questionnaire (CHQ),q11q4oth,Please describe your relationship to your child,"Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",text,,,chqpf50;,,,
-General Health/Child Health Questionnaire (CHQ),q11q5,What is the highest level of schooling you have completed?,"Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,schooling,chqpf50;,,,
-General Health/Child Health Questionnaire (CHQ),q11q6,What is your current marital status?,"Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,marriage,chqpf50;,,,
-General Health/Child Health Questionnaire (CHQ),q11q7,Which best describes your racial background?,"Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,race123456,chqpf50;,,,
+General Health/Child Health Questionnaire (CHQ),q11q5,What is the highest level of schooling you have completed,"Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,schooling,chqpf50;,,,
+General Health/Child Health Questionnaire (CHQ),q11q6,What is your current marital status,"Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,marriage,chqpf50;,,,
+General Health/Child Health Questionnaire (CHQ),q11q7,Which best describes your racial background,"Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,race123456,chqpf50;,,,
 General Health/Child Health Questionnaire (CHQ),q11q7oth,Please explain your racial background,"Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",text,,,chqpf50;,,,
-General Health/Child Health Questionnaire (CHQ),q11q8,What is today's date?,"Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",numeric,days from index date,,chqpf50;,,,
+General Health/Child Health Questionnaire (CHQ),q11q8,What is today's date,"Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",numeric,days from index date,,chqpf50;,,,
 General Health/Child Health Questionnaire (CHQ),q1q1,"Child Health Questionnaire Parent Form 50 Questions: In general, how would you rate your child's health?","Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,chq_excel,chqpf50;chqpf50_01general,,,
 General Health/Child Health Questionnaire (CHQ),q2q1a,"Child Health Questionnaire Parent Form 50 Questions: During the past 4 weeks, has your child been limited in any of the following activities due to health problems? Doing things that take a lot of energy, such as playing soccer or running?","Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,chq_limits,chqpf50;chqpf50_02soccer,,,
 General Health/Child Health Questionnaire (CHQ),q2q1b,"Child Health Questionnaire Parent Form 50 Questions: During the past 4 weeks, has your child been limited in any of the following activities due to health problems? Doing things that take some energy, such as riding a bike or skating?","Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",choices,,chq_limits,chqpf50;chqpf50_03bike,,,
@@ -895,182 +895,182 @@ Harmonized/Demographics,nsrr_race,Subject race,"Harmonized by the NSRR team to a
 Harmonized/Demographics,nsrr_sex,Subject sex,"Harmonized by the NSRR team to align with <a href=""https://github.com/UW-GAC/topmed-dcc-harmonized-phenotypes"" target=""_blank"">TOPMed</a> and <a href=""https://github.com/uc-cdis/gtex-dictionary/tree/master/gdcdictionary/schemas/"" target=""_blank"">BioDataCatalyst standards</a>. Source: :male: at Visit 5",choices,,nsrr_sex,annotated_sex,,TRUE,
 Harmonized/Lifestyle and Behavioral Health,nsrr_current_smoker,Currently smoking cigarettes,"Indicates whether subject currently smokes cigarettes. <br><br>Harmonized by the NSRR team to align with <a href=""https://github.com/UW-GAC/topmed-dcc-harmonized-phenotypes"" target=""_blank"">TOPMed</a> and <a href=""https://github.com/uc-cdis/gtex-dictionary/tree/master/gdcdictionary/schemas/"" target=""_blank"">BioDataCatalyst standards</a>. Source: :nowsmoke:, :monsmoke: at Visit 5",choices,,nsrr_current_smoker,current_smoker_baseline  ,,TRUE,
 Harmonized/Lifestyle and Behavioral Health,nsrr_ever_smoker,Ever smoked cigarettes,"Indicates whether subject ever regularly smoked cigarettes. <br><br>Harmonized by the NSRR team to align with <a href=""https://github.com/UW-GAC/topmed-dcc-harmonized-phenotypes"" target=""_blank"">TOPMed</a> and <a href=""https://github.com/uc-cdis/gtex-dictionary/tree/master/gdcdictionary/schemas/"" target=""_blank"">BioDataCatalyst standards</a>. Source: :smoked: at Visit 5",choices,,nsrr_ever_smoker,ever_smoker_baseline  ,,TRUE,
-Lifestyle and Behavioral Health,agecigs,Age first started smoking cigars?,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Lifestyle and Behavioral Health,agepipe,Age first started smoking pipes?,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Lifestyle and Behavioral Health,agecigs,Age first started smoking cigars,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Lifestyle and Behavioral Health,agepipe,Age first started smoking pipes,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Lifestyle and Behavioral Health,agesmok,Age when first smoked cigarettes,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Lifestyle and Behavioral Health,alcage,Age when alcoholism noted,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Lifestyle and Behavioral Health,alcism,Have you ever had a problem with alcohol abuse or alcoholism?,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Lifestyle and Behavioral Health,alcism,Have you ever had a problem with alcohol abuse or alcoholism,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Lifestyle and Behavioral Health,alcohday,"In a typical week during the past year, on how many days did you consume an alcoholic beverage of any type",,numeric,days per week,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Lifestyle and Behavioral Health,alcoholx,One or more drinks per week on average in the past year,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Lifestyle and Behavioral Health,alcpres,Alcoholism still present,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Lifestyle and Behavioral Health,armexer,Past year time spent weight training arms,,choices,,exercise_time,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Lifestyle and Behavioral Health,avgcigs,How many cigars on average?,,numeric,cigars per day,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Lifestyle and Behavioral Health,avgcigs,How many cigars on average,,numeric,cigars per day,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Lifestyle and Behavioral Health,avgpipe,How many pipes (bowls) on average,,numeric,pipes,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Lifestyle and Behavioral Health,avgsmok,Average number of cigarettes smoke per day,,numeric,cigarettes per day,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Lifestyle and Behavioral Health,bicexer,Past year time spent bicycling (including stationary machine)?,,choices,,exercise_time,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Lifestyle and Behavioral Health,cafbevad,"On average, how often do you drink caffeine?",,choices,,caffbehdaily,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Lifestyle and Behavioral Health,cigar,Have you ever smoked cigars/cigarillos?,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Lifestyle and Behavioral Health,bicexer,Past year time spent bicycling (including stationary machine),,choices,,exercise_time,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Lifestyle and Behavioral Health,cafbevad,"On average, how often do you drink caffeine",,choices,,caffbehdaily,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Lifestyle and Behavioral Health,cigar,Have you ever smoked cigars/cigarillos,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Lifestyle and Behavioral Health,drive,Have you ever operated a motor vehicle,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Lifestyle and Behavioral Health,jogexer,Past year time spent jogging (slower than 10 minutes/mile)?,,choices,,exercise_time,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Lifestyle and Behavioral Health,jogexer,Past year time spent jogging (slower than 10 minutes/mile),,choices,,exercise_time,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Lifestyle and Behavioral Health,legexer,Past year time spent weight training legs,,choices,,exercise_time,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Lifestyle and Behavioral Health,lowexer,Past year time spent low intensity exercise,,choices,,exercise_time,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Lifestyle and Behavioral Health,moncigs,Smoked at least 1 cigar per day in last month,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Lifestyle and Behavioral Health,monpipe,Smoked at least 1 pipe per day in last month,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Lifestyle and Behavioral Health,monsmoke,Smoked at least 1 cigarette per day in last month,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Lifestyle and Behavioral Health,nodrinks,Largest number of drinks you may have had in one day in the last month,,choices,,drinks,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Lifestyle and Behavioral Health,nostairs,How many flights of stairs do you climb daily?,,choices,,stairs,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Lifestyle and Behavioral Health,nowcigs,How many Cigars per day now?,,numeric,cigars,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Lifestyle and Behavioral Health,nowpipe,How many Pipes (bowls) per day now?,,numeric,bowls,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Lifestyle and Behavioral Health,nowsmoke,How many cigarettes do you currently smoke each day?,,numeric,cigarettes per day,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Lifestyle and Behavioral Health,nostairs,How many flights of stairs do you climb daily,,choices,,stairs,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Lifestyle and Behavioral Health,nowcigs,How many cigars per day now,,numeric,cigars,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Lifestyle and Behavioral Health,nowpipe,How many pipes (bowls) per day now,,numeric,bowls,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Lifestyle and Behavioral Health,nowsmoke,How many cigarettes do you currently smoke each day,,numeric,cigarettes per day,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Lifestyle and Behavioral Health,othexer,Past year time spent other aerobic exercise,,choices,,exercise_time,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Lifestyle and Behavioral Health,pipe,Have you ever smoked a pipe?,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Lifestyle and Behavioral Health,runexer,Past year time spent running (10 minutes/mile or faster)?,,choices,,exercise_time,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Lifestyle and Behavioral Health,smoke5yr,Did your mom smoke during the first five years of your life?,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Lifestyle and Behavioral Health,pipe,Have you ever smoked a pipe,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Lifestyle and Behavioral Health,runexer,Past year time spent running (10 minutes/mile or faster),,choices,,exercise_time,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Lifestyle and Behavioral Health,smoke5yr,Did your mom smoke during the first five years of your life,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Lifestyle and Behavioral Health,smoked,Have you ever smoked cigarettes,'No' means less than 20 packs in a lifetime or less than 1 cigarette for 1 year,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Lifestyle and Behavioral Health,stopcigs,Age stop smoking Cigars,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Lifestyle and Behavioral Health,stoppipe,Age stop smoking Pipes,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Lifestyle and Behavioral Health,stopcigs,Age stop smoking cigars,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Lifestyle and Behavioral Health,stoppipe,Age stop smoking pipes,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Lifestyle and Behavioral Health,stopsmok,Age stopped smoking cigarettes,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Lifestyle and Behavioral Health,swimexer,Past year time spent lap swimming?,,choices,,exercise_time,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Lifestyle and Behavioral Health,swimexer,Past year time spent lap swimming,,choices,,exercise_time,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Lifestyle and Behavioral Health,tenexer,"Average time per week spent playing tennis, squash, racquetball",,choices,,exercise_time,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Lifestyle and Behavioral Health,vigexer,Average time per week spent in other vigorous activities,,choices,,exercise_time,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Lifestyle and Behavioral Health,walkexer,Past year time spent walking for exercise or walking to work?,,choices,,exercise_time,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Lifestyle and Behavioral Health,walkpace,What is your normal walking pace outdoors?,,choices,,walkspeed,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Lifestyle and Behavioral Health,walkexer,Past year time spent walking for exercise or walking to work,,choices,,exercise_time,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Lifestyle and Behavioral Health,walkpace,What is your normal walking pace outdoors,,choices,,walkspeed,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Lifestyle and Behavioral Health,yrsdvr,How many years have you been driving,,numeric,,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Lifestyle and Behavioral Health,smoker,Smoker status,,text,,,,,,
 Lifestyle and Behavioral Health,smokerx,Smoking status,,choices,,noyesdontknow,,,,
 Lifestyle and Behavioral Health,smokerxc,Smoking status (character),,text,,,,,,
 Lifestyle and Behavioral Health,yrssmoke,Years smoked,,numeric,,,cfs_lab_adult_child_questionnaire,,,
-Medical History,diachol,Physician-diagnosed Elevated Cholesterol,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,TRUE,baseline_lab_adult_child_questionnaire
+Medical History,diachol,Physician-diagnosed elevated cholesterol,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,TRUE,baseline_lab_adult_child_questionnaire
 Medical History,cvd,Self-report of a physician diagnosis of cardiovascular disease,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,TRUE,
 Medical History,diabetes2,Physician diagnosis of diabetes or diabetes medication usage or abnormal fasting,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,TRUE,
-Medical History,adage,Age Diagnosed Attention Deficit Disorder,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,adddiag,Physician-diagnosed Attention Deficit Disorder,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,adenage,Age Diagnosed Adenoidectomy,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,adage,Age diagnosed attention deficit disorder,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,adddiag,Physician-diagnosed attention deficit disorder,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,adenage,Age diagnosed adenoidectomy,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History,adendiag,Adenoidectomy,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,agediach,Age Diagnosed Elevated Cholesterol,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,agediach,Age diagnosed elevated cholesterol,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History,agerem,Age tonsils/adenoids removed,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,anemage,Age Diagnosed Anemia,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,anemdiag,Physician-diagnosed Anemia,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,angage,Age Diagnosed Chest Pain from a heart condition,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,angdiag,Physician-diagnosed Angina pectoris or Chest Pain from a heart condition,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,angioage,Age Diagnosed Coronary Angioplasty,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,angiop,Coronary Angioplasty,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,anxage,Age Diagnosed Anxiety,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,anxdiag,Physician-diagnosed Anxiety,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,astage,Age Diagnosed Asthma,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,astdiag,Physician-diagnosed Asthma,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,behage,Age Diagnosed Behavior Disorder,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,behdiag,Physician-diagnosed Behavior Disorder,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,birthwgt,How much did you weigh at birth?,,choices,,babyweight,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,anemage,Age diagnosed anemia,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,anemdiag,Physician-diagnosed anemia,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,angage,Age diagnosed chest pain from a heart condition,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,angdiag,Physician-diagnosed angina pectoris or chest pain from a heart condition,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,angioage,Age diagnosed coronary angioplasty,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,angiop,Coronary angioplasty,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,anxage,Age diagnosed anxiety,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,anxdiag,Physician-diagnosed anxiety,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,astage,Age diagnosed asthma,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,astdiag,Physician-diagnosed asthma,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,behage,Age diagnosed behavior disorder,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,behdiag,Physician-diagnosed behavior disorder,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,birthwgt,How much did you weigh at birth,,choices,,babyweight,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History,bornpre,Were you born prematurely,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,bpage,Age Diagnosed High Blood Pressure,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,bpdiag,Physician-diagnosed High Blood Pressure,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,brodiag,Physician-diagnosed Chronic Bronchitis,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,bronage,Age Diagnosed Chronic Bronchitis,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,bypasage,Age Diagnosed Coronary Bypass,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,bypass,Coronary Bypass,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,cancage,Age Diagnosed: Cancer,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,cancdiag,Physician-diagnosed Cancer,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,bpage,Age diagnosed high blood pressure,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,bpdiag,Physician-diagnosed high blood pressure,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,brodiag,Physician-diagnosed chronic bronchitis,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,bronage,Age diagnosed chronic bronchitis,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,bypasage,Age diagnosed coronary bypass,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,bypass,Coronary bypass,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,cancage,Age diagnosed: cancer,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,cancdiag,Physician-diagnosed cancer,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History,cancesp,Specify other cancer,,text,,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,cirrage,Age Diagnosed Cirrhosis of the Liver,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,cirrdiag,Physician-diagnosed Cirrhosis of the Liver,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,crohage,Age Diagnosed Colitis/Crohn's,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,crohdiag,Physician-diagnosed Ulcerative Colitis/Crohns,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,cirrage,Age diagnosed cirrhosis of the liver,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,cirrdiag,Physician-diagnosed cirrhosis of the liver,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,crohage,Age diagnosed colitis/Crohn's,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,crohdiag,Physician-diagnosed ulcerative colitis/Crohns,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History,dementia,Dementia in the last three days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,depage,Age Diagnosed Depression,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,depdiag,Physician-diagnosed Depression,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,devage,Age Diagnosed Nose with a Deviated Septum,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,devdiag,Physician-diagnosed Nose with a Deviated Septum,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,diaage,Age Diagnose Diabetes,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,diadiag,Physician-diagnosed Diabetes,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,dianm,"Physician-diagnosed Near Miss SIDS, ALTE",,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,diasids,"Crib Death, SIDS",,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,eczage,Age Diagnosed Eczema,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,eczdiag,Physician-diagnosed Eczema,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,empage,Age Diagnosed Emphysema,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,empdiag,Physician-diagnosed Emphysema,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,endarage,Age Diagnosed Carotid Surgery (Endarterectomy),,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,endart,Carotid Surgery (Endarterectomy),,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,depage,Age diagnosed depression,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,depdiag,Physician-diagnosed depression,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,devage,Age diagnosed nose with a deviated septum,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,devdiag,Physician-diagnosed nose with a deviated septum,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,diaage,Age diagnosed: Diabetes,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,diadiag,Physician-diagnosed: Diabetes,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,dianm,"Physician-diagnosed: Near miss SIDS, ALTE",,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,diasids,"Crib death, SIDS",,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,eczage,Age diagnosed: Eczema,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,eczdiag,Physician-diagnosed: Eczema,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,empage,Age diagnosed: Emphysema,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,empdiag,Physician-diagnosed: Emphysema,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,endarage,Age diagnosed: Carotid surgery (endarterectomy),,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,endart,Carotid surgery (endarterectomy),,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History,enltons,Enlarged tonsils,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,goutage,Age Diagnosed Gout,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,goutdiag,Physician-diagnosed Gout,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,gulcage,Age Diagnose Duodenal Ulcer,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,gulcdiag,Physician-diagnosed Gastric of Duodenal Ulcer,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,hayage,Age Diagnosed Hay Fever,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,haydiag,Physician-diagnosed Hay Fever,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,heaage,Age Diagnosed Other Heart Disease,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,headiag,Physician-diagnosed Other Heart Disease,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,goutage,Age diagnosed: Gout,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,goutdiag,Physician-diagnosed: Gout,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,gulcage,Age diagnosed: Gastric or duodenal ulcer,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,gulcdiag,Physician-diagnosed: Gastric or duodenal ulcer,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,hayage,Age diagnosed: Hay fever,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,haydiag,Physician-diagnosed: Hay fever,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,heaage,Age diagnosed: Other heart disease,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,headiag,Physician-diagnosed: Other heart disease,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History,heartsp,Specify other heart disease,,text,,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,hepaage,Age Diagnosed Hepatitis,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,hepadiag,Physician-diagnosed Hepatitis,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,hrtage,Age Diagnosed Myocardial Infarction,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,hrtdiag,Physician-diagnosed Myocardial Infarction,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,htfage,Age Diagnosed Congestive Heart Failure,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,htfdiag,Physician-diagnosed Congestive Heart Failure,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,irrage,Age Diagnosed Irregular Heart Beat,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,irrdiag,Physician-diagnosed Irregular Heart Beat,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,kidfage,Age Diagnosed Kidney Failure,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,kidfdiag,Physician-diagnosed Kidney Failure,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,kidnage,Age Diagnosed Kidney Stones,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,kidndiag,Kidney Stones,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,lazertx,Recommended or prescribed Laser Treatment,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,livediag,Liver Disease,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,liverage,Age Diagnosed Liver Disease,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,longicu,How long were you in the NICU after birth?,,choices,,earlymeds,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,longo2,How long did you require oxygen after birth?,,choices,,earlymeds,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,mdysage,Age Diagnosed Muscular Dystrophy,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,mdysdiag,Physician-diagnosed Muscular Dystrophy,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,msclage,Age Diagnosed Multiple Sclerosis,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,mscldiag,Physician-diagnosed Multiple Sclerosis,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,hepaage,Age diagnosed: Hepatitis,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,hepadiag,Physician-diagnosed: Hepatitis,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,hrtage,Age diagnosed: Myocardial infarction,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,hrtdiag,Physician-diagnosed: Myocardial infarction,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,htfage,Age diagnosed: Congestive heart failure,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,htfdiag,Physician-diagnosed: Congestive heart failure,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,irrage,Age diagnosed: Irregular heartbeat,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,irrdiag,Physician-diagnosed: Irregular heartbeat,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,kidfage,Age diagnosed: Kidney failure,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,kidfdiag,Physician-diagnosed: Kidney failure,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,kidnage,Age diagnosed: Kidney stones,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,kidndiag,Kidney stones,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,lazertx,Recommended or prescribed laser treatment,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,livediag,Liver disease,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,liverage,Age diagnosed: Liver disease,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,longicu,How long were you in the NICU after birth,,choices,,earlymeds,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,longo2,How long did you require oxygen after birth,,choices,,earlymeds,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,mdysage,Age diagnosed: Muscular dystrophy,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,mdysdiag,Physician-diagnosed: Muscular dystrophy,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,msclage,Age diagnosed: Multiple sclerosis,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,mscldiag,Physician-diagnosed: Multiple sclerosis,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History,nicu,Were you hospitalized in an intensive care unit after you were born,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History,nosesur,Have had or been recommended for nose surgery,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,osmcage,Age Diagnosed Other Significant Medical Condition,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,osmcdiag,Physician-diagnosed Other Significant Medical Condition,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,ostage,Age Diagnose Osteoporosis,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,ostediag,Physician-diagnosed Osteoporosis,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,otmasurg,Other Major Surgery,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,pacemak,Implant of Cardiac Pacemaker,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,osmcage,Age diagnosed: Other significant medical condition,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,osmcdiag,Physician-diagnosed: Other significant medical condition,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,ostage,Age diagnosed: Osteoporosis,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,ostediag,Physician-diagnosed: Osteoporosis,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,otmasurg,Other major surgery,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,pacemak,Implant of cardiac pacemaker,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History,painches,Ever had any chest pain or discomfort,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,parkage,Age Diagnose Duodenal Ulcer,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,parkdiag,Physician-diagnosed Parkinsons Disease,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,partage,Age Diagnosed Peripheral Artery Disease of Claudication of the Legs,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,partdiag,Physician-diagnosed Peripheral Artery Disease of Claudication of the Legs,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,pneuage,Age Diagnose Pneumonia,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,pneudiag,Physician-diagnosed Pneumonia,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,pollens,Wheeze when exposed to pollens?,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,parkage,Age diagnosed: Duodenal ulcer,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,parkdiag,Physician-diagnosed: Parkinson's disease,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,partage,Age diagnosed: Peripheral artery disease or claudication of the legs,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,partdiag,Physician-diagnosed: Peripheral artery disease or claudication of the legs,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,pneuage,Age diagnosed: Pneumonia,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,pneudiag,Physician-diagnosed: Pneumonia,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,pollens,Wheeze when exposed to pollens,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History,presches,Ever had any chest pressure or heaviness,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,psyage,Age Diagnosed Other Psychiatric Disease,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,psychsp,Specify Psychiatric dz,,text,,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,psydiag,Physician-diagnosed Other Psychiatric Disease,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,psyage,Age diagnosed: Other psychiatric disease,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,psychsp,Specify psychiatric disease,,text,,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,psydiag,Physician-diagnosed: Other psychiatric disease,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History,reasrem,Reason tonsils/adenoids removed,,choices,,reasonforremoval,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History,rego2,Did you require oxygen at birth,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,rheuage,Age Diagnosed Rheumatoid Arthritis,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,rheudiag,Physician-diagnosed Rheumatoid Arthritis,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,sicage,Age Diagnose Sickle Cell Disease,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,sicdiag,Physician-diagnosed Sickle Cell Disease,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,rheuage,Age diagnosed: Rheumatoid arthritis,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,rheudiag,Physician-diagnosed: Rheumatoid arthritis,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,sicage,Age diagnosed: Sickle cell disease,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,sicdiag,Physician-diagnosed: Sickle cell disease,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History,simple,Have had or been recommended a simple tonsillectomy,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,sinage,Age Diagnosed with Sinus Disease,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,sindiag,Physician-diagnosed Sinus Disease,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,skintst,Were your allergies confirmed with a skintest?,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,stroage,Age Diagnosed Stroke (CVA),,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,strodiag,Physician-diagnosed Stroke (CVA),,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,surgage,Age Diagnosed Other Major Surgery:,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,sinage,Age diagnosed: Sinus disease,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,sindiag,Physician-diagnosed: Sinus disease,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,skintst,Were your allergies confirmed with a skintest,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,stroage,Age diagnosed: Stroke (CVA),,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,strodiag,Physician-diagnosed: Stroke (CVA),,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,surgage,Age diagnosed: Other major surgery,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History,surgery,Periods stop due to surgery,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,thyage,Age Diagnosed Thyroid Disease,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,thydiag,Physician-diagnosed Thyroid Disease,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,tiaage,Age Diagnosed TIA (Transient Ischemic Attack),,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,tiadiag,Physician-diagnosed TIA (Transient Ischemic Attack),,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,thyage,Age diagnosed: Thyroid disease,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,thydiag,Physician-diagnosed: Thyroid disease,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,tiaage,Age diagnosed: TIA (transient ischemic attack),,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,tiadiag,Physician-diagnosed: TIA (transient ischemic attack),,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History,tonage,Age when enlarged tonsils noted,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History,tondiag,Enlarged tonsils diagnosed by doctor,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,tondiage,Age Diagnosed Tonsillectomy,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,tondiage,Age diagnosed: Tonsillectomy,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History,tonpres,Enlarged tonsils still present,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History,tonsaden,Tonsils/adenoids removed,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History,tonsdiag,Tonsillectomy,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,tourdiag,Physician-diagnosed Tourettes Syndrome,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,toursage,Age Diagnose Tourettes Syndrome,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,uppp,UPPP surgery recommended or undergone,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,tourdiag,Physician-diagnosed: Tourette's syndrome,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,toursage,Age diagnosed:Tourette's syndrome,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,uppp,Uvulopalatopharyngoplasty surgery recommended or undergone,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History,utergone,Surgery to remove uterus after natural menopause,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History,weekpre,How many weeks early were you born?,,numeric,weeks,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History,weekpre,How many weeks early were you born,,numeric,weeks,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History,yrshormo,How many months did you use prescription female hormones during the last 2 years,,choices,,hormonedur,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History,activeasthma,Physician diagnosis of asthma or asthma medication usage for past 3 days,,choices,,noyes01,,,,
 Medical History,cerebdisease,Cerebrovascular disease,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,
@@ -1079,16 +1079,16 @@ Medical History,diabetes1,Diabetes medication or abnormal fasting or abnormal or
 Medical History,diabetes3,Diabetes: Diagnosed using broad criteria,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,
 Medical History,diabetesdx,Self report of a physician diagnosis of diabetes,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,
 Medical History,diabetesx,Self-report of a physician diagnosis of diabetes or diabetes medication use,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,
-Medical History,diaprob,Problems with Diastolic BP measures,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,
-Medical History,hibloodp,High Blood Pressure,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,
+Medical History,diaprob,Problems with diastolic BP measures,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,
+Medical History,hibloodp,High blood pressure,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,
 Medical History,htn,Abnormal blood pressure (systolic greater than 140 or diastolic greater than 90) or medication,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,
 Medical History,htndx,Self-report of a physician diagnosis of hypertension,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,
 Medical History,htnx,Self-report of a physician diagnosis of hypertension or abnormal blood pressure reading,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,
-Medical History,ovaries,"If surgery, were ovaries removed?",,choices,,ovaries,cfs_lab_adult_child_questionnaire,,,
+Medical History,ovaries,"If surgery, were ovaries removed",,choices,,ovaries,cfs_lab_adult_child_questionnaire,,,
 Medical History,packyr,Average packs smoked/year,,numeric,,,cfs_lab_adult_child_questionnaire,,,
-Medical History,surguppp,Ever had UPPP surgery,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,
-Medical History/Family History,glaucoma,Any biological relatives had Glaucoma,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,
-Medical History/Family History,melonoma,Any biological relatives had Melanoma,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,
+Medical History,surguppp,Ever had uvulopalatopharyngoplasty surgery,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,
+Medical History/Family History,glaucoma,Any biological relatives had glaucoma,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,
+Medical History/Family History,melonoma,Any biological relatives had melanoma,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,
 Medical History/Medications,aceinhib,ACE Inhibitors in the last three days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,acetaday,How many days per week do you take acetaminophen,,choices,,daysperweek,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,acetamin,Acetaminophen in the last three days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
@@ -1100,7 +1100,7 @@ Medical History/Medications,antidepr,Antidepressant in the last three days,,choi
 Medical History/Medications,antihist,Antihistamine in the last three days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,antihype,Other antihypertensive in the last three days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,antiinfl,"Other anti-inflammatory analgesics, 2+ times/week",,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History/Medications,aspirday,How many days per week do you take aspirin?,,choices,,daysperweek,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History/Medications,aspirday,How many days per week do you take aspirin,,choices,,daysperweek,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,aspirin,Aspirin in last three days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,aspirmon,Last month have you used aspirin,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,asprinno,On average how many aspirin,,numeric,,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
@@ -1108,7 +1108,7 @@ Medical History/Medications,asthplyr,Breathing pills in last year,,choices,,noye
 Medical History/Medications,asthspyr,Breathing sprays in last year,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,astpl3dy,Breathing pills in last 3 days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,astsp3dy,Breathing spray in last 3 days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History/Medications,babyaday,How many days per week do you take baby aspirin?,,choices,,daysperweek,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History/Medications,babyaday,How many days per week do you take baby aspirin,,choices,,daysperweek,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,babyamon,Taken baby aspirin over last month,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,babyasno,On average how many baby aspirin,,numeric,,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,babyaspr,Baby aspirin in the last three days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
@@ -1125,7 +1125,7 @@ Medical History/Medications,centsent,"Multivitamin: Centrum, Century, Sentury",,
 Medical History/Medications,centsilv,Multivitamin: Centrum Silver,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,centvits,Multivitamin: Central Vite Select,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,chollowd,Cholesterol lowering drugs in the last three days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History/Medications,cholyrs,"If yes, Number of years used",,choices,,cholyrs,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History/Medications,cholyrs,"If yes, number of years used",,choices,,cholyrs,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,cimetidi,Cimetidine in the last three days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,combipat,Ever use Combipatch,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,cvsdaily,Multivitamin: CVS Daily,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
@@ -1137,16 +1137,16 @@ Medical History/Medications,estrace,Ever use Estrace,,choices,,noyes01,cfs_lab_a
 Medical History/Medications,estrate,Ever use Estratest,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,femhrt,Ever use FemHRT,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,foldosdy,Dose per day,,choices,,folicaciddose,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History/Medications,folicacd,Do you take Folic Acid?,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History/Medications,folicacd,Do you take folic acid?,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,fornu100,"Multivitamin: Formula 100, Nutri-100",,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,h2bloc,Other H2 Blocker in the last three days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,h2opl3dy,Water pills in last 3 days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,hdforwpl,Multivitamin: Healthy Direction Forward Plus,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,healtpac,Multivitamin: Health Balance Daily Pack,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History/Medications,hormones,Have you ever used prescription female hormones?,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History/Medications,hormones,Have you ever used prescription female hormones,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,hrtpl3dy,Heart pills in last 3 days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,hrtplyr,Heart pills in last year,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History/Medications,ibuprday,How many days per week do you take ibuprofen?,,choices,,daysperweek,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History/Medications,ibuprday,How many days per week do you take ibuprofen,,choices,,daysperweek,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,ibuprofe,Ibuprofen in the last three days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,ibuprono,On average how many ibuprofen,,numeric,,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,inbronch,Inhaled bronchodilator in the last three days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
@@ -1154,14 +1154,14 @@ Medical History/Medications,insteroi,Inhaled steroids in the last three days,,ch
 Medical History/Medications,insulin,Insulin in the last three days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,lasix,Lasix in the last three days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,meridia,Meridia in the last three days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History/Medications,microniz,Ever use Micronized (e.g. Prometrium),,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History/Medications,multivit,Do you currently take a multi-vitamin?,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History/Medications,microniz,Ever use micronized progesterone (e.g. Prometrium),,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History/Medications,multivit,Do you currently take a multivitamin,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,nasaldil,Recommended or prescribed nasal dilators,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,nasdc3dy,Antihistamines in last 3 days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,nasdecyr,Antihistamines in last year,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,nitrates,Nitrates in the last three days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,nitrogly,Nitroglycerin in the last three days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History/Medications,nomulvit,How many multivitamin do you take per week?,,choices,,vits,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History/Medications,nomulvit,How many multivitamin do you take per week,,choices,,vits,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,nuskinpk,Multivitamin: Nuskin Life Pack,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,ocuvitpl,Multivitamin: Ocuvite Plus,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,ogen,Ever use Ogen,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
@@ -1169,12 +1169,12 @@ Medical History/Medications,oneadaye,Multivitamin: One A Day Essential,,choices,
 Medical History/Medications,oneadaym,Multivitamin: One A Day Maximum,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,oneadayw,Multivitamin: One A Day Womens,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,onedayap,Multivitamin: One A Day Antioxidant Plus,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History/Medications,oralgluc,Oral Hypoglycemic in the last three days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History/Medications,oralgluc,Oral hypoglycemic in the last three days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,oralster,Steroids taken orally in the last three days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History/Medications,othantid, Other antidepressants in the last three days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History/Medications,othantid,Other antidepressants in the last three days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,othchldr,Other cholesterol lowering drug in the last three days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History/Medications,othestro,Ever use Other Estrogen,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History/Medications,othhpill,Ever use Other hormones or birth control pills?,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History/Medications,othestro,Ever use other estrogen,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History/Medications,othhpill,Ever use other hormones or birth control pills,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,othregmd,Specify other medication in the last three days,,text,,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,patchest,Ever use patch estrogen,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,paxil,Paxil in the last three days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
@@ -1182,7 +1182,7 @@ Medical History/Medications,phenterm,Phentermine in the last three days,,choices
 Medical History/Medications,premarin,Ever use oral Premarin,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,premphas,Ever use Premphase,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,premprob,Ever use Prempro (blue),,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History/Medications,premprop,Ever use Prempro (pink):,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History/Medications,premprop,Ever use Prempro (pink),,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,prilprev,Prilosec or Prevacid in the last three days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,procycmp,Ever use Provera/Cycrin/MPA,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,prog3dy,Progesterone in last 3 days,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
@@ -1195,10 +1195,10 @@ Medical History/Medications,sleepmed,Sleeping medicine in the last three days,,c
 Medical History/Medications,slppilyr,Sleeping pills in last year,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,slppl3dy,Sleep pills in last 3 days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,solotron,Multivitamin: Solotron for Women,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History/Medications,somnoply,Recommended or prescribed Somnoplasty,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History/Medications,specest,Ever use Specify hormone,,text,,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History/Medications,specprog,Ever use specify progesterone,,text,,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History/Medications,stim3dy,Stimulants in last 3 days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History/Medications,somnoply,Recommended or prescribed somnoplasty,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History/Medications,specest,Specify hormone,,text,,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History/Medications,specprog,Specify progesterone,,text,,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History/Medications,stim3dy,Stimulant in last 3 days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,stimyr,Stimulant in last year,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,stresstb,Multivitamin: Stresstabs,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,surbext,Multivitamin: Surbex T,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
@@ -1208,7 +1208,7 @@ Medical History/Medications,theragrm,Multivitamin: Theragram,,choices,,noyes01,c
 Medical History/Medications,thiazide,Thiazide diuretics in the last three days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,thryd,Thyroid in the last three days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,thyrm3dy,Thyroid medications in last 3 days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History/Medications,thyrmdyr,Thyroid medicines in last year,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History/Medications,thyrmdyr,Thyroid medications in last year,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,tquilize,Tranquilizers in the last three days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,tranq3dy,Tranquilizers in last 3 days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,tranquyr,Tranquilizer in last year,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
@@ -1216,12 +1216,12 @@ Medical History/Medications,unicap,Multivitamin: Unicap,,choices,,noyes01,cfs_la
 Medical History/Medications,unicapm,Multivitamin: Unicap-M,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,unicapsr,Multivitamin: Unicap Senior,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,vagestro,Ever use vaginal estrogen,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History/Medications,vaginal,Ever use Vaginal,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History/Medications,vaginal,Ever use vaginal,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,vimin75,Multivitamin: VI-MIN 75,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,wompowpk,Multivitamin: Women Power Pack,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,xenical,Xenical in the last three days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History/Medications,yourvita,Multivitamin: specify,,text,,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History/Medications,youvitir,Does your multivitamin include iron?,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History/Medications,yourvita,Specify multivitamin,,text,,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History/Medications,youvitir,Does your multivitamin include iron,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,zbec,Multivitamin: Z-Bec,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,zoloft,Zoloft in the last three days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Medications,aspirintherapy,Aspirin use 4-7 days per week,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,
@@ -1230,22 +1230,22 @@ Medical History/Medications,cenvitpl,Multivitamin: Central Vite Plus,,choices,,n
 Medical History/Medications,ibuprmon,Last month have you used ibuprofen,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,
 Medical History/Medications,lithium,Lithium usage,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,
 Medical History/Medications,ocuvite,Multivitamin: Ocuvite,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,
-Medical History/Medications,othpilsp,Ever use specify OCP,,text,,,cfs_lab_adult_child_questionnaire,,,
-Medical History/Medications,othprog,Ever use Other Progesterone,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,
+Medical History/Medications,othpilsp,Specify oral contraceptive,,text,,,cfs_lab_adult_child_questionnaire,,,
+Medical History/Medications,othprog,Ever use other progesterone,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,
 Medical History/Medications,psychmeds,Anti-depressant or anti-anxiety medication usage in the past 3 days,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,
 Medical History/Medications,statins,Use of cholesterol lowering drugs,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,
 Medical History/Medications,xbpmeds,On a specified medication,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,
-Medical History/Reproductive Health,agestop,At what age did your natural periods cease?,,numeric,,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History/Reproductive Health,agestop,At what age did your natural periods cease,,numeric,,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Reproductive Health,curpreg,Currently pregnant,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History/Reproductive Health,lstmens,When was your last period?,,choices,,menstr_17,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History/Reproductive Health,lstmens,When was your last period,,choices,,menstr_17,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Reproductive Health,n1ovrem,Surgery to remove one ovary after natural menopause,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Reproductive Health,n2ovrem,Surgery to remove two ovaries after natural menopause,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Reproductive Health,natsurno,No surgery to remove ovaries/uterus after natural menopause,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History/Reproductive Health,perstart,At what age did your menstrual periods begin?,,choices,,perage,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Medical History/Reproductive Health,perstop,Have your periods stopped permanently?,Yes includes participants who have post-menopausal periods induced by hormones,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History/Reproductive Health,perstart,At what age did your menstrual periods begin,,choices,,perage,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Medical History/Reproductive Health,perstop,Have your periods stopped permanently,Yes includes participants who have post-menopausal periods induced by hormones,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Reproductive Health,radchemo,Periods stopped due to chemotherapy,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Medical History/Reproductive Health,hrtx,Hormone replacement therapy,,choices,,yesnon,cfs_lab_adult_child_questionnaire,,,
-Medical History/Reproductive Health,natural, natural periods stop,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,
+Medical History/Reproductive Health,natural,Natural periods stopped,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,
 Medical History/Reproductive Health,pmp,Post-menopausal,,choices,,noyesdontknowna,cfs_lab_adult_child_questionnaire,,,
 Sleep Monitoring/Home Sleep Test,ahi,Sleep Study: apnea hypopnea index,A subset of participants had home sleep test (Edentec) as well as in-lab polysomnography at visit 5.,numeric,,,cfs_lab_physiology_questionnaire,,TRUE,
 Sleep Monitoring/Home Sleep Test,apnctr,Sleep Study: subject had predominantly central apneas,A subset of participants had home sleep test (Edentec) as well as in-lab polysomnography at visit 5.,choices,,noyes01,cfs_lab_physiology_questionnaire,,,
@@ -1464,16 +1464,16 @@ Sleep Monitoring/Polysomnography/Apnea-Hypopnea Indices,rdirop3,"Hypopnea Index 
 Sleep Monitoring/Polysomnography/Apnea-Hypopnea Indices,rdirop4,"Hypopnea Index (REM, Non-Supine) : (Hypopneas with > 30% flow reduction and with >= 4% oxygen desaturation and with or without arousal) / hour of NREM sleep in non-supine position  from type I polysomnography","Calculated - Summary metric of sleep disordered breathing events. The definition of hypopnea events is consistent with the following clinical guidelines: (1) AASM 2012 update (recommended) [Berry RB et al. 2012 (PubMed ID:23066376)](https://www.ncbi.nlm.nih.gov/pubmed/23066376), and (2) AASM 2015 (acceptable) [Berry RB et al. The AASM Manual for the Scoring of Sleep and Associated Events: Rules, Terminology and Technical Specifications, Version 2.2. American Academy of Sleep Medicine, Darien, IL, 2015.]. <br><br>[Search for all AHI variables consistent with the same clinical guidelines within this dataset](https://sleepdata.org/datasets/cfs/variables?search=aasm15_acceptable)",numeric,events per hour,,hi_srpo_hp3x4u_f1t1;aasm15_acceptable,,,
 Sleep Monitoring/Polysomnography/Apnea-Hypopnea Indices,rdirop5,"Hypopnea Index (REM, Non-Supine) : (Hypopneas with > 30% flow reduction and with >= 5% oxygen desaturation and with or without arousal) / hour of NREM sleep in non-supine position  from type I polysomnography",Calculated - Summary metric of sleep disordered breathing events. ,numeric,events per hour,,hi_srpo_hp3x5u_f1t1,,,
 Sleep Monitoring/Polysomnography/Arousal,ai_all,Arousal Index: number of arousals per hour of sleep from type I polysomnography,Total number of arousals per hour of sleep.  Ratio of count of arousals to total sleep time in hours.,numeric,events per hour,,phrnumar_f1t1,60 * ( arrembp + arremop + arnrembp + arnremop ) / slpprdp,TRUE,
-Sleep Monitoring/Polysomnography/Arousal,ahnrembp,Number of arousal per hour in NREM sleep in supine position with oxygen desaturation > 0% from type I polysomnography,,numeric,events per hour,,phrnumar_snpb_dsgt0_f1t1,,,
-Sleep Monitoring/Polysomnography/Arousal,ahnremop,Number of arousal per hour in NREM sleep in non-supine position with oxygen desaturation > 0% from type I polysomnography,,numeric,events per hour,,phrnumar_snpo_dsgt0_f1t1,,,
-Sleep Monitoring/Polysomnography/Arousal,ahrembp,Number of arousal per hour in REM sleep in supine position with oxygen desaturation > 0% from type I polysomnography,,numeric,events per hour,,phrnumar_srpb_dsgt0_f1t1,,,
-Sleep Monitoring/Polysomnography/Arousal,ahremop,Number of arousal per hour in REM sleep in non-supine position with oxygen desaturation > 0% from type I polysomnography,,numeric,events per hour,,phrnumar_srpo_dsgt0_f1t1,,,
+Sleep Monitoring/Polysomnography/Arousal,ahnrembp,Number of arousal per hour in NREM sleep in supine position from type I polysomnography,,numeric,events per hour,,phrnumar_snpb_f1t1,,,
+Sleep Monitoring/Polysomnography/Arousal,ahnremop,Number of arousal per hour in NREM sleep in non-supine position from type I polysomnography,,numeric,events per hour,,phrnumar_snpo_f1t1,,,
+Sleep Monitoring/Polysomnography/Arousal,ahrembp,Number of arousal per hour in REM sleep in supine position from type I polysomnography,,numeric,events per hour,,phrnumar_srpb_f1t1,,,
+Sleep Monitoring/Polysomnography/Arousal,ahremop,Number of arousal per hour in REM sleep in non-supine position from type I polysomnography,,numeric,events per hour,,phrnumar_srpo_f1t1,,,
 Sleep Monitoring/Polysomnography/Arousal,ai_nrem,Arousal Index (NREM): number of arousals per hour of NREM sleep from type I polysomnography,,numeric,events per hour,,phrnumar_sn_f1t1,60 * ( arnrembp + arnremop ) / ( slpprdp - minremp ),,
 Sleep Monitoring/Polysomnography/Arousal,ai_rem,Arousal Index (REM): number of arousals per hour of REM sleep from type I polysomnography,,numeric,events per hour,,phrnumar_sr_f1t1,60 * ( arrembp + arremop ) / minremp,,
-Sleep Monitoring/Polysomnography/Arousal,arnrembp,Total number of arousal in NREM sleep in supine position with oxygen desaturation > 0% from type I polysomnography,,numeric,arousals,,ttlnumar_snpb_dsgt0_f1t1,,,
-Sleep Monitoring/Polysomnography/Arousal,arnremop,Total number of arousal in NREM sleep in non-supine position with oxygen desaturation > 0% from type I polysomnography,,numeric,arousals,,ttlnumar_snpo_dsgt0_f1t1,,,
-Sleep Monitoring/Polysomnography/Arousal,arrembp,Total number of arousal in REM sleep in supine position with oxygen desaturation > 0% from type I polysomnography,,numeric,arousals,,ttlnumar_srpb_dsgt0_f1t1,,,
-Sleep Monitoring/Polysomnography/Arousal,arremop,Total number of arousal in REM sleep in non-supine position with oxygen desaturation > 0% from type I polysomnography,,numeric,arousals,,ttlnumar_srpo_dsgt0_f1t1,,,
+Sleep Monitoring/Polysomnography/Arousal,arnrembp,Total number of arousal in NREM sleep in supine position from type I polysomnography,,numeric,arousals,,ttlnumar_snpb_f1t1,,,
+Sleep Monitoring/Polysomnography/Arousal,arnremop,Total number of arousal in NREM sleep in non-supine position from type I polysomnography,,numeric,arousals,,ttlnumar_snpo_f1t1,,,
+Sleep Monitoring/Polysomnography/Arousal,arrembp,Total number of arousal in REM sleep in supine position from type I polysomnography,,numeric,arousals,,ttlnumar_srpb_f1t1,,,
+Sleep Monitoring/Polysomnography/Arousal,arremop,Total number of arousal in REM sleep in non-supine position from type I polysomnography,,numeric,arousals,,ttlnumar_srpo_f1t1,,,
 Sleep Monitoring/Polysomnography/Evening and Morning Survey,typetx,Type of sleep apnea treatment,,choices,,treattype,cfs_lab_physiology_questionnaire,,TRUE,lab_physio
 Sleep Monitoring/Polysomnography/Evening and Morning Survey,devsept,Deviated septum observed by tester,,choices,,noyes01,cfs_lab_physiology_questionnaire,,,lab_physio
 Sleep Monitoring/Polysomnography/Evening and Morning Survey,extissue,Excessive tissue observed by tester,,choices,,noyes01,cfs_lab_physiology_questionnaire,,,lab_physio
@@ -2536,19 +2536,19 @@ Sleep Questionnaires/Hypersomnia/Epworth Sleepiness Scale (ESS),essq7,Epworth Sl
 Sleep Questionnaires/Hypersomnia/Epworth Sleepiness Scale (ESS),essq8,"Epworth Sleepiness Scale: Chance of dozing while in a car, while stopped for a few minutes in traffic",Item from the Epworth Sleepiness Scale [Johns MW 1991 (PubMed ID: 1798888)](https://www.ncbi.nlm.nih.gov/pubmed/1798888)<br><br> [Search for all ESS variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=epworth),choices,,ess,ess;epworth;ess_8stoppedcar,,,
 Sleep Questionnaires/Parasomnia,legjerk,"During the last month, have you had, or have been told you do the following while asleep or trying to sleep: jumpy or jerky legs",,choices,,freq,cfs_lab_adult_child_questionnaire;rls_plms,,,baseline_lab_adult_child_questionnaire
 Sleep Questionnaires/Parasomnia,paralyze,"Over the last month, have you experienced: Awake feeling paralyzed, unable to move for short periods",,choices,,freq,cfs_lab_adult_child_questionnaire;sleep_paralysis,,,baseline_lab_adult_child_questionnaire
-Sleep Questionnaires/Sleep Disorder,agediaap,Age Diagnosed Sleep Apnea,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Sleep Questionnaires/Sleep Disorder,agediaex,Age Diagnosed Excessive Sleepiness,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Sleep Questionnaires/Sleep Disorder,agediale,Age Diagnosed Restless Legs or PLMs,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Sleep Questionnaires/Sleep Disorder,agediana,Age Diagnosed Narcolepsy,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Sleep Questionnaires/Sleep Disorder,agediasn,Age Diagnosed Loud/Disruptive Snoring,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Sleep Questionnaires/Sleep Disorder,agediaap,Age diagnosed: Sleep apnea,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Sleep Questionnaires/Sleep Disorder,agediaex,Age diagnosed: Excessive sleepiness,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Sleep Questionnaires/Sleep Disorder,agediale,Age diagnosed: Restless legs or PLMs,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Sleep Questionnaires/Sleep Disorder,agediana,Age diagnosed: Narcolepsy,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Sleep Questionnaires/Sleep Disorder,agediasn,Age diagnosed: Loud or diisruptive snoring,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Sleep Questionnaires/Sleep Disorder,diaapn,Ever been diagnosed with sleep apnea,,choices,,noyes01,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Sleep Questionnaires/Sleep Disorder,diaexslp,Excessive (too much) Sleepiness,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Sleep Questionnaires/Sleep Disorder,dialegs,Physician-diagnosed Restless Legs or PLMs,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Sleep Questionnaires/Sleep Disorder,dianarc,Physician-diagnosed Narcolepsy,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Sleep Questionnaires/Sleep Disorder,diasnor,Physician-diagnosed Loud or Disruptive Snoring,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Sleep Questionnaires/Sleep Disorder,insodiag,Physician-diagnosed Insomnia,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Sleep Questionnaires/Sleep Disorder,insomage,Age Diagnosed Insomnia,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
-Sleep Questionnaires/Sleep Disorder,slapndia,Physician-diagnosed Sleep Apnea,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Sleep Questionnaires/Sleep Disorder,dialegs,Physician-diagnosed: Restless legs or PLMs,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Sleep Questionnaires/Sleep Disorder,dianarc,Physician-diagnosed: Narcolepsy,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Sleep Questionnaires/Sleep Disorder,diasnor,Physician-diagnosed: Loud or disruptive snoring,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Sleep Questionnaires/Sleep Disorder,insodiag,Physician-diagnosed: Insomnia,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Sleep Questionnaires/Sleep Disorder,insomage,Age Diagnosed: Insomnia,,numeric,years,,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
+Sleep Questionnaires/Sleep Disorder,slapndia,Physician-diagnosed: Sleep apnea,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire,,,baseline_lab_adult_child_questionnaire
 Sleep Questionnaires/Sleep Disordered Breathing,anysnore,Have you ever been told that you snore?,,choices,,noyesdk_2,cfs_lab_adult_child_questionnaire;sdb;snore,,,baseline_lab_adult_child_questionnaire
 Sleep Questionnaires/Sleep Disordered Breathing,brstops,"During the last month, have you had, or have been told you do the following while asleep or trying to sleep: stop breathing",,choices,,freq,cfs_lab_adult_child_questionnaire;sdb,,,baseline_lab_adult_child_questionnaire
 Sleep Questionnaires/Sleep Disordered Breathing,choke,"During the last month, have you had, or have been told you do the following while asleep or trying to sleep: choke",,choices,,freq,cfs_lab_adult_child_questionnaire;sdb,,,baseline_lab_adult_child_questionnaire
@@ -2639,7 +2639,7 @@ Sleep Questionnaires/Sleep Habits,daywake_time,Weekday wake time,Self-reported n
 Sleep Questionnaires/Sleep Habits,endmid_time,Calculated mid-point of sleep period during weekends,,time,,,cfs_lab_adult_child_questionnaire;sleep_timing,,,
 Sleep Questionnaires/Sleep Habits,endslp,Time spent asleep on weekends,,numeric,,,cfs_lab_adult_child_questionnaire;sleep_duration,,,
 Sleep Questionnaires/Sleep Habits,endslp_dur_hr,Calculated sleep duration on weekends,The difference between ENDSLP (self-reported sleep time) and ENDWAKE (self-reported wake time).,numeric,hours,,cfs_lab_adult_child_questionnaire;sleep_duration,,,
-Sleep Questionnaires/Sleep Habits,endslp_dur_mn,Calculated sleep duration on weekends,The difference between DAYSLP (self-reported sleep time) and DAYWAKE (self-reported wake time).,numeric,minutes,,cfs_lab_adult_child_questionnaire;sleep_duration,,,
+Sleep Questionnaires/Sleep Habits,endslp_dur_mn,Calculated sleep duration on weekends,The difference between ENDSLP (self-reported sleep time) and ENDWAKE (self-reported wake time),numeric,minutes,,cfs_lab_adult_child_questionnaire;sleep_duration,,,
 Sleep Questionnaires/Sleep Habits,endslp_time,Weekend bedtime,Self-reported normal bedtime on weekends,time,,,cfs_lab_adult_child_questionnaire;sleep_timing,,,
 Sleep Questionnaires/Sleep Habits,endwake_time,Weekend wake time,Self-reported normal wake time on weekends,time,,,cfs_lab_adult_child_questionnaire;sleep_timing,,,
 Sleep Questionnaires/Sleep Habits,sleeptime_hr,Calculated sleep duration on all days,,numeric,hours,,cfs_lab_adult_child_questionnaire;sleep_duration,,,

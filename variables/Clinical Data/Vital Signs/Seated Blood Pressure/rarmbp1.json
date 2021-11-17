@@ -1,6 +1,6 @@
 {
   "id": "rarmbp1",
-  "display_name": "Right Arm Systolic Blood Pressure 1",
+  "display_name": "Right arm systolic blood pressure 1",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury"

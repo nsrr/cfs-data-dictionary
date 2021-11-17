@@ -1,6 +1,6 @@
 {
   "id": "astdiag",
-  "display_name": "Physician-diagnosed Asthma",
+  "display_name": "Physician-diagnosed asthma",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

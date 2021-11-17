@@ -1,6 +1,6 @@
 {
   "id": "dianm",
-  "display_name": "Physician-diagnosed Near Miss SIDS, ALTE",
+  "display_name": "Physician-diagnosed: Near miss SIDS, ALTE",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

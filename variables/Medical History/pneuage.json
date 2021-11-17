@@ -1,6 +1,6 @@
 {
   "id": "pneuage",
-  "display_name": "Age Diagnose Pneumonia",
+  "display_name": "Age diagnosed: Pneumonia",
   "description": "",
   "type": "numeric",
   "units": "years",

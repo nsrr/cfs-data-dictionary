@@ -1,6 +1,6 @@
 {
   "id": "longicu",
-  "display_name": "How long were you in the NICU after birth?",
+  "display_name": "How long were you in the NICU after birth",
   "description": "",
   "type": "choices",
   "domain": "earlymeds",

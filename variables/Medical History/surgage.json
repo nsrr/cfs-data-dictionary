@@ -1,6 +1,6 @@
 {
   "id": "surgage",
-  "display_name": "Age Diagnosed Other Major Surgery:",
+  "display_name": "Age diagnosed: Other major surgery",
   "description": "",
   "type": "numeric",
   "units": "years",

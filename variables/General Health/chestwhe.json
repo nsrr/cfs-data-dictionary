@@ -1,6 +1,6 @@
 {
   "id": "chestwhe",
-  "display_name": "How often do you wheeze or whistle from your chest?",
+  "display_name": "How often do you wheeze or whistle from your chest",
   "description": "",
   "type": "choices",
   "domain": "freq",

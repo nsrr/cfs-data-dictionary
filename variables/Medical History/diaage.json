@@ -1,6 +1,6 @@
 {
   "id": "diaage",
-  "display_name": "Age Diagnose Diabetes",
+  "display_name": "Age diagnosed: Diabetes",
   "description": "",
   "type": "numeric",
   "units": "years",

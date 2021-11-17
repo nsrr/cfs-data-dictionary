@@ -1,6 +1,6 @@
 {
   "id": "devdiag",
-  "display_name": "Physician-diagnosed Nose with a Deviated Septum",
+  "display_name": "Physician-diagnosed nose with a deviated septum",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

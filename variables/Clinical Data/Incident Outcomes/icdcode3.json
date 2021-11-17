@@ -1,6 +1,6 @@
 {
   "id": "icdcode3",
-  "display_name": "Reason for death 3 (icd9code)",
+  "display_name": "Reason for death 3 (ICD-9 code)",
   "description": "",
   "type": "text"
 }

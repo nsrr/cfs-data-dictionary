@@ -1,6 +1,6 @@
 {
   "id": "astage",
-  "display_name": "Age Diagnosed Asthma",
+  "display_name": "Age diagnosed asthma",
   "description": "",
   "type": "numeric",
   "units": "years",

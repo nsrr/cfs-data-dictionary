@@ -1,6 +1,6 @@
 {
   "id": "soonches",
-  "display_name": "How soon is chest discomfort relieved / not relieved?",
+  "display_name": "How soon is chest discomfort relieved / not relieved",
   "description": "",
   "type": "choices",
   "domain": "min10chest",

@@ -1,6 +1,6 @@
 {
   "id": "uppp",
-  "display_name": "UPPP surgery recommended or undergone",
+  "display_name": "Uvulopalatopharyngoplasty surgery recommended or undergone",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

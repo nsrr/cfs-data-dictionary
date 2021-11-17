@@ -1,6 +1,6 @@
 {
   "id": "labavgdia",
-  "display_name": "Mean lab Diastolic Blood Pressure",
+  "display_name": "Mean lab diastolic blood pressure",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury"

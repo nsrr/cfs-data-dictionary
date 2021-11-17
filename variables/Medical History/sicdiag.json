@@ -1,6 +1,6 @@
 {
   "id": "sicdiag",
-  "display_name": "Physician-diagnosed Sickle Cell Disease",
+  "display_name": "Physician-diagnosed: Sickle cell disease",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

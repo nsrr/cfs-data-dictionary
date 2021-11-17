@@ -1,6 +1,6 @@
 {
   "id": "otmasurg",
-  "display_name": "Other Major Surgery",
+  "display_name": "Other major surgery",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

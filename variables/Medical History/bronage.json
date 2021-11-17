@@ -1,6 +1,6 @@
 {
   "id": "bronage",
-  "display_name": "Age Diagnosed Chronic Bronchitis",
+  "display_name": "Age diagnosed chronic bronchitis",
   "description": "",
   "type": "numeric",
   "units": "years",

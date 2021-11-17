@@ -1,6 +1,6 @@
 {
   "id": "nowpipe",
-  "display_name": "How many Pipes (bowls) per day now?",
+  "display_name": "How many pipes (bowls) per day now",
   "description": "",
   "type": "numeric",
   "units": "bowls",

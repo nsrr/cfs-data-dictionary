@@ -1,6 +1,6 @@
 {
   "id": "bicexer",
-  "display_name": "Past year time spent bicycling (including stationary machine)?",
+  "display_name": "Past year time spent bicycling (including stationary machine)",
   "description": "",
   "type": "choices",
   "domain": "exercise_time",

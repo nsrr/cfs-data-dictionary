@@ -1,6 +1,6 @@
 {
   "id": "ostediag",
-  "display_name": "Physician-diagnosed Osteoporosis",
+  "display_name": "Physician-diagnosed: Osteoporosis",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

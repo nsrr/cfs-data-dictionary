@@ -1,6 +1,6 @@
 {
   "id": "avlsd",
-  "display_name": "aVL lead: Duration of the S wave (Left arm)",
+  "display_name": "aVL Lead: Duration of the S wave (Left arm)",
   "description": "",
   "type": "numeric",
   "units": "milliseconds"

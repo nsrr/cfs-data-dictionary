@@ -1,6 +1,6 @@
 {
   "id": "hrtdiag",
-  "display_name": "Physician-diagnosed Myocardial Infarction",
+  "display_name": "Physician-diagnosed: Myocardial infarction",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

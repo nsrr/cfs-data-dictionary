@@ -1,6 +1,6 @@
 {
   "id": "ovaries",
-  "display_name": "If surgery, were ovaries removed?",
+  "display_name": "If surgery, were ovaries removed",
   "description": "",
   "type": "choices",
   "domain": "ovaries",

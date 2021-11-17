@@ -1,6 +1,6 @@
 {
   "id": "diadiag",
-  "display_name": "Physician-diagnosed Diabetes",
+  "display_name": "Physician-diagnosed: Diabetes",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

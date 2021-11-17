@@ -1,6 +1,6 @@
 {
   "id": "anxage",
-  "display_name": "Age Diagnosed Anxiety",
+  "display_name": "Age diagnosed anxiety",
   "description": "",
   "type": "numeric",
   "units": "years",

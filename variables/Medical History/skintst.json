@@ -1,6 +1,6 @@
 {
   "id": "skintst",
-  "display_name": "Were your allergies confirmed with a skintest?",
+  "display_name": "Were your allergies confirmed with a skintest",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

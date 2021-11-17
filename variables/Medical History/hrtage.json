@@ -1,6 +1,6 @@
 {
   "id": "hrtage",
-  "display_name": "Age Diagnosed Myocardial Infarction",
+  "display_name": "Age diagnosed: Myocardial infarction",
   "description": "",
   "type": "numeric",
   "units": "years",

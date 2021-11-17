@@ -1,6 +1,6 @@
 {
   "id": "walkpace",
-  "display_name": "What is your normal walking pace outdoors?",
+  "display_name": "What is your normal walking pace outdoors",
   "description": "",
   "type": "choices",
   "domain": "walkspeed",

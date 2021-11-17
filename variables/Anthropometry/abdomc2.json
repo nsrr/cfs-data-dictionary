@@ -1,6 +1,6 @@
 {
   "id": "abdomc2",
-  "display_name": "abdominal circumference 2",
+  "display_name": "Abdominal circumference 2",
   "description": "",
   "type": "numeric",
   "units": "centimeters"

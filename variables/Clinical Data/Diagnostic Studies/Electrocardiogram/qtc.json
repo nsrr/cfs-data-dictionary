@@ -1,6 +1,6 @@
 {
   "id": "qtc",
-  "display_name": "Q-Tc Interval",
+  "display_name": "Q-Tc interval",
   "description": "",
   "type": "numeric",
   "units": "milliseconds"

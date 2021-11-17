@@ -1,6 +1,6 @@
 {
   "id": "tiaage",
-  "display_name": "Age Diagnosed TIA (Transient Ischemic Attack)",
+  "display_name": "Age diagnosed: TIA (transient ischemic attack)",
   "description": "",
   "type": "numeric",
   "units": "years",

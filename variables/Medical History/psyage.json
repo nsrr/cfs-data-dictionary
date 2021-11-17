@@ -1,6 +1,6 @@
 {
   "id": "psyage",
-  "display_name": "Age Diagnosed Other Psychiatric Disease",
+  "display_name": "Age diagnosed: Other psychiatric disease",
   "description": "",
   "type": "numeric",
   "units": "years",

@@ -1,6 +1,6 @@
 {
   "id": "insomage",
-  "display_name": "Age Diagnosed Insomnia",
+  "display_name": "Age Diagnosed: Insomnia",
   "description": "",
   "type": "numeric",
   "units": "years",

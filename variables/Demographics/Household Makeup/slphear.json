@@ -1,6 +1,6 @@
 {
   "id": "slphear",
-  "display_name": "Over the last 3 months, have you shared a room on a regular basis with someone who has been in a position to hear or observe you breathing while asleep?",
+  "display_name": "Over the last 3 months, have you shared a room on a regular basis with someone who has been in a position to hear or observe you breathing while asleep",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

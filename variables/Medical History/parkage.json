@@ -1,6 +1,6 @@
 {
   "id": "parkage",
-  "display_name": "Age Diagnose Duodenal Ulcer",
+  "display_name": "Age diagnosed: Duodenal ulcer",
   "description": "",
   "type": "numeric",
   "units": "years",

@@ -1,6 +1,6 @@
 {
   "id": "wrist1",
-  "display_name": "wrist circumference 1",
+  "display_name": "Wrist circumference 1",
   "description": "",
   "type": "numeric",
   "units": "centimeters"

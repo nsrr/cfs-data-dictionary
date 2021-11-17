@@ -1,6 +1,6 @@
 {
   "id": "glaucoma",
-  "display_name": "Any biological relatives had Glaucoma",
+  "display_name": "Any biological relatives had glaucoma",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

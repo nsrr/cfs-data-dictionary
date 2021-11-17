@@ -1,6 +1,6 @@
 {
   "id": "insodiag",
-  "display_name": "Physician-diagnosed Insomnia",
+  "display_name": "Physician-diagnosed: Insomnia",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

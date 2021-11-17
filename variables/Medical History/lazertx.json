@@ -1,6 +1,6 @@
 {
   "id": "lazertx",
-  "display_name": "Recommended or prescribed Laser Treatment",
+  "display_name": "Recommended or prescribed laser treatment",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

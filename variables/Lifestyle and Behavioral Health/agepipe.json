@@ -1,6 +1,6 @@
 {
   "id": "agepipe",
-  "display_name": "Age first started smoking pipes?",
+  "display_name": "Age first started smoking pipes",
   "description": "",
   "type": "numeric",
   "units": "years",

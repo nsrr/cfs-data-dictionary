@@ -1,6 +1,6 @@
 {
   "id": "avgcigs",
-  "display_name": "How many cigars on average?",
+  "display_name": "How many cigars on average",
   "description": "",
   "type": "numeric",
   "units": "cigars per day",

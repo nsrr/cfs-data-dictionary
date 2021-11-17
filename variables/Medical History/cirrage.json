@@ -1,6 +1,6 @@
 {
   "id": "cirrage",
-  "display_name": "Age Diagnosed Cirrhosis of the Liver",
+  "display_name": "Age diagnosed cirrhosis of the liver",
   "description": "",
   "type": "numeric",
   "units": "years",

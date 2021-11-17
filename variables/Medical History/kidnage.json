@@ -1,6 +1,6 @@
 {
   "id": "kidnage",
-  "display_name": "Age Diagnosed Kidney Stones",
+  "display_name": "Age diagnosed: Kidney stones",
   "description": "",
   "type": "numeric",
   "units": "years",

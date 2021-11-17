@@ -1,6 +1,6 @@
 {
   "id": "osmcage",
-  "display_name": "Age Diagnosed Other Significant Medical Condition",
+  "display_name": "Age diagnosed: Other significant medical condition",
   "description": "",
   "type": "numeric",
   "units": "years",

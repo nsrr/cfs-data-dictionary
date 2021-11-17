@@ -1,6 +1,6 @@
 {
   "id": "stopcigs",
-  "display_name": "Age stop smoking Cigars",
+  "display_name": "Age stop smoking cigars",
   "description": "",
   "type": "numeric",
   "units": "years",

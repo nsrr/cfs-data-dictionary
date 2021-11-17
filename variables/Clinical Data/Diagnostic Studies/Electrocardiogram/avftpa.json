@@ -1,6 +1,6 @@
 {
   "id": "avftpa",
-  "display_name": "aVF lead: Maximum amplitude of the T wave",
+  "display_name": "aVF Lead: Maximum amplitude of the T wave",
   "description": "",
   "type": "numeric",
   "units": "millimeters"

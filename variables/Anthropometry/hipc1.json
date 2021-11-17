@@ -1,6 +1,6 @@
 {
   "id": "hipc1",
-  "display_name": "hip circumference 1",
+  "display_name": "Hip circumference 1",
   "description": "",
   "type": "numeric",
   "units": "centimeters"

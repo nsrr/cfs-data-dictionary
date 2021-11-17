@@ -1,6 +1,6 @@
 {
   "id": "thydiag",
-  "display_name": "Physician-diagnosed Thyroid Disease",
+  "display_name": "Physician-diagnosed: Thyroid disease",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

@@ -1,6 +1,6 @@
 {
   "id": "agediach",
-  "display_name": "Age Diagnosed Elevated Cholesterol",
+  "display_name": "Age diagnosed elevated cholesterol",
   "description": "",
   "type": "numeric",
   "units": "years",

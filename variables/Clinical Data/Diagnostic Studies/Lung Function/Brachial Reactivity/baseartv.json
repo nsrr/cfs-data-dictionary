@@ -1,6 +1,6 @@
 {
   "id": "baseartv",
-  "display_name": "Arterial Diameter Doppler Velocity",
+  "display_name": "Arterial diameter doppler velocity",
   "description": "",
   "type": "numeric",
   "units": "meters per second"

@@ -1,6 +1,6 @@
 {
   "id": "noambair",
-  "display_name": "Ambient Air",
+  "display_name": "Ambient air",
   "description": "",
   "type": "numeric",
   "units": "ppm"

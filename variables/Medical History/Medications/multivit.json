@@ -1,6 +1,6 @@
 {
   "id": "multivit",
-  "display_name": "Do you currently take a multi-vitamin?",
+  "display_name": "Do you currently take a multivitamin",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

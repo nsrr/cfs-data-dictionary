@@ -1,6 +1,6 @@
 {
   "id": "larmbp2",
-  "display_name": "Left Arm Systolic Blood Pressure 2",
+  "display_name": "Left arm systolic blood pressure 2",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury"

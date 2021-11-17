@@ -1,6 +1,6 @@
 {
   "id": "avfppa",
-  "display_name": "aVF Lead: maximum P wave amplitude",
+  "display_name": "aVF Lead: Maximum P wave amplitude",
   "description": "",
   "type": "numeric",
   "units": "millimeters"

@@ -1,6 +1,6 @@
 {
   "id": "cholyrs",
-  "display_name": "If yes, Number of years used",
+  "display_name": "If yes, number of years used",
   "description": "",
   "type": "choices",
   "domain": "cholyrs",
