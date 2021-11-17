@@ -1,6 +1,6 @@
 {
   "id": "stim3dy",
-  "display_name": "Stimulants in last 3 days",
+  "display_name": "Stimulant in last 3 days",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

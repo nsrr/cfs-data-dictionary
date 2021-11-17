@@ -1,6 +1,6 @@
 {
   "id": "eczage",
-  "display_name": "Age Diagnosed Eczema",
+  "display_name": "Age diagnosed: Eczema",
   "description": "",
   "type": "numeric",
   "units": "years",

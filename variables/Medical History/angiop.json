@@ -1,6 +1,6 @@
 {
   "id": "angiop",
-  "display_name": "Coronary Angioplasty",
+  "display_name": "Coronary angioplasty",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

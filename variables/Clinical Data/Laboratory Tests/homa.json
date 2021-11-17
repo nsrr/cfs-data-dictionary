@@ -1,6 +1,6 @@
 {
   "id": "homa",
-  "display_name": "Homeostasis Model Assessment for insulin resistance",
+  "display_name": "Homeostasis model assessment for insulin resistance",
   "description": "",
   "type": "numeric"
 }

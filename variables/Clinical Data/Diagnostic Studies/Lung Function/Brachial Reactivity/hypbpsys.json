@@ -1,6 +1,6 @@
 {
   "id": "hypbpsys",
-  "display_name": "Hyperemia/FMV One minute Cuff Release 2D Image BP systolic",
+  "display_name": "Hyperemia/FMV one minute cuff release 2D image BP systolic",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury"

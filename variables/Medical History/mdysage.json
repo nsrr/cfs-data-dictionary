@@ -1,6 +1,6 @@
 {
   "id": "mdysage",
-  "display_name": "Age Diagnosed Muscular Dystrophy",
+  "display_name": "Age diagnosed: Muscular dystrophy",
   "description": "",
   "type": "numeric",
   "units": "years",

@@ -1,6 +1,6 @@
 {
   "id": "bpage",
-  "display_name": "Age Diagnosed High Blood Pressure",
+  "display_name": "Age diagnosed high blood pressure",
   "description": "",
   "type": "numeric",
   "units": "years",

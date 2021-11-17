@@ -1,6 +1,6 @@
 {
   "id": "il6am_orig",
-  "display_name": "Interleukin 6 levels - AM reading",
+  "display_name": "Interleukin-6 levels - AM reading",
   "description": "",
   "type": "numeric",
   "units": "picograms per milliliter"

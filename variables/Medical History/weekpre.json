@@ -1,6 +1,6 @@
 {
   "id": "weekpre",
-  "display_name": "How many weeks early were you born?",
+  "display_name": "How many weeks early were you born",
   "description": "",
   "type": "numeric",
   "units": "weeks",

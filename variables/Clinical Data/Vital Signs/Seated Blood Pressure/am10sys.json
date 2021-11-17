@@ -1,6 +1,6 @@
 {
   "id": "am10sys",
-  "display_name": "10 AM Systolic",
+  "display_name": "10 AM: Systolic",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury"

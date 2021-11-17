@@ -1,6 +1,6 @@
 {
   "id": "parkdiag",
-  "display_name": "Physician-diagnosed Parkinsons Disease",
+  "display_name": "Physician-diagnosed: Parkinson's disease",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

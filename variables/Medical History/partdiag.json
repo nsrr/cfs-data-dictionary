@@ -1,6 +1,6 @@
 {
   "id": "partdiag",
-  "display_name": "Physician-diagnosed Peripheral Artery Disease of Claudication of the Legs",
+  "display_name": "Physician-diagnosed: Peripheral artery disease or claudication of the legs",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

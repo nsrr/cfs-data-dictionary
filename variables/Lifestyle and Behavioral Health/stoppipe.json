@@ -1,6 +1,6 @@
 {
   "id": "stoppipe",
-  "display_name": "Age stop smoking Pipes",
+  "display_name": "Age stop smoking pipes",
   "description": "",
   "type": "numeric",
   "units": "years",

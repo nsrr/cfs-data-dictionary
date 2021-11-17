@@ -1,6 +1,6 @@
 {
   "id": "runexer",
-  "display_name": "Past year time spent running (10 minutes/mile or faster)?",
+  "display_name": "Past year time spent running (10 minutes/mile or faster)",
   "description": "",
   "type": "choices",
   "domain": "exercise_time",

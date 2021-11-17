@@ -1,6 +1,6 @@
 {
   "id": "chrcough",
-  "display_name": "Did you usually cough on most days for three (3) consecutive months or more during the year?",
+  "display_name": "Did you usually cough on most days for three (3) consecutive months or more during the year",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

@@ -1,6 +1,6 @@
 {
   "id": "ibuprday",
-  "display_name": "How many days per week do you take ibuprofen?",
+  "display_name": "How many days per week do you take ibuprofen",
   "description": "",
   "type": "choices",
   "domain": "daysperweek",

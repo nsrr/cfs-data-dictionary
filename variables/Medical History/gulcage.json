@@ -1,6 +1,6 @@
 {
   "id": "gulcage",
-  "display_name": "Age Diagnose Duodenal Ulcer",
+  "display_name": "Age diagnosed: Gastric or duodenal ulcer",
   "description": "",
   "type": "numeric",
   "units": "years",

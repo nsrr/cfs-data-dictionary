@@ -1,6 +1,6 @@
 {
   "id": "empage",
-  "display_name": "Age Diagnosed Emphysema",
+  "display_name": "Age diagnosed: Emphysema",
   "description": "",
   "type": "numeric",
   "units": "years",

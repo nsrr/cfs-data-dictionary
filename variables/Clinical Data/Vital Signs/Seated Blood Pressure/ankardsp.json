@@ -1,6 +1,6 @@
 {
   "id": "ankardsp",
-  "display_name": "Doppler Systolic Pressure",
+  "display_name": "Doppler systolic pressure",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury"

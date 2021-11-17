@@ -1,6 +1,6 @@
 {
   "id": "hayage",
-  "display_name": "Age Diagnosed Hay Fever",
+  "display_name": "Age diagnosed: Hay fever",
   "description": "",
   "type": "numeric",
   "units": "years",

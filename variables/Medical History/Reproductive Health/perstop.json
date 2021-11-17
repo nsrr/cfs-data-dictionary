@@ -1,6 +1,6 @@
 {
   "id": "perstop",
-  "display_name": "Have your periods stopped permanently?",
+  "display_name": "Have your periods stopped permanently",
   "description": "Yes includes participants who have post-menopausal periods induced by hormones",
   "type": "choices",
   "domain": "noyesdk_2",

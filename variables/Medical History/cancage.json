@@ -1,6 +1,6 @@
 {
   "id": "cancage",
-  "display_name": "Age Diagnosed: Cancer",
+  "display_name": "Age diagnosed: cancer",
   "description": "",
   "type": "numeric",
   "units": "years",

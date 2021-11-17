@@ -1,6 +1,6 @@
 {
   "id": "nostairs",
-  "display_name": "How many flights of stairs do you climb daily?",
+  "display_name": "How many flights of stairs do you climb daily",
   "description": "",
   "type": "choices",
   "domain": "stairs",

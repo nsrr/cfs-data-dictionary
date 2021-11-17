@@ -1,6 +1,6 @@
 {
   "id": "natural",
-  "display_name": " natural periods stop",
+  "display_name": "Natural periods stopped",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

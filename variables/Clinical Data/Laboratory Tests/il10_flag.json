@@ -1,6 +1,6 @@
 {
   "id": "il10_flag",
-  "display_name": "Interleukin 10 levels, test for normal levels",
+  "display_name": "Interleukin-10 levels, test for normal levels",
   "description": "",
   "type": "choices",
   "domain": "bloodflag"

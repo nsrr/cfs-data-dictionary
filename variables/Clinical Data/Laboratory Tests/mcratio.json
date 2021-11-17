@@ -1,6 +1,6 @@
 {
   "id": "mcratio",
-  "display_name": "Microalbumin-Creatinine ratio",
+  "display_name": "Microalbumin-creatinine ratio",
   "description": "",
   "type": "numeric",
   "units": "micrograms to milligrams"

@@ -1,6 +1,6 @@
 {
   "id": "rheuage",
-  "display_name": "Age Diagnosed Rheumatoid Arthritis",
+  "display_name": "Age diagnosed: Rheumatoid arthritis",
   "description": "",
   "type": "numeric",
   "units": "years",

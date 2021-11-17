@@ -1,6 +1,6 @@
 {
   "id": "bypasage",
-  "display_name": "Age Diagnosed Coronary Bypass",
+  "display_name": "Age diagnosed coronary bypass",
   "description": "",
   "type": "numeric",
   "units": "years",

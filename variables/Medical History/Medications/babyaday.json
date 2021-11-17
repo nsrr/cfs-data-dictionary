@@ -1,6 +1,6 @@
 {
   "id": "babyaday",
-  "display_name": "How many days per week do you take baby aspirin?",
+  "display_name": "How many days per week do you take baby aspirin",
   "description": "",
   "type": "choices",
   "domain": "daysperweek",

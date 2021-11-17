@@ -1,6 +1,6 @@
 {
   "id": "crohage",
-  "display_name": "Age Diagnosed Colitis/Crohn's",
+  "display_name": "Age diagnosed colitis/Crohn's",
   "description": "",
   "type": "numeric",
   "units": "years",

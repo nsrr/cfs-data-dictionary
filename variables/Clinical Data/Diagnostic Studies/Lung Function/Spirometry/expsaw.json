@@ -1,6 +1,6 @@
 {
   "id": "expsaw",
-  "display_name": "Spirometry:  expiratory sawtooth pattern",
+  "display_name": "Spirometry: Expiratory sawtooth pattern",
   "description": "",
   "type": "choices",
   "domain": "noyes01"

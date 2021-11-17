@@ -1,6 +1,6 @@
 {
   "id": "cbal",
-  "display_name": "Core Biochemical Assay Lab ID Number",
+  "display_name": "Core biochemical assay lab ID number",
   "description": "",
   "type": "identifier"
 }

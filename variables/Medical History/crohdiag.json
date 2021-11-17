@@ -1,6 +1,6 @@
 {
   "id": "crohdiag",
-  "display_name": "Physician-diagnosed Ulcerative Colitis/Crohns",
+  "display_name": "Physician-diagnosed ulcerative colitis/Crohns",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

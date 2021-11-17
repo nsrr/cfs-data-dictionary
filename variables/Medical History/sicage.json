@@ -1,6 +1,6 @@
 {
   "id": "sicage",
-  "display_name": "Age Diagnose Sickle Cell Disease",
+  "display_name": "Age diagnosed: Sickle cell disease",
   "description": "",
   "type": "numeric",
   "units": "years",

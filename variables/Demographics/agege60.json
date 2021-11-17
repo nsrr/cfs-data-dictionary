@@ -1,6 +1,6 @@
 {
   "id": "agege60",
-  "display_name": "Age greater than or equal to 60?",
+  "display_name": "Age greater than or equal to 60",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

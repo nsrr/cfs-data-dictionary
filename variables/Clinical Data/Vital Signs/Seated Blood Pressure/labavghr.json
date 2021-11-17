@@ -1,6 +1,6 @@
 {
   "id": "labavghr",
-  "display_name": "Mean lab Heart Rate",
+  "display_name": "Mean lab heart rate",
   "description": "",
   "type": "numeric",
   "units": "beats per minute"

@@ -1,6 +1,6 @@
 {
   "id": "livediag",
-  "display_name": "Liver Disease",
+  "display_name": "Liver disease",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

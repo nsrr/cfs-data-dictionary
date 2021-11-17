@@ -1,6 +1,6 @@
 {
   "id": "wheexer",
-  "display_name": "Do you wheeze when exercising?",
+  "display_name": "Do you wheeze when exercising",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

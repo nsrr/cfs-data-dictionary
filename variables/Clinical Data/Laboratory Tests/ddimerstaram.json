@@ -1,6 +1,6 @@
 {
   "id": "ddimerstaram",
-  "display_name": "D-Dimer levels - AM reading (Star reading)",
+  "display_name": "D-Dimer levels - AM reading (STAR reading)",
   "description": "",
   "type": "numeric",
   "units": "nanograms per milliliter"

@@ -1,6 +1,6 @@
 {
   "id": "goutage",
-  "display_name": "Age Diagnosed Gout",
+  "display_name": "Age diagnosed: Gout",
   "description": "",
   "type": "numeric",
   "units": "years",

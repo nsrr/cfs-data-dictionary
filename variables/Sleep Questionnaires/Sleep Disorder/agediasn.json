@@ -1,6 +1,6 @@
 {
   "id": "agediasn",
-  "display_name": "Age Diagnosed Loud/Disruptive Snoring",
+  "display_name": "Age diagnosed: Loud or diisruptive snoring",
   "description": "",
   "type": "numeric",
   "units": "years",

@@ -1,6 +1,6 @@
 {
   "id": "daynite",
-  "display_name": "Wheeze most days or nights?",
+  "display_name": "Wheeze most days or nights",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

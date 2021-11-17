@@ -1,6 +1,6 @@
 {
   "id": "haydiag",
-  "display_name": "Physician-diagnosed Hay Fever",
+  "display_name": "Physician-diagnosed: Hay fever",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

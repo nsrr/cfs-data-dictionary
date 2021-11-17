@@ -1,6 +1,6 @@
 {
   "id": "stroage",
-  "display_name": "Age Diagnosed Stroke (CVA)",
+  "display_name": "Age diagnosed: Stroke (CVA)",
   "description": "",
   "type": "numeric",
   "units": "years",

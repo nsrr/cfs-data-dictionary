@@ -1,6 +1,6 @@
 {
   "id": "tricep1",
-  "display_name": "tricep skinfold 1",
+  "display_name": "Tricep skinfold 1",
   "description": "",
   "type": "numeric",
   "units": "millimeters"

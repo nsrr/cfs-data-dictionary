@@ -1,6 +1,6 @@
 {
   "id": "msclage",
-  "display_name": "Age Diagnosed Multiple Sclerosis",
+  "display_name": "Age diagnosed: Multiple sclerosis",
   "description": "",
   "type": "numeric",
   "units": "years",

@@ -1,6 +1,6 @@
 {
   "id": "pollens",
-  "display_name": "Wheeze when exposed to pollens?",
+  "display_name": "Wheeze when exposed to pollens",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

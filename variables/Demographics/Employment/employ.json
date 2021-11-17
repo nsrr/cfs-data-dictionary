@@ -1,7 +1,7 @@
 {
   "id": "employ",
-  "display_name": "What is your current employment status?",
-  "description": "",
+  "display_name": "Current employment status",
+  "description": "What is your current employment status?",
   "type": "choices",
   "domain": "employment",
   "labels": [

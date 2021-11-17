@@ -1,6 +1,6 @@
 {
   "id": "agediale",
-  "display_name": "Age Diagnosed Restless Legs or PLMs",
+  "display_name": "Age diagnosed: Restless legs or PLMs",
   "description": "",
   "type": "numeric",
   "units": "years",

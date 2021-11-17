@@ -1,6 +1,6 @@
 {
   "id": "liverage",
-  "display_name": "Age Diagnosed Liver Disease",
+  "display_name": "Age diagnosed: Liver disease",
   "description": "",
   "type": "numeric",
   "units": "years",

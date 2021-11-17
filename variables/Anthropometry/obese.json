@@ -1,6 +1,6 @@
 {
   "id": "obese",
-  "display_name": "Obese (BMI greater than 30)?",
+  "display_name": "Obese (BMI greater than 30)",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

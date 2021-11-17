@@ -1,6 +1,6 @@
 {
   "id": "angage",
-  "display_name": "Age Diagnosed Chest Pain from a heart condition",
+  "display_name": "Age diagnosed chest pain from a heart condition",
   "description": "",
   "type": "numeric",
   "units": "years",

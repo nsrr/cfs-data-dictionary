@@ -1,6 +1,6 @@
 {
   "id": "thyage",
-  "display_name": "Age Diagnosed Thyroid Disease",
+  "display_name": "Age diagnosed: Thyroid disease",
   "description": "",
   "type": "numeric",
   "units": "years",

@@ -1,6 +1,6 @@
 {
   "id": "nowcigs",
-  "display_name": "How many Cigars per day now?",
+  "display_name": "How many cigars per day now",
   "description": "",
   "type": "numeric",
   "units": "cigars",

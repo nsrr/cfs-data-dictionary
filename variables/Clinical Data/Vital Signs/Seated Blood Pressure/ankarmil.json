@@ -1,6 +1,6 @@
 {
   "id": "ankarmil",
-  "display_name": "Maximal Inflation Level",
+  "display_name": "Maximal inflation level",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury"

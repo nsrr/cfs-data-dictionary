@@ -1,6 +1,6 @@
 {
   "id": "rheudiag",
-  "display_name": "Physician-diagnosed Rheumatoid Arthritis",
+  "display_name": "Physician-diagnosed: Rheumatoid arthritis",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

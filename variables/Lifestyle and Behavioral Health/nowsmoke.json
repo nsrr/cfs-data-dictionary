@@ -1,6 +1,6 @@
 {
   "id": "nowsmoke",
-  "display_name": "How many cigarettes do you currently smoke each day?",
+  "display_name": "How many cigarettes do you currently smoke each day",
   "description": "",
   "type": "numeric",
   "units": "cigarettes per day",

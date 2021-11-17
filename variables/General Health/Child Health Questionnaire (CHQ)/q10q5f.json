@@ -1,6 +1,6 @@
 {
   "id": "q10q5f",
-  "display_name": "Have you ever been told by a teacher, school official, doctor, nurse or other health professional that your child has chronic orthopedic, bone, or joint problems?",
+  "display_name": "Have you ever been told by a teacher, school official, doctor, nurse or other health professional that your child has chronic orthopedic, bone, or joint problems",
   "description": "Item from the Child Health Questionnaire Parent Form 50 Questions (CHQ-PF50). [Asmussen L et al, 2000 (PubMed ID: 11029320)](https://pubmed.ncbi.nlm.nih.gov/11029320/)<br><br>[Search for all CHQ-PF50 variables within this dataset](https://sleepdata.org/datasets/cfs/variables?search=chqpf50)",
   "type": "choices",
   "domain": "yesno12",

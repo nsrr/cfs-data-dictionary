@@ -1,6 +1,6 @@
 {
   "id": "sideside",
-  "display_name": "Head Measurement - side to side",
+  "display_name": "Head measurement - side to side",
   "description": "",
   "type": "numeric",
   "units": "centimeters",

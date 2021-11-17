@@ -1,6 +1,6 @@
 {
   "id": "eczdiag",
-  "display_name": "Physician-diagnosed Eczema",
+  "display_name": "Physician-diagnosed: Eczema",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

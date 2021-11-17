@@ -1,6 +1,6 @@
 {
   "id": "dianarc",
-  "display_name": "Physician-diagnosed Narcolepsy",
+  "display_name": "Physician-diagnosed: Narcolepsy",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

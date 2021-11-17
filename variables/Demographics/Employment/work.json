@@ -1,7 +1,7 @@
 {
   "id": "work",
-  "display_name": "Have you ever worked outside the home",
-  "description": "",
+  "display_name": "Ever worked outside the home",
+  "description": "Have you ever worked outside the home",
   "type": "choices",
   "domain": "noyes01",
   "labels": [

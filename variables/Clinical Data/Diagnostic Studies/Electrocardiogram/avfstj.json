@@ -1,6 +1,6 @@
 {
   "id": "avfstj",
-  "display_name": "AVF: Amplitude of the S-T wave at the J-point",
+  "display_name": "aVF Lead: Amplitude of the S-T wave at the J-point",
   "description": "",
   "type": "numeric"
 }

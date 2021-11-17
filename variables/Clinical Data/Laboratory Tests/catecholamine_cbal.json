@@ -1,6 +1,6 @@
 {
   "id": "catecholamine_cbal",
-  "display_name": "Catecholamine Assay: Core Biochemical Assay Lab ID Number",
+  "display_name": "Catecholamine Assay: Core biochemical assay lab ID number",
   "description": "",
   "type": "identifier"
 }

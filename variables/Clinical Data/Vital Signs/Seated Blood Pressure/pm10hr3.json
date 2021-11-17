@@ -1,6 +1,6 @@
 {
   "id": "pm10hr3",
-  "display_name": "10 PM - Heart Rate 3",
+  "display_name": "10 PM: Heart Rate 3",
   "description": "",
   "type": "numeric",
   "units": "beats per minute",

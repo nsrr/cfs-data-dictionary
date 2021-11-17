@@ -1,6 +1,6 @@
 {
   "id": "adddiag",
-  "display_name": "Physician-diagnosed Attention Deficit Disorder",
+  "display_name": "Physician-diagnosed attention deficit disorder",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

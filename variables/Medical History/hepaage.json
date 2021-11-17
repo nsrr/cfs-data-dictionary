@@ -1,6 +1,6 @@
 {
   "id": "hepaage",
-  "display_name": "Age Diagnosed Hepatitis",
+  "display_name": "Age diagnosed: Hepatitis",
   "description": "",
   "type": "numeric",
   "units": "years",

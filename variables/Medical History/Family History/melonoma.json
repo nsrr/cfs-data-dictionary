@@ -1,6 +1,6 @@
 {
   "id": "melonoma",
-  "display_name": "Any biological relatives had Melanoma",
+  "display_name": "Any biological relatives had melanoma",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

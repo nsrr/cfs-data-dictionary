@@ -1,7 +1,7 @@
 {
   "id": "livearra",
-  "display_name": "What are your living arrangements?",
-  "description": "",
+  "display_name": "Current living arrangements",
+  "description": "What are your living arrangements?",
   "type": "choices",
   "domain": "roommates",
   "labels": [

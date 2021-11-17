@@ -1,6 +1,6 @@
 {
   "id": "pef",
-  "display_name": "Spirometry:  peak expiratory flow",
+  "display_name": "Spirometry: Peak expiratory flow",
   "description": "",
   "type": "numeric"
 }

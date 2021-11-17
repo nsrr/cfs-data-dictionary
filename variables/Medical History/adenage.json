@@ -1,6 +1,6 @@
 {
   "id": "adenage",
-  "display_name": "Age Diagnosed Adenoidectomy",
+  "display_name": "Age diagnosed adenoidectomy",
   "description": "",
   "type": "numeric",
   "units": "years",

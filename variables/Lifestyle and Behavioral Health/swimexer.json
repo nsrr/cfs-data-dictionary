@@ -1,6 +1,6 @@
 {
   "id": "swimexer",
-  "display_name": "Past year time spent lap swimming?",
+  "display_name": "Past year time spent lap swimming",
   "description": "",
   "type": "choices",
   "domain": "exercise_time",

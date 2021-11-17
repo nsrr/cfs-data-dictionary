@@ -1,6 +1,6 @@
 {
   "id": "hepadiag",
-  "display_name": "Physician-diagnosed Hepatitis",
+  "display_name": "Physician-diagnosed: Hepatitis",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

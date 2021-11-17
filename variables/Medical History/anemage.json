@@ -1,6 +1,6 @@
 {
   "id": "anemage",
-  "display_name": "Age Diagnosed Anemia",
+  "display_name": "Age diagnosed anemia",
   "description": "",
   "type": "numeric",
   "units": "years",

@@ -1,6 +1,6 @@
 {
   "id": "depage",
-  "display_name": "Age Diagnosed Depression",
+  "display_name": "Age diagnosed depression",
   "description": "",
   "type": "numeric",
   "units": "years",

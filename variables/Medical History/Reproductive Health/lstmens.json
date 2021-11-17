@@ -1,6 +1,6 @@
 {
   "id": "lstmens",
-  "display_name": "When was your last period?",
+  "display_name": "When was your last period",
   "description": "",
   "type": "choices",
   "domain": "menstr_17",

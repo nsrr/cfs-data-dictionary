@@ -1,6 +1,6 @@
 {
   "id": "il10",
-  "display_name": "Interleukin 10 levels",
+  "display_name": "Interleukin-10 levels",
   "description": "",
   "type": "numeric",
   "units": "picograms per milliliter"

@@ -1,6 +1,6 @@
 {
   "id": "avlsa",
-  "display_name": "aVL: Absolute amplitude of the S wave (Left arm)",
+  "display_name": "aVL Lead: Absolute amplitude of the S wave (Left arm)",
   "description": "",
   "type": "numeric",
   "units": "millimeters"

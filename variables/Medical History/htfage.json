@@ -1,6 +1,6 @@
 {
   "id": "htfage",
-  "display_name": "Age Diagnosed Congestive Heart Failure",
+  "display_name": "Age diagnosed: Congestive heart failure",
   "description": "",
   "type": "numeric",
   "units": "years",

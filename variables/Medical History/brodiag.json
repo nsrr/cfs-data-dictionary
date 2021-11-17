@@ -1,6 +1,6 @@
 {
   "id": "brodiag",
-  "display_name": "Physician-diagnosed Chronic Bronchitis",
+  "display_name": "Physician-diagnosed chronic bronchitis",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

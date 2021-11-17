@@ -1,6 +1,6 @@
 {
   "id": "osmcdiag",
-  "display_name": "Physician-diagnosed Other Significant Medical Condition",
+  "display_name": "Physician-diagnosed: Other significant medical condition",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

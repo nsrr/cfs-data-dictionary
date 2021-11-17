@@ -1,6 +1,6 @@
 {
   "id": "folicacd",
-  "display_name": "Do you take Folic Acid?",
+  "display_name": "Do you take folic acid?",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

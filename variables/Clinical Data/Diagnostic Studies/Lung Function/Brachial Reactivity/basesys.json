@@ -1,6 +1,6 @@
 {
   "id": "basesys",
-  "display_name": "Baseline 2D Image BP systolic",
+  "display_name": "Baseline 2D image BP systolic",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury"

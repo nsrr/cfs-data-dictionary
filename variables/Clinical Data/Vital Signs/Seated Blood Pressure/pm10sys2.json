@@ -1,6 +1,6 @@
 {
   "id": "pm10sys2",
-  "display_name": "10 PM - Systolic 2",
+  "display_name": "10 PM: Systolic 2",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury",

@@ -1,6 +1,6 @@
 {
   "id": "il6pm",
-  "display_name": "Interleukin 6 levels - PM reading",
+  "display_name": "Interleukin-6 levels - PM reading",
   "description": "24 values were inserted by using the ceiling and floor reference values",
   "type": "numeric",
   "units": "picograms per milliliter"

@@ -1,6 +1,6 @@
 {
   "id": "diaprob",
-  "display_name": "Problems with Diastolic BP measures",
+  "display_name": "Problems with diastolic BP measures",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

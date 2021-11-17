@@ -1,7 +1,7 @@
 {
   "id": "rotnite",
-  "display_name": "Do you do rotating night shift work?",
-  "description": "",
+  "display_name": "Rotating night shift work",
+  "description": "Do you do rotating night shift work?",
   "type": "choices",
   "domain": "noyes01",
   "labels": [

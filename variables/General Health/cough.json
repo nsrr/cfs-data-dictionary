@@ -1,6 +1,6 @@
 {
   "id": "cough",
-  "display_name": "Did you usually have a cough?",
+  "display_name": "Did you usually have a cough",
   "description": "",
   "type": "choices",
   "domain": "noyesdk_2",

@@ -1,6 +1,6 @@
 {
   "id": "premprop",
-  "display_name": "Ever use Prempro (pink):",
+  "display_name": "Ever use Prempro (pink)",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

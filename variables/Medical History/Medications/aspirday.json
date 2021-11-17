@@ -1,6 +1,6 @@
 {
   "id": "aspirday",
-  "display_name": "How many days per week do you take aspirin?",
+  "display_name": "How many days per week do you take aspirin",
   "description": "",
   "type": "choices",
   "domain": "daysperweek",
