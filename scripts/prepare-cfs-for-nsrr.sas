@@ -14,7 +14,7 @@
   %include "&newfamilypath\nsrr-prep\sleepepi-sas-macros.sas";
   libname nsrrdata "&newfamilypath\nsrr-prep\_datasets";
   libname obf "&newfamilypath\nsrr-prep\_ids";
-  %let release = 0.6.0.pre;
+  %let release = 0.6.0;
 
 ********************************************************;
 * Import CFS data
@@ -705,7 +705,7 @@ data cfs_visit5_harmonized;
   set alldata_obfclean_all_final;
   *create rectype variable for Spout to use for graph generation;
     rectype = 5;
-*demographics
+*demographics;
 *age;
 *use age;
   format nsrr_age 8.2;
@@ -739,7 +739,7 @@ data cfs_visit5_harmonized;
     else if ethnicity = '00' then nsrr_ethnicity = 'not hispanic or latino';
   else if ethnicity = '.' then nsrr_ethnicity = 'not reported';
 
-*anthropometry
+*anthropometry;
 *bmi;
 *use bmi;
   format nsrr_bmi 10.9;
@@ -756,10 +756,13 @@ data cfs_visit5_harmonized;
   format nsrr_bp_diastolic 8.2;
   nsrr_bp_diastolic = dbp;
 
-*lifestyle and behavioral health
+*lifestyle and behavioral health;
 *current_smoker;
 *use monsmoke and nowsmoke;
   format nsrr_current_smoker $100.;
+*set nsrr_current_smoker = yes if never smoked;
+  if smoked = 0 then nsrr_current_smoker = 'no';
+  else do;
 *if monsmoke=1 and nowsmoke>0 then nsrr_current_smoker = yes;
   if monsmoke = 1 && nowsmoke gt 0 then nsrr_current_smoker = 'yes';
 *if nowsmoke is missing or <0 use monsmoke to determine nsrr_current_smoker;
@@ -772,6 +775,7 @@ data cfs_visit5_harmonized;
   if monsmoke = '.' && nowsmoke le 0 then nsrr_current_smoker = 'no';
 *if monsmoke and nowsmoke both missing then nsrr_current_smoker = not reported;
   if nowsmoke = '.' && monsmoke = '.' then nsrr_current_smoker = 'not reported';
+  end;
 
 
 
@@ -858,7 +862,7 @@ run;
   %mend lowcase;
 
   %lowcase(alldata_obfclean_all_final);
-  %lowercase(cfs_visit5_harmonized);
+  %lowcase(cfs_visit5_harmonized);
 
 *export final dataset;
 proc export data=alldata_obfclean_all_final

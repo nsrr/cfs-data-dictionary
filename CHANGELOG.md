@@ -1,8 +1,9 @@
-## 0.6.0
+## 0.6.0 (November 18, 2021)
 
 - Create 'harmonized' dataset with key variables
+- Update many display names and variable metadata for clarity
 - The CSV datasets generated from a SAS export is located here:
-  - `\\rfawin\bwh-sleepepi-cfs\nsrr-prep\_releases\0.6.0.pre\`
+  - `\\rfawin\bwh-sleepepi-cfs\nsrr-prep\_releases\0.6.0\`
 
 ## 0.5.0 (November 18, 2019)
 
