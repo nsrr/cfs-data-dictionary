@@ -1,3 +1,11 @@
+## 0.7.0 
+
+- Create 'harmonized' dataset with key polysomnography variables
+- Revise race related variables
+- The CSV datasets generated from a SAS export is located here:
+  - `\\rfawin\bwh-sleepepi-cfs\nsrr-prep\_releases\0.7.0\`
+
+
 ## 0.6.0 (November 18, 2021)
 
 - Create 'harmonized' dataset with key variables

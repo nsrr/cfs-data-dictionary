@@ -14,7 +14,7 @@
   %include "&newfamilypath\nsrr-prep\sleepepi-sas-macros.sas";
   libname nsrrdata "&newfamilypath\nsrr-prep\_datasets";
   libname obf "&newfamilypath\nsrr-prep\_ids";
-  %let release = 0.6.0;
+  %let release = 0.7.0.pre;
 
 ********************************************************;
 * Import CFS data
@@ -786,6 +786,45 @@ data cfs_visit5_harmonized;
   else if smoked = 0 then nsrr_ever_smoker = 'no';
   else if smoked = . then nsrr_ever_smoker = 'not reported';
 
+*polysomnography;
+*nsrr_ahi_hp3u;
+*use ahi_a0h3;
+  format nsrr_ahi_hp3u 8.2;
+  nsrr_ahi_hp3u = ahi_a0h3;
+
+*nsrr_ahi_hp3r_aasm15;
+*use ahi_a0h3a;
+  format nsrr_ahi_hp3r_aasm15 8.2;
+  nsrr_ahi_hp3r_aasm15 = ahi_a0h3a;
+ 
+*nsrr_ahi_hp4u_aasm15;
+*use ahi_a0h4;
+  format nsrr_ahi_hp4u_aasm15 8.2;
+  nsrr_ahi_hp4u_aasm15 = ahi_a0h4;
+  
+*nsrr_ahi_hp4r;
+*use ahi_a0h4a;
+  format nsrr_ahi_hp4r 8.2;
+  nsrr_ahi_hp4r = ahi_a0h4a;
+ 
+*nsrr_ttldursp_f1;
+*use slpprdp;
+  format nsrr_ttldursp_f1 8.2;
+  nsrr_ttldursp_f1 = slpprdp;
+  
+*nsrr_phrnumar_f1;
+*use ai_all;
+  format nsrr_phrnumar_f1 8.2;
+  nsrr_phrnumar_f1 = ai_all;  
+
+*nsrr_flag_spsw;
+*use slewake;
+  format nsrr_flag_spsw $100.;
+    if slewake = 1 then nsrr_flag_spsw = 'sleep/wake only';
+    else if slewake = 0 then nsrr_flag_spsw = 'full scoring';
+    else if slewake = 8 then nsrr_flag_spsw = 'unknown';
+  else if slewake = . then nsrr_flag_spsw = 'unknown';  
+  
   keep 
     nsrrid
     rectype
@@ -799,6 +838,13 @@ data cfs_visit5_harmonized;
     nsrr_bp_diastolic
     nsrr_current_smoker
     nsrr_ever_smoker
+	nsrr_ahi_hp3u
+	nsrr_ahi_hp3r_aasm07
+	nsrr_ahi_hp4u
+	nsrr_ahi_hp4r
+	nsrr_ttldursp_f1
+	nsrr_phrnumar_f1
+	nsrr_flag_spsw
     ;
 run;
 
@@ -812,7 +858,14 @@ proc means data=cfs_visit5_harmonized;
 VAR   nsrr_age
     nsrr_bmi
     nsrr_bp_systolic
-    nsrr_bp_diastolic;
+    nsrr_bp_diastolic
+	nsrr_ahi_hp3u
+	nsrr_ahi_hp3r_aasm07
+	nsrr_ahi_hp4u
+	nsrr_ahi_hp4r
+	nsrr_ttldursp_f1
+	nsrr_phrnumar_f1
+	;
 run;
 
 
@@ -820,7 +873,13 @@ proc univariate data=cfs_visit5_harmonized;
    var nsrr_age
     nsrr_bmi
     nsrr_bp_systolic
-    nsrr_bp_diastolic;
+    nsrr_bp_diastolic
+	nsrr_ahi_hp3u
+	nsrr_ahi_hp3r_aasm07
+	nsrr_ahi_hp4u
+	nsrr_ahi_hp4r
+	nsrr_ttldursp_f1
+	nsrr_phrnumar_f1;
    histogram;
 run;
 
@@ -832,7 +891,8 @@ table   nsrr_age_gt89
     nsrr_race
     nsrr_ethnicity
     nsrr_current_smoker
-    nsrr_ever_smoker;
+    nsrr_ever_smoker
+	nsrr_flag_spsw;
 run;
 
 proc freq data=alldata_obfclean_all_final;
