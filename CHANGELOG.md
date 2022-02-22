@@ -1,6 +1,7 @@
 ## 0.7.0
 
 - Revise race-related variables (remove `race_old`; change 3rd category for `race`)
+- Recode many PSG signal quality variables (Not Applicable to No)
 - The CSV datasets generated from a SAS export is located here:
   - `\\rfawin\bwh-sleepepi-cfs\nsrr-prep\_releases\0.7.0.pre\`
 

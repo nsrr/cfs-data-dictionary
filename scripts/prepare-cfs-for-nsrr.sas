@@ -695,6 +695,18 @@ data alldata_obfclean_all_final;
   *remove impossible value on SF36 item;
   if mosq4a = 3 then mosq4a = .;
 
+  *recode signal quality variables - make "Not Applicable" into "No";
+  array sigqual[*] hrov150 hrund30 oxyund70 ahiov50 recafsle recbeaw 
+    losbeg losend losdur period abnoreeg abnoreye alpdel arunrel csbre 
+    lagbreath losbeg losdur losend maxresou otherou rdi0ou recafsle 
+    recbeaw remarunrel remnrempr slewake stg1stg2pr stg2stg3pr 
+    unustgou wakslepr;
+
+  do i = 1 to dim(sigqual);
+    if sigqual[i] = 8 then sigqual[i] = 0;
+  end;
+  drop i;
+
   drop 
     &manual_json_droplist 
     &other_reason_droplist 
@@ -703,6 +715,14 @@ data alldata_obfclean_all_final;
     ed1psg2
     medalert;
 run;
+
+/*
+
+proc freq data=alldata_obfclean_all_final;
+  table hrov150 wakslepr;
+run;
+
+*/
 
 *******************************************************************************;
 * create harmonized datasets ;
