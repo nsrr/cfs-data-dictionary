@@ -1,5 +1,9 @@
 ## 0.7.0
 
+- Revise race-related variables (remove `race_old`; change 3rd category for `race`)
+- The CSV datasets generated from a SAS export is located here:
+  - `\\rfawin\bwh-sleepepi-cfs\nsrr-prep\_releases\0.7.0.pre\`
+
 ## 0.6.0 (November 18, 2021)
 
 - Create 'harmonized' dataset with key variables

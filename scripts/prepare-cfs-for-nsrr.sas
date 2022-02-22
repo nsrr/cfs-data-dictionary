@@ -695,7 +695,13 @@ data alldata_obfclean_all_final;
   *remove impossible value on SF36 item;
   if mosq4a = 3 then mosq4a = .;
 
-  drop &manual_json_droplist &other_reason_droplist &family_medical_history_vars obf_pptid;
+  drop 
+    &manual_json_droplist 
+    &other_reason_droplist 
+    &family_medical_history_vars 
+    obf_pptid race_old
+    ed1psg2
+    medalert;
 run;
 
 *******************************************************************************;
@@ -729,7 +735,7 @@ data cfs_visit5_harmonized;
     format nsrr_race $100.;
     if race = '01' then nsrr_race = 'white';
     else if race = '02' then nsrr_race = 'black or african american';
-    else if race = '03' then nsrr_race = 'other';
+    else if race = '03' then nsrr_race = 'multiple';
   else if race = '.' then nsrr_race = 'not reported';
 
 *ethnicity;
