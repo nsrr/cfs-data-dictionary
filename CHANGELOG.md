@@ -1,10 +1,10 @@
-## 0.7.0
+## 0.7.0 (March 1, 2022)
 
-- Create 'harmonized' dataset with key polysomnography variables
+- Create 'harmonized' dataset with key polysomnography variables (nsrr_*)
 - Revise race-related variables (remove `race_old`; change 3rd category for `race`)
 - Recode many PSG signal quality variables (Not Applicable to No)
 - The CSV datasets generated from a SAS export is located here:
-  - `\\rfawin\bwh-sleepepi-cfs\nsrr-prep\_releases\0.7.0.pre\`
+  - `\\rfawin\bwh-sleepepi-cfs\nsrr-prep\_releases\0.7.0\`
 
 
 ## 0.6.0 (November 18, 2021)
