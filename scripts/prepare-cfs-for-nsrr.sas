@@ -706,6 +706,11 @@ data alldata_obfclean_all_final;
     if sigqual[i] = 8 then sigqual[i] = 0;
   end;
   drop i;
+  
+  * set ladder <0 to missing;
+  if ladder lt 0 then ladder =.;
+  else if ladder ge 0 then ladder = ladder;
+   
 
   drop 
     &manual_json_droplist 
@@ -865,8 +870,8 @@ data cfs_visit5_harmonized;
     nsrr_current_smoker
     nsrr_ever_smoker
 	nsrr_ahi_hp3u
-	nsrr_ahi_hp3r_aasm07
-	nsrr_ahi_hp4u
+	nsrr_ahi_hp3r_aasm15
+	nsrr_ahi_hp4u_aasm15
 	nsrr_ahi_hp4r
 	nsrr_ttldursp_f1
 	nsrr_phrnumar_f1
@@ -886,8 +891,8 @@ VAR   nsrr_age
     nsrr_bp_systolic
     nsrr_bp_diastolic
 	nsrr_ahi_hp3u
-	nsrr_ahi_hp3r_aasm07
-	nsrr_ahi_hp4u
+	nsrr_ahi_hp3r_aasm15
+	nsrr_ahi_hp4u_aasm15
 	nsrr_ahi_hp4r
 	nsrr_ttldursp_f1
 	nsrr_phrnumar_f1
@@ -901,8 +906,8 @@ proc univariate data=cfs_visit5_harmonized;
     nsrr_bp_systolic
     nsrr_bp_diastolic
 	nsrr_ahi_hp3u
-	nsrr_ahi_hp3r_aasm07
-	nsrr_ahi_hp4u
+	nsrr_ahi_hp3r_aasm15
+	nsrr_ahi_hp4u_aasm15
 	nsrr_ahi_hp4r
 	nsrr_ttldursp_f1
 	nsrr_phrnumar_f1;
