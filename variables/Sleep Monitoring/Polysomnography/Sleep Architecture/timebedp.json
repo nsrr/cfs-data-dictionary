@@ -6,6 +6,7 @@
   "units": "minutes",
   "labels": [
     "time_bed",
-    "ttlprdbd_f1t1"
+    "ttlprdbd_f1t1",
+    "tib"
   ]
 }

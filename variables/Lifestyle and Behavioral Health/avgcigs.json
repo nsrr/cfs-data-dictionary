@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "cigars per day",
   "labels": [
-    "cfs_lab_adult_child_questionnaire"
+    "cfs_lab_adult_child_questionnaire",
+    "smoking"
   ],
   "forms": [
     "baseline_lab_adult_child_questionnaire"

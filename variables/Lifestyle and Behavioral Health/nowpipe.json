@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "bowls",
   "labels": [
-    "cfs_lab_adult_child_questionnaire"
+    "cfs_lab_adult_child_questionnaire",
+    "smoking"
   ],
   "forms": [
     "baseline_lab_adult_child_questionnaire"

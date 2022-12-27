@@ -1,10 +1,10 @@
 {
   "id": "aptdur",
-  "display_name": "Total duration of mixed apnea from type I polysomnography",
+  "display_name": "Total duration of all central and obstructive apneas from type I polysomnography",
   "description": "Total duration of mixed apnea (entire recording)",
   "type": "numeric",
   "units": "minutes",
   "labels": [
-    "ttldurma_sc_f1t1"
+    "ttldurap_ca0uoa0u_f1t1"
   ]
 }
