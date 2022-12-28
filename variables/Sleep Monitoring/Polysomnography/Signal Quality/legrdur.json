@@ -3,5 +3,8 @@
   "display_name": "Hours of usable legR",
   "description": "Hours of usable R leg",
   "type": "numeric",
-  "units": "hours"
+  "units": "hours",
+  "forms": [
+    "cfs_family_qs_form_annotated"
+  ]
 }

@@ -6,5 +6,8 @@
   "domain": "yesnon",
   "labels": [
     "RDI0Ou"
+  ],
+  "forms": [
+    "cfs_family_qs_form_annotated"
   ]
 }

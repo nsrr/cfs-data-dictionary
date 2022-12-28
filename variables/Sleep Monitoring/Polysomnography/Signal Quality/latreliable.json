@@ -6,5 +6,8 @@
   "domain": "latrel",
   "labels": [
     "latreliable"
+  ],
+  "forms": [
+    "cfs_family_qs_form_annotated"
   ]
 }

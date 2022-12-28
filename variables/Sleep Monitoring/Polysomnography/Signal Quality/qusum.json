@@ -3,5 +3,8 @@
   "display_name": "Quality of SUM",
   "description": "Quality of SUM channel",
   "type": "choices",
-  "domain": "signalofsleeptime"
+  "domain": "signalofsleeptime",
+  "forms": [
+    "cfs_family_qs_form_annotated"
+  ]
 }

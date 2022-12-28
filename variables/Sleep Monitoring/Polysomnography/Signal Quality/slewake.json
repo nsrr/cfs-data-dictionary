@@ -6,5 +6,8 @@
   "domain": "noyes01",
   "labels": [
     "SleWake"
+  ],
+  "forms": [
+    "cfs_family_qs_form_annotated"
   ]
 }

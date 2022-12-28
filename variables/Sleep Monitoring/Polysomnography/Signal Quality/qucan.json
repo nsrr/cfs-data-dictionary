@@ -6,5 +6,8 @@
   "domain": "sigqus2",
   "labels": [
     "QuAir"
+  ],
+  "forms": [
+    "cfs_family_qs_form_annotated"
   ]
 }

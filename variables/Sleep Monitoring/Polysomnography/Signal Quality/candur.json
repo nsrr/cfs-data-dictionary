@@ -6,5 +6,8 @@
   "units": "hour",
   "labels": [
     "candur"
+  ],
+  "forms": [
+    "cfs_family_qs_form_annotated"
   ]
 }

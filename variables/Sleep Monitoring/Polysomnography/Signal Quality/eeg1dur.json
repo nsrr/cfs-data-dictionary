@@ -6,5 +6,9 @@
   "units": "hour",
   "labels": [
     "EEG1dur"
+  ],
+  "forms": [
+    "cfs_family_qs_form_annotated"
   ]
+
 }
