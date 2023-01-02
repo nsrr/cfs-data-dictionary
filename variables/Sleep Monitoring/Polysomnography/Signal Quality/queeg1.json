@@ -6,5 +6,8 @@
   "domain": "sigqus2",
   "labels": [
     "QuEEG1"
+  ],
+  "forms": [
+    "cfs_qs_annotated"
   ]
 }

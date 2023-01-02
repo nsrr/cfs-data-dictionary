@@ -6,5 +6,8 @@
   "domain": "yesnon",
   "labels": [
     "HRund30"
+  ],
+  "forms": [
+    "cfs_qs_annotated"
   ]
 }

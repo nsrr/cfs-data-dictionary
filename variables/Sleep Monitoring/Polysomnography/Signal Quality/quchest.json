@@ -6,5 +6,8 @@
   "domain": "sigqus2",
   "labels": [
     "QuChest"
+  ],
+  "forms": [
+    "cfs_qs_annotated"
   ]
 }

@@ -6,5 +6,8 @@
   "units": "hour",
   "labels": [
     "EEG2dur"
+  ],
+  "forms": [
+    "cfs_qs_annotated"
   ]
 }

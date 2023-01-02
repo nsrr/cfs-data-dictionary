@@ -6,5 +6,8 @@
   "units": "hour",
   "labels": [
     "EOGRdur"
+  ],
+  "forms": [
+    "cfs_qs_annotated"
   ]
 }

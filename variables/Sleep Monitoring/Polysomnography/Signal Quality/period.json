@@ -6,5 +6,8 @@
   "domain": "yesnon",
   "labels": [
     "cfs_lab_physiology_questionnaire"
+  ],
+  "forms": [
+    "cfs_qs_annotated"
   ]
 }

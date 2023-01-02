@@ -6,5 +6,8 @@
   "domain": "yesnon",
   "labels": [
     "ArUnrel"
+  ],
+  "forms": [
+    "cfs_qs_annotated"
   ]
 }

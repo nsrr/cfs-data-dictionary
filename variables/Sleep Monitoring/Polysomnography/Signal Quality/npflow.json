@@ -3,5 +3,8 @@
   "display_name": "Flow Limitation >10% of sleep time",
   "description": "",
   "type": "choices",
-  "domain": "yesnon"
+  "domain": "yesnon",
+  "forms": [
+    "cfs_qs_annotated"
+  ]
 }
