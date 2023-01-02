@@ -2,6 +2,7 @@
 
 - Add harmonized sleep architecture variables
 - Update metadata for a few sleep architecture variables
+- Add annotated PSG QS form
 - The CSV datasets generated from a SAS export is located here:
   - `\\rfawin\bwh-sleepepi-cfs\nsrr-prep\_releases\0.8.0\`
   
