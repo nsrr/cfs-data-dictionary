@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "noyesdk_2",
   "labels": [
-    "cfs_lab_adult_child_questionnaire"
+    "cfs_lab_adult_child_questionnaire",
+    "osa",
+    "sdb"
   ],
   "forms": [
     "baseline_lab_adult_child_questionnaire"

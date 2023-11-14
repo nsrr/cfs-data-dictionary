@@ -7,7 +7,7 @@
   "calculation": "( ( avsao2nh ) * ( timest1p + timest2p + times34p ) + ( avsao2rh ) * ( timeremp ) ) / 100",
   "labels": [
     "saoslp",
-    "avglvlsa_su_f1t1"
+    "avglvlsa_sp_f1t1"
   ],
   "commonly_used": true
 }

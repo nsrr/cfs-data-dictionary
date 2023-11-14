@@ -5,7 +5,8 @@
   "type": "numeric",
   "labels": [
     "fosq",
-    "fosq_activityscore"
+    "fosq_activityscore",
+    "sleep_related_impairment"
   ],
   "commonly_used": true,
   "forms": [

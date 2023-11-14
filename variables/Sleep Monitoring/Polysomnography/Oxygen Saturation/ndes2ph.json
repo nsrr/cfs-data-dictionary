@@ -5,6 +5,6 @@
   "type": "numeric",
   "units": "oxygen desaturation events",
   "labels": [
-    "ttlnumds_dsge2_f1t1"
+    "ttlnumds_sp_dsge2_f1t1"
   ]
 }

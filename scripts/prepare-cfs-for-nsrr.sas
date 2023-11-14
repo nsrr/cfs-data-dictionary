@@ -718,7 +718,11 @@ data alldata_obfclean_all_final;
     &family_medical_history_vars 
     obf_pptid race_old
     ed1psg2
-    medalert;
+    medalert
+	lmtot /*unclear metadata, use lmslp instead */
+	plmctot /*unclear metadata, use plmcslp instead*/
+	plmtot /*unclear metadata, use plmslp instead*/
+	;
 run;
 
 /*
@@ -838,10 +842,10 @@ data cfs_visit5_harmonized;
   format nsrr_ahi_hp4r 8.2;
   nsrr_ahi_hp4r = ahi_a0h4a;
  
-*nsrr_ttldursp_f1;
+*nsrr_tst_f1;
 *use slpprdp;
-  format nsrr_ttldursp_f1 8.2;
-  nsrr_ttldursp_f1 = slpprdp;
+  format nsrr_tst_f1 8.2;
+  nsrr_tst_f1 = slpprdp;
   
 *nsrr_phrnumar_f1;
 *use ai_all;
@@ -876,10 +880,10 @@ data cfs_visit5_harmonized;
   format nsrr_ttldursp_s1sr 8.2;
   nsrr_ttldursp_s1sr = remlaiip; 
 
-*nsrr_ttldurws_f1;
+*nsrr_waso_f1;
 *use waso;
-  format nsrr_ttldurws_f1 8.2;
-  nsrr_ttldurws_f1 = waso;
+  format nsrr_waso_f1 8.2;
+  nsrr_waso_f1 = waso;
   
 *nsrr_pctdursp_s1;
 *use timest1p;
@@ -901,10 +905,10 @@ data cfs_visit5_harmonized;
   format nsrr_pctdursp_sr 8.2;
   nsrr_pctdursp_sr = timeremp;
 
-*nsrr_ttlprdbd_f1;
+*nsrr_tib_f1;
 *use timebedp;
-  format nsrr_ttlprdbd_f1 8.2;
-  nsrr_ttlprdbd_f1 = timebedp;
+  format nsrr_tib_f1 8.2;
+  nsrr_tib_f1 = timebedp;
   
   keep 
     nsrrid
@@ -923,19 +927,19 @@ data cfs_visit5_harmonized;
 	nsrr_ahi_hp3r_aasm15
 	nsrr_ahi_hp4u_aasm15
 	nsrr_ahi_hp4r
-	nsrr_ttldursp_f1
+	nsrr_tst_f1
 	nsrr_phrnumar_f1
 	nsrr_flag_spsw
 	nsrr_ttleffsp_f1
 	nsrr_ttllatsp_f1
 	nsrr_ttlprdsp_s1sr
 	nsrr_ttldursp_s1sr
-	nsrr_ttldurws_f1
+	nsrr_waso_f1
 	nsrr_pctdursp_s1
 	nsrr_pctdursp_s2
 	nsrr_pctdursp_s3
 	nsrr_pctdursp_sr
-	nsrr_ttlprdbd_f1
+	nsrr_tib_f1
     ;
 run;
 
@@ -954,18 +958,18 @@ VAR   nsrr_age
 	nsrr_ahi_hp3r_aasm15
 	nsrr_ahi_hp4u_aasm15
 	nsrr_ahi_hp4r
-	nsrr_ttldursp_f1
+	nsrr_tst_f1
 	nsrr_phrnumar_f1
 	nsrr_ttleffsp_f1
 	nsrr_ttllatsp_f1
 	nsrr_ttlprdsp_s1sr
 	nsrr_ttldursp_s1sr
-	nsrr_ttldurws_f1
+	nsrr_waso_f1
 	nsrr_pctdursp_s1
 	nsrr_pctdursp_s2
 	nsrr_pctdursp_s3
 	nsrr_pctdursp_sr
-	nsrr_ttlprdbd_f1
+	nsrr_tib_f1
 	;
 run;
 
@@ -979,18 +983,18 @@ proc univariate data=cfs_visit5_harmonized;
 	nsrr_ahi_hp3r_aasm15
 	nsrr_ahi_hp4u_aasm15
 	nsrr_ahi_hp4r
-	nsrr_ttldursp_f1
+	nsrr_tst_f1
 	nsrr_phrnumar_f1
 	nsrr_ttleffsp_f1
 	nsrr_ttllatsp_f1
 	nsrr_ttlprdsp_s1sr
 	nsrr_ttldursp_s1sr
-	nsrr_ttldurws_f1
+	nsrr_waso_f1
 	nsrr_pctdursp_s1
 	nsrr_pctdursp_s2
 	nsrr_pctdursp_s3
 	nsrr_pctdursp_sr
-	nsrr_ttlprdbd_f1;
+	nsrr_tib_f1;
    histogram;
 run;
 

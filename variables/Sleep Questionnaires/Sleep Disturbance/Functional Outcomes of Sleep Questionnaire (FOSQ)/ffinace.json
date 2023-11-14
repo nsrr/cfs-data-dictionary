@@ -6,7 +6,8 @@
   "domain": "fosq_main",
   "labels": [
     "fosq",
-    "fosq_09finance"
+    "fosq_09finance",
+    "sleep_related_impairment"
   ],
   "forms": [
     "functional_outcomes_of_sleep_questionnaire"

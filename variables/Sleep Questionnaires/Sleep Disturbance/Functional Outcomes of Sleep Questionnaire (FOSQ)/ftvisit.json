@@ -6,7 +6,8 @@
   "domain": "fosq_main",
   "labels": [
     "fosq",
-    "fosq_13away"
+    "fosq_13away",
+    "sleep_related_impairment"
   ],
   "forms": [
     "functional_outcomes_of_sleep_questionnaire"

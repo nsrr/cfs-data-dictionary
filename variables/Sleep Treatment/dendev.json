@@ -5,7 +5,10 @@
   "type": "choices",
   "domain": "noyesdk_2",
   "labels": [
-    "cfs_lab_adult_child_questionnaire"
+    "cfs_lab_adult_child_questionnaire",
+    "sleep_treatment",
+    "sdb",
+    "osa"
   ],
   "forms": [
     "baseline_lab_adult_child_questionnaire"

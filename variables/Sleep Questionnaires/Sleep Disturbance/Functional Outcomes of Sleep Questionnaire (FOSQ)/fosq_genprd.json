@@ -5,7 +5,8 @@
   "type": "numeric",
   "labels": [
     "fosq",
-    "fosq_genproscore"
+    "fosq_genproscore",
+    "sleep_related_impairment"
   ],
   "commonly_used": true,
   "forms": [

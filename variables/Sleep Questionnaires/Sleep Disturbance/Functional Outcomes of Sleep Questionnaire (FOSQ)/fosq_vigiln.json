@@ -5,7 +5,8 @@
   "type": "numeric",
   "labels": [
     "fosq",
-    "fosq_vigilancescore"
+    "fosq_vigilancescore",
+    "sleep_related_impairment"
   ],
   "commonly_used": true,
   "forms": [

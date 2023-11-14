@@ -6,7 +6,8 @@
   "domain": "fosq_main",
   "labels": [
     "fosq",
-    "fosq_08transport"
+    "fosq_08transport",
+    "sleep_related_impairment"
   ],
   "forms": [
     "functional_outcomes_of_sleep_questionnaire"

@@ -6,7 +6,8 @@
   "domain": "fosq_lowhigh",
   "labels": [
     "fosq",
-    "fosq_26active"
+    "fosq_26active",
+    "sleep_related_impairment"
   ],
   "forms": [
     "functional_outcomes_of_sleep_questionnaire"
