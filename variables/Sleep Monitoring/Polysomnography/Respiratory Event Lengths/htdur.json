@@ -3,7 +3,7 @@
   "display_name": "Total duration of hypopnea from type I polysomnography",
   "description": "Total duration of hypopnea (entire recording)",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "ttldurhp_sc_f1t1"
   ]

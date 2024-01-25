@@ -3,7 +3,7 @@
   "display_name": "Percentage duration of sleep in supine position from type I polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "percent",
+  "units": "percent (%)",
   "calculation": "100 * ( remepbp + nremepbp ) / slpprdp",
   "labels": [
     "pctdursp_pb_f1t1"

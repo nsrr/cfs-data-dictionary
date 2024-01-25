@@ -3,7 +3,7 @@
   "display_name": "Total number of periodic limb movement clusters from type I polysomnography",
   "description": "Total PLM clusters",
   "type": "numeric",
-  "units": "limb movements",
+  "units": "number of events",
   "labels": [
     "ttlnumpc_f1t1"
   ]

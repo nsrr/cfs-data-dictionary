@@ -3,7 +3,7 @@
   "display_name": "Calculated sleep duration on all days",
   "description": "",
   "type": "numeric",
-  "units": "hours",
+  "units": "hours (hr)",
   "labels": [
     "cfs_lab_adult_child_questionnaire",
     "sleep_duration"

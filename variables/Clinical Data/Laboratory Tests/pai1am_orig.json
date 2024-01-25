@@ -3,5 +3,5 @@
   "display_name": "Plasminogen activation inhibitor-1 levels - AM reading",
   "description": "",
   "type": "numeric",
-  "units": "nanograms per milliliter"
+  "units": "nanograms per milliliter (ng/mL)"
 }

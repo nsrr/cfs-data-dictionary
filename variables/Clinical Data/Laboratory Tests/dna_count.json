@@ -3,5 +3,5 @@
   "display_name": "Estimated number of times extracted",
   "description": "",
   "type": "numeric",
-  "units": "samples"
+  "units": "counts"
 }

@@ -3,5 +3,5 @@
   "display_name": "Interleukin-6 levels - AM reading",
   "description": "26 values were inserted by using the ceiling and floor reference values",
   "type": "numeric",
-  "units": "picograms per milliliter"
+  "units": "picograms per milliliter (pg/mL)"
 }

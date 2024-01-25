@@ -3,5 +3,5 @@
   "display_name": "Ghrelin levels - AM reading",
   "description": "",
   "type": "numeric",
-  "units": "picograms per milliliter"
+  "units": "picograms per milliliter (pg/mL)"
 }

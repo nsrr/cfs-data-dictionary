@@ -3,5 +3,5 @@
   "display_name": "Leptin levels - PM reading",
   "description": "44 values were inserted by using the ceiling and floor reference values",
   "type": "numeric",
-  "units": "nanograms per milliliter"
+  "units": "nanograms per milliliter (ng/mL)"
 }

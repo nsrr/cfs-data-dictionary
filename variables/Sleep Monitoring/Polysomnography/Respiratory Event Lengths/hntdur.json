@@ -3,7 +3,7 @@
   "display_name": "Total duration of hypopnea in NREM sleep from type I polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "ttldurhp_sn_f1t1"
   ]

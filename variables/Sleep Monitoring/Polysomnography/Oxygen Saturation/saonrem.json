@@ -3,7 +3,7 @@
   "display_name": "Average oxygen saturation in NREM sleep from type I polysomnography",
   "description": "Mean oxygen saturation during nonREM sleep",
   "type": "numeric",
-  "units": "percentage of oxygen saturation",
+  "units": "percent (%)",
   "labels": [
     "avglvlsa_sn_f1t1"
   ]

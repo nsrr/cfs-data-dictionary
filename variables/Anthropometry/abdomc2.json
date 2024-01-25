@@ -3,5 +3,5 @@
   "display_name": "Abdominal circumference 2",
   "description": "",
   "type": "numeric",
-  "units": "centimeters"
+  "units": "centimeters (cm)"
 }

@@ -3,5 +3,5 @@
   "display_name": "Volume of extracellular water",
   "description": "",
   "type": "numeric",
-  "units": "liters"
+  "units": "liters (L)"
 }

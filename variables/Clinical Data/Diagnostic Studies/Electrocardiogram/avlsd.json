@@ -3,5 +3,5 @@
   "display_name": "aVL Lead: Duration of the S wave (Left arm)",
   "description": "",
   "type": "numeric",
-  "units": "milliseconds"
+  "units": "milliseconds (ms)"
 }

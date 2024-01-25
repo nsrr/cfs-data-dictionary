@@ -3,7 +3,7 @@
   "display_name": "Minimum heart rate from type I polysomnography",
   "description": "Lowest heart rate (entire recording)",
   "type": "numeric",
-  "units": "beats per minute",
+  "units": "beats per minute (bpm)",
   "labels": [
     "minlvlhr_f1t1"
   ],

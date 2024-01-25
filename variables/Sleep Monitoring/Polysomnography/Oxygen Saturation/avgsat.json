@@ -3,7 +3,7 @@
   "display_name": "Average oxygen saturation in sleep from type I polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "percent",
+  "units": "percent (%)",
   "calculation": "( ( avsao2nh ) * ( timest1p + timest2p + times34p ) + ( avsao2rh ) * ( timeremp ) ) / 100",
   "labels": [
     "saoslp",

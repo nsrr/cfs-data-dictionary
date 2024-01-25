@@ -3,5 +3,5 @@
   "display_name": "V6: Duration of the R-wave",
   "description": "",
   "type": "numeric",
-  "units": "milliseconds"
+  "units": "milliseconds (ms)"
 }

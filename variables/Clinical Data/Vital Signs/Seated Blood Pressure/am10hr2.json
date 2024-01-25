@@ -3,7 +3,7 @@
   "display_name": "10 AM: Heart Rate 2",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury",
+  "units": "millimeters of mercury (mmHg)",
   "labels": [
     "cfs_nurse_notes"
   ]

@@ -3,7 +3,7 @@
   "display_name": "Average nadirs in NREM sleep from type I polysomnography",
   "description": "Mean oxygen saturation nadir in nonREM",
   "type": "numeric",
-  "units": "percentage of oxygen saturation",
+  "units": "percent (%)",
   "labels": [
     "avglvlnd_sn_f1t1"
   ]

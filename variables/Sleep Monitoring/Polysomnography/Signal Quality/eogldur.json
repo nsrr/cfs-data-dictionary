@@ -3,7 +3,7 @@
   "display_name": "PSG Quality Assessment: hours of usable EOG L",
   "description": "Number of hours of usable signal from left eye (EOG) lead as assessed by scorer.",
   "type": "numeric",
-  "units": "hour",
+  "units": "hours (hr)",
   "labels": [
     "EOGLdur"
   ]

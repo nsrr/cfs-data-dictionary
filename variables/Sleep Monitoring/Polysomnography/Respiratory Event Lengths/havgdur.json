@@ -3,7 +3,7 @@
   "display_name": "Average duration of hypopnea from type I polysomnography",
   "description": "Average duration of hypopnea (entire recording)",
   "type": "numeric",
-  "units": "seconds",
+  "units": "seconds (s)",
   "labels": [
     "avgdurhp_sc_f1t1"
   ],

@@ -3,5 +3,5 @@
   "display_name": "Total artifact time (Unscorable)",
   "description": "Total minutes of unscorable (artifact) data",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes (min)"
 }

@@ -3,5 +3,5 @@
   "display_name": "Dopamine levels",
   "description": "",
   "type": "numeric",
-  "units": "micrograms per deciliter"
+  "units": "micrograms per deciliter (ug/dL)"
 }

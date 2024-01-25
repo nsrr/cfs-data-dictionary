@@ -3,5 +3,5 @@
   "display_name": "Volume of best DNA sample",
   "description": "",
   "type": "numeric",
-  "units": "micrograms"
+  "units": "micrograms (ug)"
 }

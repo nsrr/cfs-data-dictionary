@@ -3,5 +3,5 @@
   "display_name": "V2: Absolute amplitude of the R-wave",
   "description": "",
   "type": "numeric",
-  "units": "millimeters"
+  "units": "millimeters (mm)"
 }

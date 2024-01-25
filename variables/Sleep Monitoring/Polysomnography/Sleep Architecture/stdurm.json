@@ -3,7 +3,7 @@
   "display_name": "Total period of recording from type I polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "ttlprdrd_f1t1"
   ]

@@ -3,5 +3,5 @@
   "display_name": "Log value: Interleukin-6 levels - AM reading",
   "description": "",
   "type": "numeric",
-  "units": "picograms per milliliter"
+  "units": "picograms per milliliter (pg/mL)"
 }

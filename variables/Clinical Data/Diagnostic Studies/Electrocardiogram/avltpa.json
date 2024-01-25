@@ -3,5 +3,5 @@
   "display_name": "aVL Lead: Maximum amplitude of the T-wave",
   "description": "",
   "type": "numeric",
-  "units": "millimeters"
+  "units": "millimeters (mm)"
 }

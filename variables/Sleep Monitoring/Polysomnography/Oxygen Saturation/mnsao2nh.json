@@ -3,7 +3,7 @@
   "display_name": "Minimum oxygen saturation in NREM sleep from type I polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "percent",
+  "units": "percent (%)",
   "labels": [
     "lowsaonr",
     "losao2nr",

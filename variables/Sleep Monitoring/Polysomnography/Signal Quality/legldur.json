@@ -3,5 +3,5 @@
   "display_name": "Hours of usable legL",
   "description": "Hours of usable L leg",
   "type": "numeric",
-  "units": "hours"
+  "units": "hours (hr)"
 }

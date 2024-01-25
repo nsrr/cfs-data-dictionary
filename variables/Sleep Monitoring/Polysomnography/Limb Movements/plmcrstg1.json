@@ -3,7 +3,7 @@
   "display_name": "Total number of periodic limb movement clusters in stage 1 sleep with respiratory event from type I polysomnography",
   "description": "Total PLM clusters with respiratory events stage 1 sleep",
   "type": "numeric",
-  "units": "limb movements",
+  "units": "number of events",
   "labels": [
     "ttlnumpc_s1st_f1t1"
   ]

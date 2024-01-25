@@ -3,7 +3,7 @@
   "display_name": "Number of oxygen desaturation per hour in REM sleep with oxygen desaturation >= 5% from type I polysomnography",
   "description": "Number of desaturations >= 5% per hour in REM sleep",
   "type": "numeric",
-  "units": "events per hour",
+  "units": "number of events per hour",
   "labels": [
     "phrnumds_sr_dsge5_f1t1"
   ]

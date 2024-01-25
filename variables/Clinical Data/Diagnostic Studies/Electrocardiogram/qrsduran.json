@@ -3,5 +3,5 @@
   "display_name": "QRS duration",
   "description": "",
   "type": "numeric",
-  "units": "milliseconds"
+  "units": "milliseconds (ms)"
 }

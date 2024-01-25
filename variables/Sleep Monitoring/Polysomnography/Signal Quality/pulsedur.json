@@ -3,5 +3,5 @@
   "display_name": "PSG Quality Assessment: hours of usable pulse",
   "description": "Number of hours of usable signal from pulse sensor as assessed by scorer.",
   "type": "numeric",
-  "units": "hour"
+  "units": "hours (hr)"
 }

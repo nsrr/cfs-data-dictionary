@@ -3,7 +3,7 @@
   "display_name": "Total duration of apnea and hypopnea in REM sleep in supine position from type I polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "ttldurah_srpb_f1t1"
   ]

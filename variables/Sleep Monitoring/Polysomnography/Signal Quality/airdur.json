@@ -3,7 +3,7 @@
   "display_name": "PSG Quality Assessment: hours of usable airflow",
   "description": "Number of hours of usable signal from airflow sensor (thermistor) as assessed by scorer.",
   "type": "numeric",
-  "units": "hour",
+  "units": "hours (hr)",
   "labels": [
     "Airdur"
   ]

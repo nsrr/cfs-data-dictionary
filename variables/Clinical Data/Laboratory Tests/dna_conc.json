@@ -3,5 +3,5 @@
   "display_name": "Concentration of best DNA sample",
   "description": "",
   "type": "numeric",
-  "units": "micrograms per microliter"
+  "units": "micrograms per microliter (ug/uL)"
 }

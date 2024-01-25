@@ -3,7 +3,7 @@
   "display_name": "Total number of arousal in NREM sleep in non-supine position from type I polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "arousals",
+  "units": "number of events",
   "labels": [
     "ttlnumar_snpo_f1t1"
   ]

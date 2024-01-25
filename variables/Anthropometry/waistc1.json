@@ -3,5 +3,5 @@
   "display_name": "Waist circumference 1",
   "description": "",
   "type": "numeric",
-  "units": "centimeters"
+  "units": "centimeters (cm)"
 }

@@ -3,7 +3,7 @@
   "display_name": "PSG Quality Assessment: hours of usable abdomen effort",
   "description": "Number of hours of usable signal from abdominal effort belt as assessed by scorer.",
   "type": "numeric",
-  "units": "hour",
+  "units": "hours (hr)",
   "labels": [
     "Abdodur"
   ]

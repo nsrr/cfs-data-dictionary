@@ -3,7 +3,7 @@
   "display_name": "Total number of periodic limb movements in sleep from type I polysomnography",
   "description": "Number of PLM during sleep",
   "type": "numeric",
-  "units": "limb movements",
+  "units": "number of events",
   "labels": [
     "ttlnumpl_su_f1t1"
   ],

@@ -3,7 +3,7 @@
   "display_name": "Total number of limb movements in stage 1 sleep from type I polysomnography",
   "description": "Total limb movements stage 1 sleep",
   "type": "numeric",
-  "units": "limb movements",
+  "units": "number of events",
   "labels": [
     "ttlnumlm_s1_f1t1"
   ]

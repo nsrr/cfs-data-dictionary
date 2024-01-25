@@ -3,7 +3,7 @@
   "display_name": "Total number of limb movements from type I polysomnography",
   "description": "Total limb movements",
   "type": "numeric",
-  "units": "limb movements",
+  "units": "number of events",
   "labels": [
     "ttlnumlm_f1t1"
   ]

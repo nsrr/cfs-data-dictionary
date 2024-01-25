@@ -3,7 +3,7 @@
   "display_name": "Total number of periodic limb movements in stage 3/4 sleep with respiratory event from type I polysomnography",
   "description": "Total PLMs with respiratory events in delta sleep",
   "type": "numeric",
-  "units": "limb movements",
+  "units": "number of events",
   "labels": [
     "ttlnumpl_s3st_f1t1"
   ]

@@ -3,5 +3,5 @@
   "display_name": "Hyperemia flow volume",
   "description": "",
   "type": "numeric",
-  "units": "milliliters"
+  "units": "milliliters (mL)"
 }

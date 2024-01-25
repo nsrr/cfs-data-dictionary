@@ -3,7 +3,7 @@
   "display_name": "Minimum oxygen saturation in NREM sleep from type I polysomnography",
   "description": "The minimum of all oxygen saturation values in epochs scored as stages other than REM (i.e., 1,2,3/4).",
   "type": "numeric",
-  "units": "percent",
+  "units": "percent (%)",
   "calculation": "mnsao2nh",
   "labels": [
     "lowsaonr",

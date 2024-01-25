@@ -3,5 +3,5 @@
   "display_name": "Log value: D-Dimer levels - AM reading",
   "description": "",
   "type": "numeric",
-  "units": "micrograms per milliliter"
+  "units": "micrograms per milliliter (ug/mL)"
 }

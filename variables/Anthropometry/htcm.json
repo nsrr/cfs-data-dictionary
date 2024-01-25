@@ -3,6 +3,6 @@
   "display_name": "Participant's height",
   "description": "",
   "type": "numeric",
-  "units": "centimeters",
+  "units": "centimeters (cm)",
   "commonly_used": true
 }

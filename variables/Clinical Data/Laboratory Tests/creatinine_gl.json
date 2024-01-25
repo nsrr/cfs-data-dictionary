@@ -3,5 +3,5 @@
   "display_name": "Creatinine levels",
   "description": "",
   "type": "numeric",
-  "units": "grams per liter"
+  "units": "grams per liter (g/L)"
 }

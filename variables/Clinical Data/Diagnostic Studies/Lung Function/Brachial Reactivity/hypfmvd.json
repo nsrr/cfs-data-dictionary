@@ -3,5 +3,5 @@
   "display_name": "FMV arterial diameter result",
   "description": "",
   "type": "numeric",
-  "units": "millimeters"
+  "units": "millimeters (mm)"
 }

@@ -3,7 +3,7 @@
   "display_name": "Number of arousal per hour in NREM sleep in non-supine position from type I polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "events per hour",
+  "units": "number of events per hour",
   "labels": [
     "phrnumar_snpo_f1t1"
   ]

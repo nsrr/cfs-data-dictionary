@@ -3,7 +3,7 @@
   "display_name": "PSG Quality Assessment: hours of usable EEG2",
   "description": "Number of hours of usable signal from EEG2 lead as assessed by scorer.",
   "type": "numeric",
-  "units": "hour",
+  "units": "hours (hr)",
   "labels": [
     "EEG2dur"
   ]

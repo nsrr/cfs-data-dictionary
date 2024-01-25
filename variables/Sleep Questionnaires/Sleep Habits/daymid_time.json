@@ -3,6 +3,7 @@
   "display_name": "Calculated mid-point of sleep period during weekday",
   "description": "",
   "type": "time",
+  "units": "H:mm",
   "labels": [
     "cfs_lab_adult_child_questionnaire",
     "sleep_timing"

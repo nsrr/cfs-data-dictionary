@@ -3,5 +3,5 @@
   "display_name": "Q-Tc interval",
   "description": "",
   "type": "numeric",
-  "units": "milliseconds"
+  "units": "milliseconds (ms)"
 }

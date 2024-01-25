@@ -3,5 +3,5 @@
   "display_name": "Doppler systolic pressure",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury"
+  "units": "millimeters of mercury (mmHg)"
 }

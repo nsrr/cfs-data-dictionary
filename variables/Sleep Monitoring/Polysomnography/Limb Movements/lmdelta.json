@@ -3,7 +3,7 @@
   "display_name": "Total number of limb movements in stage 3/4 sleep from type I polysomnography",
   "description": "Total limb movements in delta sleep",
   "type": "numeric",
-  "units": "limb movements",
+  "units": "number of events",
   "labels": [
     "ttlnumlm_s3_f1t1"
   ]

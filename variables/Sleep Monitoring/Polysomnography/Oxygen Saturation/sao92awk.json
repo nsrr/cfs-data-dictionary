@@ -3,7 +3,7 @@
   "display_name": "Total duration of wake time during sleep period with oxygen saturation > 92% from type I polysomnography",
   "description": "Total time oxygen saturation above 92% during wake, in minutes",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "ttldursp_sw_sagt92_f1t1"
   ]

@@ -3,7 +3,7 @@
   "display_name": "During the past 5 years, what is the difference between your highest and lowest weight (excluding illness)",
   "description": "",
   "type": "numeric",
-  "units": "pounds",
+  "units": "pounds (lb)",
   "labels": [
     "cfs_lab_adult_child_questionnaire"
   ],

@@ -3,7 +3,7 @@
   "display_name": "Maximum heart rate from type I polysomnography",
   "description": "Highest heart rate (entire recording)",
   "type": "numeric",
-  "units": "beats per minute",
+  "units": "beats per minute (bpm)",
   "labels": [
     "maxlvlhr_f1t1"
   ],

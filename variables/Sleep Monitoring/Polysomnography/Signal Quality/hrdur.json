@@ -3,7 +3,7 @@
   "display_name": "PSG Quality Assessment: hours of usable HR",
   "description": "Number of hours of usable signal from heart rate (ECG) leads as assessed by scorer.",
   "type": "numeric",
-  "units": "hour",
+  "units": "hours (hr)",
   "labels": [
     "HRdur"
   ]

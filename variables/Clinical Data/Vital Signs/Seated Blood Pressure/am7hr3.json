@@ -3,7 +3,7 @@
   "display_name": "7 AM: Heart Rate 3",
   "description": "",
   "type": "numeric",
-  "units": "beats per minute",
+  "units": "beats per minute (bpm)",
   "labels": [
     "cfs_nurse_notes"
   ]

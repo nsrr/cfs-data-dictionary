@@ -3,5 +3,5 @@
   "display_name": "Q-T interval",
   "description": "",
   "type": "numeric",
-  "units": "milliseconds"
+  "units": "milliseconds (ms)"
 }

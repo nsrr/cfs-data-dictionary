@@ -3,6 +3,6 @@
   "display_name": "C-reactive protein levels - difference between AM and PM draw",
   "description": "",
   "type": "numeric",
-  "units": "micrograms per milliliter",
+  "units": "micrograms per milliliter (ug/mL)",
   "calculation": "crppm - crpam"
 }

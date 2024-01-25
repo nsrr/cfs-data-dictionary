@@ -3,5 +3,5 @@
   "display_name": "Arterial diameter result",
   "description": "",
   "type": "numeric",
-  "units": "millimeters"
+  "units": "millimeters (mm)"
 }

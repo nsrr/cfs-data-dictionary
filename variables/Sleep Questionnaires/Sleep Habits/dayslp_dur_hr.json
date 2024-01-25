@@ -3,7 +3,7 @@
   "display_name": "Calculated sleep duration on weekdays",
   "description": "The difference between DAYSLP (self-reported sleep time) and DAYWAKE (self-reported wake time). The value will be missing if either DAYSLP or DAYWAKE are missing.",
   "type": "numeric",
-  "units": "hours",
+  "units": "hours (hr)",
   "labels": [
     "cfs_lab_adult_child_questionnaire",
     "sleep_duration"

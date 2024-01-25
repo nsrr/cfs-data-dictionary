@@ -3,5 +3,5 @@
   "display_name": "Tricep skinfold 1",
   "description": "",
   "type": "numeric",
-  "units": "millimeters"
+  "units": "millimeters (mm)"
 }

@@ -3,6 +3,7 @@
   "display_name": "Weekend wake time",
   "description": "Self-reported normal wake time on weekends",
   "type": "time",
+  "units": "H:mm",
   "labels": [
     "cfs_lab_adult_child_questionnaire",
     "sleep_timing"

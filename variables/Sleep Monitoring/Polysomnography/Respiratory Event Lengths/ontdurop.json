@@ -3,7 +3,7 @@
   "display_name": "Total duration of obstructive apnea in NREM sleep in non-supine position from type I polysomnography",
   "description": "Total duration of obstructive apnea in REM sleep with non-supine body position",
   "type": "numeric",
-  "units": "seconds",
+  "units": "seconds (s)",
   "labels": [
     "ttlduroa_snpo_f1t1"
   ]

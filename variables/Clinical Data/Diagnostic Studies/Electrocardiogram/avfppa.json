@@ -3,5 +3,5 @@
   "display_name": "aVF Lead: Maximum P wave amplitude",
   "description": "",
   "type": "numeric",
-  "units": "millimeters"
+  "units": "millimeters (mm)"
 }

@@ -3,7 +3,7 @@
   "display_name": "Total duration of obstructive apnea in NREM sleep from type I polysomnography",
   "description": "Total duration of obstructive apnea in NREM sleep",
   "type": "numeric",
-  "units": "seconds",
+  "units": "seconds (s)",
   "labels": [
     "ttlduroa_sn_f1t1"
   ]

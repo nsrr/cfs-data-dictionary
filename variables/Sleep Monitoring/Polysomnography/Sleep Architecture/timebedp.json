@@ -3,7 +3,7 @@
   "display_name": "Total period of bed (in-bed) from type I polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "time_bed",
     "ttlprdbd_f1t1"

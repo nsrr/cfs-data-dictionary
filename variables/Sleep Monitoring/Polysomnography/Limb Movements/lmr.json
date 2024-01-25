@@ -3,7 +3,7 @@
   "display_name": "Total number of limb movements with respiratory event from type I polysomnography",
   "description": "Total limb movements with respiratory events",
   "type": "numeric",
-  "units": "limb movements",
+  "units": "number of events",
   "labels": [
     "ttlnumlm_st_f1t1"
   ]

@@ -3,7 +3,7 @@
   "display_name": "Minimum nadirs: Central apneas with no oxygen desaturation threshold used and with or without arousal from type I polysomnography",
   "description": "Lowest oxygen saturation nadir associated with central apnea in sleep",
   "type": "numeric",
-  "units": "percentage of oxygen saturation",
+  "units": "percent (%)",
   "labels": [
     "minlvlnd_ca0u_f1t1"
   ]

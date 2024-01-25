@@ -3,7 +3,7 @@
   "display_name": "Minimum oxygen saturation in REM sleep from type I polysomnography",
   "description": "Lowest oxygen saturation during REM sleep",
   "type": "numeric",
-  "units": "percentage of oxygen saturation",
+  "units": "percent (%)",
   "labels": [
     "minlvlsa_sr_f1t1"
   ]

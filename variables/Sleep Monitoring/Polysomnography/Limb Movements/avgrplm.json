@@ -3,7 +3,7 @@
   "display_name": "Number of periodic limb movements per hour of REM sleep from type I polysomnography",
   "description": "Number of PLM per hour of REM sleep",
   "type": "numeric",
-  "units": "events per hour",
+  "units": "number of events per hour",
   "labels": [
     "phrnumpl_sr_f1t1"
   ],

@@ -3,5 +3,5 @@
   "display_name": "Hours of usable snore",
   "description": "",
   "type": "numeric",
-  "units": "hours"
+  "units": "hours (hr)"
 }

@@ -3,7 +3,7 @@
   "display_name": "7 AM: Systolic 1",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury",
+  "units": "millimeters of mercury (mmHg)",
   "labels": [
     "cfs_nurse_notes"
   ]

@@ -3,7 +3,7 @@
   "display_name": "Total duration of mixed apnea from type I polysomnography",
   "description": "Total duration of mixed apnea (entire recording)",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "ttldurma_sc_f1t1"
   ]

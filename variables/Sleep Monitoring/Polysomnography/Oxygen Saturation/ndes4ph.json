@@ -3,7 +3,7 @@
   "display_name": "Total number of oxygen desaturation with oxygen desaturation >= 4% from type I polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "oxygen desaturation events",
+  "units": "number of events",
   "labels": [
     "ttlnumds_dsge4_f1t1"
   ]

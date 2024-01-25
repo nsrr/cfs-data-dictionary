@@ -3,7 +3,7 @@
   "display_name": "Percentage of stage 2 sleep among total sleep duration from type I polysomnography",
   "description": "Conventionally, total sleep duration would be called total sleep time (TST).",
   "type": "numeric",
-  "units": "percent",
+  "units": "percent (%)",
   "calculation": "tmstg2p",
   "labels": [
     "tmstg2p",

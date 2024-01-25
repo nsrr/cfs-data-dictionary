@@ -3,7 +3,7 @@
   "display_name": "Total number of periodic limb movements in stage 2 sleep from type I polysomnography",
   "description": "Total PLMs stage 2 sleep",
   "type": "numeric",
-  "units": "limb movements",
+  "units": "number of events",
   "labels": [
     "ttlnumpl_s2_f1t1"
   ]

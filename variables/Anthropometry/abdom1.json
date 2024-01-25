@@ -3,5 +3,5 @@
   "display_name": "Abdominal skinfold 1",
   "description": "",
   "type": "numeric",
-  "units": "millimeters"
+  "units": "millimeters (mm)"
 }

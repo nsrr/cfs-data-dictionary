@@ -3,5 +3,5 @@
   "display_name": "V2: Amplitude of the S-T wave at the midpoint",
   "description": "",
   "type": "numeric",
-  "units": "millimeters"
+  "units": "millimeters (mm)"
 }

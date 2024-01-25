@@ -3,7 +3,7 @@
   "display_name": "Minimum nadirs in REM sleep from type I polysomnography",
   "description": "Lowest oxygen saturation nadir in REM sleep",
   "type": "numeric",
-  "units": "percentage of oxygen saturation",
+  "units": "percent (%)",
   "labels": [
     "minlvlnd_sr_f1t1"
   ]

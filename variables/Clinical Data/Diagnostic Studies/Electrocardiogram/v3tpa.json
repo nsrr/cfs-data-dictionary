@@ -3,5 +3,5 @@
   "display_name": "V3: Maximum amplitude of the T-wave",
   "description": "",
   "type": "numeric",
-  "units": "millimeters"
+  "units": "millimeters (mm)"
 }

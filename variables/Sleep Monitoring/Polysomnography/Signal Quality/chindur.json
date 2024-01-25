@@ -3,7 +3,7 @@
   "display_name": "PSG Quality Assessment: hours of usable chin",
   "description": "Number of hours of usable signal from chin (EMG) lead as assessed by scorer.",
   "type": "numeric",
-  "units": "hour",
+  "units": "hours (hr)",
   "labels": [
     "Chindur"
   ]

@@ -3,7 +3,7 @@
   "display_name": "Minimum heart rate in REM sleep in supine position with oxygen desaturation >= 3% from type I polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "beats per minute",
+  "units": "beats per minute (bpm)",
   "labels": [
     "minlvlhr_srpb_dsge3_f1t1"
   ]

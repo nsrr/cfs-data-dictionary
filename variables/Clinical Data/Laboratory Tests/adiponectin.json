@@ -3,5 +3,5 @@
   "display_name": "Adiponectin levels",
   "description": "",
   "type": "numeric",
-  "units": "milligrams per decaliter"
+  "units": "milligrams per deciliter (mg/dL)"
 }

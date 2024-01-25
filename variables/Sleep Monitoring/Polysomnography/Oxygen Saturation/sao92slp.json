@@ -3,7 +3,7 @@
   "display_name": "Total duration of sleep with oxygen saturation > 92% from type I polysomnography",
   "description": "Total time oxygen saturation above 92% during sleep, in minutes",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "ttldursp_su_sagt92_f1t1"
   ]

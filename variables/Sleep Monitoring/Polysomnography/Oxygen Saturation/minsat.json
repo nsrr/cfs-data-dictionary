@@ -3,7 +3,7 @@
   "display_name": "Minimum oxygen saturation from type I polysomnography",
   "description": "Lowest SaO2% during sleep",
   "type": "numeric",
-  "units": "percent",
+  "units": "percent (%)",
   "calculation": "min(losao2r,losao2nr)",
   "labels": [
     "lowsaoslp",

@@ -3,7 +3,7 @@
   "display_name": "Total duration of sleep in stage 3/4 sleep from type I polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "ttldursp_s3_f1t1"
   ]

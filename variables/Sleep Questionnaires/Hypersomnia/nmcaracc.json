@@ -3,7 +3,7 @@
   "display_name": "How many 'near miss' car accidents have you had due to sleepiness",
   "description": "",
   "type": "numeric",
-  "units": "events",
+  "units": "number of events",
   "labels": [
     "cfs_lab_adult_child_questionnaire",
     "subjective_sleepiness"

@@ -3,7 +3,7 @@
   "display_name": "How many weeks early were you born",
   "description": "",
   "type": "numeric",
-  "units": "weeks",
+  "units": "number of weeks",
   "labels": [
     "cfs_lab_adult_child_questionnaire"
   ],

@@ -3,5 +3,5 @@
   "display_name": "Mean hip circumference",
   "description": "",
   "type": "numeric",
-  "units": "centimeters"
+  "units": "centimeters (cm)"
 }

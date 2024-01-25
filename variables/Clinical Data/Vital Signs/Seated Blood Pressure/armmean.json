@@ -3,5 +3,5 @@
   "display_name": "Mean of arm blood pressure measurements",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury"
+  "units": "millimeters of mercury (mmHg)"
 }

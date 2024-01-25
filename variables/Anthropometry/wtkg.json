@@ -3,6 +3,6 @@
   "display_name": "Participant's weight",
   "description": "",
   "type": "numeric",
-  "units": "kilograms",
+  "units": "kilograms (kg)",
   "commonly_used": true
 }

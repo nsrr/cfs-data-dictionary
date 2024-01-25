@@ -3,6 +3,7 @@
   "display_name": "Weekend bedtime",
   "description": "Self-reported normal bedtime on weekends",
   "type": "time",
+  "units": "H:mm",
   "labels": [
     "cfs_lab_adult_child_questionnaire",
     "sleep_timing"

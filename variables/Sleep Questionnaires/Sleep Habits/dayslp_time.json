@@ -3,6 +3,7 @@
   "display_name": "Weekday bedtime",
   "description": "Self-reported normal bedtime on weekdays",
   "type": "time",
+  "units": "H:mm",
   "labels": [
     "cfs_lab_adult_child_questionnaire",
     "sleep_timing"

@@ -3,5 +3,5 @@
   "display_name": "Resistin levels",
   "description": "",
   "type": "numeric",
-  "units": "micrograms per liter"
+  "units": "micrograms per liter (ug/L)"
 }

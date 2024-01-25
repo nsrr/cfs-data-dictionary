@@ -3,7 +3,7 @@
   "display_name": "PSG Quality Assessment: hours of usable chest effort",
   "description": "Number of hours of usable signal from thoracic effort belt as assessed by scorer.",
   "type": "numeric",
-  "units": "hour",
+  "units": "hours (hr)",
   "labels": [
     "Chestdur"
   ]
